@@ -34,17 +34,31 @@ class QuestionBankTests(unittest.TestCase):
         q26 = next(q for q in self.bank if q['lesson_num'] == 1 and q['q_num'] == 26)
         self.assertNotEqual(q20['id'], q26['id'])
         self.assertNotEqual(q20['options'], q26['options'])
-        self.assertEqual(len(self.bank), 233)
+        self.assertEqual(len(self.bank), 255)
 
     def test_rebuild_is_deterministic_and_ids_are_unique(self):
         self.assertEqual((self.bank, self.report), build_bank())
-        self.assertEqual(len({q['id'] for q in self.bank}), 233)
+        self.assertEqual(len({q['id'] for q in self.bank}), 255)
 
     def test_no_duplicates_and_correct_distribution(self):
         self.assertEqual(validate_questions(self.bank), [])
-        self.assertEqual(self.report['lesson_counts'], {1: 41, 2: 40, 3: 41, 4: 45, 5: 39, 6: 27})
-        self.assertEqual(self.report['total'], 233)
+        self.assertEqual(self.report['lesson_counts'], {1: 41, 2: 41, 3: 46, 4: 47, 5: 53, 6: 27})
+        self.assertEqual(self.report['total'], 255)
+        self.assertEqual(self.report['tx_count'], 12)
         self.assertTrue(all('gia đình' in q['question'].lower() or q['type'] == 'true_false' or 'hôn nhân' in q['question'].lower() or 'Hằng ngày' in q['question'] or 'Quan điểm sau đây' in q['question'] or 'Tình yêu' in q['question'] for q in self.bank if q['lesson_num'] == 6))
+
+    def test_supplement_questions_from_bai6_doc_are_represented(self):
+        supp_questions = [q for q in self.bank if any(s['file'] == 'CNKHXH BAI6.docx' for s in q['sources'])]
+        self.assertEqual(len(supp_questions), 19)
+        self.assertEqual(sum(q['lesson_num'] == 3 for q in supp_questions), 5)
+        self.assertEqual(sum(q['lesson_num'] == 4 for q in supp_questions), 2)
+        self.assertEqual(sum(q['lesson_num'] == 5 for q in supp_questions), 12)
+
+    def test_tx_questions_are_represented_and_tagged(self):
+        tx_questions = [q for q in self.bank if q.get('is_thuong_xuyen')]
+        self.assertEqual(len(tx_questions), 12)
+        self.assertEqual(sum(q.get('test_group') == 'BÀI KIỂM TRA THƯỜNG XUYÊN 1' for q in tx_questions), 5)
+        self.assertEqual(sum(q.get('test_group') == 'BÀI KIỂM TRA THƯỜNG XUYÊN 2' for q in tx_questions), 7)
 
     def test_red_color_does_not_leak_between_options_in_one_paragraph(self):
         q = next(q for q in self.bank if q['lesson_num'] == 5 and q['q_num'] == 20)

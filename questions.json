@@ -853,6 +853,11 @@
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
         "question_number": 32,
         "body_index": 187
+      },
+      {
+        "file": "cac_cau_con_thieu_to_do.docx",
+        "question_number": 22,
+        "body_index": 2
       }
     ],
     "type": "single_choice",
@@ -870,7 +875,9 @@
     "body_index": 187,
     "lesson": "Bài 1",
     "q_num": 32,
-    "id": "q-b1-c32-187"
+    "id": "q-b1-c32-187",
+    "is_thuong_xuyen": true,
+    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 1"
   },
   {
     "lesson_num": 1,
@@ -1191,6 +1198,11 @@
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
         "question_number": 41,
         "body_index": 256
+      },
+      {
+        "file": "cac_cau_con_thieu_to_do.docx",
+        "question_number": 23,
+        "body_index": 5
       }
     ],
     "pairs": [
@@ -1218,7 +1230,9 @@
     "body_index": 256,
     "lesson": "Bài 1",
     "q_num": 41,
-    "id": "q-b1-c41-256"
+    "id": "q-b1-c41-256",
+    "is_thuong_xuyen": true,
+    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 1"
   },
   {
     "lesson_num": 2,
@@ -2335,6 +2349,11 @@
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
         "question_number": 39,
         "body_index": 539
+      },
+      {
+        "file": "cac_cau_con_thieu_to_do.docx",
+        "question_number": 26,
+        "body_index": 9
       }
     ],
     "type": "multiple_choice",
@@ -2353,7 +2372,9 @@
     "body_index": 539,
     "lesson": "Bài 2",
     "q_num": 39,
-    "id": "q-b2-c39-539"
+    "id": "q-b2-c39-539",
+    "is_thuong_xuyen": true,
+    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 1"
   },
   {
     "lesson_num": 2,
@@ -2382,6 +2403,35 @@
     "lesson": "Bài 2",
     "q_num": 40,
     "id": "q-b2-c40-547"
+  },
+  {
+    "lesson_num": 2,
+    "question": "Câu 41 [Gốc: Câu 27 trong cac_cau_con_thieu_to_do.docx]: (Bài 2): So sánh sự khác nhau giữa giai đoạn thấp và giai đoạn cao của hình thái kinh tế - xã hội cộng sản chủ nghĩa?",
+    "sources": [
+      {
+        "file": "cac_cau_con_thieu_to_do.docx",
+        "question_number": 27,
+        "body_index": 12
+      }
+    ],
+    "is_thuong_xuyen": true,
+    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 1",
+    "type": "single_choice",
+    "options": [
+      "A. Giai đoạn thấp thực hiện phân phối theo lao động, giai đoạn cao thực hiện phân phối theo nhu cầu",
+      "B. Giai đoạn thấp không có sự phân chia giai cấp",
+      "C. Giai đoạn thấp sử dụng pháp quyền tư sản",
+      "D. Giai đoạn thấp thực hiện phân phối theo nhu cầu, giai đoạn cao thực hiện phân phối theo lao động"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 27,
+    "body_index": 12,
+    "lesson": "Bài 2",
+    "q_num": 41,
+    "id": "q-b2-c41-tx12"
   },
   {
     "lesson_num": 3,
@@ -3233,6 +3283,11 @@
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
         "question_number": 32,
         "body_index": 782
+      },
+      {
+        "file": "cac_cau_con_thieu_to_do.docx",
+        "question_number": 30,
+        "body_index": 15
       }
     ],
     "type": "single_choice",
@@ -3250,7 +3305,9 @@
     "body_index": 782,
     "lesson": "Bài 3",
     "q_num": 32,
-    "id": "q-b3-c32-782"
+    "id": "q-b3-c32-782",
+    "is_thuong_xuyen": true,
+    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 1"
   },
   {
     "lesson_num": 3,
@@ -3589,6 +3646,141 @@
     "lesson": "Bài 3",
     "q_num": 41,
     "id": "q-b3-c41-861"
+  },
+  {
+    "lesson_num": 3,
+    "question": "Câu 42 [Gốc: Câu 20 trong CNKHXH BAI6.docx]: Luận điểm nào sau đây KHÔNG đúng khi so sánh nền dân chủ xã hội chủ nghĩa với nền dân chủ tư sản?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 20,
+        "body_index": 57
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Dựa trên chế độ công hữu về các tư liệu sản xuất chủ yếu của xã hội",
+      "B. Mang tính nhất nguyên về chính trị dưới sự lãnh đạo của Đảng Cộng sản",
+      "C. Là nền dân chủ thuần túy, hoàn toàn không mang tính giai cấp",
+      "D. Được thực hiện chủ yếu bằng công cụ Nhà nước pháp quyền xã hội chủ nghĩa"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 20,
+    "body_index": 57,
+    "lesson": "Bài 3",
+    "q_num": 42,
+    "id": "q-b3-c42-b6doc57"
+  },
+  {
+    "lesson_num": 3,
+    "question": "Câu 43 [Gốc: Câu 22 trong CNKHXH BAI6.docx]: Việc thực hiện chế độ công hữu về tư liệu sản xuất chủ yếu và phân phối lợi ích theo kết quả lao động là bản chất kinh tế của nền dân chủ nào?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 22,
+        "body_index": 63
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Nền dân chủ tư sản",
+      "B. Nền dân chủ chủ nô",
+      "C. Nền dân chủ xã hội chủ nghĩa",
+      "D. Nền dân chủ nguyên thủy"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 22,
+    "body_index": 63,
+    "lesson": "Bài 3",
+    "q_num": 43,
+    "id": "q-b3-c43-b6doc63"
+  },
+  {
+    "lesson_num": 3,
+    "question": "Câu 44 [Gốc: Câu 24 trong CNKHXH BAI6.docx]: Khác biệt căn bản về chất của Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam so với các nhà nước bóc lột trong lịch sử là gì?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 24,
+        "body_index": 69
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Chỉ đại diện duy nhất cho bộ phận giai cấp công nhân",
+      "B. Là nhà nước phi giai cấp, phi chính trị",
+      "C. Mang bản chất của giai cấp công nhân, tính nhân dân sâu sắc và tính dân tộc rộng rãi",
+      "D. Chỉ tập trung thực hiện chức năng trấn áp quân sự"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 24,
+    "body_index": 69,
+    "lesson": "Bài 3",
+    "q_num": 44,
+    "id": "q-b3-c44-b6doc69"
+  },
+  {
+    "lesson_num": 3,
+    "question": "Câu 45 [Gốc: Câu 25 trong CNKHXH BAI6.docx]: Hình thức dân chủ nào là hình thức mà nhân dân trực tiếp bày tỏ ý chí, trực tiếp tham gia quản lý nhà nước và xã hội?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 25,
+        "body_index": 72
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Dân chủ gián tiếp",
+      "B. Dân chủ đại diện",
+      "C. Dân chủ trực tiếp",
+      "D. Dân chủ ủy quyền"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 25,
+    "body_index": 72,
+    "lesson": "Bài 3",
+    "q_num": 45,
+    "id": "q-b3-c45-b6doc72"
+  },
+  {
+    "lesson_num": 3,
+    "question": "Câu 46 [Gốc: Câu 26 trong CNKHXH BAI6.docx]: Khẳng định nào sau đây về tổ chức quyền lực nhà nước ở Việt Nam là SAI?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 26,
+        "body_index": 75
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Bản chất dân chủ XHCN được thực hiện qua hình thức trực tiếp và gián tiếp",
+      "B. Quốc hội là cơ quan quyền lực nhà nước cao nhất hoạt động theo nhiệm kỳ 3 năm",
+      "C. Nhà nước Việt Nam là nhà nước của nhân dân, do nhân dân, vì nhân dân làm chủ",
+      "D. Trong hoạt động nhà nước có sự phân công, phối hợp và kiểm soát giữa các cơ quan quyền lực"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 26,
+    "body_index": 75,
+    "lesson": "Bài 3",
+    "q_num": 46,
+    "id": "q-b3-c46-b6doc75"
   },
   {
     "lesson_num": 4,
@@ -4167,6 +4359,11 @@
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
         "question_number": 22,
         "body_index": 1002
+      },
+      {
+        "file": "cac_cau_con_thieu_to_do.docx",
+        "question_number": 7,
+        "body_index": 23
       }
     ],
     "type": "single_choice",
@@ -4184,7 +4381,9 @@
     "body_index": 1002,
     "lesson": "Bài 4",
     "q_num": 22,
-    "id": "q-b4-c22-1002"
+    "id": "q-b4-c22-1002",
+    "is_thuong_xuyen": true,
+    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 2"
   },
   {
     "lesson_num": 4,
@@ -4356,6 +4555,11 @@
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
         "question_number": 29,
         "body_index": 1051
+      },
+      {
+        "file": "cac_cau_con_thieu_to_do.docx",
+        "question_number": 6,
+        "body_index": 20
       }
     ],
     "type": "single_choice",
@@ -4373,7 +4577,9 @@
     "body_index": 1051,
     "lesson": "Bài 4",
     "q_num": 29,
-    "id": "q-b4-c29-1051"
+    "id": "q-b4-c29-1051",
+    "is_thuong_xuyen": true,
+    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 2"
   },
   {
     "lesson_num": 4,
@@ -4878,6 +5084,11 @@
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
         "question_number": 7,
         "body_index": 1181
+      },
+      {
+        "file": "cac_cau_con_thieu_to_do.docx",
+        "question_number": 19,
+        "body_index": 29
       }
     ],
     "categories": [
@@ -4935,7 +5146,9 @@
     "body_index": 1181,
     "lesson": "Bài 4",
     "q_num": 44,
-    "id": "q-b4-c44-1181"
+    "id": "q-b4-c44-1181",
+    "is_thuong_xuyen": true,
+    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 2"
   },
   {
     "lesson_num": 4,
@@ -4945,6 +5158,11 @@
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
         "question_number": 45,
         "body_index": 1186
+      },
+      {
+        "file": "cac_cau_con_thieu_to_do.docx",
+        "question_number": 20,
+        "body_index": 39
       }
     ],
     "pairs": [
@@ -4977,7 +5195,63 @@
     "body_index": 1186,
     "lesson": "Bài 4",
     "q_num": 45,
-    "id": "q-b4-c45-1186"
+    "id": "q-b4-c45-1186",
+    "is_thuong_xuyen": true,
+    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 2"
+  },
+  {
+    "lesson_num": 4,
+    "question": "Câu 46 [Gốc: Câu 28 trong CNKHXH BAI6.docx]: Trong cơ cấu xã hội – giai cấp ở Việt Nam thời kỳ quá độ, đội ngũ trí thức giữ vai trò là lực lượng gì?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 28,
+        "body_index": 81
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Lực lượng sáng tạo đặc biệt",
+      "B. Lực lượng lãnh đạo sự nghiệp cách mạng",
+      "C. Lực lượng sản xuất nông nghiệp nòng cốt",
+      "D. Đội ngũ quản lý doanh nghiệp độc lập"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 28,
+    "body_index": 81,
+    "lesson": "Bài 4",
+    "q_num": 46,
+    "id": "q-b4-c46-b6doc81"
+  },
+  {
+    "lesson_num": 4,
+    "question": "Câu 47 [Gốc: Câu 29 trong CNKHXH BAI6.docx]: Phát biểu nào sau đây về khối liên minh giai cấp, tầng lớp ở Việt Nam là ĐÚNG?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 29,
+        "body_index": 84
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Nội dung tôn giáo là nội dung nòng cốt của liên minh",
+      "B. Xây dựng Nhà nước pháp quyền là nội dung văn hóa của liên minh",
+      "C. Đồng thuận xã hội là một mục tiêu quan trọng của liên minh giai cấp, tầng lớp",
+      "D. Đội ngũ doanh nhân bị loại trừ, không tham gia khối liên minh"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 29,
+    "body_index": 84,
+    "lesson": "Bài 4",
+    "q_num": 47,
+    "id": "q-b4-c47-b6doc84"
   },
   {
     "lesson_num": 5,
@@ -5781,6 +6055,11 @@
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
         "question_number": 14,
         "body_index": 1302
+      },
+      {
+        "file": "cac_cau_con_thieu_to_do.docx",
+        "question_number": 30,
+        "body_index": 49
       }
     ],
     "type": "true_false",
@@ -5807,7 +6086,9 @@
     "body_index": 1302,
     "lesson": "Bài 5",
     "q_num": 30,
-    "id": "q-b5-c30-1302"
+    "id": "q-b5-c30-1302",
+    "is_thuong_xuyen": true,
+    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 2"
   },
   {
     "lesson_num": 5,
@@ -6224,6 +6505,397 @@
     "lesson": "Bài 5",
     "q_num": 39,
     "id": "q-b5-c39-1363"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 40 [Gốc: Câu 1 trong CNKHXH BAI6.docx]: Trong Cương lĩnh dân tộc của chủ nghĩa Mác – Lênin, nội dung nào về quyền dân tộc tự quyết được coi là cơ bản trước hết?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 1,
+        "body_index": 0
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Quyền tự quyết về chính trị",
+      "B. Quyền tự quyết về các mối quan hệ quốc tế",
+      "C. Quyền tự quyết về văn hóa",
+      "D. Quyền tự quyết về kinh tế"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 1,
+    "body_index": 0,
+    "lesson": "Bài 5",
+    "q_num": 40,
+    "id": "q-b5-c40-b6doc0"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 41 [Gốc: Câu 4 trong CNKHXH BAI6.docx]: Theo quan điểm duy vật lịch sử, tôn giáo là sản phẩm của yếu tố nào?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 4,
+        "body_index": 9
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Con người",
+      "B. Thượng đế",
+      "C. Lực lượng siêu nhiên",
+      "D. Tự nhiên huyền bí"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 4,
+    "body_index": 9,
+    "lesson": "Bài 5",
+    "q_num": 41,
+    "id": "q-b5-c41-b6doc9"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 42 [Gốc: Câu 9 trong CNKHXH BAI6.docx]: Nhóm yếu tố nào sau đây phản ánh đầy đủ nguồn gốc hình thành và tồn tại của tôn giáo?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 9,
+        "body_index": 24
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Hệ thống tín đồ, tổ chức giáo phẩm và nghi lễ",
+      "B. Cơ sở thờ tự, kinh sách và giáo luật",
+      "C. Nguồn gốc nhận thức, tâm lý và kinh tế - xã hội",
+      "D. Sự can thiệp của các đấng sáng tạo siêu nhiên"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 9,
+    "body_index": 24,
+    "lesson": "Bài 5",
+    "q_num": 42,
+    "id": "q-b5-c42-b6doc24"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 43 [Gốc: Câu 10 trong CNKHXH BAI6.docx]: Khái niệm dân tộc theo nghĩa hẹp được dùng để chỉ khái niệm nào?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 10,
+        "body_index": 27
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Dân tộc quốc gia",
+      "B. Dân tộc tộc người",
+      "C. Cộng đồng đa quốc gia",
+      "D. Liên hiệp các quốc gia"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 10,
+    "body_index": 27,
+    "lesson": "Bài 5",
+    "q_num": 43,
+    "id": "q-b5-c43-b6doc27"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 44 [Gốc: Câu 11 trong CNKHXH BAI6.docx]: Tiêu chí nào mang tính thiêng liêng nhất đối với một dân tộc quốc gia và mỗi thành viên dân tộc?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 11,
+        "body_index": 30
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Lãnh thổ",
+      "B. Thị trường nội địa",
+      "C. Mức sống thu nhập",
+      "D. Ý thức cá nhân"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 11,
+    "body_index": 30,
+    "lesson": "Bài 5",
+    "q_num": 44,
+    "id": "q-b5-c44-b6doc30"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 45 [Gốc: Câu 12 trong CNKHXH BAI6.docx]: Nhận định nào sau đây là SAI khi nói về quyền tự quyết dân tộc trong Cương lĩnh dân tộc Mác – Lênin?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 12,
+        "body_index": 33
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Quyền tự quyết bao gồm quyền tự do tách ra thành quốc gia độc lập",
+      "B. Quyền tự quyết dân tộc không bao gồm nội dung tự nguyện liên hiệp các dân tộc lại",
+      "C. Dân tộc tộc người có đặc trưng về ngôn ngữ riêng",
+      "D. Cương lĩnh dân tộc khẳng định nguyên tắc bình đẳng giữa các dân tộc"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 12,
+    "body_index": 33,
+    "lesson": "Bài 5",
+    "q_num": 45,
+    "id": "q-b5-c45-b6doc33"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 46 [Gốc: Câu 13 trong CNKHXH BAI6.docx]: Hình thái ý thức xã hội phản ánh một cách hoang đường, hư ảo hiện thực khách quan là khái niệm của hiện tượng nào?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 13,
+        "body_index": 36
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Nghệ thuật dân gian",
+      "B. Tôn giáo",
+      "C. Đạo đức xã hội",
+      "D. Triết học khoa học"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 13,
+    "body_index": 36,
+    "lesson": "Bài 5",
+    "q_num": 46,
+    "id": "q-b5-c46-b6doc36"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 47 [Gốc: Câu 14 trong CNKHXH BAI6.docx]: Phát biểu nào sau đây là SAI về sự khác biệt giữa tín ngưỡng và tôn giáo?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 14,
+        "body_index": 39
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Tín ngưỡng có hệ thống giáo lý, giáo luật và tổ chức chặt chẽ như tôn giáo",
+      "B. Nguồn gốc kinh tế - xã hội dẫn đến sự ra đời của tôn giáo",
+      "C. Mê tín dị đoan là niềm tin mù quáng gây hậu quả xấu cần loại bỏ",
+      "D. Tôn giáo phản ánh hiện thực một cách hoang đường, hư ảo"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 14,
+    "body_index": 39,
+    "lesson": "Bài 5",
+    "q_num": 47,
+    "id": "q-b5-c47-b6doc39"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 48 [Gốc: Câu 15 trong CNKHXH BAI6.docx]: Vì sao các tôn giáo ở Việt Nam luôn đồng hành cùng dân tộc và đóng góp tích cực cho sự nghiệp xây dựng, bảo vệ Tổ quốc?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 15,
+        "body_index": 42
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Vì đa số tín đồ là nhân dân lao động có tinh thần yêu nước, chống giặc ngoại xâm",
+      "B. Vì các tôn giáo nắm vai trò lãnh đạo cơ quan quyền lực nhà nước",
+      "C. Vì các tổ chức tôn giáo có quân đội riêng bảo vệ biên giới",
+      "D. Vì các tôn giáo được chi phối bởi các tổ chức quốc tế"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 15,
+    "body_index": 42,
+    "lesson": "Bài 5",
+    "q_num": 48,
+    "id": "q-b5-c48-b6doc42"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 49 [Gốc: Câu 16 trong CNKHXH BAI6.docx]: Đâu là các đặc trưng cơ bản thuộc về dân tộc tộc người?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 16,
+        "body_index": 45
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Lãnh thổ quốc gia, nền kinh tế chung, nhà nước chung",
+      "B. Ngôn ngữ tộc người, văn hóa đặc thù và ý thức tự giác tộc người",
+      "C. Quân đội riêng, hiến pháp riêng, tài chính độc lập",
+      "D. Hệ thống chính trị riêng biệt và tiền tệ riêng"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 16,
+    "body_index": 45,
+    "lesson": "Bài 5",
+    "q_num": 49,
+    "id": "q-b5-c49-b6doc45"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 50 [Gốc: Câu 17 trong CNKHXH BAI6.docx]: Hai nguyên nhân chủ yếu khiến tôn giáo vẫn tiếp tục tồn tại lâu dài trong thời kỳ quá độ là gì?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 17,
+        "body_index": 48
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Do quy định bắt buộc của nhà nước và do các giáo hội nước ngoài thúc đẩy",
+      "B. Do khoa học chưa giải thích hết mọi hiện tượng và xã hội vẫn còn phân hóa, áp bức",
+      "C. Do các thế lực siêu nhiên thực sự tồn tại can thiệp vào đời sống",
+      "D. Do sự phát triển của công nghệ truyền thông"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 17,
+    "body_index": 48,
+    "lesson": "Bài 5",
+    "q_num": 50,
+    "id": "q-b5-c50-b6doc48"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 51 [Gốc: Câu 18 trong CNKHXH BAI6.docx]: Điểm khác biệt căn bản trong quá trình hình thành dân tộc Việt Nam so với các dân tộc phương Tây là gì?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 18,
+        "body_index": 51
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Hình thành gắn liền với sự phát triển mạnh mẽ của phương thức tư bản chủ nghĩa",
+      "B. Hình thành do quá trình đồng hóa cưỡng bức của các triều đại phong kiến",
+      "C. Hình thành sớm do đòi hỏi khách quan của công cuộc trị thủy, làm thủy lợi và đoàn kết chống giặc ngoại xâm",
+      "D. Hình thành do dân tộc có quy mô diện tích lãnh thổ nhỏ hẹp"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 18,
+    "body_index": 51,
+    "lesson": "Bài 5",
+    "q_num": 51,
+    "id": "q-b5-c51-b6doc51"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 52 [Gốc: Câu 10 trong cac_cau_con_thieu_to_do.docx]: (Bài 5): Dân tộc được hiểu theo mấy nghĩa?",
+    "sources": [
+      {
+        "file": "cac_cau_con_thieu_to_do.docx",
+        "question_number": 10,
+        "body_index": 26
+      }
+    ],
+    "is_thuong_xuyen": true,
+    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 2",
+    "type": "single_choice",
+    "options": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 10,
+    "body_index": 26,
+    "lesson": "Bài 5",
+    "q_num": 52,
+    "id": "q-b5-c52-tx26"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 53 [Gốc: Câu 28 trong cac_cau_con_thieu_to_do.docx]: (Bài 5 – Đúng/Sai): Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+    "sources": [
+      {
+        "file": "cac_cau_con_thieu_to_do.docx",
+        "question_number": 28,
+        "body_index": 44
+      }
+    ],
+    "is_thuong_xuyen": true,
+    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 2",
+    "type": "true_false",
+    "items": [
+      {
+        "statement": "Dân tộc (quốc gia) không cần lãnh thổ chung",
+        "correct": false
+      },
+      {
+        "statement": "Bình đẳng dân tộc là nội dung cương lĩnh dân tộc của Mác-Lênin",
+        "correct": true
+      },
+      {
+        "statement": "Dân tộc là cộng đồng người có ngôn ngữ riêng và văn hóa đặc thù",
+        "correct": true
+      },
+      {
+        "statement": "Quyền tự quyết dân tộc bao gồm quyền phân lập thành quốc gia độc lập",
+        "correct": true
+      }
+    ],
+    "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
+    "source_q_num": 28,
+    "body_index": 44,
+    "lesson": "Bài 5",
+    "q_num": 53,
+    "id": "q-b5-c53-tx44"
   },
   {
     "lesson_num": 6,

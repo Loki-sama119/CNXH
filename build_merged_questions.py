@@ -14,7 +14,7 @@ from docx.text.paragraph import Paragraph
 ROOT = Path(__file__).resolve().parent
 MERGED = 'GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx'
 SUPPLEMENT = 'CNKHXH BAI6.docx'
-TX_SOURCE = 'CHỦ NGHĨA XH-KH (1).docx'
+TX_SOURCE = 'cac_cau_con_thieu_to_do.docx'
 
 
 def clean(text):
@@ -235,11 +235,37 @@ def repair(q):
     return q
 
 
+SUPPLEMENT_MAPPING = {
+    # Bài 3: Dân chủ xã hội chủ nghĩa và nhà nước xã hội chủ nghĩa
+    20: 3,
+    22: 3,
+    24: 3,
+    25: 3,
+    26: 3,
+    # Bài 4: Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp
+    28: 4,
+    29: 4,
+    # Bài 5: Vấn đề dân tộc và tôn giáo trong thời kỳ quá độ
+    1: 5,
+    4: 5,
+    9: 5,
+    10: 5,
+    11: 5,
+    12: 5,
+    13: 5,
+    14: 5,
+    15: 5,
+    16: 5,
+    17: 5,
+    18: 5,
+}
+
+
 def build_bank():
-    blocks = read_blocks(ROOT / MERGED)
+    merged_blocks = read_blocks(ROOT / MERGED)
     bank = []
     lesson_counters = Counter()
-    for b in blocks:
+    for b in merged_blocks:
         q = repair(parse_block(b, MERGED))
         lesson = q['lesson_num']
         lesson_counters[lesson] += 1
@@ -265,14 +291,151 @@ def build_bank():
 
         bank.append(q)
 
-    bank.sort(key=lambda item: item['lesson_num'])
+    # Supplement questions from CNKHXH BAI6.docx
+    supp_path = ROOT / SUPPLEMENT
+    supp_added_count = 0
+    if supp_path.exists():
+        supp_blocks = read_blocks(supp_path)
+        supp_by_lesson = {3: [], 4: [], 5: []}
+        for b in supp_blocks:
+            sq_num = b['source_q_num']
+            if sq_num in SUPPLEMENT_MAPPING:
+                target_lesson = SUPPLEMENT_MAPPING[sq_num]
+                supp_by_lesson[target_lesson].append(b)
+
+        for target_lesson in (3, 4, 5):
+            for b in supp_by_lesson[target_lesson]:
+                q = repair(parse_block(b, SUPPLEMENT))
+                q['lesson_num'] = target_lesson
+                lesson_counters[target_lesson] += 1
+                seq_num = lesson_counters[target_lesson]
+                source_num = b['source_q_num']
+                body_idx = b['source_index']
+
+                q['source_q_num'] = source_num
+                q['body_index'] = body_idx
+                q['lesson'] = f"Bài {target_lesson}"
+                q['q_num'] = seq_num
+                q['id'] = f"q-b{target_lesson}-c{seq_num}-b6doc{body_idx}"
+
+                clean_title = q['question'].strip()
+                clean_title = re.sub(r'^(?:Câu\s*\d+\s*[:.]?|[A-F\d]+[.)])\s*', '', clean_title, flags=re.I).strip()
+                q['question'] = f"Câu {seq_num} [Gốc: Câu {source_num} trong {SUPPLEMENT}]: {clean_title}"
+
+                bank.append(q)
+                supp_added_count += 1
+
+    # Regular inspection tests (BÀI KIỂM TRA THƯỜNG XUYÊN) from cac_cau_con_thieu_to_do.docx
+    tx_path = ROOT / TX_SOURCE
+    tx_added_count = 0
+    if tx_path.exists():
+        tx_blocks = read_blocks(tx_path, tx_only=True)
+        for b in tx_blocks:
+            sq_num = b['source_q_num']
+            les = b['lesson_num']
+            group = b['test_group']
+            body_idx = b['source_index']
+
+            if sq_num == 22 and les == 1:
+                target = next(x for x in bank if x['lesson_num'] == 1 and 'Giai cấp tư sản, trong quá trình' in x['question'])
+                target.update(is_thuong_xuyen=True, test_group=group)
+                target['sources'].append(dict(file=TX_SOURCE, question_number=sq_num, body_index=body_idx))
+            elif sq_num == 23 and les == 1:
+                target = next(x for x in bank if x['lesson_num'] == 1 and x['type'] == 'drag_drop_match' and any('giải phóng thế giới' in p.get('left', '') for p in x.get('pairs', [])))
+                target.update(is_thuong_xuyen=True, test_group=group)
+                target['sources'].append(dict(file=TX_SOURCE, question_number=sq_num, body_index=body_idx))
+            elif sq_num == 26 and les == 2:
+                target = next(x for x in bank if x['lesson_num'] == 2 and 'Những đặc điểm nổi bật trong thời kỳ quá độ' in x['question'])
+                target.update(is_thuong_xuyen=True, test_group=group)
+                target['sources'].append(dict(file=TX_SOURCE, question_number=sq_num, body_index=body_idx))
+            elif sq_num == 27 and les == 2:
+                # NEW QUESTION for Bài 2
+                q = repair(parse_block(b, TX_SOURCE))
+                lesson_counters[2] += 1
+                seq_num = lesson_counters[2]
+                q['lesson_num'] = 2
+                q['source_q_num'] = sq_num
+                q['body_index'] = body_idx
+                q['lesson'] = "Bài 2"
+                q['q_num'] = seq_num
+                q['id'] = f"q-b2-c{seq_num}-tx{body_idx}"
+                clean_title = q['question'].strip()
+                clean_title = re.sub(r'^(?:Câu\s*\d+\s*[:.]?|[A-F\d]+[.)])\s*', '', clean_title, flags=re.I).strip()
+                q['question'] = f"Câu {seq_num} [Gốc: Câu {sq_num} trong {TX_SOURCE}]: {clean_title}"
+                q.update(is_thuong_xuyen=True, test_group=group)
+                bank.append(q)
+                tx_added_count += 1
+            elif sq_num == 30 and les == 3:
+                target = next(x for x in bank if x['lesson_num'] == 3 and 'chọn phương án đúng về mối quan hệ giữa dân chủ' in x['question'])
+                target.update(is_thuong_xuyen=True, test_group=group)
+                target['sources'].append(dict(file=TX_SOURCE, question_number=sq_num, body_index=body_idx))
+            elif sq_num == 6 and les == 4:
+                target = next(x for x in bank if x['lesson_num'] == 4 and 'cơ cấu xã hội nào giữ vị trí quan trọng hàng đầu' in x['question'])
+                target.update(is_thuong_xuyen=True, test_group=group)
+                target['sources'].append(dict(file=TX_SOURCE, question_number=sq_num, body_index=body_idx))
+            elif sq_num == 7 and les == 4:
+                target = next(x for x in bank if x['lesson_num'] == 4 and 'thường xuyên biến đổi theo mấy quy luật cơ bản' in x['question'])
+                target.update(is_thuong_xuyen=True, test_group=group)
+                target['sources'].append(dict(file=TX_SOURCE, question_number=sq_num, body_index=body_idx))
+            elif sq_num == 10 and les == 5:
+                # NEW QUESTION for Bài 5
+                q = repair(parse_block(b, TX_SOURCE))
+                lesson_counters[5] += 1
+                seq_num = lesson_counters[5]
+                q['lesson_num'] = 5
+                q['source_q_num'] = sq_num
+                q['body_index'] = body_idx
+                q['lesson'] = "Bài 5"
+                q['q_num'] = seq_num
+                q['id'] = f"q-b5-c{seq_num}-tx{body_idx}"
+                clean_title = q['question'].strip()
+                clean_title = re.sub(r'^(?:Câu\s*\d+\s*[:.]?|[A-F\d]+[.)])\s*', '', clean_title, flags=re.I).strip()
+                q['question'] = f"Câu {seq_num} [Gốc: Câu {sq_num} trong {TX_SOURCE}]: {clean_title}"
+                q.update(is_thuong_xuyen=True, test_group=group)
+                bank.append(q)
+                tx_added_count += 1
+            elif sq_num == 19 and les == 4:
+                target = next(x for x in bank if x['lesson_num'] == 4 and x['type'] == 'drag_drop_categorize' and x['categories'][0]['title'].startswith('Giai cấp/tầng lớp'))
+                target.update(is_thuong_xuyen=True, test_group=group)
+                target['sources'].append(dict(file=TX_SOURCE, question_number=sq_num, body_index=body_idx))
+            elif sq_num == 20 and les == 4:
+                target = next(x for x in bank if x['lesson_num'] == 4 and x['type'] == 'drag_drop_match' and any('Nội dung kinh tế' in p.get('right', '') for p in x.get('pairs', [])))
+                target.update(is_thuong_xuyen=True, test_group=group)
+                target['sources'].append(dict(file=TX_SOURCE, question_number=sq_num, body_index=body_idx))
+            elif sq_num == 28 and les == 5:
+                # NEW QUESTION for Bài 5
+                q = repair(parse_block(b, TX_SOURCE))
+                lesson_counters[5] += 1
+                seq_num = lesson_counters[5]
+                q['lesson_num'] = 5
+                q['source_q_num'] = sq_num
+                q['body_index'] = body_idx
+                q['lesson'] = "Bài 5"
+                q['q_num'] = seq_num
+                q['id'] = f"q-b5-c{seq_num}-tx{body_idx}"
+                clean_title = q['question'].strip()
+                clean_title = re.sub(r'^(?:Câu\s*\d+\s*[:.]?|[A-F\d]+[.)])\s*', '', clean_title, flags=re.I).strip()
+                q['question'] = f"Câu {seq_num} [Gốc: Câu {sq_num} trong {TX_SOURCE}]: {clean_title}"
+                q.update(is_thuong_xuyen=True, test_group=group)
+                bank.append(q)
+                tx_added_count += 1
+            elif sq_num == 30 and les == 5:
+                target = next(x for x in bank if x['lesson_num'] == 5 and x['type'] == 'true_false' and any('Tín ngưỡng có hệ thống giáo lý' in it['statement'] for it in x.get('items', [])))
+                target.update(is_thuong_xuyen=True, test_group=group)
+                target['sources'].append(dict(file=TX_SOURCE, question_number=sq_num, body_index=body_idx))
+
+    bank.sort(key=lambda item: (item['lesson_num'], item['q_num']))
+    tx_total = sum(bool(q.get('is_thuong_xuyen')) for q in bank)
     return bank, dict(
-        source_exercises=len(blocks),
+        source_exercises=len(merged_blocks) + supp_added_count + tx_added_count,
+        merged_source_exercises=len(merged_blocks),
+        supplement_exercises=supp_added_count,
+        tx_new_exercises=tx_added_count,
         duplicate_groups=[],
         lesson_counts=dict(lesson_counters),
         type_counts=dict(Counter(q['type'] for q in bank)),
         total=len(bank),
-        tx_count=0
+        tx_count=tx_total
     )
 
 
@@ -286,7 +449,7 @@ def main():
     (ROOT / 'questions.json').write_text(payload + '\n', encoding='utf-8')
     legacy = {str(i): q['id'] for i, q in enumerate(bank, 1)}
     (ROOT / 'legacy-question-ids.json').write_text(json.dumps(legacy, indent=2) + '\n', encoding='utf-8')
-    (ROOT / 'questions-data.js').write_text('window.QUIZ_BANK_VERSION = "v6-20261020-exact-word-233";\nwindow.QUIZ_LEGACY_IDS = ' + json.dumps(legacy) + ';\nwindow.QUIZ_QUESTIONS = ' + payload + ';\n', encoding='utf-8')
+    (ROOT / 'questions-data.js').write_text('window.QUIZ_BANK_VERSION = "v6-20261020-exact-word-255";\nwindow.QUIZ_LEGACY_IDS = ' + json.dumps(legacy) + ';\nwindow.QUIZ_QUESTIONS = ' + payload + ';\n', encoding='utf-8')
     (ROOT / 'question-build-report.json').write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     print(json.dumps(report, ensure_ascii=False, indent=2))
 

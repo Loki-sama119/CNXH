@@ -1,5 +1,5 @@
-window.QUIZ_BANK_VERSION = "v6-20261020-exact-word-233";
-window.QUIZ_LEGACY_IDS = {"1": "q-b1-c1-1", "2": "q-b1-c2-7", "3": "q-b1-c3-13", "4": "q-b1-c4-19", "5": "q-b1-c5-25", "6": "q-b1-c6-31", "7": "q-b1-c7-37", "8": "q-b1-c8-43", "9": "q-b1-c9-49", "10": "q-b1-c10-54", "11": "q-b1-c11-60", "12": "q-b1-c12-66", "13": "q-b1-c13-72", "14": "q-b1-c14-78", "15": "q-b1-c15-84", "16": "q-b1-c16-90", "17": "q-b1-c17-96", "18": "q-b1-c18-102", "19": "q-b1-c19-108", "20": "q-b1-c20-114", "21": "q-b1-c21-120", "22": "q-b1-c22-126", "23": "q-b1-c23-132", "24": "q-b1-c24-138", "25": "q-b1-c25-144", "26": "q-b1-c26-150", "27": "q-b1-c27-156", "28": "q-b1-c28-162", "29": "q-b1-c29-168", "30": "q-b1-c30-174", "31": "q-b1-c31-181", "32": "q-b1-c32-187", "33": "q-b1-c33-193", "34": "q-b1-c34-203", "35": "q-b1-c35-213", "36": "q-b1-c36-224", "37": "q-b1-c37-234", "38": "q-b1-c38-244", "39": "q-b1-c39-248", "40": "q-b1-c40-252", "41": "q-b1-c41-256", "42": "q-b2-c1-262", "43": "q-b2-c2-268", "44": "q-b2-c3-274", "45": "q-b2-c4-281", "46": "q-b2-c5-288", "47": "q-b2-c6-295", "48": "q-b2-c7-302", "49": "q-b2-c8-309", "50": "q-b2-c9-316", "51": "q-b2-c10-323", "52": "q-b2-c11-330", "53": "q-b2-c12-337", "54": "q-b2-c13-344", "55": "q-b2-c14-351", "56": "q-b2-c15-358", "57": "q-b2-c16-365", "58": "q-b2-c17-371", "59": "q-b2-c18-378", "60": "q-b2-c19-385", "61": "q-b2-c20-392", "62": "q-b2-c21-399", "63": "q-b2-c22-406", "64": "q-b2-c23-413", "65": "q-b2-c24-420", "66": "q-b2-c25-427", "67": "q-b2-c26-434", "68": "q-b2-c27-441", "69": "q-b2-c28-448", "70": "q-b2-c29-459", "71": "q-b2-c30-470", "72": "q-b2-c31-480", "73": "q-b2-c32-492", "74": "q-b2-c33-503", "75": "q-b2-c34-508", "76": "q-b2-c35-513", "77": "q-b2-c36-519", "78": "q-b2-c37-524", "79": "q-b2-c38-531", "80": "q-b2-c39-539", "81": "q-b2-c40-547", "82": "q-b3-c1-556", "83": "q-b3-c2-562", "84": "q-b3-c3-573", "85": "q-b3-c4-583", "86": "q-b3-c5-594", "87": "q-b3-c6-605", "88": "q-b3-c7-616", "89": "q-b3-c8-626", "90": "q-b3-c9-637", "91": "q-b3-c10-647", "92": "q-b3-c11-658", "93": "q-b3-c12-668", "94": "q-b3-c13-674", "95": "q-b3-c14-680", "96": "q-b3-c15-686", "97": "q-b3-c16-692", "98": "q-b3-c17-698", "99": "q-b3-c18-704", "100": "q-b3-c19-710", "101": "q-b3-c20-716", "102": "q-b3-c21-719", "103": "q-b3-c22-722", "104": "q-b3-c23-725", "105": "q-b3-c24-728", "106": "q-b3-c25-731", "107": "q-b3-c26-738", "108": "q-b3-c27-745", "109": "q-b3-c28-752", "110": "q-b3-c29-759", "111": "q-b3-c30-768", "112": "q-b3-c31-775", "113": "q-b3-c32-782", "114": "q-b3-c33-789", "115": "q-b3-c34-803", "116": "q-b3-c35-813", "117": "q-b3-c36-824", "118": "q-b3-c37-834", "119": "q-b3-c38-849", "120": "q-b3-c39-853", "121": "q-b3-c40-857", "122": "q-b3-c41-861", "123": "q-b4-c1-866", "124": "q-b4-c2-872", "125": "q-b4-c3-878", "126": "q-b4-c4-884", "127": "q-b4-c5-890", "128": "q-b4-c6-896", "129": "q-b4-c7-901", "130": "q-b4-c8-907", "131": "q-b4-c9-913", "132": "q-b4-c10-918", "133": "q-b4-c11-924", "134": "q-b4-c12-930", "135": "q-b4-c13-935", "136": "q-b4-c14-942", "137": "q-b4-c15-951", "138": "q-b4-c16-959", "139": "q-b4-c17-966", "140": "q-b4-c18-974", "141": "q-b4-c19-981", "142": "q-b4-c20-988", "143": "q-b4-c21-995", "144": "q-b4-c22-1002", "145": "q-b4-c23-1009", "146": "q-b4-c24-1016", "147": "q-b4-c25-1023", "148": "q-b4-c26-1030", "149": "q-b4-c27-1037", "150": "q-b4-c28-1044", "151": "q-b4-c29-1051", "152": "q-b4-c30-1058", "153": "q-b4-c31-1065", "154": "q-b4-c32-1071", "155": "q-b4-c33-1078", "156": "q-b4-c34-1085", "157": "q-b4-c35-1093", "158": "q-b4-c36-1101", "159": "q-b4-c37-1110", "160": "q-b4-c38-1124", "161": "q-b4-c39-1137", "162": "q-b4-c40-1150", "163": "q-b4-c41-1164", "164": "q-b4-c42-1169", "165": "q-b4-c43-1176", "166": "q-b4-c44-1181", "167": "q-b4-c45-1186", "168": "q-b5-c1-1192", "169": "q-b5-c2-1195", "170": "q-b5-c3-1198", "171": "q-b5-c4-1201", "172": "q-b5-c5-1204", "173": "q-b5-c6-1207", "174": "q-b5-c7-1210", "175": "q-b5-c8-1213", "176": "q-b5-c9-1216", "177": "q-b5-c10-1219", "178": "q-b5-c11-1222", "179": "q-b5-c12-1225", "180": "q-b5-c13-1228", "181": "q-b5-c14-1231", "182": "q-b5-c15-1234", "183": "q-b5-c16-1237", "184": "q-b5-c17-1240", "185": "q-b5-c18-1243", "186": "q-b5-c19-1246", "187": "q-b5-c20-1249", "188": "q-b5-c21-1252", "189": "q-b5-c22-1255", "190": "q-b5-c23-1258", "191": "q-b5-c24-1261", "192": "q-b5-c25-1264", "193": "q-b5-c26-1267", "194": "q-b5-c27-1269", "195": "q-b5-c28-1276", "196": "q-b5-c29-1284", "197": "q-b5-c30-1302", "198": "q-b5-c31-1321", "199": "q-b5-c32-1326", "200": "q-b5-c33-1331", "201": "q-b5-c34-1335", "202": "q-b5-c35-1342", "203": "q-b5-c36-1349", "204": "q-b5-c37-1354", "205": "q-b5-c38-1360", "206": "q-b5-c39-1363", "207": "q-b6-c1-1369", "208": "q-b6-c2-1378", "209": "q-b6-c3-1385", "210": "q-b6-c4-1392", "211": "q-b6-c5-1399", "212": "q-b6-c6-1407", "213": "q-b6-c7-1415", "214": "q-b6-c8-1422", "215": "q-b6-c9-1430", "216": "q-b6-c10-1438", "217": "q-b6-c11-1446", "218": "q-b6-c12-1455", "219": "q-b6-c13-1462", "220": "q-b6-c14-1469", "221": "q-b6-c15-1476", "222": "q-b6-c16-1483", "223": "q-b6-c17-1492", "224": "q-b6-c18-1499", "225": "q-b6-c19-1507", "226": "q-b6-c20-1514", "227": "q-b6-c21-1521", "228": "q-b6-c22-1528", "229": "q-b6-c23-1535", "230": "q-b6-c24-1542", "231": "q-b6-c25-1553", "232": "q-b6-c26-1563", "233": "q-b6-c27-1568"};
+window.QUIZ_BANK_VERSION = "v6-20261020-exact-word-255";
+window.QUIZ_LEGACY_IDS = {"1": "q-b1-c1-1", "2": "q-b1-c2-7", "3": "q-b1-c3-13", "4": "q-b1-c4-19", "5": "q-b1-c5-25", "6": "q-b1-c6-31", "7": "q-b1-c7-37", "8": "q-b1-c8-43", "9": "q-b1-c9-49", "10": "q-b1-c10-54", "11": "q-b1-c11-60", "12": "q-b1-c12-66", "13": "q-b1-c13-72", "14": "q-b1-c14-78", "15": "q-b1-c15-84", "16": "q-b1-c16-90", "17": "q-b1-c17-96", "18": "q-b1-c18-102", "19": "q-b1-c19-108", "20": "q-b1-c20-114", "21": "q-b1-c21-120", "22": "q-b1-c22-126", "23": "q-b1-c23-132", "24": "q-b1-c24-138", "25": "q-b1-c25-144", "26": "q-b1-c26-150", "27": "q-b1-c27-156", "28": "q-b1-c28-162", "29": "q-b1-c29-168", "30": "q-b1-c30-174", "31": "q-b1-c31-181", "32": "q-b1-c32-187", "33": "q-b1-c33-193", "34": "q-b1-c34-203", "35": "q-b1-c35-213", "36": "q-b1-c36-224", "37": "q-b1-c37-234", "38": "q-b1-c38-244", "39": "q-b1-c39-248", "40": "q-b1-c40-252", "41": "q-b1-c41-256", "42": "q-b2-c1-262", "43": "q-b2-c2-268", "44": "q-b2-c3-274", "45": "q-b2-c4-281", "46": "q-b2-c5-288", "47": "q-b2-c6-295", "48": "q-b2-c7-302", "49": "q-b2-c8-309", "50": "q-b2-c9-316", "51": "q-b2-c10-323", "52": "q-b2-c11-330", "53": "q-b2-c12-337", "54": "q-b2-c13-344", "55": "q-b2-c14-351", "56": "q-b2-c15-358", "57": "q-b2-c16-365", "58": "q-b2-c17-371", "59": "q-b2-c18-378", "60": "q-b2-c19-385", "61": "q-b2-c20-392", "62": "q-b2-c21-399", "63": "q-b2-c22-406", "64": "q-b2-c23-413", "65": "q-b2-c24-420", "66": "q-b2-c25-427", "67": "q-b2-c26-434", "68": "q-b2-c27-441", "69": "q-b2-c28-448", "70": "q-b2-c29-459", "71": "q-b2-c30-470", "72": "q-b2-c31-480", "73": "q-b2-c32-492", "74": "q-b2-c33-503", "75": "q-b2-c34-508", "76": "q-b2-c35-513", "77": "q-b2-c36-519", "78": "q-b2-c37-524", "79": "q-b2-c38-531", "80": "q-b2-c39-539", "81": "q-b2-c40-547", "82": "q-b2-c41-tx12", "83": "q-b3-c1-556", "84": "q-b3-c2-562", "85": "q-b3-c3-573", "86": "q-b3-c4-583", "87": "q-b3-c5-594", "88": "q-b3-c6-605", "89": "q-b3-c7-616", "90": "q-b3-c8-626", "91": "q-b3-c9-637", "92": "q-b3-c10-647", "93": "q-b3-c11-658", "94": "q-b3-c12-668", "95": "q-b3-c13-674", "96": "q-b3-c14-680", "97": "q-b3-c15-686", "98": "q-b3-c16-692", "99": "q-b3-c17-698", "100": "q-b3-c18-704", "101": "q-b3-c19-710", "102": "q-b3-c20-716", "103": "q-b3-c21-719", "104": "q-b3-c22-722", "105": "q-b3-c23-725", "106": "q-b3-c24-728", "107": "q-b3-c25-731", "108": "q-b3-c26-738", "109": "q-b3-c27-745", "110": "q-b3-c28-752", "111": "q-b3-c29-759", "112": "q-b3-c30-768", "113": "q-b3-c31-775", "114": "q-b3-c32-782", "115": "q-b3-c33-789", "116": "q-b3-c34-803", "117": "q-b3-c35-813", "118": "q-b3-c36-824", "119": "q-b3-c37-834", "120": "q-b3-c38-849", "121": "q-b3-c39-853", "122": "q-b3-c40-857", "123": "q-b3-c41-861", "124": "q-b3-c42-b6doc57", "125": "q-b3-c43-b6doc63", "126": "q-b3-c44-b6doc69", "127": "q-b3-c45-b6doc72", "128": "q-b3-c46-b6doc75", "129": "q-b4-c1-866", "130": "q-b4-c2-872", "131": "q-b4-c3-878", "132": "q-b4-c4-884", "133": "q-b4-c5-890", "134": "q-b4-c6-896", "135": "q-b4-c7-901", "136": "q-b4-c8-907", "137": "q-b4-c9-913", "138": "q-b4-c10-918", "139": "q-b4-c11-924", "140": "q-b4-c12-930", "141": "q-b4-c13-935", "142": "q-b4-c14-942", "143": "q-b4-c15-951", "144": "q-b4-c16-959", "145": "q-b4-c17-966", "146": "q-b4-c18-974", "147": "q-b4-c19-981", "148": "q-b4-c20-988", "149": "q-b4-c21-995", "150": "q-b4-c22-1002", "151": "q-b4-c23-1009", "152": "q-b4-c24-1016", "153": "q-b4-c25-1023", "154": "q-b4-c26-1030", "155": "q-b4-c27-1037", "156": "q-b4-c28-1044", "157": "q-b4-c29-1051", "158": "q-b4-c30-1058", "159": "q-b4-c31-1065", "160": "q-b4-c32-1071", "161": "q-b4-c33-1078", "162": "q-b4-c34-1085", "163": "q-b4-c35-1093", "164": "q-b4-c36-1101", "165": "q-b4-c37-1110", "166": "q-b4-c38-1124", "167": "q-b4-c39-1137", "168": "q-b4-c40-1150", "169": "q-b4-c41-1164", "170": "q-b4-c42-1169", "171": "q-b4-c43-1176", "172": "q-b4-c44-1181", "173": "q-b4-c45-1186", "174": "q-b4-c46-b6doc81", "175": "q-b4-c47-b6doc84", "176": "q-b5-c1-1192", "177": "q-b5-c2-1195", "178": "q-b5-c3-1198", "179": "q-b5-c4-1201", "180": "q-b5-c5-1204", "181": "q-b5-c6-1207", "182": "q-b5-c7-1210", "183": "q-b5-c8-1213", "184": "q-b5-c9-1216", "185": "q-b5-c10-1219", "186": "q-b5-c11-1222", "187": "q-b5-c12-1225", "188": "q-b5-c13-1228", "189": "q-b5-c14-1231", "190": "q-b5-c15-1234", "191": "q-b5-c16-1237", "192": "q-b5-c17-1240", "193": "q-b5-c18-1243", "194": "q-b5-c19-1246", "195": "q-b5-c20-1249", "196": "q-b5-c21-1252", "197": "q-b5-c22-1255", "198": "q-b5-c23-1258", "199": "q-b5-c24-1261", "200": "q-b5-c25-1264", "201": "q-b5-c26-1267", "202": "q-b5-c27-1269", "203": "q-b5-c28-1276", "204": "q-b5-c29-1284", "205": "q-b5-c30-1302", "206": "q-b5-c31-1321", "207": "q-b5-c32-1326", "208": "q-b5-c33-1331", "209": "q-b5-c34-1335", "210": "q-b5-c35-1342", "211": "q-b5-c36-1349", "212": "q-b5-c37-1354", "213": "q-b5-c38-1360", "214": "q-b5-c39-1363", "215": "q-b5-c40-b6doc0", "216": "q-b5-c41-b6doc9", "217": "q-b5-c42-b6doc24", "218": "q-b5-c43-b6doc27", "219": "q-b5-c44-b6doc30", "220": "q-b5-c45-b6doc33", "221": "q-b5-c46-b6doc36", "222": "q-b5-c47-b6doc39", "223": "q-b5-c48-b6doc42", "224": "q-b5-c49-b6doc45", "225": "q-b5-c50-b6doc48", "226": "q-b5-c51-b6doc51", "227": "q-b5-c52-tx26", "228": "q-b5-c53-tx44", "229": "q-b6-c1-1369", "230": "q-b6-c2-1378", "231": "q-b6-c3-1385", "232": "q-b6-c4-1392", "233": "q-b6-c5-1399", "234": "q-b6-c6-1407", "235": "q-b6-c7-1415", "236": "q-b6-c8-1422", "237": "q-b6-c9-1430", "238": "q-b6-c10-1438", "239": "q-b6-c11-1446", "240": "q-b6-c12-1455", "241": "q-b6-c13-1462", "242": "q-b6-c14-1469", "243": "q-b6-c15-1476", "244": "q-b6-c16-1483", "245": "q-b6-c17-1492", "246": "q-b6-c18-1499", "247": "q-b6-c19-1507", "248": "q-b6-c20-1514", "249": "q-b6-c21-1521", "250": "q-b6-c22-1528", "251": "q-b6-c23-1535", "252": "q-b6-c24-1542", "253": "q-b6-c25-1553", "254": "q-b6-c26-1563", "255": "q-b6-c27-1568"};
 window.QUIZ_QUESTIONS = [
   {
     "lesson_num": 1,
@@ -855,6 +855,11 @@ window.QUIZ_QUESTIONS = [
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
         "question_number": 32,
         "body_index": 187
+      },
+      {
+        "file": "cac_cau_con_thieu_to_do.docx",
+        "question_number": 22,
+        "body_index": 2
       }
     ],
     "type": "single_choice",
@@ -872,7 +877,9 @@ window.QUIZ_QUESTIONS = [
     "body_index": 187,
     "lesson": "Bài 1",
     "q_num": 32,
-    "id": "q-b1-c32-187"
+    "id": "q-b1-c32-187",
+    "is_thuong_xuyen": true,
+    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 1"
   },
   {
     "lesson_num": 1,
@@ -1193,6 +1200,11 @@ window.QUIZ_QUESTIONS = [
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
         "question_number": 41,
         "body_index": 256
+      },
+      {
+        "file": "cac_cau_con_thieu_to_do.docx",
+        "question_number": 23,
+        "body_index": 5
       }
     ],
     "pairs": [
@@ -1220,7 +1232,9 @@ window.QUIZ_QUESTIONS = [
     "body_index": 256,
     "lesson": "Bài 1",
     "q_num": 41,
-    "id": "q-b1-c41-256"
+    "id": "q-b1-c41-256",
+    "is_thuong_xuyen": true,
+    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 1"
   },
   {
     "lesson_num": 2,
@@ -2337,6 +2351,11 @@ window.QUIZ_QUESTIONS = [
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
         "question_number": 39,
         "body_index": 539
+      },
+      {
+        "file": "cac_cau_con_thieu_to_do.docx",
+        "question_number": 26,
+        "body_index": 9
       }
     ],
     "type": "multiple_choice",
@@ -2355,7 +2374,9 @@ window.QUIZ_QUESTIONS = [
     "body_index": 539,
     "lesson": "Bài 2",
     "q_num": 39,
-    "id": "q-b2-c39-539"
+    "id": "q-b2-c39-539",
+    "is_thuong_xuyen": true,
+    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 1"
   },
   {
     "lesson_num": 2,
@@ -2384,6 +2405,35 @@ window.QUIZ_QUESTIONS = [
     "lesson": "Bài 2",
     "q_num": 40,
     "id": "q-b2-c40-547"
+  },
+  {
+    "lesson_num": 2,
+    "question": "Câu 41 [Gốc: Câu 27 trong cac_cau_con_thieu_to_do.docx]: (Bài 2): So sánh sự khác nhau giữa giai đoạn thấp và giai đoạn cao của hình thái kinh tế - xã hội cộng sản chủ nghĩa?",
+    "sources": [
+      {
+        "file": "cac_cau_con_thieu_to_do.docx",
+        "question_number": 27,
+        "body_index": 12
+      }
+    ],
+    "is_thuong_xuyen": true,
+    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 1",
+    "type": "single_choice",
+    "options": [
+      "A. Giai đoạn thấp thực hiện phân phối theo lao động, giai đoạn cao thực hiện phân phối theo nhu cầu",
+      "B. Giai đoạn thấp không có sự phân chia giai cấp",
+      "C. Giai đoạn thấp sử dụng pháp quyền tư sản",
+      "D. Giai đoạn thấp thực hiện phân phối theo nhu cầu, giai đoạn cao thực hiện phân phối theo lao động"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 27,
+    "body_index": 12,
+    "lesson": "Bài 2",
+    "q_num": 41,
+    "id": "q-b2-c41-tx12"
   },
   {
     "lesson_num": 3,
@@ -3235,6 +3285,11 @@ window.QUIZ_QUESTIONS = [
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
         "question_number": 32,
         "body_index": 782
+      },
+      {
+        "file": "cac_cau_con_thieu_to_do.docx",
+        "question_number": 30,
+        "body_index": 15
       }
     ],
     "type": "single_choice",
@@ -3252,7 +3307,9 @@ window.QUIZ_QUESTIONS = [
     "body_index": 782,
     "lesson": "Bài 3",
     "q_num": 32,
-    "id": "q-b3-c32-782"
+    "id": "q-b3-c32-782",
+    "is_thuong_xuyen": true,
+    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 1"
   },
   {
     "lesson_num": 3,
@@ -3591,6 +3648,141 @@ window.QUIZ_QUESTIONS = [
     "lesson": "Bài 3",
     "q_num": 41,
     "id": "q-b3-c41-861"
+  },
+  {
+    "lesson_num": 3,
+    "question": "Câu 42 [Gốc: Câu 20 trong CNKHXH BAI6.docx]: Luận điểm nào sau đây KHÔNG đúng khi so sánh nền dân chủ xã hội chủ nghĩa với nền dân chủ tư sản?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 20,
+        "body_index": 57
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Dựa trên chế độ công hữu về các tư liệu sản xuất chủ yếu của xã hội",
+      "B. Mang tính nhất nguyên về chính trị dưới sự lãnh đạo của Đảng Cộng sản",
+      "C. Là nền dân chủ thuần túy, hoàn toàn không mang tính giai cấp",
+      "D. Được thực hiện chủ yếu bằng công cụ Nhà nước pháp quyền xã hội chủ nghĩa"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 20,
+    "body_index": 57,
+    "lesson": "Bài 3",
+    "q_num": 42,
+    "id": "q-b3-c42-b6doc57"
+  },
+  {
+    "lesson_num": 3,
+    "question": "Câu 43 [Gốc: Câu 22 trong CNKHXH BAI6.docx]: Việc thực hiện chế độ công hữu về tư liệu sản xuất chủ yếu và phân phối lợi ích theo kết quả lao động là bản chất kinh tế của nền dân chủ nào?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 22,
+        "body_index": 63
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Nền dân chủ tư sản",
+      "B. Nền dân chủ chủ nô",
+      "C. Nền dân chủ xã hội chủ nghĩa",
+      "D. Nền dân chủ nguyên thủy"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 22,
+    "body_index": 63,
+    "lesson": "Bài 3",
+    "q_num": 43,
+    "id": "q-b3-c43-b6doc63"
+  },
+  {
+    "lesson_num": 3,
+    "question": "Câu 44 [Gốc: Câu 24 trong CNKHXH BAI6.docx]: Khác biệt căn bản về chất của Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam so với các nhà nước bóc lột trong lịch sử là gì?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 24,
+        "body_index": 69
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Chỉ đại diện duy nhất cho bộ phận giai cấp công nhân",
+      "B. Là nhà nước phi giai cấp, phi chính trị",
+      "C. Mang bản chất của giai cấp công nhân, tính nhân dân sâu sắc và tính dân tộc rộng rãi",
+      "D. Chỉ tập trung thực hiện chức năng trấn áp quân sự"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 24,
+    "body_index": 69,
+    "lesson": "Bài 3",
+    "q_num": 44,
+    "id": "q-b3-c44-b6doc69"
+  },
+  {
+    "lesson_num": 3,
+    "question": "Câu 45 [Gốc: Câu 25 trong CNKHXH BAI6.docx]: Hình thức dân chủ nào là hình thức mà nhân dân trực tiếp bày tỏ ý chí, trực tiếp tham gia quản lý nhà nước và xã hội?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 25,
+        "body_index": 72
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Dân chủ gián tiếp",
+      "B. Dân chủ đại diện",
+      "C. Dân chủ trực tiếp",
+      "D. Dân chủ ủy quyền"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 25,
+    "body_index": 72,
+    "lesson": "Bài 3",
+    "q_num": 45,
+    "id": "q-b3-c45-b6doc72"
+  },
+  {
+    "lesson_num": 3,
+    "question": "Câu 46 [Gốc: Câu 26 trong CNKHXH BAI6.docx]: Khẳng định nào sau đây về tổ chức quyền lực nhà nước ở Việt Nam là SAI?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 26,
+        "body_index": 75
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Bản chất dân chủ XHCN được thực hiện qua hình thức trực tiếp và gián tiếp",
+      "B. Quốc hội là cơ quan quyền lực nhà nước cao nhất hoạt động theo nhiệm kỳ 3 năm",
+      "C. Nhà nước Việt Nam là nhà nước của nhân dân, do nhân dân, vì nhân dân làm chủ",
+      "D. Trong hoạt động nhà nước có sự phân công, phối hợp và kiểm soát giữa các cơ quan quyền lực"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 26,
+    "body_index": 75,
+    "lesson": "Bài 3",
+    "q_num": 46,
+    "id": "q-b3-c46-b6doc75"
   },
   {
     "lesson_num": 4,
@@ -4169,6 +4361,11 @@ window.QUIZ_QUESTIONS = [
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
         "question_number": 22,
         "body_index": 1002
+      },
+      {
+        "file": "cac_cau_con_thieu_to_do.docx",
+        "question_number": 7,
+        "body_index": 23
       }
     ],
     "type": "single_choice",
@@ -4186,7 +4383,9 @@ window.QUIZ_QUESTIONS = [
     "body_index": 1002,
     "lesson": "Bài 4",
     "q_num": 22,
-    "id": "q-b4-c22-1002"
+    "id": "q-b4-c22-1002",
+    "is_thuong_xuyen": true,
+    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 2"
   },
   {
     "lesson_num": 4,
@@ -4358,6 +4557,11 @@ window.QUIZ_QUESTIONS = [
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
         "question_number": 29,
         "body_index": 1051
+      },
+      {
+        "file": "cac_cau_con_thieu_to_do.docx",
+        "question_number": 6,
+        "body_index": 20
       }
     ],
     "type": "single_choice",
@@ -4375,7 +4579,9 @@ window.QUIZ_QUESTIONS = [
     "body_index": 1051,
     "lesson": "Bài 4",
     "q_num": 29,
-    "id": "q-b4-c29-1051"
+    "id": "q-b4-c29-1051",
+    "is_thuong_xuyen": true,
+    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 2"
   },
   {
     "lesson_num": 4,
@@ -4880,6 +5086,11 @@ window.QUIZ_QUESTIONS = [
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
         "question_number": 7,
         "body_index": 1181
+      },
+      {
+        "file": "cac_cau_con_thieu_to_do.docx",
+        "question_number": 19,
+        "body_index": 29
       }
     ],
     "categories": [
@@ -4937,7 +5148,9 @@ window.QUIZ_QUESTIONS = [
     "body_index": 1181,
     "lesson": "Bài 4",
     "q_num": 44,
-    "id": "q-b4-c44-1181"
+    "id": "q-b4-c44-1181",
+    "is_thuong_xuyen": true,
+    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 2"
   },
   {
     "lesson_num": 4,
@@ -4947,6 +5160,11 @@ window.QUIZ_QUESTIONS = [
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
         "question_number": 45,
         "body_index": 1186
+      },
+      {
+        "file": "cac_cau_con_thieu_to_do.docx",
+        "question_number": 20,
+        "body_index": 39
       }
     ],
     "pairs": [
@@ -4979,7 +5197,63 @@ window.QUIZ_QUESTIONS = [
     "body_index": 1186,
     "lesson": "Bài 4",
     "q_num": 45,
-    "id": "q-b4-c45-1186"
+    "id": "q-b4-c45-1186",
+    "is_thuong_xuyen": true,
+    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 2"
+  },
+  {
+    "lesson_num": 4,
+    "question": "Câu 46 [Gốc: Câu 28 trong CNKHXH BAI6.docx]: Trong cơ cấu xã hội – giai cấp ở Việt Nam thời kỳ quá độ, đội ngũ trí thức giữ vai trò là lực lượng gì?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 28,
+        "body_index": 81
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Lực lượng sáng tạo đặc biệt",
+      "B. Lực lượng lãnh đạo sự nghiệp cách mạng",
+      "C. Lực lượng sản xuất nông nghiệp nòng cốt",
+      "D. Đội ngũ quản lý doanh nghiệp độc lập"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 28,
+    "body_index": 81,
+    "lesson": "Bài 4",
+    "q_num": 46,
+    "id": "q-b4-c46-b6doc81"
+  },
+  {
+    "lesson_num": 4,
+    "question": "Câu 47 [Gốc: Câu 29 trong CNKHXH BAI6.docx]: Phát biểu nào sau đây về khối liên minh giai cấp, tầng lớp ở Việt Nam là ĐÚNG?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 29,
+        "body_index": 84
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Nội dung tôn giáo là nội dung nòng cốt của liên minh",
+      "B. Xây dựng Nhà nước pháp quyền là nội dung văn hóa của liên minh",
+      "C. Đồng thuận xã hội là một mục tiêu quan trọng của liên minh giai cấp, tầng lớp",
+      "D. Đội ngũ doanh nhân bị loại trừ, không tham gia khối liên minh"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 29,
+    "body_index": 84,
+    "lesson": "Bài 4",
+    "q_num": 47,
+    "id": "q-b4-c47-b6doc84"
   },
   {
     "lesson_num": 5,
@@ -5783,6 +6057,11 @@ window.QUIZ_QUESTIONS = [
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
         "question_number": 14,
         "body_index": 1302
+      },
+      {
+        "file": "cac_cau_con_thieu_to_do.docx",
+        "question_number": 30,
+        "body_index": 49
       }
     ],
     "type": "true_false",
@@ -5809,7 +6088,9 @@ window.QUIZ_QUESTIONS = [
     "body_index": 1302,
     "lesson": "Bài 5",
     "q_num": 30,
-    "id": "q-b5-c30-1302"
+    "id": "q-b5-c30-1302",
+    "is_thuong_xuyen": true,
+    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 2"
   },
   {
     "lesson_num": 5,
@@ -6226,6 +6507,397 @@ window.QUIZ_QUESTIONS = [
     "lesson": "Bài 5",
     "q_num": 39,
     "id": "q-b5-c39-1363"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 40 [Gốc: Câu 1 trong CNKHXH BAI6.docx]: Trong Cương lĩnh dân tộc của chủ nghĩa Mác – Lênin, nội dung nào về quyền dân tộc tự quyết được coi là cơ bản trước hết?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 1,
+        "body_index": 0
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Quyền tự quyết về chính trị",
+      "B. Quyền tự quyết về các mối quan hệ quốc tế",
+      "C. Quyền tự quyết về văn hóa",
+      "D. Quyền tự quyết về kinh tế"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 1,
+    "body_index": 0,
+    "lesson": "Bài 5",
+    "q_num": 40,
+    "id": "q-b5-c40-b6doc0"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 41 [Gốc: Câu 4 trong CNKHXH BAI6.docx]: Theo quan điểm duy vật lịch sử, tôn giáo là sản phẩm của yếu tố nào?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 4,
+        "body_index": 9
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Con người",
+      "B. Thượng đế",
+      "C. Lực lượng siêu nhiên",
+      "D. Tự nhiên huyền bí"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 4,
+    "body_index": 9,
+    "lesson": "Bài 5",
+    "q_num": 41,
+    "id": "q-b5-c41-b6doc9"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 42 [Gốc: Câu 9 trong CNKHXH BAI6.docx]: Nhóm yếu tố nào sau đây phản ánh đầy đủ nguồn gốc hình thành và tồn tại của tôn giáo?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 9,
+        "body_index": 24
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Hệ thống tín đồ, tổ chức giáo phẩm và nghi lễ",
+      "B. Cơ sở thờ tự, kinh sách và giáo luật",
+      "C. Nguồn gốc nhận thức, tâm lý và kinh tế - xã hội",
+      "D. Sự can thiệp của các đấng sáng tạo siêu nhiên"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 9,
+    "body_index": 24,
+    "lesson": "Bài 5",
+    "q_num": 42,
+    "id": "q-b5-c42-b6doc24"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 43 [Gốc: Câu 10 trong CNKHXH BAI6.docx]: Khái niệm dân tộc theo nghĩa hẹp được dùng để chỉ khái niệm nào?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 10,
+        "body_index": 27
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Dân tộc quốc gia",
+      "B. Dân tộc tộc người",
+      "C. Cộng đồng đa quốc gia",
+      "D. Liên hiệp các quốc gia"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 10,
+    "body_index": 27,
+    "lesson": "Bài 5",
+    "q_num": 43,
+    "id": "q-b5-c43-b6doc27"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 44 [Gốc: Câu 11 trong CNKHXH BAI6.docx]: Tiêu chí nào mang tính thiêng liêng nhất đối với một dân tộc quốc gia và mỗi thành viên dân tộc?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 11,
+        "body_index": 30
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Lãnh thổ",
+      "B. Thị trường nội địa",
+      "C. Mức sống thu nhập",
+      "D. Ý thức cá nhân"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 11,
+    "body_index": 30,
+    "lesson": "Bài 5",
+    "q_num": 44,
+    "id": "q-b5-c44-b6doc30"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 45 [Gốc: Câu 12 trong CNKHXH BAI6.docx]: Nhận định nào sau đây là SAI khi nói về quyền tự quyết dân tộc trong Cương lĩnh dân tộc Mác – Lênin?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 12,
+        "body_index": 33
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Quyền tự quyết bao gồm quyền tự do tách ra thành quốc gia độc lập",
+      "B. Quyền tự quyết dân tộc không bao gồm nội dung tự nguyện liên hiệp các dân tộc lại",
+      "C. Dân tộc tộc người có đặc trưng về ngôn ngữ riêng",
+      "D. Cương lĩnh dân tộc khẳng định nguyên tắc bình đẳng giữa các dân tộc"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 12,
+    "body_index": 33,
+    "lesson": "Bài 5",
+    "q_num": 45,
+    "id": "q-b5-c45-b6doc33"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 46 [Gốc: Câu 13 trong CNKHXH BAI6.docx]: Hình thái ý thức xã hội phản ánh một cách hoang đường, hư ảo hiện thực khách quan là khái niệm của hiện tượng nào?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 13,
+        "body_index": 36
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Nghệ thuật dân gian",
+      "B. Tôn giáo",
+      "C. Đạo đức xã hội",
+      "D. Triết học khoa học"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 13,
+    "body_index": 36,
+    "lesson": "Bài 5",
+    "q_num": 46,
+    "id": "q-b5-c46-b6doc36"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 47 [Gốc: Câu 14 trong CNKHXH BAI6.docx]: Phát biểu nào sau đây là SAI về sự khác biệt giữa tín ngưỡng và tôn giáo?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 14,
+        "body_index": 39
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Tín ngưỡng có hệ thống giáo lý, giáo luật và tổ chức chặt chẽ như tôn giáo",
+      "B. Nguồn gốc kinh tế - xã hội dẫn đến sự ra đời của tôn giáo",
+      "C. Mê tín dị đoan là niềm tin mù quáng gây hậu quả xấu cần loại bỏ",
+      "D. Tôn giáo phản ánh hiện thực một cách hoang đường, hư ảo"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 14,
+    "body_index": 39,
+    "lesson": "Bài 5",
+    "q_num": 47,
+    "id": "q-b5-c47-b6doc39"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 48 [Gốc: Câu 15 trong CNKHXH BAI6.docx]: Vì sao các tôn giáo ở Việt Nam luôn đồng hành cùng dân tộc và đóng góp tích cực cho sự nghiệp xây dựng, bảo vệ Tổ quốc?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 15,
+        "body_index": 42
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Vì đa số tín đồ là nhân dân lao động có tinh thần yêu nước, chống giặc ngoại xâm",
+      "B. Vì các tôn giáo nắm vai trò lãnh đạo cơ quan quyền lực nhà nước",
+      "C. Vì các tổ chức tôn giáo có quân đội riêng bảo vệ biên giới",
+      "D. Vì các tôn giáo được chi phối bởi các tổ chức quốc tế"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 15,
+    "body_index": 42,
+    "lesson": "Bài 5",
+    "q_num": 48,
+    "id": "q-b5-c48-b6doc42"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 49 [Gốc: Câu 16 trong CNKHXH BAI6.docx]: Đâu là các đặc trưng cơ bản thuộc về dân tộc tộc người?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 16,
+        "body_index": 45
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Lãnh thổ quốc gia, nền kinh tế chung, nhà nước chung",
+      "B. Ngôn ngữ tộc người, văn hóa đặc thù và ý thức tự giác tộc người",
+      "C. Quân đội riêng, hiến pháp riêng, tài chính độc lập",
+      "D. Hệ thống chính trị riêng biệt và tiền tệ riêng"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 16,
+    "body_index": 45,
+    "lesson": "Bài 5",
+    "q_num": 49,
+    "id": "q-b5-c49-b6doc45"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 50 [Gốc: Câu 17 trong CNKHXH BAI6.docx]: Hai nguyên nhân chủ yếu khiến tôn giáo vẫn tiếp tục tồn tại lâu dài trong thời kỳ quá độ là gì?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 17,
+        "body_index": 48
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Do quy định bắt buộc của nhà nước và do các giáo hội nước ngoài thúc đẩy",
+      "B. Do khoa học chưa giải thích hết mọi hiện tượng và xã hội vẫn còn phân hóa, áp bức",
+      "C. Do các thế lực siêu nhiên thực sự tồn tại can thiệp vào đời sống",
+      "D. Do sự phát triển của công nghệ truyền thông"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 17,
+    "body_index": 48,
+    "lesson": "Bài 5",
+    "q_num": 50,
+    "id": "q-b5-c50-b6doc48"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 51 [Gốc: Câu 18 trong CNKHXH BAI6.docx]: Điểm khác biệt căn bản trong quá trình hình thành dân tộc Việt Nam so với các dân tộc phương Tây là gì?",
+    "sources": [
+      {
+        "file": "CNKHXH BAI6.docx",
+        "question_number": 18,
+        "body_index": 51
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Hình thành gắn liền với sự phát triển mạnh mẽ của phương thức tư bản chủ nghĩa",
+      "B. Hình thành do quá trình đồng hóa cưỡng bức của các triều đại phong kiến",
+      "C. Hình thành sớm do đòi hỏi khách quan của công cuộc trị thủy, làm thủy lợi và đoàn kết chống giặc ngoại xâm",
+      "D. Hình thành do dân tộc có quy mô diện tích lãnh thổ nhỏ hẹp"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 18,
+    "body_index": 51,
+    "lesson": "Bài 5",
+    "q_num": 51,
+    "id": "q-b5-c51-b6doc51"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 52 [Gốc: Câu 10 trong cac_cau_con_thieu_to_do.docx]: (Bài 5): Dân tộc được hiểu theo mấy nghĩa?",
+    "sources": [
+      {
+        "file": "cac_cau_con_thieu_to_do.docx",
+        "question_number": 10,
+        "body_index": 26
+      }
+    ],
+    "is_thuong_xuyen": true,
+    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 2",
+    "type": "single_choice",
+    "options": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 10,
+    "body_index": 26,
+    "lesson": "Bài 5",
+    "q_num": 52,
+    "id": "q-b5-c52-tx26"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 53 [Gốc: Câu 28 trong cac_cau_con_thieu_to_do.docx]: (Bài 5 – Đúng/Sai): Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+    "sources": [
+      {
+        "file": "cac_cau_con_thieu_to_do.docx",
+        "question_number": 28,
+        "body_index": 44
+      }
+    ],
+    "is_thuong_xuyen": true,
+    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 2",
+    "type": "true_false",
+    "items": [
+      {
+        "statement": "Dân tộc (quốc gia) không cần lãnh thổ chung",
+        "correct": false
+      },
+      {
+        "statement": "Bình đẳng dân tộc là nội dung cương lĩnh dân tộc của Mác-Lênin",
+        "correct": true
+      },
+      {
+        "statement": "Dân tộc là cộng đồng người có ngôn ngữ riêng và văn hóa đặc thù",
+        "correct": true
+      },
+      {
+        "statement": "Quyền tự quyết dân tộc bao gồm quyền phân lập thành quốc gia độc lập",
+        "correct": true
+      }
+    ],
+    "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
+    "source_q_num": 28,
+    "body_index": 44,
+    "lesson": "Bài 5",
+    "q_num": 53,
+    "id": "q-b5-c53-tx44"
   },
   {
     "lesson_num": 6,

@@ -2,15 +2,16 @@
 
 Ứng dụng trắc nghiệm chạy trực tiếp trong trình duyệt, có phản hồi đúng/sai, lọc theo bài, xáo trộn, kéo thả, lịch sử và ôn lại câu sai. Dữ liệu đã được đối chiếu trực tiếp với [Google Docs nguồn](https://docs.google.com/document/d/1cu38LJeR8I9mVD7imaGD2i-kYiMH0cSk6t9UoXA1Wdc/edit?tab=t.0) ngày 20/10/2026.
 
-Ngân hàng có **đúng 233 câu**, khớp 100% từng câu hỏi và phương án trong file Word người dùng gửi:
+Ngân hàng có **đúng 255 câu** (gồm 233 câu chuẩn từ file GỘP gốc, 19 câu từ file `CNKHXH BAI6.docx`, và 3 câu mới cùng 12 câu bài tập trong `cac_cau_con_thieu_to_do.docx`), phân loại chuẩn xác theo từng chuyên đề:
 - **Bài 1**: 41 câu (Câu 1 đến Câu 41)
-- **Bài 2**: 40 câu (Câu 1 đến Câu 40)
-- **Bài 3**: 41 câu (Câu 1 đến Câu 41)
-- **Bài 4**: 45 câu (Câu 1 đến Câu 45)
-- **Bài 5**: 39 câu (Câu 1 đến Câu 39)
-- **Bài 6**: 27 câu (Câu 1 đến Câu 27)
+- **Bài 2**: 41 câu (Câu 1 đến Câu 41, bổ sung câu so sánh giai đoạn thấp/cao của CSCN)
+- **Bài 3**: 46 câu (Câu 1 đến Câu 46, bổ sung 5 câu về Dân chủ & Nhà nước từ `CNKHXH BAI6.docx`)
+- **Bài 4**: 47 câu (Câu 1 đến Câu 47, bổ sung 2 câu về Cơ cấu XH & Trí thức từ `CNKHXH BAI6.docx`)
+- **Bài 5**: 53 câu (Câu 1 đến Câu 53, bổ sung 12 câu từ `CNKHXH BAI6.docx` và 2 câu từ `cac_cau_con_thieu_to_do.docx`)
+- **Bài 6**: 27 câu (Câu 1 đến Câu 27, bảo lưu 100% 14 câu về Gia đình đã có đầy đủ)
+- **Kiểm Tra TX (12 câu)**: Gồm trọn vẹn 12 bài tập của Bài kiểm tra thường xuyên 1 (5 câu) và 2 (7 câu).
 
-Các dạng bài: 146 câu một đáp án, 39 câu nhiều đáp án, 23 bài Đúng/Sai, 18 bài ghép vế và 7 bài phân loại hai cột.
+Các dạng bài: 167 câu một đáp án, 39 câu nhiều đáp án, 24 bài Đúng/Sai, 18 bài ghép vế và 7 bài phân loại hai cột.
 
 ## Chạy ứng dụng
 
