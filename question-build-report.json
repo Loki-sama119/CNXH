@@ -1,0 +1,99 @@
+{
+  "source_exercises": 233,
+  "duplicate_groups": [
+    [
+      {
+        "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
+        "question_number": 26,
+        "body_index": 150
+      }
+    ],
+    [
+      {
+        "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
+        "question_number": 36,
+        "body_index": 224
+      }
+    ],
+    [
+      {
+        "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
+        "question_number": 10,
+        "body_index": 323
+      }
+    ],
+    [
+      {
+        "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
+        "question_number": 10,
+        "body_index": 647
+      }
+    ],
+    [
+      {
+        "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
+        "question_number": 38,
+        "body_index": 834
+      }
+    ],
+    [
+      {
+        "file": "CHỦ NGHĨA XH-KH (1).docx",
+        "question_number": 23,
+        "body_index": 1152
+      }
+    ],
+    [
+      {
+        "file": "CHỦ NGHĨA XH-KH (1).docx",
+        "question_number": 26,
+        "body_index": 1156
+      }
+    ],
+    [
+      {
+        "file": "CHỦ NGHĨA XH-KH (1).docx",
+        "question_number": 6,
+        "body_index": 1167
+      }
+    ],
+    [
+      {
+        "file": "CHỦ NGHĨA XH-KH (1).docx",
+        "question_number": 7,
+        "body_index": 1170
+      }
+    ],
+    [
+      {
+        "file": "CHỦ NGHĨA XH-KH (1).docx",
+        "question_number": 20,
+        "body_index": 1186
+      }
+    ],
+    [
+      {
+        "file": "CHỦ NGHĨA XH-KH (1).docx",
+        "question_number": 30,
+        "body_index": 1196
+      }
+    ]
+  ],
+  "lesson_counts": {
+    "1": 39,
+    "2": 40,
+    "3": 41,
+    "4": 46,
+    "5": 45,
+    "6": 27
+  },
+  "type_counts": {
+    "single_choice": 152,
+    "multiple_choice": 39,
+    "true_false": 22,
+    "drag_drop_categorize": 7,
+    "drag_drop_match": 18
+  },
+  "total": 238,
+  "tx_count": 12
+}

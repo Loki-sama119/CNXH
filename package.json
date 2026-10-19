@@ -1,0 +1,13 @@
+{
+  "name": "cnxhkh-v6",
+  "version": "6.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/*.test.cjs",
+    "validate": "python verify_questions.py",
+    "build:questions": "python build_merged_questions.py"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}
