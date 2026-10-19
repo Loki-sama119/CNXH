@@ -70,6 +70,10 @@ class QuestionBankTests(unittest.TestCase):
         q = next(q for q in self.bank if q['lesson_num'] == 6 and q['q_num'] == 25)
         self.assertEqual([it['correct'] for it in q['items']], [False, False, False, True])
 
+    def test_bai_5_cau_19_so_luong_ton_giao_answer_is_16(self):
+        q = next(x for x in self.bank if x['lesson_num'] == 5 and 'xác định số lượng tôn giáo' in x['question'])
+        self.assertEqual(q['options'][q['correct_answers'][0]], 'C. 16')
+
     def test_validation_rejects_corrupt_answer_and_duplicate_content(self):
         bad = copy.deepcopy(self.bank)
         bad[0]['correct_answers'] = [99]

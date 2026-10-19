@@ -232,6 +232,9 @@ def repair(q):
             q['options'] = [re.sub(r'^([A-D]\. )', r'\1Nhà nước ', o) for o in q['options']]
         if 'nguyên tắc nào sau đây' in q['question']:
             q['options'] = [o.replace('D. quản lý xã hội', 'D. Nhà nước quản lý xã hội') for o in q['options']]
+    if q['lesson_num'] == 5:
+        if 'xác định số lượng tôn giáo' in q['question']:
+            q['correct_answers'] = [2]  # C. 16 tôn giáo (43 là số tổ chức tôn giáo)
     return q
 
 

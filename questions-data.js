@@ -5761,7 +5761,7 @@ window.QUIZ_QUESTIONS = [
       "D. 43"
     ],
     "correct_answers": [
-      3
+      2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "source_q_num": 19,
