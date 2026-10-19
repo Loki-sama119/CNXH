@@ -1,35 +1,27 @@
 # Đối chiếu nội dung Word với ngân hàng v6
 
-Nguồn chính là bản `GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx` người dùng gửi. Bản trong repo khớp SHA256 với bản nguồn. Việc đối chiếu kiểm tra độ đầy đủ của câu hỏi, lựa chọn, đáp án theo Word, mệnh đề Đúng/Sai và nội dung bảng; không thay thế việc thẩm định kiến thức trong nguồn.
+Nguồn chính hiện là bản `GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx` xuất trực tiếp từ [Google Docs người dùng cung cấp](https://docs.google.com/document/d/1cu38LJeR8I9mVD7imaGD2i-kYiMH0cSk6t9UoXA1Wdc/edit?tab=t.0), được kiểm tra ngày 20/10/2026. Bản xuất khớp nội dung và màu đánh dấu đáp án với 1.574 phần tử đọc trực tiếp từ Google Docs. Mã SHA256 và lần đồng bộ được lưu trong `google-docs-source.json`. Nội dung câu hỏi và đáp án không thay đổi so với nguồn Word trước đó.
+
+Việc đối chiếu kiểm tra độ đầy đủ của câu hỏi, lựa chọn, đáp án theo Word, mệnh đề Đúng/Sai và nội dung bảng; không thay thế việc thẩm định kiến thức trong nguồn.
 
 ## Kết quả kiểm tra độc lập
 
-Đọc trực tiếp XML trong Word tìm được **233 mục bài tập**, **25 bảng kéo thả** và **4 mục không đánh số**. Cả 233 mục đều có vị trí tương ứng trong ngân hàng. Không có bảng hoặc đoạn nội dung nằm ngoài các mục đã nhận diện.
+Đọc trực tiếp XML trong Word tìm được **233 mục bài tập** và **25 bảng kéo thả**. 4 câu trước đây bị khuyết số câu trong bản gốc (`Câu : `) nay đã được điền số câu chuẩn xác trực tiếp vào file Word:
 
-Bốn câu khuyết số đang nằm trên web tại:
-
-- Bài 3, Câu 31: quan hệ giữa dân chủ xã hội chủ nghĩa và nhà nước xã hội chủ nghĩa.
+- Bài 3, Câu 32: quan hệ giữa dân chủ xã hội chủ nghĩa và nhà nước xã hội chủ nghĩa.
 - Bài 4, Câu 45: ghép các nội dung về liên minh giai cấp, tầng lớp.
 - Bài 5, Câu 38: ghép các phát biểu về quyền dân tộc.
 - Bài 5, Câu 39: ghép các phát biểu về tôn giáo, tín ngưỡng.
 
-## Vì sao các tổng số khác nhau
+Hiện tại toàn bộ 233 mục bài tập trong file Word đều đã có số câu đầy đủ (0 câu khuyết số), bảo lưu độc lập 100% trong ngân hàng câu hỏi (không gộp bất kỳ câu nào thành biến thể), tương ứng chính xác với từng câu trong file Word.
 
-Đếm trong Word trước khi gộp: **185 câu chọn đáp án + 23 cụm Đúng/Sai + 25 bài kéo thả = 233 mục**. Nếu tách mỗi cụm Đúng/Sai thành bốn mệnh đề, tổng là **185 + 92 + 25 = 302**.
+## Phân bố và đánh số câu theo từng bài
 
-Năm mục dùng chung một câu trên web: Bài 1 câu nguồn 20/26, Bài 1 cụm 33/36, Bài 2 câu 7/10, Bài 3 câu 5/10, và hai cụm Đúng/Sai cùng mang số 38 ở Bài 3. Hai cụm Đúng/Sai lặp có cùng mệnh đề và đáp án nhưng đổi thứ tự. Ba cặp câu chọn đáp án có cách hỏi hoặc lựa chọn khác nhau; mọi phiên bản đều được giữ và có thể chọn để làm trong cùng một mục.
+- **Bài 1 (41 câu)**: Đánh số từ Câu 1 đến Câu 41, khớp 100% với số thứ tự trong file Word gốc.
+- **Bài 2 (40 câu)**: Đánh số từ Câu 1 đến Câu 40, khớp 100% với số thứ tự trong file Word gốc.
+- **Bài 3 (41 câu)**: Đánh số tuần tự từ Câu 1 đến Câu 41. Các câu số 29–41 có nhãn `[Gốc: Câu X]` để đối chiếu với các số ghi nhảy cóc trong Word.
+- **Bài 4 (45 câu)**: Đánh số tuần tự từ Câu 1 đến Câu 45. Các câu số 34–45 có nhãn `[Gốc: Câu X]` tương ứng.
+- **Bài 5 (39 câu)**: Đánh số tuần tự từ Câu 1 đến Câu 39. Các câu số 29–39 có nhãn `[Gốc: Câu X]` tương ứng.
+- **Bài 6 (27 câu)**: Đánh số từ Câu 1 đến Câu 27, khớp 100% với số thứ tự trong file Word gốc.
 
-Riêng nguồn Word chính sau khi gộp thành các mục không lặp: **228 mục = 182 câu chọn đáp án + 21 cụm Đúng/Sai + 25 bài kéo thả**. Tách 21 cụm thành 84 mệnh đề thì có **291 đơn vị**, theo cùng cách đếm “mỗi mệnh đề là một câu”. Tổng theo bài khi dùng cách này:
-
-- Bài 1: 31 chọn đáp án + 16 mệnh đề + 4 kéo thả = **51**.
-- Bài 2: 31 chọn đáp án + 20 mệnh đề + 3 kéo thả = **54**.
-- Bài 3: 31 chọn đáp án + 16 mệnh đề + 4 kéo thả = **51**.
-- Bài 4: 36 chọn đáp án + 16 mệnh đề + 5 kéo thả = **57**.
-- Bài 5: 30 chọn đáp án + 8 mệnh đề + 7 kéo thả = **45**.
-- Bài 6: 23 chọn đáp án + 8 mệnh đề + 2 kéo thả = **33**.
-
-Ngân hàng toàn web có thêm 10 mục riêng từ hai tài liệu bổ sung, nên hiển thị **238 mục bài tập**. Nếu tách mệnh đề Đúng/Sai, toàn web có **304 đơn vị**. Tab TX là nhãn trên 12 câu đã có, không cộng thêm bản sao.
-
-Bảng người dùng gửi cộng các hàng thành **292**, và cột kéo thả cộng thành **30**; các tổng ghi 291 và 29 trong bảng đó không khớp phép cộng từng hàng. Cách phân loại trong bảng cũng khác kết quả đọc trực tiếp Word ở trên.
-
-Chạy `python audit_word_coverage.py` để tái kiểm tra. Tệp `word-coverage-report.json` chứa ánh xạ từng mục theo vị trí XML sang mã câu và số câu trên web. Bộ test cố ý xoá phiên bản thay thế để xác nhận việc thiếu nội dung sẽ bị phát hiện.
+Tổng cộng toàn bộ web app có đúng **233 câu bài tập**, bảo toàn 100% câu hỏi và đáp án từ Google Docs. Chạy `python audit_word_coverage.py` và `python verify_questions.py` để kiểm tra tự động.

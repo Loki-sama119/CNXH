@@ -6,8 +6,8 @@ from pathlib import Path
 
 
 def validate_questions(questions):
-    from build_merged_questions import exercise_key, normal
-    errors, ids, keys = [], set(), set()
+    from build_merged_questions import clean, normal
+    errors, ids = [], set()
     counts = Counter()
     for q in questions:
         label = f'{q.get("lesson")} / {q.get("q_num")} ({q.get("id")})'
@@ -16,15 +16,12 @@ def validate_questions(questions):
                 errors.append(f'{label}: {message}')
         require(q.get('id') not in ids, 'duplicate ID')
         ids.add(q.get('id'))
-        key = exercise_key(q)
-        require(key not in keys, 'duplicate exercise content')
-        keys.add(key)
         lesson = q.get('lesson_num')
         require(lesson in range(1, 7) and q.get('lesson') == f'Bài {lesson}', 'invalid lesson')
         counts[lesson] += 1
         require(q.get('q_num') == counts[lesson], 'nonsequential lesson number')
         require(bool(q.get('sources')), 'missing source')
-        require(q.get('question', '').startswith(f'Câu {q.get("q_num")}: '), 'title number mismatch')
+        require(bool(re.match(rf'^Câu\s*{q.get("q_num")}\b', q.get('question', ''))), 'title number mismatch')
         t = q['type']
         if t in ('single_choice', 'multiple_choice'):
             opts, answers = q.get('options', []), q.get('correct_answers', [])

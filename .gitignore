@@ -9,3 +9,4 @@ Desktop.ini
 node_modules/
 tests/results/
 playwright-report/
+.venv/

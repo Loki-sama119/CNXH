@@ -43,13 +43,9 @@ function questionContentKey(q) {
 }
 
 function uniqueQuestions(questions) {
-  const keys = new Set();
   const ids = new Set();
   return questions.filter(q => {
-    const key = questionContentKey(q);
-    if (keys.has(key)) return false;
-    if (ids.has(q.id)) throw new Error(`Mã câu hỏi bị trùng: ${q.id}`);
-    keys.add(key);
+    if (ids.has(q.id)) return false;
     ids.add(q.id);
     return true;
   });
@@ -260,8 +256,13 @@ function updateLessonTabCounts() {
     }
   }
   const countTxEl = document.getElementById('count-tx');
+  const txTabBtn = document.querySelector('button[data-lesson="tx"]');
+  const txCount = allQuestions.filter(q => q.is_thuong_xuyen).length;
   if (countTxEl) {
-    countTxEl.textContent = allQuestions.filter(q => q.is_thuong_xuyen).length;
+    countTxEl.textContent = txCount;
+  }
+  if (txTabBtn) {
+    txTabBtn.style.display = txCount > 0 ? '' : 'none';
   }
 }
 
@@ -399,10 +400,15 @@ function renderCurrentQuestion() {
     ? `<span class="badge-tx-pill">${q.test_group && q.test_group.includes('1') ? '⚡ KT Thường Xuyên 1' : '⚡ KT Thường Xuyên 2'}</span>`
     : '';
 
+  const sourceBadge = (q.source_q_num !== null && q.source_q_num !== undefined && q.source_q_num !== q.q_num)
+    ? `<span class="badge-source-pill" title="Số thứ tự câu trong file Word gốc">Gốc: Câu ${q.source_q_num}</span>`
+    : (q.source_q_num === null ? `<span class="badge-source-pill" title="Câu này trong file Word gốc chưa đánh số">Gốc: Chưa đánh số</span>` : '');
+
   heroCard.innerHTML = `
     <div class="hero-meta">
       <div class="hero-meta-left">
         <span class="badge-lesson-pill">${q.lesson} - Câu ${q.q_num}</span>
+        ${sourceBadge}
         ${txBadge}
         <span class="badge-type-pill">${typeLabel}</span>
       </div>

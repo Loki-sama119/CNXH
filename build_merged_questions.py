@@ -22,6 +22,7 @@ def clean(text):
 
 
 def normal(text):
+    text = re.sub(r'\[Gốc:[^\]]*\]', '', text, flags=re.I)
     text = re.sub(r'^(?:Câu\s*\d+\s*[:.]?|[A-F\d]+[.)])\s*', '', clean(text), flags=re.I)
     text = re.sub(r'\(Bài\s*\d+[^)]*\)\s*:', '', text, flags=re.I)
     text = re.sub(r'\(chọn\s+[^)]*\)', '', text, flags=re.I)
@@ -29,15 +30,15 @@ def normal(text):
 
 
 def exercise_key(q):
-    """Ignore numbering/order and generic titles; compare the actual exercise."""
+    """Normalized signature of the exercise content."""
     if q['type'] in ('single_choice', 'multiple_choice'):
-        body = normal(q['question'])
+        body = [normal(q['question']), sorted(normal(o) for o in q.get('options', []))]
     elif q['type'] == 'true_false':
-        body = sorted(normal(it['statement']) for it in q['items'])
+        body = [(normal(it['statement']), it.get('correct')) for it in q.get('items', [])]
     elif q['type'] == 'drag_drop_match':
-        body = sorted((normal(p['left']), normal(p['right'])) for p in q['pairs'])
+        body = sorted((normal(p['left']), normal(p['right'])) for p in q.get('pairs', []))
     else:
-        body = sorted((normal(it['text']), normal(it['category'])) for it in q['all_items'])
+        body = sorted((normal(it['text']), normal(it['category'])) for it in q.get('all_items', []))
     return json.dumps([q['type'], body], ensure_ascii=False, sort_keys=True)
 
 
@@ -236,81 +237,43 @@ def repair(q):
 
 def build_bank():
     blocks = read_blocks(ROOT / MERGED)
-    duplicates, bank, keys = [], [], {}
-    def keep_choice_variant(kept, incoming):
-        if 'options' not in kept or 'options' not in incoming:
-            return
-        def signature(q):
-            return (normal(q['question']), tuple(map(normal, q['options'])), tuple(q['correct_answers']))
-        fields = ('question', 'type', 'options', 'correct_answers', 'instruction', 'sources')
-        if signature(kept) != signature(incoming):
-            variants = kept.setdefault('variants', [{k: copy.deepcopy(kept[k]) for k in fields}])
-            if all(signature(v) != signature(incoming) for v in variants):
-                variants.append({k: copy.deepcopy(incoming[k]) for k in fields})
-    def add(q):
-        key = exercise_key(q)
-        if key in keys:
-            kept = keys[key]
-            same_options = sorted(map(normal, kept.get('options', []))) == sorted(map(normal, q.get('options', [])))
-            if answer_key(kept) != answer_key(q) and same_options:
-                raise ValueError(f'Conflicting duplicate answers: {kept["sources"]} / {q["sources"]}')
-            keep_choice_variant(kept, q)
-            kept['sources'].extend(q['sources'])
-            if q.get('is_thuong_xuyen'):
-                kept.update(is_thuong_xuyen=True, test_group=q['test_group'])
-            duplicates.append(q['sources'])
-            return kept
-        keys[key] = q
-        bank.append(q)
-        return q
-    # Reviewed paraphrases with the same task and correct concept.
-    aliases = {(2, 10): (2, 7), (3, 10): (3, 5)}
-    locations = {}
+    bank = []
+    lesson_counters = Counter()
     for b in blocks:
         q = repair(parse_block(b, MERGED))
-        loc = (b['lesson_num'], b['source_q_num'])
-        if loc in aliases:
-            target = locations[aliases[loc]]
-            keep_choice_variant(target, q)
-            target['sources'].extend(q['sources'])
-            duplicates.append(q['sources'])
-        else:
-            locations.setdefault(loc, add(q))
-    # BAI6 has mixed topics. Import only distinct supplementary tasks to their actual lessons.
-    supplement_lessons = {12: 5, 13: 5, 14: 5, 16: 5, 25: 3, 26: 3, 29: 4}
-    for b in read_blocks(ROOT / SUPPLEMENT):
-        if b['source_q_num'] in supplement_lessons:
-            b['lesson_num'] = supplement_lessons[b['source_q_num']]
-            add(repair(parse_block(b, SUPPLEMENT)))
-    for b in read_blocks(ROOT / TX_SOURCE, tx_only=True):
-        if b['source_q_num'] == 19 and b['lesson_num'] == 4:
-            target = next(q for q in bank if q['lesson_num'] == 4 and q['type'] == 'drag_drop_categorize' and q['categories'][0]['title'] == 'Giai cấp/tầng lớp trong cơ cấu xã hội')
-            target.update(is_thuong_xuyen=True, test_group=b['test_group'])
-            target['sources'].append(dict(file=TX_SOURCE, question_number=19, body_index=b['source_index']))
-            continue
-        q = repair(parse_block(b, TX_SOURCE))
-        # These two TX variants have minor wording changes but identical tasks/answers.
-        if b['source_q_num'] == 22 and b['lesson_num'] == 1:
-            target = next(x for x in bank if x['lesson_num'] == 1 and 'Giai cấp tư sản, trong quá trình' in x['question'])
-        elif b['source_q_num'] == 30 and b['lesson_num'] == 3:
-            target = next(x for x in bank if x['lesson_num'] == 3 and 'mối quan hệ giữa dân chủ' in x['question'])
-        else:
-            target = None
-        if target:
-            target.update(is_thuong_xuyen=True, test_group=b['test_group'])
-            target['sources'].extend(q['sources'])
-        else:
-            add(q)
-    counts = Counter()
-    bank.sort(key=lambda q: q['lesson_num'])
-    for q in bank:
         lesson = q['lesson_num']
-        counts[lesson] += 1
-        q.update(id='q-' + hashlib.sha256(exercise_key(q).encode()).hexdigest()[:16], lesson=f'Bài {lesson}', q_num=counts[lesson])
-        q['question'] = f'Câu {q["q_num"]}: {q["question"]}'
-    return bank, dict(source_exercises=len(blocks), duplicate_groups=duplicates, lesson_counts=dict(counts),
-                     type_counts=dict(Counter(q['type'] for q in bank)), total=len(bank),
-                     tx_count=sum(bool(q.get('is_thuong_xuyen')) for q in bank))
+        lesson_counters[lesson] += 1
+        seq_num = lesson_counters[lesson]
+        source_num = b['source_q_num']
+        body_idx = b['source_index']
+
+        q['source_q_num'] = source_num
+        q['body_index'] = body_idx
+        q['lesson'] = f"Bài {lesson}"
+        q['q_num'] = seq_num
+        q['id'] = f"q-b{lesson}-c{seq_num}-{body_idx}"
+
+        clean_title = q['question'].strip()
+        clean_title = re.sub(r'^(?:Câu\s*\d+\s*[:.]?|[A-F\d]+[.)])\s*', '', clean_title, flags=re.I).strip()
+
+        if source_num is not None and source_num != seq_num:
+            q['question'] = f"Câu {seq_num} [Gốc: Câu {source_num}]: {clean_title}"
+        elif source_num is None:
+            q['question'] = f"Câu {seq_num} [Gốc: Chưa đánh số]: {clean_title}"
+        else:
+            q['question'] = f"Câu {seq_num}: {clean_title}"
+
+        bank.append(q)
+
+    bank.sort(key=lambda item: item['lesson_num'])
+    return bank, dict(
+        source_exercises=len(blocks),
+        duplicate_groups=[],
+        lesson_counts=dict(lesson_counters),
+        type_counts=dict(Counter(q['type'] for q in bank)),
+        total=len(bank),
+        tx_count=0
+    )
 
 
 def main():
@@ -321,10 +284,11 @@ def main():
         raise ValueError('\n'.join(errors))
     payload = json.dumps(bank, ensure_ascii=False, indent=2)
     (ROOT / 'questions.json').write_text(payload + '\n', encoding='utf-8')
-    legacy = json.loads((ROOT / 'legacy-question-ids.json').read_text(encoding='utf-8')) if (ROOT / 'legacy-question-ids.json').exists() else {}
-    (ROOT / 'questions-data.js').write_text('window.QUIZ_BANK_VERSION = "v6-20261019-word-audit";\nwindow.QUIZ_LEGACY_IDS = ' + json.dumps(legacy) + ';\nwindow.QUIZ_QUESTIONS = ' + payload + ';\n', encoding='utf-8')
+    legacy = {str(i): q['id'] for i, q in enumerate(bank, 1)}
+    (ROOT / 'legacy-question-ids.json').write_text(json.dumps(legacy, indent=2) + '\n', encoding='utf-8')
+    (ROOT / 'questions-data.js').write_text('window.QUIZ_BANK_VERSION = "v6-20261020-exact-word-233";\nwindow.QUIZ_LEGACY_IDS = ' + json.dumps(legacy) + ';\nwindow.QUIZ_QUESTIONS = ' + payload + ';\n', encoding='utf-8')
     (ROOT / 'question-build-report.json').write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
-    print(json.dumps(report, ensure_ascii=False))
+    print(json.dumps(report, ensure_ascii=False, indent=2))
 
 
 if __name__ == '__main__':

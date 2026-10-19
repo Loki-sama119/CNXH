@@ -652,6 +652,24 @@ input:checked + .slider:before { transform: translateX(18px); }
   gap: 0.25rem;
 }
 
+.badge-source-pill {
+  font-size: 0.78rem;
+  font-weight: 700;
+  padding: 0.25rem 0.65rem;
+  border-radius: var(--radius-full);
+  background: rgba(245, 158, 11, 0.12);
+  color: #b45309;
+  border: 1px solid rgba(245, 158, 11, 0.3);
+  display: inline-flex;
+  align-items: center;
+}
+
+[data-theme="dark"] .badge-source-pill {
+  background: rgba(245, 158, 11, 0.2);
+  color: #fbbf24;
+  border-color: rgba(245, 158, 11, 0.4);
+}
+
 .question-counter-pill {
   font-size: 0.9rem;
   font-weight: 800;

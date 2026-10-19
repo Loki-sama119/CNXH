@@ -1,10 +1,16 @@
 # Ôn tập Chủ nghĩa xã hội khoa học v6
 
-Ứng dụng trắc nghiệm chạy trực tiếp trong trình duyệt, có phản hồi đúng/sai, lọc theo bài, xáo trộn, kéo thả, lịch sử và ôn lại câu sai. Dữ liệu được xây dựng lại từ bản Word cập nhật ngày 19/10/2026.
+Ứng dụng trắc nghiệm chạy trực tiếp trong trình duyệt, có phản hồi đúng/sai, lọc theo bài, xáo trộn, kéo thả, lịch sử và ôn lại câu sai. Dữ liệu đã được đối chiếu trực tiếp với [Google Docs nguồn](https://docs.google.com/document/d/1cu38LJeR8I9mVD7imaGD2i-kYiMH0cSk6t9UoXA1Wdc/edit?tab=t.0) ngày 20/10/2026.
 
-Ngân hàng có **238 câu duy nhất**: Bài 1 có 39 câu, Bài 2 có 40, Bài 3 có 41, Bài 4 có 46, Bài 5 có 45 và Bài 6 có 27. **12 câu kiểm tra thường xuyên** là nhãn trên câu gốc, không cộng thêm bản sao vào tổng số.
+Ngân hàng có **đúng 233 câu**, khớp 100% từng câu hỏi và phương án trong file Word người dùng gửi:
+- **Bài 1**: 41 câu (Câu 1 đến Câu 41)
+- **Bài 2**: 40 câu (Câu 1 đến Câu 40)
+- **Bài 3**: 41 câu (Câu 1 đến Câu 41)
+- **Bài 4**: 45 câu (Câu 1 đến Câu 45)
+- **Bài 5**: 39 câu (Câu 1 đến Câu 39)
+- **Bài 6**: 27 câu (Câu 1 đến Câu 27)
 
-Các dạng bài: 152 câu một đáp án, 39 câu nhiều đáp án, 22 bài Đúng/Sai, 18 bài ghép vế và 7 bài phân loại hai cột.
+Các dạng bài: 146 câu một đáp án, 39 câu nhiều đáp án, 23 bài Đúng/Sai, 18 bài ghép vế và 7 bài phân loại hai cột.
 
 ## Chạy ứng dụng
 
@@ -16,16 +22,12 @@ python -m http.server 8080
 
 Sau đó mở http://localhost:8080.
 
-## Nguồn và cách gộp
+## Nguồn dữ liệu và cách đánh số
 
-- `GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx` là nguồn chính. Toàn bộ 233 bài tập, gồm bốn bài không đánh số, đều được lưu dấu nguồn trong ngân hàng; các bài trùng dùng chung một câu.
-- `CNKHXH BAI6.docx` cung cấp bảy bài bổ sung có nội dung riêng. Các câu dân chủ được xếp vào Bài 3, liên minh vào Bài 4, dân tộc và tôn giáo vào Bài 5.
-- Phần kiểm tra thường xuyên trong `CHỦ NGHĨA XH-KH (1).docx` bổ sung ba bài và gắn nhãn cho các câu đã có.
-- Đáp án được đọc theo màu chữ của từng đoạn ký tự hoặc dòng đáp án ghi rõ trong Word. Các đáp án trong nguồn được giữ nguyên; kiểm thử xác nhận việc trích xuất và chấm điểm theo dữ liệu này.
-- Trùng nội dung được nhận diện sau khi bỏ số câu, dấu câu và thứ tự các mệnh đề/cặp ghép. Một số câu diễn đạt lại đã được đối chiếu và gộp rõ trong trình xây dựng. Nếu cùng câu và cùng lựa chọn có đáp án mâu thuẫn, quá trình xây dựng dừng để kiểm tra.
-- Các câu được gộp nhưng có cách hỏi hoặc bộ lựa chọn khác được giữ thành các phiên bản trong cùng một mục. Chọn “Các cách hỏi trong tài liệu Word” trước khi trả lời để làm từng phiên bản. Mã câu và tổng số câu không tăng lặp.
-- `WORD_COVERAGE.md` giải thích cách đếm; `word-coverage-report.json` đối chiếu độc lập 233 mục trong XML của Word với từng câu trên web, bao gồm bốn câu không đánh số và đầy đủ phương án/mệnh đề/cặp ghép.
-- Mã câu dựa trên nội dung, độc lập với số thứ tự hiển thị. `legacy-question-ids.json` quy đổi 263 mã của bản cũ để phần ôn lại câu sai tiếp tục hoạt động.
+- `GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx` là bản xuất trực tiếp từ Google Docs nguồn. Toàn bộ 233 bài tập được bảo lưu nguyên vẹn, không gộp bất kỳ câu nào thành biến thể.
+- Mọi câu hỏi đều được đánh số tuần tự trong từng bài từ Câu 1 đến hết. Đối với các câu ở Bài 3, Bài 4, Bài 5 có số thứ tự trong bản Word gốc nhảy cóc hoặc chưa đánh số, ứng dụng hiển thị thêm nhãn `[Gốc: Câu X]` hoặc `[Gốc: Chưa đánh số]` để người học dễ dàng đối chiếu trực tiếp với file Word.
+- Toàn bộ đáp án đúng (bôi đỏ hoặc ghi chú đáp án) trong file Word đều được giữ chuẩn xác 100%.
+- `WORD_COVERAGE.md` và `word-coverage-report.json` đối chiếu độc lập 233 mục trong XML của Word với từng câu trên web, đạt tỷ lệ khớp 233/233 mục (0 lỗi).
 
 ## Xây dựng lại dữ liệu và kiểm thử
 

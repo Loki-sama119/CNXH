@@ -1,5 +1,5 @@
-window.QUIZ_BANK_VERSION = "v6-20261019-word-audit";
-window.QUIZ_LEGACY_IDS = {"1": "q-bf3e14bea1ab8901", "2": "q-c7afa72d4749d429", "3": "q-0ce6bf82ad03fe26", "4": "q-cc974194aace5956", "5": "q-9c7c14d1eabdd60f", "6": "q-49a181d97e694c1a", "7": "q-28c2c158f1a04b6b", "8": "q-6dc3a51e62dfdaab", "9": "q-ee53004f75251c08", "10": "q-a511cf51b3b4d19f", "11": "q-17b925400fa1c047", "12": "q-f2682617837bc5be", "13": "q-4e2f5db71bc0a01c", "14": "q-57d72999ae0cf42c", "15": "q-1d8974047eefeed4", "16": "q-835f6c1250cee3ad", "17": "q-7954dabb1e11b7a5", "18": "q-63c0f1cd57b2c2f4", "19": "q-986339b5d3635a1b", "20": "q-0c85f9191ce42e4f", "21": "q-73d55b0acc400dd0", "22": "q-482bac5f61202dbb", "23": "q-44d328e3cebb829c", "24": "q-e18e1fac87d687da", "25": "q-f48d0ae1e03d9790", "26": "q-0c85f9191ce42e4f", "27": "q-20deb9dd333cefdc", "28": "q-9670234fec640bf4", "29": "q-36492080427beb09", "30": "q-ebd29be396bf6790", "31": "q-fb38e50f6cd16971", "32": "q-6af503c3b7b1de02", "33": "q-d8e26c1e17e0f94d", "34": "q-48350906fbde73f5", "35": "q-277ef307a88f99ec", "36": "q-95b0dd96dcabab3d", "37": "q-cbfd657539b20da7", "38": "q-1a7ba22902d9505e", "39": "q-b48c59058445346f", "40": "q-9c5c2546252e94f4", "41": "q-dc51f8effcf94351", "42": "q-8e050b583070c812", "43": "q-6326ca7b7f602fb5", "44": "q-8354b8309975253c", "45": "q-86a1fb6f755b89e7", "46": "q-2d4459fbabcc50d3", "47": "q-b42b38a575f45551", "48": "q-e94af9856407fdd1", "49": "q-8cddd46ea9261612", "50": "q-b42b38a575f45551", "51": "q-bc84293fdb7a4735", "52": "q-5a65305527e8083b", "53": "q-ecada66203e5fe29", "54": "q-712afdea61d21706", "55": "q-6e917b60be84b0d9", "56": "q-22979052a06a650b", "57": "q-489915730154604d", "58": "q-3bdfd3c348e32c7c", "59": "q-0e77275d3afd1ffe", "60": "q-c03ae95bfd2b44d7", "61": "q-69fab887746aa701", "62": "q-4877a555b0e384db", "63": "q-90967e7180e34412", "64": "q-6199fab064db1cae", "65": "q-75591711c1e15d7f", "66": "q-969bb8a3dc2ea703", "67": "q-9d63c4f0bbd1aac0", "68": "q-c0fa321b18fafb12", "69": "q-6387a4a38b787733", "70": "q-e2c622cf5217ad53", "71": "q-f0296d877941e644", "72": "q-f10a2a0e737b3865", "73": "q-8ca118eff0e9122a", "74": "q-6508169887e88664", "75": "q-9d04540073d9d1b6", "76": "q-0638388e0c24606e", "77": "q-ebba9b0759d2fb21", "78": "q-2d89f3032a16fd44", "79": "q-604d401be1585bb0", "80": "q-29b464db6143adea", "81": "q-604d401be1585bb0", "82": "q-68df110792f6db75", "83": "q-b77a7edd9a45e5ac", "84": "q-c91190d8023ccdf4", "85": "q-0dfb5019cbf46be6", "86": "q-3eb53f3fedfb5004", "87": "q-9012f389ce4e8b78", "88": "q-28c71af972a0ebc3", "89": "q-68ba97f421a435b9", "90": "q-f76b5a076cd6b6bc", "91": "q-b645ce2839b88ca1", "92": "q-9012f389ce4e8b78", "93": "q-84ac6af5206f1587", "94": "q-21a9e937fe0631b1", "95": "q-f502ea07f4a72f97", "96": "q-30835ceeefb687dc", "97": "q-501471f6efa4f6df", "98": "q-fb96c41d3e254388", "99": "q-b2264acdda90c0cb", "100": "q-d6cad0f7dfb9c1b5", "101": "q-b3c0e2ec7d53d030", "102": "q-c562fcd3f65442eb", "103": "q-48aa8d1c0ff9ec69", "104": "q-597ad6eb34fcec91", "105": "q-3493c717a345d171", "106": "q-a1a86601fd842da3", "107": "q-542714076a2849b9", "108": "q-7340e08090888206", "109": "q-746494ad76c7239a", "110": "q-b3b1d4c81c188ff6", "111": "q-50a2d5556b4a6289", "112": "q-9965f18433d9f726", "113": "q-a170f8d20fb9fd5b", "114": "q-b753417b0346cd11", "115": "q-fb51121319e41f5e", "116": "q-922e0340771fda58", "117": "q-f5a947ed498ddf02", "118": "q-a5600c37c52f1436", "119": "q-fc94419409e73be6", "120": "q-1ca473855a9a051a", "121": "q-a8576b8f0b599ea8", "122": "q-ea5418ab7947b0d6", "123": "q-25e196e1a6d876e8", "124": "q-4db6ba6707310346", "125": "q-b7567470ae4f00df", "126": "q-a7034b0a9217fb32", "127": "q-1dc75ef5fe9e60d6", "128": "q-bbade14330bc4fce", "129": "q-42272746cea3034b", "130": "q-1e0bb5cb61f90ded", "131": "q-47ceef16e6024ac7", "132": "q-5154318f3b060844", "133": "q-bb8a742f3a53da4e", "134": "q-3a11204f046f009a", "135": "q-a462472130b2387e", "136": "q-0a63e505a753afbb", "137": "q-855c3f3981ac4533", "138": "q-2379bba53c1dab75", "139": "q-89d7eb95bcaf2f77", "140": "q-8523ee7fae53663e", "141": "q-61f2c608b8e4c5bd", "142": "q-2abf0cf14e35340c", "143": "q-64c07a05bdd7fa1e", "144": "q-03b9fbb969619c76", "145": "q-fc20e9d931dac28c", "146": "q-e5ed7a0f959dd368", "147": "q-58017b46d7bbd9b0", "148": "q-f2301684528b76dc", "149": "q-be9d859bac568c69", "150": "q-6afea36c190d5c25", "151": "q-0343f77ddf85e35e", "152": "q-97bd41504914d9fa", "153": "q-3d0f2e6e70f6617e", "154": "q-e848067144e612cf", "155": "q-eeb35a5141f6fd2c", "156": "q-f0ccb02c0b109479", "157": "q-bccf64dd2a6dcb8e", "158": "q-95535b12080b26cb", "159": "q-d1bde1b7666b578b", "160": "q-96eba8e87f5953e2", "161": "q-1b58ab5265365737", "162": "q-583947f598544f07", "163": "q-558bceec789f63ab", "164": "q-f30c76d9797a7ba7", "165": "q-784693d63af35e68", "166": "q-c8ca90c4a4ee264a", "167": "q-71d14e9c70c1ff57", "168": "q-85cce9962eaa4620", "169": "q-6b73d8b0a5444721", "170": "q-9fb97c6432fede40", "171": "q-57e3f69bdcb8b5c7", "172": "q-097df58902b10de3", "173": "q-4868274889d7e940", "174": "q-7f60a93b0372a5a8", "175": "q-5d9a3a7aef626697", "176": "q-833240dab859bdd3", "177": "q-fef6447552f65e10", "178": "q-6d694afaafaaa509", "179": "q-be7df5675494ef61", "180": "q-aaa7b1b328739b0e", "181": "q-1ece79054ba90ab3", "182": "q-56239252183c7e54", "183": "q-deff10495739974c", "184": "q-403ee3a9a6768998", "185": "q-f7999aa9a34b5aed", "186": "q-66e7d54fb15c7a62", "187": "q-2c7fa0a1b2bd5e9f", "188": "q-9dbe40792fa56963", "189": "q-f6dc369e7ee9922d", "190": "q-d038fbed1e980920", "191": "q-0421a40894ab7d72", "192": "q-fbc428fdceae6a9a", "193": "q-df0f3435a303ea53", "194": "q-f887b4de26a71330", "195": "q-2c92eda452e12fea", "196": "q-4579923feb5cd25f", "197": "q-a33ae17ebc85f1e2", "198": "q-d1935cbe58aea38e", "199": "q-0eb510a2d05f79aa", "200": "q-ca001170d1c8b3e6", "201": "q-3356c1f7de35e3f6", "202": "q-dc608d6982e578cb", "203": "q-e07a7860116ebf45", "204": "q-762d3ae205e0ebc6", "205": "q-1c267dbfde9c7f99", "206": "q-9800310130de7349", "207": "q-b9e3e03cf6146bad", "208": "q-ce787d0e0481a51e", "209": "q-097df58902b10de3", "210": "q-6b73d8b0a5444721", "211": "q-2c92eda452e12fea", "212": "q-aaa7b1b328739b0e", "213": "q-fbc428fdceae6a9a", "214": "q-deff10495739974c", "215": "q-5d9a3a7aef626697", "216": "q-2c7fa0a1b2bd5e9f", "217": "q-0421a40894ab7d72", "218": "q-f887b4de26a71330", "219": "q-6d694afaafaaa509", "220": "q-ced17562e94396dd", "221": "q-6494dce33fb4b055", "222": "q-83ce8aba45e1b9d8", "223": "q-df0f3435a303ea53", "224": "q-3d8c4d27a588e874", "225": "q-f7999aa9a34b5aed", "226": "q-fef6447552f65e10", "227": "q-48aa8d1c0ff9ec69", "228": "q-0dfb5019cbf46be6", "229": "q-9012f389ce4e8b78", "230": "q-c91190d8023ccdf4", "231": "q-28c71af972a0ebc3", "232": "q-b3c0e2ec7d53d030", "233": "q-a80fff2f8ada40a3", "234": "q-6495b6d612161bc3", "235": "q-3d0f2e6e70f6617e", "236": "q-3a11204f046f009a", "237": "q-5ff19712a9d4523e", "238": "q-cf34e8f3539ff332", "239": "q-e33077b78130d9a6", "240": "q-3314c4bceb65220e", "241": "q-8e19b4d814d74d63", "242": "q-90397494f7bb671c", "243": "q-e79531c05c6dbe5f", "244": "q-fc1abd0c86e6aad8", "245": "q-429673317131036d", "246": "q-151768c612a29379", "247": "q-25d58b7699afd160", "248": "q-ec23aaa248dc71d2", "249": "q-0188db27a03155db", "250": "q-6c585e8581927379", "251": "q-5f1bba896f336aba", "252": "q-8e19b4d814d74d63", "253": "q-d51274ef6f01cdf0", "254": "q-e7c4cf8d7aa2ec50", "255": "q-94e5e20e0343339b", "256": "q-dd71ea2e205c6145", "257": "q-6d5cdcfffff5c164", "258": "q-140108516e6a1fa4", "259": "q-2f79407f3ac6e506", "260": "q-06343161d90214b2", "261": "q-ccc0b9db42674bff", "262": "q-c7223fbb9d148563", "263": "q-f967f9788b75d8f2"};
+window.QUIZ_BANK_VERSION = "v6-20261020-exact-word-233";
+window.QUIZ_LEGACY_IDS = {"1": "q-b1-c1-1", "2": "q-b1-c2-7", "3": "q-b1-c3-13", "4": "q-b1-c4-19", "5": "q-b1-c5-25", "6": "q-b1-c6-31", "7": "q-b1-c7-37", "8": "q-b1-c8-43", "9": "q-b1-c9-49", "10": "q-b1-c10-54", "11": "q-b1-c11-60", "12": "q-b1-c12-66", "13": "q-b1-c13-72", "14": "q-b1-c14-78", "15": "q-b1-c15-84", "16": "q-b1-c16-90", "17": "q-b1-c17-96", "18": "q-b1-c18-102", "19": "q-b1-c19-108", "20": "q-b1-c20-114", "21": "q-b1-c21-120", "22": "q-b1-c22-126", "23": "q-b1-c23-132", "24": "q-b1-c24-138", "25": "q-b1-c25-144", "26": "q-b1-c26-150", "27": "q-b1-c27-156", "28": "q-b1-c28-162", "29": "q-b1-c29-168", "30": "q-b1-c30-174", "31": "q-b1-c31-181", "32": "q-b1-c32-187", "33": "q-b1-c33-193", "34": "q-b1-c34-203", "35": "q-b1-c35-213", "36": "q-b1-c36-224", "37": "q-b1-c37-234", "38": "q-b1-c38-244", "39": "q-b1-c39-248", "40": "q-b1-c40-252", "41": "q-b1-c41-256", "42": "q-b2-c1-262", "43": "q-b2-c2-268", "44": "q-b2-c3-274", "45": "q-b2-c4-281", "46": "q-b2-c5-288", "47": "q-b2-c6-295", "48": "q-b2-c7-302", "49": "q-b2-c8-309", "50": "q-b2-c9-316", "51": "q-b2-c10-323", "52": "q-b2-c11-330", "53": "q-b2-c12-337", "54": "q-b2-c13-344", "55": "q-b2-c14-351", "56": "q-b2-c15-358", "57": "q-b2-c16-365", "58": "q-b2-c17-371", "59": "q-b2-c18-378", "60": "q-b2-c19-385", "61": "q-b2-c20-392", "62": "q-b2-c21-399", "63": "q-b2-c22-406", "64": "q-b2-c23-413", "65": "q-b2-c24-420", "66": "q-b2-c25-427", "67": "q-b2-c26-434", "68": "q-b2-c27-441", "69": "q-b2-c28-448", "70": "q-b2-c29-459", "71": "q-b2-c30-470", "72": "q-b2-c31-480", "73": "q-b2-c32-492", "74": "q-b2-c33-503", "75": "q-b2-c34-508", "76": "q-b2-c35-513", "77": "q-b2-c36-519", "78": "q-b2-c37-524", "79": "q-b2-c38-531", "80": "q-b2-c39-539", "81": "q-b2-c40-547", "82": "q-b3-c1-556", "83": "q-b3-c2-562", "84": "q-b3-c3-573", "85": "q-b3-c4-583", "86": "q-b3-c5-594", "87": "q-b3-c6-605", "88": "q-b3-c7-616", "89": "q-b3-c8-626", "90": "q-b3-c9-637", "91": "q-b3-c10-647", "92": "q-b3-c11-658", "93": "q-b3-c12-668", "94": "q-b3-c13-674", "95": "q-b3-c14-680", "96": "q-b3-c15-686", "97": "q-b3-c16-692", "98": "q-b3-c17-698", "99": "q-b3-c18-704", "100": "q-b3-c19-710", "101": "q-b3-c20-716", "102": "q-b3-c21-719", "103": "q-b3-c22-722", "104": "q-b3-c23-725", "105": "q-b3-c24-728", "106": "q-b3-c25-731", "107": "q-b3-c26-738", "108": "q-b3-c27-745", "109": "q-b3-c28-752", "110": "q-b3-c29-759", "111": "q-b3-c30-768", "112": "q-b3-c31-775", "113": "q-b3-c32-782", "114": "q-b3-c33-789", "115": "q-b3-c34-803", "116": "q-b3-c35-813", "117": "q-b3-c36-824", "118": "q-b3-c37-834", "119": "q-b3-c38-849", "120": "q-b3-c39-853", "121": "q-b3-c40-857", "122": "q-b3-c41-861", "123": "q-b4-c1-866", "124": "q-b4-c2-872", "125": "q-b4-c3-878", "126": "q-b4-c4-884", "127": "q-b4-c5-890", "128": "q-b4-c6-896", "129": "q-b4-c7-901", "130": "q-b4-c8-907", "131": "q-b4-c9-913", "132": "q-b4-c10-918", "133": "q-b4-c11-924", "134": "q-b4-c12-930", "135": "q-b4-c13-935", "136": "q-b4-c14-942", "137": "q-b4-c15-951", "138": "q-b4-c16-959", "139": "q-b4-c17-966", "140": "q-b4-c18-974", "141": "q-b4-c19-981", "142": "q-b4-c20-988", "143": "q-b4-c21-995", "144": "q-b4-c22-1002", "145": "q-b4-c23-1009", "146": "q-b4-c24-1016", "147": "q-b4-c25-1023", "148": "q-b4-c26-1030", "149": "q-b4-c27-1037", "150": "q-b4-c28-1044", "151": "q-b4-c29-1051", "152": "q-b4-c30-1058", "153": "q-b4-c31-1065", "154": "q-b4-c32-1071", "155": "q-b4-c33-1078", "156": "q-b4-c34-1085", "157": "q-b4-c35-1093", "158": "q-b4-c36-1101", "159": "q-b4-c37-1110", "160": "q-b4-c38-1124", "161": "q-b4-c39-1137", "162": "q-b4-c40-1150", "163": "q-b4-c41-1164", "164": "q-b4-c42-1169", "165": "q-b4-c43-1176", "166": "q-b4-c44-1181", "167": "q-b4-c45-1186", "168": "q-b5-c1-1192", "169": "q-b5-c2-1195", "170": "q-b5-c3-1198", "171": "q-b5-c4-1201", "172": "q-b5-c5-1204", "173": "q-b5-c6-1207", "174": "q-b5-c7-1210", "175": "q-b5-c8-1213", "176": "q-b5-c9-1216", "177": "q-b5-c10-1219", "178": "q-b5-c11-1222", "179": "q-b5-c12-1225", "180": "q-b5-c13-1228", "181": "q-b5-c14-1231", "182": "q-b5-c15-1234", "183": "q-b5-c16-1237", "184": "q-b5-c17-1240", "185": "q-b5-c18-1243", "186": "q-b5-c19-1246", "187": "q-b5-c20-1249", "188": "q-b5-c21-1252", "189": "q-b5-c22-1255", "190": "q-b5-c23-1258", "191": "q-b5-c24-1261", "192": "q-b5-c25-1264", "193": "q-b5-c26-1267", "194": "q-b5-c27-1269", "195": "q-b5-c28-1276", "196": "q-b5-c29-1284", "197": "q-b5-c30-1302", "198": "q-b5-c31-1321", "199": "q-b5-c32-1326", "200": "q-b5-c33-1331", "201": "q-b5-c34-1335", "202": "q-b5-c35-1342", "203": "q-b5-c36-1349", "204": "q-b5-c37-1354", "205": "q-b5-c38-1360", "206": "q-b5-c39-1363", "207": "q-b6-c1-1369", "208": "q-b6-c2-1378", "209": "q-b6-c3-1385", "210": "q-b6-c4-1392", "211": "q-b6-c5-1399", "212": "q-b6-c6-1407", "213": "q-b6-c7-1415", "214": "q-b6-c8-1422", "215": "q-b6-c9-1430", "216": "q-b6-c10-1438", "217": "q-b6-c11-1446", "218": "q-b6-c12-1455", "219": "q-b6-c13-1462", "220": "q-b6-c14-1469", "221": "q-b6-c15-1476", "222": "q-b6-c16-1483", "223": "q-b6-c17-1492", "224": "q-b6-c18-1499", "225": "q-b6-c19-1507", "226": "q-b6-c20-1514", "227": "q-b6-c21-1521", "228": "q-b6-c22-1528", "229": "q-b6-c23-1535", "230": "q-b6-c24-1542", "231": "q-b6-c25-1553", "232": "q-b6-c26-1563", "233": "q-b6-c27-1568"};
 window.QUIZ_QUESTIONS = [
   {
     "lesson_num": 1,
@@ -22,9 +22,11 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-bf3e14bea1ab8901",
+    "source_q_num": 1,
+    "body_index": 1,
     "lesson": "Bài 1",
-    "q_num": 1
+    "q_num": 1,
+    "id": "q-b1-c1-1"
   },
   {
     "lesson_num": 1,
@@ -47,9 +49,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-c7afa72d4749d429",
+    "source_q_num": 2,
+    "body_index": 7,
     "lesson": "Bài 1",
-    "q_num": 2
+    "q_num": 2,
+    "id": "q-b1-c2-7"
   },
   {
     "lesson_num": 1,
@@ -72,9 +76,11 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-0ce6bf82ad03fe26",
+    "source_q_num": 3,
+    "body_index": 13,
     "lesson": "Bài 1",
-    "q_num": 3
+    "q_num": 3,
+    "id": "q-b1-c3-13"
   },
   {
     "lesson_num": 1,
@@ -97,9 +103,11 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-cc974194aace5956",
+    "source_q_num": 4,
+    "body_index": 19,
     "lesson": "Bài 1",
-    "q_num": 4
+    "q_num": 4,
+    "id": "q-b1-c4-19"
   },
   {
     "lesson_num": 1,
@@ -122,9 +130,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-9c7c14d1eabdd60f",
+    "source_q_num": 5,
+    "body_index": 25,
     "lesson": "Bài 1",
-    "q_num": 5
+    "q_num": 5,
+    "id": "q-b1-c5-25"
   },
   {
     "lesson_num": 1,
@@ -147,9 +157,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-49a181d97e694c1a",
+    "source_q_num": 6,
+    "body_index": 31,
     "lesson": "Bài 1",
-    "q_num": 6
+    "q_num": 6,
+    "id": "q-b1-c6-31"
   },
   {
     "lesson_num": 1,
@@ -172,9 +184,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-28c2c158f1a04b6b",
+    "source_q_num": 7,
+    "body_index": 37,
     "lesson": "Bài 1",
-    "q_num": 7
+    "q_num": 7,
+    "id": "q-b1-c7-37"
   },
   {
     "lesson_num": 1,
@@ -197,9 +211,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-6dc3a51e62dfdaab",
+    "source_q_num": 8,
+    "body_index": 43,
     "lesson": "Bài 1",
-    "q_num": 8
+    "q_num": 8,
+    "id": "q-b1-c8-43"
   },
   {
     "lesson_num": 1,
@@ -222,9 +238,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-ee53004f75251c08",
+    "source_q_num": 9,
+    "body_index": 49,
     "lesson": "Bài 1",
-    "q_num": 9
+    "q_num": 9,
+    "id": "q-b1-c9-49"
   },
   {
     "lesson_num": 1,
@@ -247,9 +265,11 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-a511cf51b3b4d19f",
+    "source_q_num": 10,
+    "body_index": 54,
     "lesson": "Bài 1",
-    "q_num": 10
+    "q_num": 10,
+    "id": "q-b1-c10-54"
   },
   {
     "lesson_num": 1,
@@ -272,9 +292,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-17b925400fa1c047",
+    "source_q_num": 11,
+    "body_index": 60,
     "lesson": "Bài 1",
-    "q_num": 11
+    "q_num": 11,
+    "id": "q-b1-c11-60"
   },
   {
     "lesson_num": 1,
@@ -297,9 +319,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-f2682617837bc5be",
+    "source_q_num": 12,
+    "body_index": 66,
     "lesson": "Bài 1",
-    "q_num": 12
+    "q_num": 12,
+    "id": "q-b1-c12-66"
   },
   {
     "lesson_num": 1,
@@ -323,9 +347,11 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-4e2f5db71bc0a01c",
+    "source_q_num": 13,
+    "body_index": 72,
     "lesson": "Bài 1",
-    "q_num": 13
+    "q_num": 13,
+    "id": "q-b1-c13-72"
   },
   {
     "lesson_num": 1,
@@ -349,9 +375,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-57d72999ae0cf42c",
+    "source_q_num": 14,
+    "body_index": 78,
     "lesson": "Bài 1",
-    "q_num": 14
+    "q_num": 14,
+    "id": "q-b1-c14-78"
   },
   {
     "lesson_num": 1,
@@ -375,9 +403,11 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-1d8974047eefeed4",
+    "source_q_num": 15,
+    "body_index": 84,
     "lesson": "Bài 1",
-    "q_num": 15
+    "q_num": 15,
+    "id": "q-b1-c15-84"
   },
   {
     "lesson_num": 1,
@@ -400,9 +430,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-835f6c1250cee3ad",
+    "source_q_num": 16,
+    "body_index": 90,
     "lesson": "Bài 1",
-    "q_num": 16
+    "q_num": 16,
+    "id": "q-b1-c16-90"
   },
   {
     "lesson_num": 1,
@@ -425,9 +457,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-7954dabb1e11b7a5",
+    "source_q_num": 17,
+    "body_index": 96,
     "lesson": "Bài 1",
-    "q_num": 17
+    "q_num": 17,
+    "id": "q-b1-c17-96"
   },
   {
     "lesson_num": 1,
@@ -450,9 +484,11 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-63c0f1cd57b2c2f4",
+    "source_q_num": 18,
+    "body_index": 102,
     "lesson": "Bài 1",
-    "q_num": 18
+    "q_num": 18,
+    "id": "q-b1-c18-102"
   },
   {
     "lesson_num": 1,
@@ -475,9 +511,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-986339b5d3635a1b",
+    "source_q_num": 19,
+    "body_index": 108,
     "lesson": "Bài 1",
-    "q_num": 19
+    "q_num": 19,
+    "id": "q-b1-c19-108"
   },
   {
     "lesson_num": 1,
@@ -487,11 +525,6 @@ window.QUIZ_QUESTIONS = [
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
         "question_number": 20,
         "body_index": 114
-      },
-      {
-        "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
-        "question_number": 26,
-        "body_index": 150
       }
     ],
     "type": "single_choice",
@@ -505,53 +538,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "variants": [
-      {
-        "question": "Trong các nội dung sau đây thì nội dung nào thuộc về giải pháp xây dựng giai cấp công nhân Việt Nam hiện nay?",
-        "type": "single_choice",
-        "options": [
-          "A. Xây dựng giai cấp công nhân tăng về số lượng và chất lượng",
-          "B. Coi trọng và giữ vững bản chất giai cấp công nhân và nguyên tắc sinh hoạt Đảng",
-          "C. Xây dựng giai cấp công nhân lớn mạnh, có giác ngộ giai cấp và chính trị vững vàng",
-          "D. Nâng cao nhận thức, kiên định quan điểm giai cấp công nhân là giai cấp lãnh đạo cách mạng thông qua đội tiền phong là Đảng Cộng sản Việt Nam"
-        ],
-        "correct_answers": [
-          3
-        ],
-        "instruction": "Chọn 1 đáp án đúng nhất",
-        "sources": [
-          {
-            "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
-            "question_number": 20,
-            "body_index": 114
-          }
-        ]
-      },
-      {
-        "question": "Trong các nội dung sau đây thì nội dung nào thuộc về giải pháp xây dựng giai cấp công nhân Việt Nam hiện nay?",
-        "type": "single_choice",
-        "options": [
-          "A. Thực hiện tốt chính sách và pháp luật đối với công nhân và người lao động.",
-          "B. Xây dựng giai cấp công nhân lớn mạnh, có giác ngộ giai cấp và chính trị vững vàng",
-          "C. Thực hiện chiến lược xây dựng giai cấp công nhân lớn mạnh, gắn kết chặt chẽ với chiến lược phát triển kinh tế - xã hội, công nghiệp hoá, hiện đại hoá đất nước, hội nhập quốc tế",
-          "D. Coi trọng và giữ vững bản chất giai cấp công nhân và nguyên tắc sinh hoạt Đảng"
-        ],
-        "correct_answers": [
-          2
-        ],
-        "instruction": "Chọn 1 đáp án đúng nhất",
-        "sources": [
-          {
-            "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
-            "question_number": 26,
-            "body_index": 150
-          }
-        ]
-      }
-    ],
-    "id": "q-0c85f9191ce42e4f",
+    "source_q_num": 20,
+    "body_index": 114,
     "lesson": "Bài 1",
-    "q_num": 20
+    "q_num": 20,
+    "id": "q-b1-c20-114"
   },
   {
     "lesson_num": 1,
@@ -574,9 +565,11 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-73d55b0acc400dd0",
+    "source_q_num": 21,
+    "body_index": 120,
     "lesson": "Bài 1",
-    "q_num": 21
+    "q_num": 21,
+    "id": "q-b1-c21-120"
   },
   {
     "lesson_num": 1,
@@ -600,9 +593,11 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-482bac5f61202dbb",
+    "source_q_num": 22,
+    "body_index": 126,
     "lesson": "Bài 1",
-    "q_num": 22
+    "q_num": 22,
+    "id": "q-b1-c22-126"
   },
   {
     "lesson_num": 1,
@@ -625,9 +620,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-44d328e3cebb829c",
+    "source_q_num": 23,
+    "body_index": 132,
     "lesson": "Bài 1",
-    "q_num": 23
+    "q_num": 23,
+    "id": "q-b1-c23-132"
   },
   {
     "lesson_num": 1,
@@ -650,9 +647,11 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-e18e1fac87d687da",
+    "source_q_num": 24,
+    "body_index": 138,
     "lesson": "Bài 1",
-    "q_num": 24
+    "q_num": 24,
+    "id": "q-b1-c24-138"
   },
   {
     "lesson_num": 1,
@@ -675,13 +674,42 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-f48d0ae1e03d9790",
+    "source_q_num": 25,
+    "body_index": 144,
     "lesson": "Bài 1",
-    "q_num": 25
+    "q_num": 25,
+    "id": "q-b1-c25-144"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 26: Giai cấp công nhân Việt Nam chủ yếu xuất thân từ tầng lớp nào? (Chọn 2 đáp án đúng)",
+    "question": "Câu 26: Trong các nội dung sau đây thì nội dung nào thuộc về giải pháp xây dựng giai cấp công nhân Việt Nam hiện nay?",
+    "sources": [
+      {
+        "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
+        "question_number": 26,
+        "body_index": 150
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Thực hiện tốt chính sách và pháp luật đối với công nhân và người lao động.",
+      "B. Xây dựng giai cấp công nhân lớn mạnh, có giác ngộ giai cấp và chính trị vững vàng",
+      "C. Thực hiện chiến lược xây dựng giai cấp công nhân lớn mạnh, gắn kết chặt chẽ với chiến lược phát triển kinh tế - xã hội, công nghiệp hoá, hiện đại hoá đất nước, hội nhập quốc tế",
+      "D. Coi trọng và giữ vững bản chất giai cấp công nhân và nguyên tắc sinh hoạt Đảng"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 26,
+    "body_index": 150,
+    "lesson": "Bài 1",
+    "q_num": 26,
+    "id": "q-b1-c26-150"
+  },
+  {
+    "lesson_num": 1,
+    "question": "Câu 27: Giai cấp công nhân Việt Nam chủ yếu xuất thân từ tầng lớp nào? (Chọn 2 đáp án đúng)",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -701,13 +729,15 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-20deb9dd333cefdc",
+    "source_q_num": 27,
+    "body_index": 156,
     "lesson": "Bài 1",
-    "q_num": 26
+    "q_num": 27,
+    "id": "q-b1-c27-156"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 27: Xét trong quan hệ sản xuất tư bản chủ nghĩa giai cấp công nhân là:",
+    "question": "Câu 28: Xét trong quan hệ sản xuất tư bản chủ nghĩa giai cấp công nhân là:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -726,13 +756,15 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-9670234fec640bf4",
+    "source_q_num": 28,
+    "body_index": 162,
     "lesson": "Bài 1",
-    "q_num": 27
+    "q_num": 28,
+    "id": "q-b1-c28-162"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 28: Trong thời kỳ thuộc địa, giai cấp công nhân Việt Nam chủ yếu làm việc trong: (Chọn 2 đáp án đúng)",
+    "question": "Câu 29: Trong thời kỳ thuộc địa, giai cấp công nhân Việt Nam chủ yếu làm việc trong: (Chọn 2 đáp án đúng)",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -752,13 +784,15 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-36492080427beb09",
+    "source_q_num": 29,
+    "body_index": 168,
     "lesson": "Bài 1",
-    "q_num": 28
+    "q_num": 29,
+    "id": "q-b1-c29-168"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 29: Chủ nghĩa xã hội khoa học ra đời dựa trên cơ sở của những tiền đề nào? (Chọn nhiều đáp án)",
+    "question": "Câu 30: Chủ nghĩa xã hội khoa học ra đời dựa trên cơ sở của những tiền đề nào? (Chọn nhiều đáp án)",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -778,13 +812,15 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-ebd29be396bf6790",
+    "source_q_num": 30,
+    "body_index": 174,
     "lesson": "Bài 1",
-    "q_num": 29
+    "q_num": 30,
+    "id": "q-b1-c30-174"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 30: Nội dung sứ mệnh lịch sử của giai cấp công nhân Việt Nam hiện nay bao gồm: (Chọn 3 đáp án đúng)",
+    "question": "Câu 31: Nội dung sứ mệnh lịch sử của giai cấp công nhân Việt Nam hiện nay bao gồm: (Chọn 3 đáp án đúng)",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -805,23 +841,20 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 3 đáp án đúng",
-    "id": "q-fb38e50f6cd16971",
+    "source_q_num": 31,
+    "body_index": 181,
     "lesson": "Bài 1",
-    "q_num": 30
+    "q_num": 31,
+    "id": "q-b1-c31-181"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 31: Câu nói sau đây được viết trong tác phẩm nào: \"Giai cấp tư sản, trong quá trình thống trị giai cấp chưa đầy một thế kỷ, đã tạo ra những lực lượng sản xuất nhiều hơn và đồ sộ hơn lực lượng sản xuất của tất cả các thế hệ trước gộp lại\"?",
+    "question": "Câu 32: Câu nói sau đây được viết trong tác phẩm nào: \"Giai cấp tư sản, trong quá trình thống trị giai cấp chưa đầy một thế kỷ, đã tạo ra những lực lượng sản xuất nhiều hơn và đồ sộ hơn lực lượng sản xuất của tất cả các thế hệ trước gộp lại\"?",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
         "question_number": 32,
         "body_index": 187
-      },
-      {
-        "file": "CHỦ NGHĨA XH-KH (1).docx",
-        "question_number": 22,
-        "body_index": 1149
       }
     ],
     "type": "single_choice",
@@ -835,25 +868,20 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "is_thuong_xuyen": true,
-    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 1",
-    "id": "q-6af503c3b7b1de02",
+    "source_q_num": 32,
+    "body_index": 187,
     "lesson": "Bài 1",
-    "q_num": 31
+    "q_num": 32,
+    "id": "q-b1-c32-187"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 32: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+    "question": "Câu 33: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
         "question_number": 33,
         "body_index": 193
-      },
-      {
-        "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
-        "question_number": 36,
-        "body_index": 224
       }
     ],
     "type": "true_false",
@@ -876,13 +904,15 @@ window.QUIZ_QUESTIONS = [
       }
     ],
     "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "id": "q-d8e26c1e17e0f94d",
+    "source_q_num": 33,
+    "body_index": 193,
     "lesson": "Bài 1",
-    "q_num": 32
+    "q_num": 33,
+    "id": "q-b1-c33-193"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 33: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+    "question": "Câu 34: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -910,13 +940,15 @@ window.QUIZ_QUESTIONS = [
       }
     ],
     "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "id": "q-48350906fbde73f5",
+    "source_q_num": 34,
+    "body_index": 203,
     "lesson": "Bài 1",
-    "q_num": 33
+    "q_num": 34,
+    "id": "q-b1-c34-203"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 34: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+    "question": "Câu 35: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -944,13 +976,51 @@ window.QUIZ_QUESTIONS = [
       }
     ],
     "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "id": "q-277ef307a88f99ec",
+    "source_q_num": 35,
+    "body_index": 213,
     "lesson": "Bài 1",
-    "q_num": 34
+    "q_num": 35,
+    "id": "q-b1-c35-213"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 35: Chọn Đúng hoặc Sai với từng phát biểu:",
+    "question": "Câu 36: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+    "sources": [
+      {
+        "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
+        "question_number": 36,
+        "body_index": 224
+      }
+    ],
+    "type": "true_false",
+    "items": [
+      {
+        "statement": "1) Sự trưởng thành của Đảng Cộng sản – Hạt nhân chính trị quan trọng của giai cấp công nhân.",
+        "correct": true
+      },
+      {
+        "statement": "2) Giai cấp công nhân Việt Nam hiện nay đã tăng cả về số lượng và chất lượng.",
+        "correct": true
+      },
+      {
+        "statement": "3) Đảng Cộng sản là nhân tố khách quan quan trọng nhất để giai cấp công nhân thực hiện thắng lợi sứ mệnh lịch sử của mình.",
+        "correct": false
+      },
+      {
+        "statement": "4) Giai cấp công nhân đại diện cho phương thức sản xuất tiên tiến và lực lượng sản xuất hiện đại.",
+        "correct": true
+      }
+    ],
+    "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
+    "source_q_num": 36,
+    "body_index": 224,
+    "lesson": "Bài 1",
+    "q_num": 36,
+    "id": "q-b1-c36-224"
+  },
+  {
+    "lesson_num": 1,
+    "question": "Câu 37: Chọn Đúng hoặc Sai với từng phát biểu:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -978,13 +1048,15 @@ window.QUIZ_QUESTIONS = [
       }
     ],
     "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "id": "q-95b0dd96dcabab3d",
+    "source_q_num": 37,
+    "body_index": 234,
     "lesson": "Bài 1",
-    "q_num": 35
+    "q_num": 37,
+    "id": "q-b1-c37-234"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 36: Kéo thả các yếu tố sau đây vào cột tương ứng:",
+    "question": "Câu 38: Kéo thả các yếu tố sau đây vào cột tương ứng:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -1028,13 +1100,15 @@ window.QUIZ_QUESTIONS = [
         "category": "Điều kiện chủ quan để giai cấp công nhân thực hiện được sứ mệnh lịch sử:"
       }
     ],
-    "id": "q-cbfd657539b20da7",
+    "source_q_num": 38,
+    "body_index": 244,
     "lesson": "Bài 1",
-    "q_num": 36
+    "q_num": 38,
+    "id": "q-b1-c38-244"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 37: Kéo thả các đáp án khớp với các phát biểu từ 1 – 3 về trái dưới đây:",
+    "question": "Câu 39: Kéo thả các đáp án khớp với các phát biểu từ 1 – 3 về trái dưới đây:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -1063,13 +1137,15 @@ window.QUIZ_QUESTIONS = [
       "tầng lớp nhân dân",
       "tầng lớp tri thức"
     ],
-    "id": "q-1a7ba22902d9505e",
+    "source_q_num": 39,
+    "body_index": 248,
     "lesson": "Bài 1",
-    "q_num": 37
+    "q_num": 39,
+    "id": "q-b1-c39-248"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 38: Kéo thả các đáp án khớp với các phát biểu từ 1 – 4 về trái dưới đây:",
+    "question": "Câu 40: Kéo thả các đáp án khớp với các phát biểu từ 1 – 4 về trái dưới đây:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -1103,23 +1179,20 @@ window.QUIZ_QUESTIONS = [
       "phương thức sản xuất",
       "lực lượng sản xuất"
     ],
-    "id": "q-b48c59058445346f",
+    "source_q_num": 40,
+    "body_index": 252,
     "lesson": "Bài 1",
-    "q_num": 38
+    "q_num": 40,
+    "id": "q-b1-c40-252"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 39: Kéo thả các đáp án khớp với các phát biểu từ 1 - 3 vế trái dưới đây:",
+    "question": "Câu 41: Kéo thả các đáp án khớp với các phát biểu từ 1 - 3 vế trái dưới đây:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
         "question_number": 41,
         "body_index": 256
-      },
-      {
-        "file": "CHỦ NGHĨA XH-KH (1).docx",
-        "question_number": 23,
-        "body_index": 1152
       }
     ],
     "pairs": [
@@ -1143,11 +1216,11 @@ window.QUIZ_QUESTIONS = [
       "giải phóng con người",
       "giai cấp vô sản"
     ],
-    "is_thuong_xuyen": true,
-    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 1",
-    "id": "q-9c5c2546252e94f4",
+    "source_q_num": 41,
+    "body_index": 256,
     "lesson": "Bài 1",
-    "q_num": 39
+    "q_num": 41,
+    "id": "q-b1-c41-256"
   },
   {
     "lesson_num": 2,
@@ -1170,9 +1243,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-dc51f8effcf94351",
+    "source_q_num": 1,
+    "body_index": 262,
     "lesson": "Bài 2",
-    "q_num": 1
+    "q_num": 1,
+    "id": "q-b2-c1-262"
   },
   {
     "lesson_num": 2,
@@ -1195,9 +1270,11 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-8e050b583070c812",
+    "source_q_num": 2,
+    "body_index": 268,
     "lesson": "Bài 2",
-    "q_num": 2
+    "q_num": 2,
+    "id": "q-b2-c2-268"
   },
   {
     "lesson_num": 2,
@@ -1220,9 +1297,11 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-6326ca7b7f602fb5",
+    "source_q_num": 3,
+    "body_index": 274,
     "lesson": "Bài 2",
-    "q_num": 3
+    "q_num": 3,
+    "id": "q-b2-c3-274"
   },
   {
     "lesson_num": 2,
@@ -1245,9 +1324,11 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-8354b8309975253c",
+    "source_q_num": 4,
+    "body_index": 281,
     "lesson": "Bài 2",
-    "q_num": 4
+    "q_num": 4,
+    "id": "q-b2-c4-281"
   },
   {
     "lesson_num": 2,
@@ -1270,9 +1351,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-86a1fb6f755b89e7",
+    "source_q_num": 5,
+    "body_index": 288,
     "lesson": "Bài 2",
-    "q_num": 5
+    "q_num": 5,
+    "id": "q-b2-c5-288"
   },
   {
     "lesson_num": 2,
@@ -1295,9 +1378,11 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-2d4459fbabcc50d3",
+    "source_q_num": 6,
+    "body_index": 295,
     "lesson": "Bài 2",
-    "q_num": 6
+    "q_num": 6,
+    "id": "q-b2-c6-295"
   },
   {
     "lesson_num": 2,
@@ -1307,11 +1392,6 @@ window.QUIZ_QUESTIONS = [
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
         "question_number": 7,
         "body_index": 302
-      },
-      {
-        "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
-        "question_number": 10,
-        "body_index": 323
       }
     ],
     "type": "single_choice",
@@ -1325,53 +1405,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "variants": [
-      {
-        "question": "Kiểu quá độ lên chủ nghĩa xã hội ở Việt Nam là kiểu quá độ nào?",
-        "type": "single_choice",
-        "options": [
-          "A. Quá độ trực tiếp",
-          "B. Quá độ chủ quan",
-          "C. Quá độ khách quan",
-          "D. Quá độ gián tiếp"
-        ],
-        "correct_answers": [
-          3
-        ],
-        "instruction": "Chọn 1 đáp án đúng nhất",
-        "sources": [
-          {
-            "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
-            "question_number": 7,
-            "body_index": 302
-          }
-        ]
-      },
-      {
-        "question": "Thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là bước quá độ:",
-        "type": "single_choice",
-        "options": [
-          "A. Trực tiếp, từ chế độ phong kiến tiến lên chế độ xã hội chủ nghĩa.",
-          "B. Trực tiếp, từ chế độ tư bản chủ nghĩa lên chế độ xã hội chủ nghĩa.",
-          "C. Gián tiếp, bỏ qua chế độ tư bản chủ nghĩa tiến lên chủ nghĩa xã hội.",
-          "D. Gián tiếp, bỏ qua chế độ phong kiến tiến lên chế độ xã hội chủ nghĩa."
-        ],
-        "correct_answers": [
-          2
-        ],
-        "instruction": "Chọn 1 đáp án đúng nhất",
-        "sources": [
-          {
-            "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
-            "question_number": 10,
-            "body_index": 323
-          }
-        ]
-      }
-    ],
-    "id": "q-b42b38a575f45551",
+    "source_q_num": 7,
+    "body_index": 302,
     "lesson": "Bài 2",
-    "q_num": 7
+    "q_num": 7,
+    "id": "q-b2-c7-302"
   },
   {
     "lesson_num": 2,
@@ -1394,9 +1432,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-e94af9856407fdd1",
+    "source_q_num": 8,
+    "body_index": 309,
     "lesson": "Bài 2",
-    "q_num": 8
+    "q_num": 8,
+    "id": "q-b2-c8-309"
   },
   {
     "lesson_num": 2,
@@ -1419,13 +1459,42 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-8cddd46ea9261612",
+    "source_q_num": 9,
+    "body_index": 316,
     "lesson": "Bài 2",
-    "q_num": 9
+    "q_num": 9,
+    "id": "q-b2-c9-316"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 10: Đặc điểm về chính trị trong thời kỳ quá độ được thể hiện ở điểm nào? (Chọn 2 đáp án đúng)",
+    "question": "Câu 10: Thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là bước quá độ:",
+    "sources": [
+      {
+        "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
+        "question_number": 10,
+        "body_index": 323
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Trực tiếp, từ chế độ phong kiến tiến lên chế độ xã hội chủ nghĩa.",
+      "B. Trực tiếp, từ chế độ tư bản chủ nghĩa lên chế độ xã hội chủ nghĩa.",
+      "C. Gián tiếp, bỏ qua chế độ tư bản chủ nghĩa tiến lên chủ nghĩa xã hội.",
+      "D. Gián tiếp, bỏ qua chế độ phong kiến tiến lên chế độ xã hội chủ nghĩa."
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 10,
+    "body_index": 323,
+    "lesson": "Bài 2",
+    "q_num": 10,
+    "id": "q-b2-c10-323"
+  },
+  {
+    "lesson_num": 2,
+    "question": "Câu 11: Đặc điểm về chính trị trong thời kỳ quá độ được thể hiện ở điểm nào? (Chọn 2 đáp án đúng)",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -1445,13 +1514,15 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-bc84293fdb7a4735",
+    "source_q_num": 11,
+    "body_index": 330,
     "lesson": "Bài 2",
-    "q_num": 10
+    "q_num": 11,
+    "id": "q-b2-c11-330"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 11: Đặc điểm nổi bật của thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là gì? (Chọn 2 đáp án đúng)",
+    "question": "Câu 12: Đặc điểm nổi bật của thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là gì? (Chọn 2 đáp án đúng)",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -1471,13 +1542,15 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-5a65305527e8083b",
+    "source_q_num": 12,
+    "body_index": 337,
     "lesson": "Bài 2",
-    "q_num": 11
+    "q_num": 12,
+    "id": "q-b2-c12-337"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 12: Câu “Cần phải có thời kỳ quá độ khá lâu dài từ chủ nghĩa tư bản lên chủ nghĩa xã hội” là của ai?",
+    "question": "Câu 13: Câu “Cần phải có thời kỳ quá độ khá lâu dài từ chủ nghĩa tư bản lên chủ nghĩa xã hội” là của ai?",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -1496,13 +1569,15 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-ecada66203e5fe29",
+    "source_q_num": 13,
+    "body_index": 344,
     "lesson": "Bài 2",
-    "q_num": 12
+    "q_num": 13,
+    "id": "q-b2-c13-344"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 13: Đặc điểm nổi bật của thời kỳ quá độ đó là:",
+    "question": "Câu 14: Đặc điểm nổi bật của thời kỳ quá độ đó là:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -1521,13 +1596,15 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-712afdea61d21706",
+    "source_q_num": 14,
+    "body_index": 351,
     "lesson": "Bài 2",
-    "q_num": 13
+    "q_num": 14,
+    "id": "q-b2-c14-351"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 14: Về nội dung, thời kỳ quá độ lên chủ nghĩa xã hội là thời kỳ cải tạo cách mạng sâu sắc, triệt để xã hội tư bản chủ nghĩa trên các lĩnh vực:",
+    "question": "Câu 15: Về nội dung, thời kỳ quá độ lên chủ nghĩa xã hội là thời kỳ cải tạo cách mạng sâu sắc, triệt để xã hội tư bản chủ nghĩa trên các lĩnh vực:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -1546,13 +1623,15 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-6e917b60be84b0d9",
+    "source_q_num": 15,
+    "body_index": 358,
     "lesson": "Bài 2",
-    "q_num": 14
+    "q_num": 15,
+    "id": "q-b2-c15-358"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 15: Phát triển bỏ qua chế độ tư bản chủ nghĩa ở Việt Nam được hiểu như thế nào?",
+    "question": "Câu 16: Phát triển bỏ qua chế độ tư bản chủ nghĩa ở Việt Nam được hiểu như thế nào?",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -1571,13 +1650,15 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-22979052a06a650b",
+    "source_q_num": 16,
+    "body_index": 365,
     "lesson": "Bài 2",
-    "q_num": 15
+    "q_num": 16,
+    "id": "q-b2-c16-365"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 16: Chọn từ đúng điền vào chỗ trống để hoàn thành mục tiêu của Đảng xác định trong thời kỳ quá độ lên chủ nghĩa xã hội ở nước ta: Độc lập dân tộc gắn liền với chủ nghĩa xã hội; dân giàu, nước mạnh, dân chủ, .... , văn minh",
+    "question": "Câu 17: Chọn từ đúng điền vào chỗ trống để hoàn thành mục tiêu của Đảng xác định trong thời kỳ quá độ lên chủ nghĩa xã hội ở nước ta: Độc lập dân tộc gắn liền với chủ nghĩa xã hội; dân giàu, nước mạnh, dân chủ, .... , văn minh",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -1596,13 +1677,15 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-489915730154604d",
+    "source_q_num": 17,
+    "body_index": 371,
     "lesson": "Bài 2",
-    "q_num": 16
+    "q_num": 17,
+    "id": "q-b2-c17-371"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 17: Theo quan điểm của chủ nghĩa Mác - Lênin mốc bắt đầu của thời kỳ quá độ lên chủ nghĩa xã hội từ khi nào?",
+    "question": "Câu 18: Theo quan điểm của chủ nghĩa Mác - Lênin mốc bắt đầu của thời kỳ quá độ lên chủ nghĩa xã hội từ khi nào?",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -1621,13 +1704,15 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-3bdfd3c348e32c7c",
+    "source_q_num": 18,
+    "body_index": 378,
     "lesson": "Bài 2",
-    "q_num": 17
+    "q_num": 18,
+    "id": "q-b2-c18-378"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 18: Đặc điểm của thời kỳ quá độ lên chủ nghĩa trên lĩnh vực kinh tế là gì?",
+    "question": "Câu 19: Đặc điểm của thời kỳ quá độ lên chủ nghĩa trên lĩnh vực kinh tế là gì?",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -1646,13 +1731,15 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-0e77275d3afd1ffe",
+    "source_q_num": 19,
+    "body_index": 385,
     "lesson": "Bài 2",
-    "q_num": 18
+    "q_num": 19,
+    "id": "q-b2-c19-385"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 19: Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa ở nước ta, được hiểu là:",
+    "question": "Câu 20: Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa ở nước ta, được hiểu là:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -1671,13 +1758,15 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-c03ae95bfd2b44d7",
+    "source_q_num": 20,
+    "body_index": 392,
     "lesson": "Bài 2",
-    "q_num": 19
+    "q_num": 20,
+    "id": "q-b2-c20-392"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 20: Trong cuốn sách “Một số vấn đề lý luận và thực tiễn về chủ nghĩa xã hội và con đường đi lên chủ nghĩa xã hội ở Việt Nam\", Tổng Bí thư Nguyễn Phú Trọng khẳng định: đường lối cơ bản, xuyên suốt của cách mạng Việt Nam và cũng là điểm cốt yếu trong di sản tư tưởng của Chủ tịch Hồ Chí Minh là:",
+    "question": "Câu 21: Trong cuốn sách “Một số vấn đề lý luận và thực tiễn về chủ nghĩa xã hội và con đường đi lên chủ nghĩa xã hội ở Việt Nam\", Tổng Bí thư Nguyễn Phú Trọng khẳng định: đường lối cơ bản, xuyên suốt của cách mạng Việt Nam và cũng là điểm cốt yếu trong di sản tư tưởng của Chủ tịch Hồ Chí Minh là:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -1696,13 +1785,15 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-69fab887746aa701",
+    "source_q_num": 21,
+    "body_index": 399,
     "lesson": "Bài 2",
-    "q_num": 20
+    "q_num": 21,
+    "id": "q-b2-c21-399"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 21: Chọn phương án sai",
+    "question": "Câu 22: Chọn phương án sai",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -1721,13 +1812,15 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-4877a555b0e384db",
+    "source_q_num": 22,
+    "body_index": 406,
     "lesson": "Bài 2",
-    "q_num": 21
+    "q_num": 22,
+    "id": "q-b2-c22-406"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 22: Tại sao cho rằng con đường cách mạng Việt Nam là quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa là một tất yếu?",
+    "question": "Câu 23: Tại sao cho rằng con đường cách mạng Việt Nam là quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa là một tất yếu?",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -1746,13 +1839,15 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-90967e7180e34412",
+    "source_q_num": 23,
+    "body_index": 413,
     "lesson": "Bài 2",
-    "q_num": 22
+    "q_num": 23,
+    "id": "q-b2-c23-413"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 23: Căn cứ vào giáo trình Chủ nghĩa xã hội khoa học, hãy xác định khái niệm dùng để chỉ một chế độ xã hội tốt đẹp, giai đoạn đầu của hình thái kinh tế - xã hội cộng sản chủ nghĩa",
+    "question": "Câu 24: Căn cứ vào giáo trình Chủ nghĩa xã hội khoa học, hãy xác định khái niệm dùng để chỉ một chế độ xã hội tốt đẹp, giai đoạn đầu của hình thái kinh tế - xã hội cộng sản chủ nghĩa",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -1771,13 +1866,15 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-6199fab064db1cae",
+    "source_q_num": 24,
+    "body_index": 420,
     "lesson": "Bài 2",
-    "q_num": 23
+    "q_num": 24,
+    "id": "q-b2-c24-420"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 24: Theo chủ nghĩa Mác – Lênin có mấy hình thức quá độ lên chủ nghĩa xã hội?",
+    "question": "Câu 25: Theo chủ nghĩa Mác – Lênin có mấy hình thức quá độ lên chủ nghĩa xã hội?",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -1796,13 +1893,15 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-75591711c1e15d7f",
+    "source_q_num": 25,
+    "body_index": 427,
     "lesson": "Bài 2",
-    "q_num": 24
+    "q_num": 25,
+    "id": "q-b2-c25-427"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 25: Thời kỳ quá độ lên chủ nghĩa xã hội có những mâu thuẫn nào cần giải quyết? (Chọn 2 đáp án đúng)",
+    "question": "Câu 26: Thời kỳ quá độ lên chủ nghĩa xã hội có những mâu thuẫn nào cần giải quyết? (Chọn 2 đáp án đúng)",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -1822,13 +1921,15 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-969bb8a3dc2ea703",
+    "source_q_num": 26,
+    "body_index": 434,
     "lesson": "Bài 2",
-    "q_num": 25
+    "q_num": 26,
+    "id": "q-b2-c26-434"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 26: Việc \"bỏ qua chế độ tư bản chủ nghĩa\" ở Việt Nam có nghĩa là: (Chọn 2 đáp án đúng)",
+    "question": "Câu 27: Việc \"bỏ qua chế độ tư bản chủ nghĩa\" ở Việt Nam có nghĩa là: (Chọn 2 đáp án đúng)",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -1848,13 +1949,15 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-9d63c4f0bbd1aac0",
+    "source_q_num": 27,
+    "body_index": 441,
     "lesson": "Bài 2",
-    "q_num": 26
+    "q_num": 27,
+    "id": "q-b2-c27-441"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 27: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+    "question": "Câu 28: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -1882,13 +1985,15 @@ window.QUIZ_QUESTIONS = [
       }
     ],
     "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "id": "q-c0fa321b18fafb12",
+    "source_q_num": 28,
+    "body_index": 448,
     "lesson": "Bài 2",
-    "q_num": 27
+    "q_num": 28,
+    "id": "q-b2-c28-448"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 28: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+    "question": "Câu 29: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -1916,13 +2021,15 @@ window.QUIZ_QUESTIONS = [
       }
     ],
     "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "id": "q-6387a4a38b787733",
+    "source_q_num": 29,
+    "body_index": 459,
     "lesson": "Bài 2",
-    "q_num": 28
+    "q_num": 29,
+    "id": "q-b2-c29-459"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 29: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+    "question": "Câu 30: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -1950,13 +2057,15 @@ window.QUIZ_QUESTIONS = [
       }
     ],
     "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "id": "q-e2c622cf5217ad53",
+    "source_q_num": 30,
+    "body_index": 470,
     "lesson": "Bài 2",
-    "q_num": 29
+    "q_num": 30,
+    "id": "q-b2-c30-470"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 30: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+    "question": "Câu 31: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -1984,13 +2093,15 @@ window.QUIZ_QUESTIONS = [
       }
     ],
     "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "id": "q-f0296d877941e644",
+    "source_q_num": 31,
+    "body_index": 480,
     "lesson": "Bài 2",
-    "q_num": 30
+    "q_num": 31,
+    "id": "q-b2-c31-480"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 31: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+    "question": "Câu 32: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -2018,13 +2129,15 @@ window.QUIZ_QUESTIONS = [
       }
     ],
     "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "id": "q-f10a2a0e737b3865",
+    "source_q_num": 32,
+    "body_index": 492,
     "lesson": "Bài 2",
-    "q_num": 31
+    "q_num": 32,
+    "id": "q-b2-c32-492"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 32: Kéo thả các đáp án khớp với các phát biểu từ 1–3:",
+    "question": "Câu 33: Kéo thả các đáp án khớp với các phát biểu từ 1–3:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -2053,13 +2166,15 @@ window.QUIZ_QUESTIONS = [
       "Quá độ gián tiếp",
       "Thời kỳ quá độ"
     ],
-    "id": "q-8ca118eff0e9122a",
+    "source_q_num": 33,
+    "body_index": 503,
     "lesson": "Bài 2",
-    "q_num": 32
+    "q_num": 33,
+    "id": "q-b2-c33-503"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 33: Kéo thả các đáp án khớp với các phát biểu từ 1 – 3 về trái dưới đây:",
+    "question": "Câu 34: Kéo thả các đáp án khớp với các phát biểu từ 1 – 3 về trái dưới đây:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -2088,13 +2203,15 @@ window.QUIZ_QUESTIONS = [
       "vị trí thống trị",
       "tất yếu khách quan"
     ],
-    "id": "q-6508169887e88664",
+    "source_q_num": 34,
+    "body_index": 508,
     "lesson": "Bài 2",
-    "q_num": 33
+    "q_num": 34,
+    "id": "q-b2-c34-508"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 34: Đặc điểm về kinh tế của thời kỳ quá độ lên chủ nghĩa xã hội gồm: (Chọn 2 đáp án đúng)",
+    "question": "Câu 35: Đặc điểm về kinh tế của thời kỳ quá độ lên chủ nghĩa xã hội gồm: (Chọn 2 đáp án đúng)",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -2114,13 +2231,15 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-9d04540073d9d1b6",
+    "source_q_num": 35,
+    "body_index": 513,
     "lesson": "Bài 2",
-    "q_num": 34
+    "q_num": 35,
+    "id": "q-b2-c35-513"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 35: Kéo thả các đáp án khớp với các phát biểu từ 1 – 3 về trái dưới đây:",
+    "question": "Câu 36: Kéo thả các đáp án khớp với các phát biểu từ 1 – 3 về trái dưới đây:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -2149,13 +2268,15 @@ window.QUIZ_QUESTIONS = [
       "nhà nước pháp quyền",
       "quyền con người"
     ],
-    "id": "q-0638388e0c24606e",
+    "source_q_num": 36,
+    "body_index": 519,
     "lesson": "Bài 2",
-    "q_num": 35
+    "q_num": 36,
+    "id": "q-b2-c36-519"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 36: Cuộc cách mạng của giai cấp công nhân và nhân dân lao động dưới sự lãnh đạo của Đảng cộng sản chống lại giai cấp tư sản, là cuộc cách mạng:",
+    "question": "Câu 37: Cuộc cách mạng của giai cấp công nhân và nhân dân lao động dưới sự lãnh đạo của Đảng cộng sản chống lại giai cấp tư sản, là cuộc cách mạng:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -2174,13 +2295,15 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-ebba9b0759d2fb21",
+    "source_q_num": 37,
+    "body_index": 524,
     "lesson": "Bài 2",
-    "q_num": 36
+    "q_num": 37,
+    "id": "q-b2-c37-524"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 37: Hai loại quá độ từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đó là: (Chọn nhiều đáp án)",
+    "question": "Câu 38: Hai loại quá độ từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đó là: (Chọn nhiều đáp án)",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -2200,23 +2323,20 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-2d89f3032a16fd44",
+    "source_q_num": 38,
+    "body_index": 531,
     "lesson": "Bài 2",
-    "q_num": 37
+    "q_num": 38,
+    "id": "q-b2-c38-531"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 38: Những đặc điểm nổi bật trong thời kỳ quá độ lên chủ nghĩa xã hội gồm: (Chọn 2 đáp án đúng)",
+    "question": "Câu 39: Những đặc điểm nổi bật trong thời kỳ quá độ lên chủ nghĩa xã hội gồm: (Chọn 2 đáp án đúng)",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
         "question_number": 39,
         "body_index": 539
-      },
-      {
-        "file": "CHỦ NGHĨA XH-KH (1).docx",
-        "question_number": 26,
-        "body_index": 1156
       }
     ],
     "type": "multiple_choice",
@@ -2231,61 +2351,15 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "variants": [
-      {
-        "question": "Những đặc điểm nổi bật trong thời kỳ quá độ lên chủ nghĩa xã hội gồm: (Chọn 2 đáp án đúng)",
-        "type": "multiple_choice",
-        "options": [
-          "A. Tổn tại nhiều thành phần kinh tế khác nhau.",
-          "B. Xã hội hoàn toàn không còn giai cấp.",
-          "C. Không còn mâu thuẫn xã hội nào.",
-          "D. Sự tồn tại song song của các yếu tổ củ và yếu tố mới"
-        ],
-        "correct_answers": [
-          0,
-          3
-        ],
-        "instruction": "Chọn 2 đáp án đúng",
-        "sources": [
-          {
-            "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
-            "question_number": 39,
-            "body_index": 539
-          }
-        ]
-      },
-      {
-        "question": "(Bài 2 – Chọn 2 đáp án đúng): Những đặc điểm nổi bật trong thời kỳ quá độ lên chủ nghĩa xã hội gồm:",
-        "type": "multiple_choice",
-        "options": [
-          "A. Sự tồn tại song song của các yếu tố cũ và yếu tố mới",
-          "B. Không còn mâu thuẫn xã hội nào",
-          "C. Xã hội hoàn toàn không còn giai cấp",
-          "D. Tồn tại nhiều thành phần kinh tế khác nhau"
-        ],
-        "correct_answers": [
-          0,
-          3
-        ],
-        "instruction": "Chọn 2 đáp án đúng",
-        "sources": [
-          {
-            "file": "CHỦ NGHĨA XH-KH (1).docx",
-            "question_number": 26,
-            "body_index": 1156
-          }
-        ]
-      }
-    ],
-    "is_thuong_xuyen": true,
-    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 1",
-    "id": "q-604d401be1585bb0",
+    "source_q_num": 39,
+    "body_index": 539,
     "lesson": "Bài 2",
-    "q_num": 38
+    "q_num": 39,
+    "id": "q-b2-c39-539"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 39: Đặc điểm cơ bản của thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là gì? (Chọn 2 đáp án đúng)",
+    "question": "Câu 40: Đặc điểm cơ bản của thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là gì? (Chọn 2 đáp án đúng)",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -2305,36 +2379,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-29b464db6143adea",
+    "source_q_num": 40,
+    "body_index": 547,
     "lesson": "Bài 2",
-    "q_num": 39
-  },
-  {
-    "lesson_num": 2,
-    "question": "Câu 40: (Bài 2): So sánh sự khác nhau giữa giai đoạn thấp và giai đoạn cao của hình thái kinh tế - xã hội cộng sản chủ nghĩa?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (1).docx",
-        "question_number": 27,
-        "body_index": 1159
-      }
-    ],
-    "is_thuong_xuyen": true,
-    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 1",
-    "type": "single_choice",
-    "options": [
-      "A. Giai đoạn thấp thực hiện phân phối theo lao động, giai đoạn cao thực hiện phân phối theo nhu cầu",
-      "B. Giai đoạn thấp không có sự phân chia giai cấp",
-      "C. Giai đoạn thấp sử dụng pháp quyền tư sản",
-      "D. Giai đoạn thấp thực hiện phân phối theo nhu cầu, giai đoạn cao thực hiện phân phối theo lao động"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-68df110792f6db75",
-    "lesson": "Bài 2",
-    "q_num": 40
+    "q_num": 40,
+    "id": "q-b2-c40-547"
   },
   {
     "lesson_num": 3,
@@ -2357,9 +2406,11 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-b77a7edd9a45e5ac",
+    "source_q_num": 1,
+    "body_index": 556,
     "lesson": "Bài 3",
-    "q_num": 1
+    "q_num": 1,
+    "id": "q-b3-c1-556"
   },
   {
     "lesson_num": 3,
@@ -2382,9 +2433,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-c91190d8023ccdf4",
+    "source_q_num": 2,
+    "body_index": 562,
     "lesson": "Bài 3",
-    "q_num": 2
+    "q_num": 2,
+    "id": "q-b3-c2-562"
   },
   {
     "lesson_num": 3,
@@ -2407,9 +2460,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-0dfb5019cbf46be6",
+    "source_q_num": 3,
+    "body_index": 573,
     "lesson": "Bài 3",
-    "q_num": 3
+    "q_num": 3,
+    "id": "q-b3-c3-573"
   },
   {
     "lesson_num": 3,
@@ -2432,9 +2487,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-3eb53f3fedfb5004",
+    "source_q_num": 4,
+    "body_index": 583,
     "lesson": "Bài 3",
-    "q_num": 4
+    "q_num": 4,
+    "id": "q-b3-c4-583"
   },
   {
     "lesson_num": 3,
@@ -2444,11 +2501,6 @@ window.QUIZ_QUESTIONS = [
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
         "question_number": 5,
         "body_index": 594
-      },
-      {
-        "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
-        "question_number": 10,
-        "body_index": 647
       }
     ],
     "type": "single_choice",
@@ -2462,53 +2514,11 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "variants": [
-      {
-        "question": "So với các nền dân chủ trước đây, dân chủ xã hội chủ nghĩa có điểm khác biệt cơ bản nào?",
-        "type": "single_choice",
-        "options": [
-          "A. Là nền dân chủ phi lịch sử",
-          "B. Là nền dân chủ rộng rãi cho giai cấp công nhân và nhân dân lao động",
-          "C. Không còn mang tính giai cấp",
-          "D. Là nền dân chủ thuần túy"
-        ],
-        "correct_answers": [
-          1
-        ],
-        "instruction": "Chọn 1 đáp án đúng nhất",
-        "sources": [
-          {
-            "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
-            "question_number": 5,
-            "body_index": 594
-          }
-        ]
-      },
-      {
-        "question": "Nền dân chủ xã hội chủ nghĩa ở Việt Nam có điểm khác biệt cơ bản nào so với các nền dân chủ trước đây?",
-        "type": "single_choice",
-        "options": [
-          "A. Là nền dân chủ phi lịch sử",
-          "B. Là nền dân chủ rộng rãi cho giai cấp công nhân và nhân dân lao động",
-          "C. Là nền dân chủ thuần túy",
-          "D. Còn mang tính giai cấp"
-        ],
-        "correct_answers": [
-          1
-        ],
-        "instruction": "Chọn 1 đáp án đúng nhất",
-        "sources": [
-          {
-            "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
-            "question_number": 10,
-            "body_index": 647
-          }
-        ]
-      }
-    ],
-    "id": "q-9012f389ce4e8b78",
+    "source_q_num": 5,
+    "body_index": 594,
     "lesson": "Bài 3",
-    "q_num": 5
+    "q_num": 5,
+    "id": "q-b3-c5-594"
   },
   {
     "lesson_num": 3,
@@ -2531,9 +2541,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-28c71af972a0ebc3",
+    "source_q_num": 6,
+    "body_index": 605,
     "lesson": "Bài 3",
-    "q_num": 6
+    "q_num": 6,
+    "id": "q-b3-c6-605"
   },
   {
     "lesson_num": 3,
@@ -2556,9 +2568,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-68ba97f421a435b9",
+    "source_q_num": 7,
+    "body_index": 616,
     "lesson": "Bài 3",
-    "q_num": 7
+    "q_num": 7,
+    "id": "q-b3-c7-616"
   },
   {
     "lesson_num": 3,
@@ -2581,9 +2595,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-f76b5a076cd6b6bc",
+    "source_q_num": 8,
+    "body_index": 626,
     "lesson": "Bài 3",
-    "q_num": 8
+    "q_num": 8,
+    "id": "q-b3-c8-626"
   },
   {
     "lesson_num": 3,
@@ -2606,13 +2622,42 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-b645ce2839b88ca1",
+    "source_q_num": 9,
+    "body_index": 637,
     "lesson": "Bài 3",
-    "q_num": 9
+    "q_num": 9,
+    "id": "q-b3-c9-637"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 10: Tại sao quyền lực nhà nước ở Việt Nam được tổ chức theo nguyên tắc thống nhất?",
+    "question": "Câu 10: Nền dân chủ xã hội chủ nghĩa ở Việt Nam có điểm khác biệt cơ bản nào so với các nền dân chủ trước đây?",
+    "sources": [
+      {
+        "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
+        "question_number": 10,
+        "body_index": 647
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Là nền dân chủ phi lịch sử",
+      "B. Là nền dân chủ rộng rãi cho giai cấp công nhân và nhân dân lao động",
+      "C. Là nền dân chủ thuần túy",
+      "D. Còn mang tính giai cấp"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "source_q_num": 10,
+    "body_index": 647,
+    "lesson": "Bài 3",
+    "q_num": 10,
+    "id": "q-b3-c10-647"
+  },
+  {
+    "lesson_num": 3,
+    "question": "Câu 11: Tại sao quyền lực nhà nước ở Việt Nam được tổ chức theo nguyên tắc thống nhất?",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -2631,13 +2676,15 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-84ac6af5206f1587",
+    "source_q_num": 11,
+    "body_index": 658,
     "lesson": "Bài 3",
-    "q_num": 10
+    "q_num": 11,
+    "id": "q-b3-c11-658"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 11: Hãy xác định biện pháp để nâng cao hiệu quả hoạt động của nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam.",
+    "question": "Câu 12: Hãy xác định biện pháp để nâng cao hiệu quả hoạt động của nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam.",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -2656,13 +2703,15 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-21a9e937fe0631b1",
+    "source_q_num": 12,
+    "body_index": 668,
     "lesson": "Bài 3",
-    "q_num": 11
+    "q_num": 12,
+    "id": "q-b3-c12-668"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 12: Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam có đặc điểm như thế nào?",
+    "question": "Câu 13: Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam có đặc điểm như thế nào?",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -2681,13 +2730,15 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-f502ea07f4a72f97",
+    "source_q_num": 13,
+    "body_index": 674,
     "lesson": "Bài 3",
-    "q_num": 12
+    "q_num": 13,
+    "id": "q-b3-c13-674"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 13: Dân chủ trong xã hội nguyên thủy được thể hiện như thế nào? (Chọn 2 đáp án đúng)",
+    "question": "Câu 14: Dân chủ trong xã hội nguyên thủy được thể hiện như thế nào? (Chọn 2 đáp án đúng)",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -2707,13 +2758,15 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-30835ceeefb687dc",
+    "source_q_num": 14,
+    "body_index": 680,
     "lesson": "Bài 3",
-    "q_num": 13
+    "q_num": 14,
+    "id": "q-b3-c14-680"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 14: Đặc điểm nổi bật của nền dân chủ xã hội chủ nghĩa là gì? (Chọn 2 đáp án đúng)",
+    "question": "Câu 15: Đặc điểm nổi bật của nền dân chủ xã hội chủ nghĩa là gì? (Chọn 2 đáp án đúng)",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -2733,13 +2786,15 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-501471f6efa4f6df",
+    "source_q_num": 15,
+    "body_index": 686,
     "lesson": "Bài 3",
-    "q_num": 14
+    "q_num": 15,
+    "id": "q-b3-c15-686"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 15: Đâu là định nghĩa đúng và đầy đủ về dân chủ?",
+    "question": "Câu 16: Đâu là định nghĩa đúng và đầy đủ về dân chủ?",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -2758,13 +2813,15 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-fb96c41d3e254388",
+    "source_q_num": 16,
+    "body_index": 692,
     "lesson": "Bài 3",
-    "q_num": 15
+    "q_num": 16,
+    "id": "q-b3-c16-692"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 16: Bản chất tư tưởng - văn hoá - xã hội của nền dân chủ xã hội chủ nghĩa được thể hiện ở nội dung nào?",
+    "question": "Câu 17: Bản chất tư tưởng - văn hoá - xã hội của nền dân chủ xã hội chủ nghĩa được thể hiện ở nội dung nào?",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -2783,13 +2840,15 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-b2264acdda90c0cb",
+    "source_q_num": 17,
+    "body_index": 698,
     "lesson": "Bài 3",
-    "q_num": 16
+    "q_num": 17,
+    "id": "q-b3-c17-698"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 17: Đặc điểm của nhà nước pháp quyền xã hội chủ nghĩa là gì?",
+    "question": "Câu 18: Đặc điểm của nhà nước pháp quyền xã hội chủ nghĩa là gì?",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -2808,13 +2867,15 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-d6cad0f7dfb9c1b5",
+    "source_q_num": 18,
+    "body_index": 704,
     "lesson": "Bài 3",
-    "q_num": 17
+    "q_num": 18,
+    "id": "q-b3-c18-704"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 18: So với các mô hình nhà nước khác trong lịch sử thì nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam có sự khác biệt về chất như thế nào?",
+    "question": "Câu 19: So với các mô hình nhà nước khác trong lịch sử thì nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam có sự khác biệt về chất như thế nào?",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -2833,13 +2894,15 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-b3c0e2ec7d53d030",
+    "source_q_num": 19,
+    "body_index": 710,
     "lesson": "Bài 3",
-    "q_num": 18
+    "q_num": 19,
+    "id": "q-b3-c19-710"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 19: Sự ra đời của nhà nước xã hội chủ nghĩa gắn với sự kiện nào?",
+    "question": "Câu 20: Sự ra đời của nhà nước xã hội chủ nghĩa gắn với sự kiện nào?",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -2858,13 +2921,15 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-c562fcd3f65442eb",
+    "source_q_num": 20,
+    "body_index": 716,
     "lesson": "Bài 3",
-    "q_num": 19
+    "q_num": 20,
+    "id": "q-b3-c20-716"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 20: Dân chủ xã hội chủ nghĩa mang tính nhất nguyên về chính trị, được hiểu là:",
+    "question": "Câu 21: Dân chủ xã hội chủ nghĩa mang tính nhất nguyên về chính trị, được hiểu là:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -2883,13 +2948,15 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-48aa8d1c0ff9ec69",
+    "source_q_num": 21,
+    "body_index": 719,
     "lesson": "Bài 3",
-    "q_num": 20
+    "q_num": 21,
+    "id": "q-b3-c21-719"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 21: Hãy xác định mục tiêu chính của việc xây dựng nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam.",
+    "question": "Câu 22: Hãy xác định mục tiêu chính của việc xây dựng nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam.",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -2908,13 +2975,15 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-597ad6eb34fcec91",
+    "source_q_num": 22,
+    "body_index": 722,
     "lesson": "Bài 3",
-    "q_num": 21
+    "q_num": 22,
+    "id": "q-b3-c22-722"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 22: Bản chất của nền dân chủ xã hội chủ nghĩa là: (Chọn 2 đáp án đúng)",
+    "question": "Câu 23: Bản chất của nền dân chủ xã hội chủ nghĩa là: (Chọn 2 đáp án đúng)",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -2934,13 +3003,15 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-3493c717a345d171",
+    "source_q_num": 23,
+    "body_index": 725,
     "lesson": "Bài 3",
-    "q_num": 22
+    "q_num": 23,
+    "id": "q-b3-c23-725"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 23: Dân chủ xã hội chủ nghĩa ở Việt Nam là: (Chọn 2 đáp án đúng)",
+    "question": "Câu 24: Dân chủ xã hội chủ nghĩa ở Việt Nam là: (Chọn 2 đáp án đúng)",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -2960,13 +3031,15 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-a1a86601fd842da3",
+    "source_q_num": 24,
+    "body_index": 728,
     "lesson": "Bài 3",
-    "q_num": 23
+    "q_num": 24,
+    "id": "q-b3-c24-728"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 24: Bản chất chính trị của nền dân chủ xã hội chủ nghĩa thể hiện như thế nào?",
+    "question": "Câu 25: Bản chất chính trị của nền dân chủ xã hội chủ nghĩa thể hiện như thế nào?",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -2985,13 +3058,15 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-542714076a2849b9",
+    "source_q_num": 25,
+    "body_index": 731,
     "lesson": "Bài 3",
-    "q_num": 24
+    "q_num": 25,
+    "id": "q-b3-c25-731"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 25: Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam được thực hiện thông qua:",
+    "question": "Câu 26: Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam được thực hiện thông qua:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -3010,13 +3085,15 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-7340e08090888206",
+    "source_q_num": 26,
+    "body_index": 738,
     "lesson": "Bài 3",
-    "q_num": 25
+    "q_num": 26,
+    "id": "q-b3-c26-738"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 26: Bằng hiểu biết của bản thân, hãy cho biết đâu là hình thức dân chủ gián tiếp?",
+    "question": "Câu 27: Bằng hiểu biết của bản thân, hãy cho biết đâu là hình thức dân chủ gián tiếp?",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -3035,13 +3112,15 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-746494ad76c7239a",
+    "source_q_num": 27,
+    "body_index": 745,
     "lesson": "Bài 3",
-    "q_num": 26
+    "q_num": 27,
+    "id": "q-b3-c27-745"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 27: Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam được xây dựng dựa trên những nguyên tắc nào sau đây? (Chọn 2 đáp án đúng)",
+    "question": "Câu 28: Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam được xây dựng dựa trên những nguyên tắc nào sau đây? (Chọn 2 đáp án đúng)",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -3061,13 +3140,15 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-b3b1d4c81c188ff6",
+    "source_q_num": 28,
+    "body_index": 752,
     "lesson": "Bài 3",
-    "q_num": 27
+    "q_num": 28,
+    "id": "q-b3-c28-752"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 28: Căn cứ vào tính chất của quyền lực nhà nước, chức năng của nhà nước được chia thành:",
+    "question": "Câu 29 [Gốc: Câu 31]: Căn cứ vào tính chất của quyền lực nhà nước, chức năng của nhà nước được chia thành:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -3085,13 +3166,15 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-50a2d5556b4a6289",
+    "source_q_num": 31,
+    "body_index": 759,
     "lesson": "Bài 3",
-    "q_num": 28
+    "q_num": 29,
+    "id": "q-b3-c29-759"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 29: Bản chất của dân chủ là gì?",
+    "question": "Câu 30 [Gốc: Câu 34]: Bản chất của dân chủ là gì?",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -3111,13 +3194,15 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-9965f18433d9f726",
+    "source_q_num": 34,
+    "body_index": 768,
     "lesson": "Bài 3",
-    "q_num": 29
+    "q_num": 30,
+    "id": "q-b3-c30-768"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 30: Ở Việt Nam bản chất dân chủ xã hội chủ nghĩa là dựa vào:",
+    "question": "Câu 31 [Gốc: Câu 38]: Ở Việt Nam bản chất dân chủ xã hội chủ nghĩa là dựa vào:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -3136,23 +3221,20 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-a170f8d20fb9fd5b",
+    "source_q_num": 38,
+    "body_index": 775,
     "lesson": "Bài 3",
-    "q_num": 30
+    "q_num": 31,
+    "id": "q-b3-c31-775"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 31: Vận dụng những kiến thức đã học hãy chọn phương án đúng về mối quan hệ giữa dân chủ xã hội chủ nghĩa và nhà nước xã hội chủ nghĩa?",
+    "question": "Câu 32: Vận dụng những kiến thức đã học hãy chọn phương án đúng về mối quan hệ giữa dân chủ xã hội chủ nghĩa và nhà nước xã hội chủ nghĩa?",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
-        "question_number": null,
+        "question_number": 32,
         "body_index": 782
-      },
-      {
-        "file": "CHỦ NGHĨA XH-KH (1).docx",
-        "question_number": 30,
-        "body_index": 1162
       }
     ],
     "type": "single_choice",
@@ -3166,25 +3248,20 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "is_thuong_xuyen": true,
-    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 1",
-    "id": "q-b753417b0346cd11",
+    "source_q_num": 32,
+    "body_index": 782,
     "lesson": "Bài 3",
-    "q_num": 31
+    "q_num": 32,
+    "id": "q-b3-c32-782"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 32: Chọn đáp án Đúng hoặc Sai với từng phát biểu sau:",
+    "question": "Câu 33 [Gốc: Câu 38]: Chọn đáp án Đúng hoặc Sai với từng phát biểu sau:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
         "question_number": 38,
         "body_index": 789
-      },
-      {
-        "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
-        "question_number": 38,
-        "body_index": 834
       }
     ],
     "type": "true_false",
@@ -3207,13 +3284,15 @@ window.QUIZ_QUESTIONS = [
       }
     ],
     "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "id": "q-fb51121319e41f5e",
+    "source_q_num": 38,
+    "body_index": 789,
     "lesson": "Bài 3",
-    "q_num": 32
+    "q_num": 33,
+    "id": "q-b3-c33-789"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 33: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+    "question": "Câu 34 [Gốc: Câu 32]: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -3241,13 +3320,15 @@ window.QUIZ_QUESTIONS = [
       }
     ],
     "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "id": "q-922e0340771fda58",
+    "source_q_num": 32,
+    "body_index": 803,
     "lesson": "Bài 3",
-    "q_num": 33
+    "q_num": 34,
+    "id": "q-b3-c34-803"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 34: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+    "question": "Câu 35: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -3275,13 +3356,15 @@ window.QUIZ_QUESTIONS = [
       }
     ],
     "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "id": "q-f5a947ed498ddf02",
+    "source_q_num": 35,
+    "body_index": 813,
     "lesson": "Bài 3",
-    "q_num": 34
+    "q_num": 35,
+    "id": "q-b3-c35-813"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 35: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+    "question": "Câu 36: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -3309,13 +3392,51 @@ window.QUIZ_QUESTIONS = [
       }
     ],
     "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "id": "q-a5600c37c52f1436",
+    "source_q_num": 36,
+    "body_index": 824,
     "lesson": "Bài 3",
-    "q_num": 35
+    "q_num": 36,
+    "id": "q-b3-c36-824"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 36: Ghép các đáp án khớp với các phát biểu từ 1 - 4 vế trái dưới đây:",
+    "question": "Câu 37 [Gốc: Câu 38]: Chọn đáp án Đúng hoặc Sai với từng phát biểu sau:",
+    "sources": [
+      {
+        "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
+        "question_number": 38,
+        "body_index": 834
+      }
+    ],
+    "type": "true_false",
+    "items": [
+      {
+        "statement": "“Phát triển dân chủ trực tiếp là hình thức dân chủ để đại diện, được thực hiện do nhân dân ủy quyền, trao quyền lực của mình cho tổ chức mà nhân dân trực tiếp bầu ra.”",
+        "correct": false
+      },
+      {
+        "statement": "“Cách mạng dân tộc dân chủ nhân dân ở nước ta được xác lập sau Cách mạng Tháng Tám năm 1945.”",
+        "correct": true
+      },
+      {
+        "statement": "“Hình thức dân chủ gián tiếp là hình thức thông qua đó, nhân dân bằng hành động trực tiếp của mình thực hiện quyền làm chủ nhà nước và xã hội.”",
+        "correct": false
+      },
+      {
+        "statement": "“Năm 1976, tên nước được đổi thành Cộng hòa xã hội chủ nghĩa Việt Nam.”",
+        "correct": true
+      }
+    ],
+    "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
+    "source_q_num": 38,
+    "body_index": 834,
+    "lesson": "Bài 3",
+    "q_num": 37,
+    "id": "q-b3-c37-834"
+  },
+  {
+    "lesson_num": 3,
+    "question": "Câu 38 [Gốc: Câu 41]: Ghép các đáp án khớp với các phát biểu từ 1 - 4 vế trái dưới đây:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -3349,13 +3470,15 @@ window.QUIZ_QUESTIONS = [
       "chiếm hữu nô lệ",
       "dân chủ xã hội chủ nghĩa"
     ],
-    "id": "q-fc94419409e73be6",
+    "source_q_num": 41,
+    "body_index": 849,
     "lesson": "Bài 3",
-    "q_num": 36
+    "q_num": 38,
+    "id": "q-b3-c38-849"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 37: Kéo thả các đáp án khớp với các phát biểu từ 1 – 3 ở dưới đây:",
+    "question": "Câu 39 [Gốc: Câu 30]: Kéo thả các đáp án khớp với các phát biểu từ 1 – 3 ở dưới đây:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -3384,13 +3507,15 @@ window.QUIZ_QUESTIONS = [
       "dân chủ trực tiếp",
       "quyền làm chủ"
     ],
-    "id": "q-1ca473855a9a051a",
+    "source_q_num": 30,
+    "body_index": 853,
     "lesson": "Bài 3",
-    "q_num": 37
+    "q_num": 39,
+    "id": "q-b3-c39-853"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 38: Kéo thả các đáp án khớp với các phát biểu từ 1 – 4 ở dưới đây:",
+    "question": "Câu 40 [Gốc: Câu 33]: Kéo thả các đáp án khớp với các phát biểu từ 1 – 4 ở dưới đây:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -3424,13 +3549,15 @@ window.QUIZ_QUESTIONS = [
       "Chủ thể quyền lực",
       "Dân chủ đại diện"
     ],
-    "id": "q-a8576b8f0b599ea8",
+    "source_q_num": 33,
+    "body_index": 857,
     "lesson": "Bài 3",
-    "q_num": 38
+    "q_num": 40,
+    "id": "q-b3-c40-857"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 39: Kéo thả các đáp án khớp với các phát biểu từ 1 – 3 ở dưới đây:",
+    "question": "Câu 41 [Gốc: Câu 37]: Kéo thả các đáp án khớp với các phát biểu từ 1 – 3 ở dưới đây:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -3459,59 +3586,11 @@ window.QUIZ_QUESTIONS = [
       "dân chủ trực tiếp",
       "dân chủ nhân dân"
     ],
-    "id": "q-ea5418ab7947b0d6",
+    "source_q_num": 37,
+    "body_index": 861,
     "lesson": "Bài 3",
-    "q_num": 39
-  },
-  {
-    "lesson_num": 3,
-    "question": "Câu 40: Hình thức dân chủ nào là hình thức mà nhân dân trực tiếp bày tỏ ý chí, trực tiếp tham gia quản lý nhà nước và xã hội?",
-    "sources": [
-      {
-        "file": "CNKHXH BAI6.docx",
-        "question_number": 25,
-        "body_index": 72
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Dân chủ gián tiếp",
-      "B. Dân chủ đại diện",
-      "C. Dân chủ trực tiếp",
-      "D. Dân chủ ủy quyền"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-a80fff2f8ada40a3",
-    "lesson": "Bài 3",
-    "q_num": 40
-  },
-  {
-    "lesson_num": 3,
-    "question": "Câu 41: Khẳng định nào sau đây về tổ chức quyền lực nhà nước ở Việt Nam là SAI?",
-    "sources": [
-      {
-        "file": "CNKHXH BAI6.docx",
-        "question_number": 26,
-        "body_index": 75
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Bản chất dân chủ XHCN được thực hiện qua hình thức trực tiếp và gián tiếp",
-      "B. Quốc hội là cơ quan quyền lực nhà nước cao nhất hoạt động theo nhiệm kỳ 3 năm",
-      "C. Nhà nước Việt Nam là nhà nước của nhân dân, do nhân dân, vì nhân dân làm chủ",
-      "D. Trong hoạt động nhà nước có sự phân công, phối hợp và kiểm soát giữa các cơ quan quyền lực"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-6495b6d612161bc3",
-    "lesson": "Bài 3",
-    "q_num": 41
+    "q_num": 41,
+    "id": "q-b3-c41-861"
   },
   {
     "lesson_num": 4,
@@ -3534,9 +3613,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-25e196e1a6d876e8",
+    "source_q_num": 1,
+    "body_index": 866,
     "lesson": "Bài 4",
-    "q_num": 1
+    "q_num": 1,
+    "id": "q-b4-c1-866"
   },
   {
     "lesson_num": 4,
@@ -3559,9 +3640,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-4db6ba6707310346",
+    "source_q_num": 2,
+    "body_index": 872,
     "lesson": "Bài 4",
-    "q_num": 2
+    "q_num": 2,
+    "id": "q-b4-c2-872"
   },
   {
     "lesson_num": 4,
@@ -3585,9 +3668,11 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-b7567470ae4f00df",
+    "source_q_num": 3,
+    "body_index": 878,
     "lesson": "Bài 4",
-    "q_num": 3
+    "q_num": 3,
+    "id": "q-b4-c3-878"
   },
   {
     "lesson_num": 4,
@@ -3610,9 +3695,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-a7034b0a9217fb32",
+    "source_q_num": 4,
+    "body_index": 884,
     "lesson": "Bài 4",
-    "q_num": 4
+    "q_num": 4,
+    "id": "q-b4-c4-884"
   },
   {
     "lesson_num": 4,
@@ -3635,9 +3722,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-1dc75ef5fe9e60d6",
+    "source_q_num": 5,
+    "body_index": 890,
     "lesson": "Bài 4",
-    "q_num": 5
+    "q_num": 5,
+    "id": "q-b4-c5-890"
   },
   {
     "lesson_num": 4,
@@ -3660,9 +3749,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-bbade14330bc4fce",
+    "source_q_num": 6,
+    "body_index": 896,
     "lesson": "Bài 4",
-    "q_num": 6
+    "q_num": 6,
+    "id": "q-b4-c6-896"
   },
   {
     "lesson_num": 4,
@@ -3685,9 +3776,11 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-42272746cea3034b",
+    "source_q_num": 7,
+    "body_index": 901,
     "lesson": "Bài 4",
-    "q_num": 7
+    "q_num": 7,
+    "id": "q-b4-c7-901"
   },
   {
     "lesson_num": 4,
@@ -3710,9 +3803,11 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-1e0bb5cb61f90ded",
+    "source_q_num": 8,
+    "body_index": 907,
     "lesson": "Bài 4",
-    "q_num": 8
+    "q_num": 8,
+    "id": "q-b4-c8-907"
   },
   {
     "lesson_num": 4,
@@ -3736,9 +3831,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-47ceef16e6024ac7",
+    "source_q_num": 9,
+    "body_index": 913,
     "lesson": "Bài 4",
-    "q_num": 9
+    "q_num": 9,
+    "id": "q-b4-c9-913"
   },
   {
     "lesson_num": 4,
@@ -3761,9 +3858,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-5154318f3b060844",
+    "source_q_num": 10,
+    "body_index": 918,
     "lesson": "Bài 4",
-    "q_num": 10
+    "q_num": 10,
+    "id": "q-b4-c10-918"
   },
   {
     "lesson_num": 4,
@@ -3786,9 +3885,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-bb8a742f3a53da4e",
+    "source_q_num": 11,
+    "body_index": 924,
     "lesson": "Bài 4",
-    "q_num": 11
+    "q_num": 11,
+    "id": "q-b4-c11-924"
   },
   {
     "lesson_num": 4,
@@ -3811,9 +3912,11 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-3a11204f046f009a",
+    "source_q_num": 12,
+    "body_index": 930,
     "lesson": "Bài 4",
-    "q_num": 12
+    "q_num": 12,
+    "id": "q-b4-c12-930"
   },
   {
     "lesson_num": 4,
@@ -3836,9 +3939,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-a462472130b2387e",
+    "source_q_num": 13,
+    "body_index": 935,
     "lesson": "Bài 4",
-    "q_num": 13
+    "q_num": 13,
+    "id": "q-b4-c13-935"
   },
   {
     "lesson_num": 4,
@@ -3861,9 +3966,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-0a63e505a753afbb",
+    "source_q_num": 14,
+    "body_index": 942,
     "lesson": "Bài 4",
-    "q_num": 14
+    "q_num": 14,
+    "id": "q-b4-c14-942"
   },
   {
     "lesson_num": 4,
@@ -3886,9 +3993,11 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-855c3f3981ac4533",
+    "source_q_num": 15,
+    "body_index": 951,
     "lesson": "Bài 4",
-    "q_num": 15
+    "q_num": 15,
+    "id": "q-b4-c15-951"
   },
   {
     "lesson_num": 4,
@@ -3911,9 +4020,11 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-2379bba53c1dab75",
+    "source_q_num": 16,
+    "body_index": 959,
     "lesson": "Bài 4",
-    "q_num": 16
+    "q_num": 16,
+    "id": "q-b4-c16-959"
   },
   {
     "lesson_num": 4,
@@ -3936,9 +4047,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-89d7eb95bcaf2f77",
+    "source_q_num": 17,
+    "body_index": 966,
     "lesson": "Bài 4",
-    "q_num": 17
+    "q_num": 17,
+    "id": "q-b4-c17-966"
   },
   {
     "lesson_num": 4,
@@ -3961,9 +4074,11 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-8523ee7fae53663e",
+    "source_q_num": 18,
+    "body_index": 974,
     "lesson": "Bài 4",
-    "q_num": 18
+    "q_num": 18,
+    "id": "q-b4-c18-974"
   },
   {
     "lesson_num": 4,
@@ -3986,9 +4101,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-61f2c608b8e4c5bd",
+    "source_q_num": 19,
+    "body_index": 981,
     "lesson": "Bài 4",
-    "q_num": 19
+    "q_num": 19,
+    "id": "q-b4-c19-981"
   },
   {
     "lesson_num": 4,
@@ -4011,9 +4128,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-2abf0cf14e35340c",
+    "source_q_num": 20,
+    "body_index": 988,
     "lesson": "Bài 4",
-    "q_num": 20
+    "q_num": 20,
+    "id": "q-b4-c20-988"
   },
   {
     "lesson_num": 4,
@@ -4036,9 +4155,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-64c07a05bdd7fa1e",
+    "source_q_num": 21,
+    "body_index": 995,
     "lesson": "Bài 4",
-    "q_num": 21
+    "q_num": 21,
+    "id": "q-b4-c21-995"
   },
   {
     "lesson_num": 4,
@@ -4048,11 +4169,6 @@ window.QUIZ_QUESTIONS = [
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
         "question_number": 22,
         "body_index": 1002
-      },
-      {
-        "file": "CHỦ NGHĨA XH-KH (1).docx",
-        "question_number": 7,
-        "body_index": 1170
       }
     ],
     "type": "single_choice",
@@ -4066,55 +4182,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "variants": [
-      {
-        "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội - giai cấp thường xuyên biến đổi theo mấy quy luật cơ bản?",
-        "type": "single_choice",
-        "options": [
-          "A. 3",
-          "B. 5",
-          "C. 4",
-          "D. 2"
-        ],
-        "correct_answers": [
-          0
-        ],
-        "instruction": "Chọn 1 đáp án đúng nhất",
-        "sources": [
-          {
-            "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
-            "question_number": 22,
-            "body_index": 1002
-          }
-        ]
-      },
-      {
-        "question": "(Bài 4): Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội – giai cấp thường xuyên biến đổi theo mấy quy luật cơ bản?",
-        "type": "single_choice",
-        "options": [
-          "A. 3",
-          "B. 4",
-          "C. 5",
-          "D. 2"
-        ],
-        "correct_answers": [
-          0
-        ],
-        "instruction": "Chọn 1 đáp án đúng nhất",
-        "sources": [
-          {
-            "file": "CHỦ NGHĨA XH-KH (1).docx",
-            "question_number": 7,
-            "body_index": 1170
-          }
-        ]
-      }
-    ],
-    "is_thuong_xuyen": true,
-    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 2",
-    "id": "q-03b9fbb969619c76",
+    "source_q_num": 22,
+    "body_index": 1002,
     "lesson": "Bài 4",
-    "q_num": 22
+    "q_num": 22,
+    "id": "q-b4-c22-1002"
   },
   {
     "lesson_num": 4,
@@ -4137,9 +4209,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-fc20e9d931dac28c",
+    "source_q_num": 23,
+    "body_index": 1009,
     "lesson": "Bài 4",
-    "q_num": 23
+    "q_num": 23,
+    "id": "q-b4-c23-1009"
   },
   {
     "lesson_num": 4,
@@ -4162,9 +4236,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-e5ed7a0f959dd368",
+    "source_q_num": 24,
+    "body_index": 1016,
     "lesson": "Bài 4",
-    "q_num": 24
+    "q_num": 24,
+    "id": "q-b4-c24-1016"
   },
   {
     "lesson_num": 4,
@@ -4187,9 +4263,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-58017b46d7bbd9b0",
+    "source_q_num": 25,
+    "body_index": 1023,
     "lesson": "Bài 4",
-    "q_num": 25
+    "q_num": 25,
+    "id": "q-b4-c25-1023"
   },
   {
     "lesson_num": 4,
@@ -4212,9 +4290,11 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-f2301684528b76dc",
+    "source_q_num": 26,
+    "body_index": 1030,
     "lesson": "Bài 4",
-    "q_num": 26
+    "q_num": 26,
+    "id": "q-b4-c26-1030"
   },
   {
     "lesson_num": 4,
@@ -4237,9 +4317,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-be9d859bac568c69",
+    "source_q_num": 27,
+    "body_index": 1037,
     "lesson": "Bài 4",
-    "q_num": 27
+    "q_num": 27,
+    "id": "q-b4-c27-1037"
   },
   {
     "lesson_num": 4,
@@ -4262,9 +4344,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-6afea36c190d5c25",
+    "source_q_num": 28,
+    "body_index": 1044,
     "lesson": "Bài 4",
-    "q_num": 28
+    "q_num": 28,
+    "id": "q-b4-c28-1044"
   },
   {
     "lesson_num": 4,
@@ -4274,11 +4358,6 @@ window.QUIZ_QUESTIONS = [
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
         "question_number": 29,
         "body_index": 1051
-      },
-      {
-        "file": "CHỦ NGHĨA XH-KH (1).docx",
-        "question_number": 6,
-        "body_index": 1167
       }
     ],
     "type": "single_choice",
@@ -4292,11 +4371,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "is_thuong_xuyen": true,
-    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 2",
-    "id": "q-0343f77ddf85e35e",
+    "source_q_num": 29,
+    "body_index": 1051,
     "lesson": "Bài 4",
-    "q_num": 29
+    "q_num": 29,
+    "id": "q-b4-c29-1051"
   },
   {
     "lesson_num": 4,
@@ -4320,9 +4399,11 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-97bd41504914d9fa",
+    "source_q_num": 30,
+    "body_index": 1058,
     "lesson": "Bài 4",
-    "q_num": 30
+    "q_num": 30,
+    "id": "q-b4-c30-1058"
   },
   {
     "lesson_num": 4,
@@ -4345,9 +4426,11 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-3d0f2e6e70f6617e",
+    "source_q_num": 31,
+    "body_index": 1065,
     "lesson": "Bài 4",
-    "q_num": 31
+    "q_num": 31,
+    "id": "q-b4-c31-1065"
   },
   {
     "lesson_num": 4,
@@ -4371,9 +4454,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-e848067144e612cf",
+    "source_q_num": 32,
+    "body_index": 1071,
     "lesson": "Bài 4",
-    "q_num": 32
+    "q_num": 32,
+    "id": "q-b4-c32-1071"
   },
   {
     "lesson_num": 4,
@@ -4397,13 +4482,15 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-eeb35a5141f6fd2c",
+    "source_q_num": 33,
+    "body_index": 1078,
     "lesson": "Bài 4",
-    "q_num": 33
+    "q_num": 33,
+    "id": "q-b4-c33-1078"
   },
   {
     "lesson_num": 4,
-    "question": "Câu 34: Những phương hướng nào sau đây củng cố liên minh giai cấp, tầng lớp ở Việt Nam",
+    "question": "Câu 34 [Gốc: Câu 10]: Những phương hướng nào sau đây củng cố liên minh giai cấp, tầng lớp ở Việt Nam",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -4423,13 +4510,15 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-f0ccb02c0b109479",
+    "source_q_num": 10,
+    "body_index": 1085,
     "lesson": "Bài 4",
-    "q_num": 34
+    "q_num": 34,
+    "id": "q-b4-c34-1085"
   },
   {
     "lesson_num": 4,
-    "question": "Câu 35: Những chính sách nào sau đây hỗ trợ xây dựng cơ cấu xã hội - giai cấp ở Việt Nam?",
+    "question": "Câu 35 [Gốc: Câu 15]: Những chính sách nào sau đây hỗ trợ xây dựng cơ cấu xã hội - giai cấp ở Việt Nam?",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -4449,13 +4538,15 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-bccf64dd2a6dcb8e",
+    "source_q_num": 15,
+    "body_index": 1093,
     "lesson": "Bài 4",
-    "q_num": 35
+    "q_num": 35,
+    "id": "q-b4-c35-1093"
   },
   {
     "lesson_num": 4,
-    "question": "Câu 36: Những lực lượng nào sau đây là trung tâm trong cơ cấu xã hội - giai cấp ở Việt Nam",
+    "question": "Câu 36 [Gốc: Câu 8]: Những lực lượng nào sau đây là trung tâm trong cơ cấu xã hội - giai cấp ở Việt Nam",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -4475,13 +4566,15 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-95535b12080b26cb",
+    "source_q_num": 8,
+    "body_index": 1101,
     "lesson": "Bài 4",
-    "q_num": 36
+    "q_num": 36,
+    "id": "q-b4-c36-1101"
   },
   {
     "lesson_num": 4,
-    "question": "Câu 37: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+    "question": "Câu 37 [Gốc: Câu 34]: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -4509,13 +4602,15 @@ window.QUIZ_QUESTIONS = [
       }
     ],
     "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "id": "q-d1bde1b7666b578b",
+    "source_q_num": 34,
+    "body_index": 1110,
     "lesson": "Bài 4",
-    "q_num": 37
+    "q_num": 37,
+    "id": "q-b4-c37-1110"
   },
   {
     "lesson_num": 4,
-    "question": "Câu 38: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+    "question": "Câu 38 [Gốc: Câu 35]: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -4543,13 +4638,15 @@ window.QUIZ_QUESTIONS = [
       }
     ],
     "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "id": "q-96eba8e87f5953e2",
+    "source_q_num": 35,
+    "body_index": 1124,
     "lesson": "Bài 4",
-    "q_num": 38
+    "q_num": 38,
+    "id": "q-b4-c38-1124"
   },
   {
     "lesson_num": 4,
-    "question": "Câu 39: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+    "question": "Câu 39 [Gốc: Câu 36]: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -4577,13 +4674,15 @@ window.QUIZ_QUESTIONS = [
       }
     ],
     "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "id": "q-1b58ab5265365737",
+    "source_q_num": 36,
+    "body_index": 1137,
     "lesson": "Bài 4",
-    "q_num": 39
+    "q_num": 39,
+    "id": "q-b4-c39-1137"
   },
   {
     "lesson_num": 4,
-    "question": "Câu 40: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+    "question": "Câu 40 [Gốc: Câu 37]: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -4611,13 +4710,15 @@ window.QUIZ_QUESTIONS = [
       }
     ],
     "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "id": "q-583947f598544f07",
+    "source_q_num": 37,
+    "body_index": 1150,
     "lesson": "Bài 4",
-    "q_num": 40
+    "q_num": 40,
+    "id": "q-b4-c40-1150"
   },
   {
     "lesson_num": 4,
-    "question": "Câu 41: Kéo thả các yếu tố liên quan đến liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội vào các cột tương ứng.",
+    "question": "Câu 41 [Gốc: Câu 38]: Kéo thả các yếu tố liên quan đến liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội vào các cột tương ứng.",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -4681,13 +4782,15 @@ window.QUIZ_QUESTIONS = [
         "category": "Nội dung/phương hướng của liên minh"
       }
     ],
-    "id": "q-558bceec789f63ab",
+    "source_q_num": 38,
+    "body_index": 1164,
     "lesson": "Bài 4",
-    "q_num": 41
+    "q_num": 41,
+    "id": "q-b4-c41-1164"
   },
   {
     "lesson_num": 4,
-    "question": "Câu 42: Kéo thả các khái niệm khớp với các phát biểu về cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội dưới đây:",
+    "question": "Câu 42 [Gốc: Câu 39]: Kéo thả các khái niệm khớp với các phát biểu về cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội dưới đây:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -4721,13 +4824,15 @@ window.QUIZ_QUESTIONS = [
       "Đội ngũ trí thức",
       "Đội ngũ doanh nhân"
     ],
-    "id": "q-f30c76d9797a7ba7",
+    "source_q_num": 39,
+    "body_index": 1169,
     "lesson": "Bài 4",
-    "q_num": 42
+    "q_num": 42,
+    "id": "q-b4-c42-1169"
   },
   {
     "lesson_num": 4,
-    "question": "Câu 43: Kéo thả các đáp án đúng ứng với từng phát biểu sau đây về vị trí, vai trò của các giai cấp, tầng lớp trong cơ cấu xã hội – giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội:",
+    "question": "Câu 43 [Gốc: Câu 40]: Kéo thả các đáp án đúng ứng với từng phát biểu sau đây về vị trí, vai trò của các giai cấp, tầng lớp trong cơ cấu xã hội – giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -4761,23 +4866,20 @@ window.QUIZ_QUESTIONS = [
       "đặc biệt quan trọng",
       "sáng tạo đặc biệt"
     ],
-    "id": "q-784693d63af35e68",
+    "source_q_num": 40,
+    "body_index": 1176,
     "lesson": "Bài 4",
-    "q_num": 43
+    "q_num": 43,
+    "id": "q-b4-c43-1176"
   },
   {
     "lesson_num": 4,
-    "question": "Câu 44: Kéo thả các yếu tố liên quan đến cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội vào các cột tương ứng:",
+    "question": "Câu 44 [Gốc: Câu 7]: Kéo thả các yếu tố liên quan đến cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội vào các cột tương ứng:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
         "question_number": 7,
         "body_index": 1181
-      },
-      {
-        "file": "CHỦ NGHĨA XH-KH (1).docx",
-        "question_number": 19,
-        "body_index": 1176
       }
     ],
     "categories": [
@@ -4831,11 +4933,11 @@ window.QUIZ_QUESTIONS = [
         "category": "Chính sách hỗ trợ"
       }
     ],
-    "is_thuong_xuyen": true,
-    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 2",
-    "id": "q-c8ca90c4a4ee264a",
+    "source_q_num": 7,
+    "body_index": 1181,
     "lesson": "Bài 4",
-    "q_num": 44
+    "q_num": 44,
+    "id": "q-b4-c44-1181"
   },
   {
     "lesson_num": 4,
@@ -4843,12 +4945,7 @@ window.QUIZ_QUESTIONS = [
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
-        "question_number": null,
-        "body_index": 1186
-      },
-      {
-        "file": "CHỦ NGHĨA XH-KH (1).docx",
-        "question_number": 20,
+        "question_number": 45,
         "body_index": 1186
       }
     ],
@@ -4878,36 +4975,11 @@ window.QUIZ_QUESTIONS = [
       "Tầng lớp phụ nữ",
       "Liên minh công - nông"
     ],
-    "is_thuong_xuyen": true,
-    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 2",
-    "id": "q-71d14e9c70c1ff57",
+    "source_q_num": 45,
+    "body_index": 1186,
     "lesson": "Bài 4",
-    "q_num": 45
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 46: Phát biểu nào sau đây về khối liên minh giai cấp, tầng lớp ở Việt Nam là ĐÚNG?",
-    "sources": [
-      {
-        "file": "CNKHXH BAI6.docx",
-        "question_number": 29,
-        "body_index": 84
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Nội dung tôn giáo là nội dung nòng cốt của liên minh",
-      "B. Xây dựng Nhà nước pháp quyền là nội dung văn hóa của liên minh",
-      "C. Đồng thuận xã hội là một mục tiêu quan trọng của liên minh giai cấp, tầng lớp",
-      "D. Đội ngũ doanh nhân bị loại trừ, không tham gia khối liên minh"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-5ff19712a9d4523e",
-    "lesson": "Bài 4",
-    "q_num": 46
+    "q_num": 45,
+    "id": "q-b4-c45-1186"
   },
   {
     "lesson_num": 5,
@@ -4930,9 +5002,11 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-85cce9962eaa4620",
+    "source_q_num": 1,
+    "body_index": 1192,
     "lesson": "Bài 5",
-    "q_num": 1
+    "q_num": 1,
+    "id": "q-b5-c1-1192"
   },
   {
     "lesson_num": 5,
@@ -4956,9 +5030,11 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-6b73d8b0a5444721",
+    "source_q_num": 2,
+    "body_index": 1195,
     "lesson": "Bài 5",
-    "q_num": 2
+    "q_num": 2,
+    "id": "q-b5-c2-1195"
   },
   {
     "lesson_num": 5,
@@ -4981,9 +5057,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-9fb97c6432fede40",
+    "source_q_num": 3,
+    "body_index": 1198,
     "lesson": "Bài 5",
-    "q_num": 3
+    "q_num": 3,
+    "id": "q-b5-c3-1198"
   },
   {
     "lesson_num": 5,
@@ -5006,9 +5084,11 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-57e3f69bdcb8b5c7",
+    "source_q_num": 4,
+    "body_index": 1201,
     "lesson": "Bài 5",
-    "q_num": 4
+    "q_num": 4,
+    "id": "q-b5-c4-1201"
   },
   {
     "lesson_num": 5,
@@ -5031,9 +5111,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-097df58902b10de3",
+    "source_q_num": 5,
+    "body_index": 1204,
     "lesson": "Bài 5",
-    "q_num": 5
+    "q_num": 5,
+    "id": "q-b5-c5-1204"
   },
   {
     "lesson_num": 5,
@@ -5056,9 +5138,11 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-4868274889d7e940",
+    "source_q_num": 6,
+    "body_index": 1207,
     "lesson": "Bài 5",
-    "q_num": 6
+    "q_num": 6,
+    "id": "q-b5-c6-1207"
   },
   {
     "lesson_num": 5,
@@ -5081,9 +5165,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-7f60a93b0372a5a8",
+    "source_q_num": 7,
+    "body_index": 1210,
     "lesson": "Bài 5",
-    "q_num": 7
+    "q_num": 7,
+    "id": "q-b5-c7-1210"
   },
   {
     "lesson_num": 5,
@@ -5106,9 +5192,11 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-5d9a3a7aef626697",
+    "source_q_num": 8,
+    "body_index": 1213,
     "lesson": "Bài 5",
-    "q_num": 8
+    "q_num": 8,
+    "id": "q-b5-c8-1213"
   },
   {
     "lesson_num": 5,
@@ -5131,9 +5219,11 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-833240dab859bdd3",
+    "source_q_num": 9,
+    "body_index": 1216,
     "lesson": "Bài 5",
-    "q_num": 9
+    "q_num": 9,
+    "id": "q-b5-c9-1216"
   },
   {
     "lesson_num": 5,
@@ -5156,9 +5246,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-fef6447552f65e10",
+    "source_q_num": 10,
+    "body_index": 1219,
     "lesson": "Bài 5",
-    "q_num": 10
+    "q_num": 10,
+    "id": "q-b5-c10-1219"
   },
   {
     "lesson_num": 5,
@@ -5181,9 +5273,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-6d694afaafaaa509",
+    "source_q_num": 11,
+    "body_index": 1222,
     "lesson": "Bài 5",
-    "q_num": 11
+    "q_num": 11,
+    "id": "q-b5-c11-1222"
   },
   {
     "lesson_num": 5,
@@ -5206,9 +5300,11 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-be7df5675494ef61",
+    "source_q_num": 12,
+    "body_index": 1225,
     "lesson": "Bài 5",
-    "q_num": 12
+    "q_num": 12,
+    "id": "q-b5-c12-1225"
   },
   {
     "lesson_num": 5,
@@ -5231,9 +5327,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-aaa7b1b328739b0e",
+    "source_q_num": 13,
+    "body_index": 1228,
     "lesson": "Bài 5",
-    "q_num": 13
+    "q_num": 13,
+    "id": "q-b5-c13-1228"
   },
   {
     "lesson_num": 5,
@@ -5256,9 +5354,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-1ece79054ba90ab3",
+    "source_q_num": 14,
+    "body_index": 1231,
     "lesson": "Bài 5",
-    "q_num": 14
+    "q_num": 14,
+    "id": "q-b5-c14-1231"
   },
   {
     "lesson_num": 5,
@@ -5281,9 +5381,11 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-56239252183c7e54",
+    "source_q_num": 15,
+    "body_index": 1234,
     "lesson": "Bài 5",
-    "q_num": 15
+    "q_num": 15,
+    "id": "q-b5-c15-1234"
   },
   {
     "lesson_num": 5,
@@ -5306,9 +5408,11 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-deff10495739974c",
+    "source_q_num": 16,
+    "body_index": 1237,
     "lesson": "Bài 5",
-    "q_num": 16
+    "q_num": 16,
+    "id": "q-b5-c16-1237"
   },
   {
     "lesson_num": 5,
@@ -5331,9 +5435,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-403ee3a9a6768998",
+    "source_q_num": 17,
+    "body_index": 1240,
     "lesson": "Bài 5",
-    "q_num": 17
+    "q_num": 17,
+    "id": "q-b5-c17-1240"
   },
   {
     "lesson_num": 5,
@@ -5357,9 +5463,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-f7999aa9a34b5aed",
+    "source_q_num": 18,
+    "body_index": 1243,
     "lesson": "Bài 5",
-    "q_num": 18
+    "q_num": 18,
+    "id": "q-b5-c18-1243"
   },
   {
     "lesson_num": 5,
@@ -5382,9 +5490,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-66e7d54fb15c7a62",
+    "source_q_num": 19,
+    "body_index": 1246,
     "lesson": "Bài 5",
-    "q_num": 19
+    "q_num": 19,
+    "id": "q-b5-c19-1246"
   },
   {
     "lesson_num": 5,
@@ -5407,9 +5517,11 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-2c7fa0a1b2bd5e9f",
+    "source_q_num": 20,
+    "body_index": 1249,
     "lesson": "Bài 5",
-    "q_num": 20
+    "q_num": 20,
+    "id": "q-b5-c20-1249"
   },
   {
     "lesson_num": 5,
@@ -5432,9 +5544,11 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-9dbe40792fa56963",
+    "source_q_num": 21,
+    "body_index": 1252,
     "lesson": "Bài 5",
-    "q_num": 21
+    "q_num": 21,
+    "id": "q-b5-c21-1252"
   },
   {
     "lesson_num": 5,
@@ -5457,9 +5571,11 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-f6dc369e7ee9922d",
+    "source_q_num": 22,
+    "body_index": 1255,
     "lesson": "Bài 5",
-    "q_num": 22
+    "q_num": 22,
+    "id": "q-b5-c22-1255"
   },
   {
     "lesson_num": 5,
@@ -5482,9 +5598,11 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-d038fbed1e980920",
+    "source_q_num": 23,
+    "body_index": 1258,
     "lesson": "Bài 5",
-    "q_num": 23
+    "q_num": 23,
+    "id": "q-b5-c23-1258"
   },
   {
     "lesson_num": 5,
@@ -5507,9 +5625,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-0421a40894ab7d72",
+    "source_q_num": 24,
+    "body_index": 1261,
     "lesson": "Bài 5",
-    "q_num": 24
+    "q_num": 24,
+    "id": "q-b5-c24-1261"
   },
   {
     "lesson_num": 5,
@@ -5532,9 +5652,11 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-fbc428fdceae6a9a",
+    "source_q_num": 25,
+    "body_index": 1264,
     "lesson": "Bài 5",
-    "q_num": 25
+    "q_num": 25,
+    "id": "q-b5-c25-1264"
   },
   {
     "lesson_num": 5,
@@ -5557,9 +5679,11 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-df0f3435a303ea53",
+    "source_q_num": 26,
+    "body_index": 1267,
     "lesson": "Bài 5",
-    "q_num": 26
+    "q_num": 26,
+    "id": "q-b5-c26-1267"
   },
   {
     "lesson_num": 5,
@@ -5582,9 +5706,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-f887b4de26a71330",
+    "source_q_num": 27,
+    "body_index": 1269,
     "lesson": "Bài 5",
-    "q_num": 27
+    "q_num": 27,
+    "id": "q-b5-c27-1269"
   },
   {
     "lesson_num": 5,
@@ -5607,13 +5733,15 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-2c92eda452e12fea",
+    "source_q_num": 28,
+    "body_index": 1276,
     "lesson": "Bài 5",
-    "q_num": 28
+    "q_num": 28,
+    "id": "q-b5-c28-1276"
   },
   {
     "lesson_num": 5,
-    "question": "Câu 29: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+    "question": "Câu 29 [Gốc: Câu 12]: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -5641,23 +5769,20 @@ window.QUIZ_QUESTIONS = [
       }
     ],
     "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "id": "q-4579923feb5cd25f",
+    "source_q_num": 12,
+    "body_index": 1284,
     "lesson": "Bài 5",
-    "q_num": 29
+    "q_num": 29,
+    "id": "q-b5-c29-1284"
   },
   {
     "lesson_num": 5,
-    "question": "Câu 30: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+    "question": "Câu 30 [Gốc: Câu 14]: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
         "question_number": 14,
         "body_index": 1302
-      },
-      {
-        "file": "CHỦ NGHĨA XH-KH (1).docx",
-        "question_number": 30,
-        "body_index": 1196
       }
     ],
     "type": "true_false",
@@ -5680,15 +5805,15 @@ window.QUIZ_QUESTIONS = [
       }
     ],
     "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "is_thuong_xuyen": true,
-    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 2",
-    "id": "q-a33ae17ebc85f1e2",
+    "source_q_num": 14,
+    "body_index": 1302,
     "lesson": "Bài 5",
-    "q_num": 30
+    "q_num": 30,
+    "id": "q-b5-c30-1302"
   },
   {
     "lesson_num": 5,
-    "question": "Câu 31: Kéo thả các yếu tố liên quan vào các cột tương ứng:",
+    "question": "Câu 31 [Gốc: Câu 10]: Kéo thả các yếu tố liên quan vào các cột tương ứng:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -5747,13 +5872,15 @@ window.QUIZ_QUESTIONS = [
         "category": "Nội dung cương lĩnh dân tộc của Mác-Lênin"
       }
     ],
-    "id": "q-d1935cbe58aea38e",
+    "source_q_num": 10,
+    "body_index": 1321,
     "lesson": "Bài 5",
-    "q_num": 31
+    "q_num": 31,
+    "id": "q-b5-c31-1321"
   },
   {
     "lesson_num": 5,
-    "question": "Câu 32: Kéo thả các đáp án đúng tương ứng với các phát biểu về dân tộc dưới đây:",
+    "question": "Câu 32 [Gốc: Câu 11]: Kéo thả các đáp án đúng tương ứng với các phát biểu về dân tộc dưới đây:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -5787,13 +5914,15 @@ window.QUIZ_QUESTIONS = [
       "Lãnh thổ",
       "Phương thức sinh hoạt kinh tế chung"
     ],
-    "id": "q-0eb510a2d05f79aa",
+    "source_q_num": 11,
+    "body_index": 1326,
     "lesson": "Bài 5",
-    "q_num": 32
+    "q_num": 32,
+    "id": "q-b5-c32-1326"
   },
   {
     "lesson_num": 5,
-    "question": "Câu 33: Kéo thả các đáp án đúng khớp với các phát biểu dưới đây:",
+    "question": "Câu 33 [Gốc: Câu 13]: Kéo thả các đáp án đúng khớp với các phát biểu dưới đây:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -5827,13 +5956,15 @@ window.QUIZ_QUESTIONS = [
       "Tôn giáo",
       "Mê muội"
     ],
-    "id": "q-ca001170d1c8b3e6",
+    "source_q_num": 13,
+    "body_index": 1331,
     "lesson": "Bài 5",
-    "q_num": 33
+    "q_num": 33,
+    "id": "q-b5-c33-1331"
   },
   {
     "lesson_num": 5,
-    "question": "Câu 34: Hãy chỉ ra đâu là nguyên tắc, tôn trọng của Tôn giáo? (Chọn 2 đáp án đúng)",
+    "question": "Câu 34 [Gốc: Câu 30]: Hãy chỉ ra đâu là nguyên tắc, tôn trọng của Tôn giáo? (Chọn 2 đáp án đúng)",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -5853,13 +5984,15 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-3356c1f7de35e3f6",
+    "source_q_num": 30,
+    "body_index": 1335,
     "lesson": "Bài 5",
-    "q_num": 34
+    "q_num": 34,
+    "id": "q-b5-c34-1335"
   },
   {
     "lesson_num": 5,
-    "question": "Câu 35: Nội dung quyền bình đẳng dân tộc của Chủ nghĩa Mác – Lênin bao gồm: (Chọn 3 đáp án đúng)",
+    "question": "Câu 35 [Gốc: Câu 27]: Nội dung quyền bình đẳng dân tộc của Chủ nghĩa Mác – Lênin bao gồm: (Chọn 3 đáp án đúng)",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -5880,13 +6013,15 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 3 đáp án đúng",
-    "id": "q-dc608d6982e578cb",
+    "source_q_num": 27,
+    "body_index": 1342,
     "lesson": "Bài 5",
-    "q_num": 35
+    "q_num": 35,
+    "id": "q-b5-c35-1342"
   },
   {
     "lesson_num": 5,
-    "question": "Câu 36: Kéo thả các yếu tố liên quan vào các cột tương ứng:",
+    "question": "Câu 36 [Gốc: Câu 9]: Kéo thả các yếu tố liên quan vào các cột tương ứng:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -5940,13 +6075,15 @@ window.QUIZ_QUESTIONS = [
         "category": "Đặc trưng của dân tộc (quốc gia)"
       }
     ],
-    "id": "q-e07a7860116ebf45",
+    "source_q_num": 9,
+    "body_index": 1349,
     "lesson": "Bài 5",
-    "q_num": 36
+    "q_num": 36,
+    "id": "q-b5-c36-1349"
   },
   {
     "lesson_num": 5,
-    "question": "Câu 37: Kéo thả các yếu tố liên quan đến tôn giáo vào các cột tương ứng:",
+    "question": "Câu 37 [Gốc: Câu 10]: Kéo thả các yếu tố liên quan đến tôn giáo vào các cột tương ứng:",
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
@@ -6000,9 +6137,11 @@ window.QUIZ_QUESTIONS = [
         "category": "Nguồn gốc của tôn giáo"
       }
     ],
-    "id": "q-762d3ae205e0ebc6",
+    "source_q_num": 10,
+    "body_index": 1354,
     "lesson": "Bài 5",
-    "q_num": 37
+    "q_num": 37,
+    "id": "q-b5-c37-1354"
   },
   {
     "lesson_num": 5,
@@ -6010,7 +6149,7 @@ window.QUIZ_QUESTIONS = [
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
-        "question_number": null,
+        "question_number": 38,
         "body_index": 1360
       }
     ],
@@ -6040,9 +6179,11 @@ window.QUIZ_QUESTIONS = [
       "Quyền bình đẳng dân tộc",
       "Giai cấp công nhân"
     ],
-    "id": "q-1c267dbfde9c7f99",
+    "source_q_num": 38,
+    "body_index": 1360,
     "lesson": "Bài 5",
-    "q_num": 38
+    "q_num": 38,
+    "id": "q-b5-c38-1360"
   },
   {
     "lesson_num": 5,
@@ -6050,7 +6191,7 @@ window.QUIZ_QUESTIONS = [
     "sources": [
       {
         "file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
-        "question_number": null,
+        "question_number": 39,
         "body_index": 1363
       }
     ],
@@ -6080,172 +6221,11 @@ window.QUIZ_QUESTIONS = [
       "Hình thái ý thức xã hội",
       "Phản ánh hư ảo hiện thực khách quan"
     ],
-    "id": "q-9800310130de7349",
+    "source_q_num": 39,
+    "body_index": 1363,
     "lesson": "Bài 5",
-    "q_num": 39
-  },
-  {
-    "lesson_num": 5,
-    "question": "Câu 40: Nhận định nào sau đây là SAI khi nói về quyền tự quyết dân tộc trong Cương lĩnh dân tộc Mác – Lênin?",
-    "sources": [
-      {
-        "file": "CNKHXH BAI6.docx",
-        "question_number": 12,
-        "body_index": 33
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Quyền tự quyết bao gồm quyền tự do tách ra thành quốc gia độc lập",
-      "B. Quyền tự quyết dân tộc không bao gồm nội dung tự nguyện liên hiệp các dân tộc lại",
-      "C. Dân tộc tộc người có đặc trưng về ngôn ngữ riêng",
-      "D. Cương lĩnh dân tộc khẳng định nguyên tắc bình đẳng giữa các dân tộc"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-ced17562e94396dd",
-    "lesson": "Bài 5",
-    "q_num": 40
-  },
-  {
-    "lesson_num": 5,
-    "question": "Câu 41: Hình thái ý thức xã hội phản ánh một cách hoang đường, hư ảo hiện thực khách quan là khái niệm của hiện tượng nào?",
-    "sources": [
-      {
-        "file": "CNKHXH BAI6.docx",
-        "question_number": 13,
-        "body_index": 36
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Nghệ thuật dân gian",
-      "B. Tôn giáo",
-      "C. Đạo đức xã hội",
-      "D. Triết học khoa học"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-6494dce33fb4b055",
-    "lesson": "Bài 5",
-    "q_num": 41
-  },
-  {
-    "lesson_num": 5,
-    "question": "Câu 42: Phát biểu nào sau đây là SAI về sự khác biệt giữa tín ngưỡng và tôn giáo?",
-    "sources": [
-      {
-        "file": "CNKHXH BAI6.docx",
-        "question_number": 14,
-        "body_index": 39
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Tín ngưỡng có hệ thống giáo lý, giáo luật và tổ chức chặt chẽ như tôn giáo",
-      "B. Nguồn gốc kinh tế - xã hội dẫn đến sự ra đời của tôn giáo",
-      "C. Mê tín dị đoan là niềm tin mù quáng gây hậu quả xấu cần loại bỏ",
-      "D. Tôn giáo phản ánh hiện thực một cách hoang đường, hư ảo"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-83ce8aba45e1b9d8",
-    "lesson": "Bài 5",
-    "q_num": 42
-  },
-  {
-    "lesson_num": 5,
-    "question": "Câu 43: Đâu là các đặc trưng cơ bản thuộc về dân tộc tộc người?",
-    "sources": [
-      {
-        "file": "CNKHXH BAI6.docx",
-        "question_number": 16,
-        "body_index": 45
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Lãnh thổ quốc gia, nền kinh tế chung, nhà nước chung",
-      "B. Ngôn ngữ tộc người, văn hóa đặc thù và ý thức tự giác tộc người",
-      "C. Quân đội riêng, hiến pháp riêng, tài chính độc lập",
-      "D. Hệ thống chính trị riêng biệt và tiền tệ riêng"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-3d8c4d27a588e874",
-    "lesson": "Bài 5",
-    "q_num": 43
-  },
-  {
-    "lesson_num": 5,
-    "question": "Câu 44: (Bài 5): Dân tộc được hiểu theo mấy nghĩa?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (1).docx",
-        "question_number": 10,
-        "body_index": 1173
-      }
-    ],
-    "is_thuong_xuyen": true,
-    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 2",
-    "type": "single_choice",
-    "options": [
-      "A. 1",
-      "B. 2",
-      "C. 3",
-      "D. 4"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-b9e3e03cf6146bad",
-    "lesson": "Bài 5",
-    "q_num": 44
-  },
-  {
-    "lesson_num": 5,
-    "question": "Câu 45: (Bài 5 – Đúng/Sai): Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (1).docx",
-        "question_number": 28,
-        "body_index": 1191
-      }
-    ],
-    "is_thuong_xuyen": true,
-    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 2",
-    "type": "true_false",
-    "items": [
-      {
-        "statement": "Dân tộc (quốc gia) không cần lãnh thổ chung",
-        "correct": false
-      },
-      {
-        "statement": "Bình đẳng dân tộc là nội dung cương lĩnh dân tộc của Mác-Lênin",
-        "correct": true
-      },
-      {
-        "statement": "Dân tộc là cộng đồng người có ngôn ngữ riêng và văn hóa đặc thù",
-        "correct": true
-      },
-      {
-        "statement": "Quyền tự quyết dân tộc bao gồm quyền phân lập thành quốc gia độc lập",
-        "correct": true
-      }
-    ],
-    "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "id": "q-ce787d0e0481a51e",
-    "lesson": "Bài 5",
-    "q_num": 45
+    "q_num": 39,
+    "id": "q-b5-c39-1363"
   },
   {
     "lesson_num": 6,
@@ -6269,9 +6249,11 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-cf34e8f3539ff332",
+    "source_q_num": 1,
+    "body_index": 1369,
     "lesson": "Bài 6",
-    "q_num": 1
+    "q_num": 1,
+    "id": "q-b6-c1-1369"
   },
   {
     "lesson_num": 6,
@@ -6294,9 +6276,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-e33077b78130d9a6",
+    "source_q_num": 2,
+    "body_index": 1378,
     "lesson": "Bài 6",
-    "q_num": 2
+    "q_num": 2,
+    "id": "q-b6-c2-1378"
   },
   {
     "lesson_num": 6,
@@ -6319,9 +6303,11 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-3314c4bceb65220e",
+    "source_q_num": 3,
+    "body_index": 1385,
     "lesson": "Bài 6",
-    "q_num": 3
+    "q_num": 3,
+    "id": "q-b6-c3-1385"
   },
   {
     "lesson_num": 6,
@@ -6344,9 +6330,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-8e19b4d814d74d63",
+    "source_q_num": 4,
+    "body_index": 1392,
     "lesson": "Bài 6",
-    "q_num": 4
+    "q_num": 4,
+    "id": "q-b6-c4-1392"
   },
   {
     "lesson_num": 6,
@@ -6369,9 +6357,11 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-90397494f7bb671c",
+    "source_q_num": 5,
+    "body_index": 1399,
     "lesson": "Bài 6",
-    "q_num": 5
+    "q_num": 5,
+    "id": "q-b6-c5-1399"
   },
   {
     "lesson_num": 6,
@@ -6394,9 +6384,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-d51274ef6f01cdf0",
+    "source_q_num": 6,
+    "body_index": 1407,
     "lesson": "Bài 6",
-    "q_num": 6
+    "q_num": 6,
+    "id": "q-b6-c6-1407"
   },
   {
     "lesson_num": 6,
@@ -6419,9 +6411,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-fc1abd0c86e6aad8",
+    "source_q_num": 7,
+    "body_index": 1415,
     "lesson": "Bài 6",
-    "q_num": 7
+    "q_num": 7,
+    "id": "q-b6-c7-1415"
   },
   {
     "lesson_num": 6,
@@ -6444,9 +6438,11 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-429673317131036d",
+    "source_q_num": 8,
+    "body_index": 1422,
     "lesson": "Bài 6",
-    "q_num": 8
+    "q_num": 8,
+    "id": "q-b6-c8-1422"
   },
   {
     "lesson_num": 6,
@@ -6469,9 +6465,11 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-151768c612a29379",
+    "source_q_num": 9,
+    "body_index": 1430,
     "lesson": "Bài 6",
-    "q_num": 9
+    "q_num": 9,
+    "id": "q-b6-c9-1430"
   },
   {
     "lesson_num": 6,
@@ -6494,9 +6492,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-25d58b7699afd160",
+    "source_q_num": 10,
+    "body_index": 1438,
     "lesson": "Bài 6",
-    "q_num": 10
+    "q_num": 10,
+    "id": "q-b6-c10-1438"
   },
   {
     "lesson_num": 6,
@@ -6520,9 +6520,11 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-e7c4cf8d7aa2ec50",
+    "source_q_num": 11,
+    "body_index": 1446,
     "lesson": "Bài 6",
-    "q_num": 11
+    "q_num": 11,
+    "id": "q-b6-c11-1446"
   },
   {
     "lesson_num": 6,
@@ -6545,9 +6547,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-94e5e20e0343339b",
+    "source_q_num": 12,
+    "body_index": 1455,
     "lesson": "Bài 6",
-    "q_num": 12
+    "q_num": 12,
+    "id": "q-b6-c12-1455"
   },
   {
     "lesson_num": 6,
@@ -6570,9 +6574,11 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-e79531c05c6dbe5f",
+    "source_q_num": 13,
+    "body_index": 1462,
     "lesson": "Bài 6",
-    "q_num": 13
+    "q_num": 13,
+    "id": "q-b6-c13-1462"
   },
   {
     "lesson_num": 6,
@@ -6595,9 +6601,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-ec23aaa248dc71d2",
+    "source_q_num": 14,
+    "body_index": 1469,
     "lesson": "Bài 6",
-    "q_num": 14
+    "q_num": 14,
+    "id": "q-b6-c14-1469"
   },
   {
     "lesson_num": 6,
@@ -6620,9 +6628,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-dd71ea2e205c6145",
+    "source_q_num": 15,
+    "body_index": 1476,
     "lesson": "Bài 6",
-    "q_num": 15
+    "q_num": 15,
+    "id": "q-b6-c15-1476"
   },
   {
     "lesson_num": 6,
@@ -6646,9 +6656,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-6d5cdcfffff5c164",
+    "source_q_num": 16,
+    "body_index": 1483,
     "lesson": "Bài 6",
-    "q_num": 16
+    "q_num": 16,
+    "id": "q-b6-c16-1483"
   },
   {
     "lesson_num": 6,
@@ -6671,9 +6683,11 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-443962facbd376d5",
+    "source_q_num": 17,
+    "body_index": 1492,
     "lesson": "Bài 6",
-    "q_num": 17
+    "q_num": 17,
+    "id": "q-b6-c17-1492"
   },
   {
     "lesson_num": 6,
@@ -6696,9 +6710,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-140108516e6a1fa4",
+    "source_q_num": 18,
+    "body_index": 1499,
     "lesson": "Bài 6",
-    "q_num": 18
+    "q_num": 18,
+    "id": "q-b6-c18-1499"
   },
   {
     "lesson_num": 6,
@@ -6721,9 +6737,11 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-2f79407f3ac6e506",
+    "source_q_num": 19,
+    "body_index": 1507,
     "lesson": "Bài 6",
-    "q_num": 19
+    "q_num": 19,
+    "id": "q-b6-c19-1507"
   },
   {
     "lesson_num": 6,
@@ -6746,9 +6764,11 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-06343161d90214b2",
+    "source_q_num": 20,
+    "body_index": 1514,
     "lesson": "Bài 6",
-    "q_num": 20
+    "q_num": 20,
+    "id": "q-b6-c20-1514"
   },
   {
     "lesson_num": 6,
@@ -6772,9 +6792,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-ccc0b9db42674bff",
+    "source_q_num": 21,
+    "body_index": 1521,
     "lesson": "Bài 6",
-    "q_num": 21
+    "q_num": 21,
+    "id": "q-b6-c21-1521"
   },
   {
     "lesson_num": 6,
@@ -6797,9 +6819,11 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "id": "q-c7223fbb9d148563",
+    "source_q_num": 22,
+    "body_index": 1528,
     "lesson": "Bài 6",
-    "q_num": 22
+    "q_num": 22,
+    "id": "q-b6-c22-1528"
   },
   {
     "lesson_num": 6,
@@ -6823,9 +6847,11 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "id": "q-5f1bba896f336aba",
+    "source_q_num": 23,
+    "body_index": 1535,
     "lesson": "Bài 6",
-    "q_num": 23
+    "q_num": 23,
+    "id": "q-b6-c23-1535"
   },
   {
     "lesson_num": 6,
@@ -6857,9 +6883,11 @@ window.QUIZ_QUESTIONS = [
       }
     ],
     "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "id": "q-c364cf05c1442aa8",
+    "source_q_num": 24,
+    "body_index": 1542,
     "lesson": "Bài 6",
-    "q_num": 24
+    "q_num": 24,
+    "id": "q-b6-c24-1542"
   },
   {
     "lesson_num": 6,
@@ -6891,9 +6919,11 @@ window.QUIZ_QUESTIONS = [
       }
     ],
     "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "id": "q-6c585e8581927379",
+    "source_q_num": 25,
+    "body_index": 1553,
     "lesson": "Bài 6",
-    "q_num": 25
+    "q_num": 25,
+    "id": "q-b6-c25-1553"
   },
   {
     "lesson_num": 6,
@@ -6951,9 +6981,11 @@ window.QUIZ_QUESTIONS = [
         "category": "Biến đổi về quy mô gia đình:"
       }
     ],
-    "id": "q-f967f9788b75d8f2",
+    "source_q_num": 26,
+    "body_index": 1563,
     "lesson": "Bài 6",
-    "q_num": 26
+    "q_num": 26,
+    "id": "q-b6-c26-1563"
   },
   {
     "lesson_num": 6,
@@ -6991,8 +7023,10 @@ window.QUIZ_QUESTIONS = [
       "Mâu thuẫn giữa các thế hệ",
       "Kinh tế hàng hóa"
     ],
-    "id": "q-0188db27a03155db",
+    "source_q_num": 27,
+    "body_index": 1568,
     "lesson": "Bài 6",
-    "q_num": 27
+    "q_num": 27,
+    "id": "q-b6-c27-1568"
   }
 ];
