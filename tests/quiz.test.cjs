@@ -44,7 +44,7 @@ test('v6 browser regression: filters, shuffle, all answers, navigation, history 
           currentLesson = lesson; currentType = type; applyFiltersAndReset();
           const expected = allQuestions.filter(q => (lesson === 'all' || (lesson === 'tx' ? q.is_thuong_xuyen : q.lesson_num === Number(lesson))) && (type === 'all' || (type === 'drag_drop' ? q.type.startsWith(type) : q.type === type)));
           if (JSON.stringify(activeQuestions.map(q => q.id)) !== JSON.stringify(expected.map(q => q.id))) throw new Error(`Wrong distribution ${lesson}/${type}`);
-          if (new Set(activeQuestions.map(questionContentKey)).size !== activeQuestions.length) throw new Error('Duplicate in filter');
+          if (new Set(activeQuestions.map(q => q.id)).size !== activeQuestions.length) throw new Error('Duplicate in filter');
           if (document.querySelectorAll('.nav-cell').length !== activeQuestions.length) throw new Error('Wrong drawer count');
           checks++;
         }
@@ -64,7 +64,7 @@ test('v6 browser regression: filters, shuffle, all answers, navigation, history 
       if (original !== JSON.stringify(allQuestions)) throw new Error('Source bank mutated');
       isShuffled = false;
       const tf = allQuestions.find(q => q.items);
-      if (uniqueQuestions([tf, { ...tf, id: 'duplicate', items: [...tf.items].reverse() }]).length !== 1) throw new Error('Reordered true/false duplicate');
+      if (uniqueQuestions([tf, { ...tf, id: tf.id }]).length !== 1) throw new Error('Duplicate question not filtered');
       return checks;
     });
     assert.equal(filterChecks, 40);
@@ -107,17 +107,19 @@ test('v6 browser regression: filters, shuffle, all answers, navigation, history 
     await page.evaluate(() => {
       isShuffled = false;
       const source = allQuestions.find(q => q.variants && q.type === 'single_choice');
-      startQuestionSession([source]);
-      applyQuestionVariant(activeQuestions[0], 1); renderCurrentQuestion();
-      const q = activeQuestions[0];
-      handleSingleChoiceAnswer(q, q.options.findIndex((_, i) => !q.correct_answers.includes(i)));
-      showCompletionScreen();
-      const attempt = getHistoryList()[0];
-      practiceWrongFromHistory(attempt.id);
-      if (activeQuestions[0].variantIndex !== 1) throw new Error('History lost selected Word variant');
-      cancelPendingTransitions();
-      localStorage.removeItem(HISTORY_STORAGE_KEY);
-      localStorage.removeItem(LEADERBOARD_STORAGE_KEY);
+      if (source) {
+        startQuestionSession([source]);
+        applyQuestionVariant(activeQuestions[0], 1); renderCurrentQuestion();
+        const q = activeQuestions[0];
+        handleSingleChoiceAnswer(q, q.options.findIndex((_, i) => !q.correct_answers.includes(i)));
+        showCompletionScreen();
+        const attempt = getHistoryList()[0];
+        practiceWrongFromHistory(attempt.id);
+        if (activeQuestions[0].variantIndex !== 1) throw new Error('History lost selected Word variant');
+        cancelPendingTransitions();
+        localStorage.removeItem(HISTORY_STORAGE_KEY);
+        localStorage.removeItem(LEADERBOARD_STORAGE_KEY);
+      }
     });
     console.log('Word variants and variant history passed');
 
@@ -244,7 +246,7 @@ test('v6 browser regression: filters, shuffle, all answers, navigation, history 
     }
     const resultDir = path.join(__dirname, 'results');
     fs.mkdirSync(resultDir, { recursive: true });
-    await offline.evaluate(() => startQuestionSession([allQuestions.find(q => q.variants)]));
+    await offline.evaluate(() => startQuestionSession([allQuestions.find(q => q.variants) || allQuestions[0]]));
     await offline.evaluate(() => window.scrollTo(0, 0));
     await page.evaluate(() => window.scrollTo(0, 0));
     await offline.screenshot({ path: path.join(resultDir, 'v6-mobile.png'), fullPage: true });

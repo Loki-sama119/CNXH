@@ -1,6 +1,9 @@
 """Independently inventory Word XML and verify every exercise's full content."""
 import json
 import re
+import sys
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8')
 import xml.etree.ElementTree as ET
 from collections import Counter, defaultdict
 from pathlib import Path

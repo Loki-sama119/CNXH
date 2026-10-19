@@ -1,24 +1,24 @@
 {
-  "source_exercises": 255,
+  "source_exercises": 265,
   "merged_source_exercises": 233,
-  "supplement_exercises": 19,
+  "supplement_exercises": 29,
   "tx_new_exercises": 3,
   "duplicate_groups": [],
   "lesson_counts": {
     "1": 41,
     "2": 41,
-    "3": 46,
-    "4": 47,
-    "5": 53,
-    "6": 27
+    "3": 41,
+    "4": 45,
+    "5": 41,
+    "6": 56
   },
   "type_counts": {
-    "single_choice": 167,
+    "single_choice": 177,
     "multiple_choice": 39,
     "true_false": 24,
     "drag_drop_categorize": 7,
     "drag_drop_match": 18
   },
-  "total": 255,
+  "total": 265,
   "tx_count": 12
 }

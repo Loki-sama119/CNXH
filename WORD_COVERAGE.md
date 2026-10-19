@@ -19,10 +19,10 @@ Hiện tại toàn bộ 233 mục bài tập trong file Word đều đã có s�
  
 - **Bài 1 (41 câu)**: Đánh số từ Câu 1 đến Câu 41, khớp 100% với số thứ tự trong file Word gốc.
 - **Bài 2 (41 câu)**: Đánh số từ Câu 1 đến Câu 41 (bổ sung 1 câu so sánh giai đoạn thấp/cao của CSCN từ `cac_cau_con_thieu_to_do.docx`).
-- **Bài 3 (46 câu)**: Đánh số tuần tự từ Câu 1 đến Câu 46. Các câu số 29–41 có nhãn `[Gốc: Câu X]`. 5 câu mới bổ sung từ `CNKHXH BAI6.docx` (Câu 42–46) có nhãn `[Gốc: Câu X trong CNKHXH BAI6.docx]`.
-- **Bài 4 (47 câu)**: Đánh số tuần tự từ Câu 1 đến Câu 47. Các câu số 34–45 có nhãn `[Gốc: Câu X]`. 2 câu mới bổ sung từ `CNKHXH BAI6.docx` (Câu 46–47) có nhãn `[Gốc: Câu X trong CNKHXH BAI6.docx]`.
-- **Bài 5 (53 câu)**: Đánh số tuần tự từ Câu 1 đến Câu 53. Các câu số 29–39 có nhãn `[Gốc: Câu X]`. 12 câu mới bổ sung từ `CNKHXH BAI6.docx` (Câu 40–51). 2 câu mới bổ sung từ `cac_cau_con_thieu_to_do.docx` (Câu 52–53).
-- **Bài 6 (27 câu)**: Đánh số từ Câu 1 đến Câu 27, khớp 100% với số thứ tự trong file Word gốc (các câu về gia đình trong file `CNKHXH BAI6.docx` đã được xác minh trùng khớp 100% với các câu có sẵn này).
+- **Bài 3 (41 câu)**: Đánh số tuần tự từ Câu 1 đến Câu 41. Các câu số 29–41 có nhãn `[Gốc: Câu X]`.
+- **Bài 4 (45 câu)**: Đánh số tuần tự từ Câu 1 đến Câu 45. Các câu số 34–45 có nhãn `[Gốc: Câu X]`.
+- **Bài 5 (41 câu)**: Đánh số tuần tự từ Câu 1 đến Câu 41 (39 câu từ Word gốc + 2 câu bổ sung từ `cac_cau_con_thieu_to_do.docx`).
+- **Bài 6 (56 câu)**: Đánh số từ Câu 1 đến Câu 56 (gồm 27 câu từ bản Word gộp gốc + 29 câu còn thiếu bổ sung trực tiếp từ `CNKHXH BAI6.docx`: Câu 28 đến Câu 56 có nhãn `[Gốc: Câu X trong CNKHXH BAI6.docx]`). Đầy đủ 100% tất cả 43 câu hỏi trong file `CNKHXH BAI6.docx`.
 - **Kiểm Tra TX (12 câu)**: Gồm 12 bài tập thường xuyên (Bài TX 1: 5 câu; Bài TX 2: 7 câu) từ file `cac_cau_con_thieu_to_do.docx`.
 
-Tổng cộng toàn bộ web app có đúng **255 câu bài tập** (233 câu từ file Word gộp gốc + 19 câu mới từ `CNKHXH BAI6.docx` + 3 câu mới từ `cac_cau_con_thieu_to_do.docx`), bảo toàn 100% câu hỏi và đáp án chuẩn. Chạy `python audit_word_coverage.py` và `python verify_questions.py` để kiểm tra tự động.
+Tổng cộng toàn bộ web app có đúng **265 câu bài tập** (233 câu từ file Word gộp gốc + 29 câu từ `CNKHXH BAI6.docx` + 3 câu mới từ `cac_cau_con_thieu_to_do.docx`), bảo toàn 100% câu hỏi và đáp án chuẩn. Chạy `python audit_word_coverage.py` và `python verify_questions.py` để kiểm tra tự động.

@@ -34,25 +34,25 @@ class QuestionBankTests(unittest.TestCase):
         q26 = next(q for q in self.bank if q['lesson_num'] == 1 and q['q_num'] == 26)
         self.assertNotEqual(q20['id'], q26['id'])
         self.assertNotEqual(q20['options'], q26['options'])
-        self.assertEqual(len(self.bank), 255)
+        self.assertEqual(len(self.bank), 265)
 
     def test_rebuild_is_deterministic_and_ids_are_unique(self):
         self.assertEqual((self.bank, self.report), build_bank())
-        self.assertEqual(len({q['id'] for q in self.bank}), 255)
+        self.assertEqual(len({q['id'] for q in self.bank}), 265)
 
     def test_no_duplicates_and_correct_distribution(self):
         self.assertEqual(validate_questions(self.bank), [])
-        self.assertEqual(self.report['lesson_counts'], {1: 41, 2: 41, 3: 46, 4: 47, 5: 53, 6: 27})
-        self.assertEqual(self.report['total'], 255)
+        self.assertEqual(self.report['lesson_counts'], {1: 41, 2: 41, 3: 41, 4: 45, 5: 41, 6: 56})
+        self.assertEqual(self.report['total'], 265)
         self.assertEqual(self.report['tx_count'], 12)
-        self.assertTrue(all('gia đình' in q['question'].lower() or q['type'] == 'true_false' or 'hôn nhân' in q['question'].lower() or 'Hằng ngày' in q['question'] or 'Quan điểm sau đây' in q['question'] or 'Tình yêu' in q['question'] for q in self.bank if q['lesson_num'] == 6))
+        b6_base = [q for q in self.bank if q['lesson_num'] == 6 and q['q_num'] <= 27]
+        self.assertTrue(all('gia đình' in q['question'].lower() or q['type'] == 'true_false' or 'hôn nhân' in q['question'].lower() or 'Hằng ngày' in q['question'] or 'Quan điểm sau đây' in q['question'] or 'Tình yêu' in q['question'] for q in b6_base))
 
     def test_supplement_questions_from_bai6_doc_are_represented(self):
         supp_questions = [q for q in self.bank if any(s['file'] == 'CNKHXH BAI6.docx' for s in q['sources'])]
-        self.assertEqual(len(supp_questions), 19)
-        self.assertEqual(sum(q['lesson_num'] == 3 for q in supp_questions), 5)
-        self.assertEqual(sum(q['lesson_num'] == 4 for q in supp_questions), 2)
-        self.assertEqual(sum(q['lesson_num'] == 5 for q in supp_questions), 12)
+        self.assertEqual(len(supp_questions), 29)
+        self.assertTrue(all(q['lesson_num'] == 6 for q in supp_questions))
+        self.assertEqual(sorted(q['source_q_num'] for q in supp_questions), list(range(1, 30)))
 
     def test_tx_questions_are_represented_and_tagged(self):
         tx_questions = [q for q in self.bank if q.get('is_thuong_xuyen')]

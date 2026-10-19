@@ -119,6 +119,8 @@ def parse_block(block, filename):
         items, statement = [], None
         for p in paragraphs:
             text = clean(p.text).rstrip(' *')
+            if not text or text.lower().startswith('đáp án'):
+                continue
             if '→' in text:
                 statement, answer = text.rsplit('→', 1)
                 if clean(answer).casefold() not in ('đúng', 'sai'):
@@ -238,32 +240,6 @@ def repair(q):
     return q
 
 
-SUPPLEMENT_MAPPING = {
-    # Bài 3: Dân chủ xã hội chủ nghĩa và nhà nước xã hội chủ nghĩa
-    20: 3,
-    22: 3,
-    24: 3,
-    25: 3,
-    26: 3,
-    # Bài 4: Cơ cấu xã hội – giai cấp và liên minh giai cấp, tầng lớp
-    28: 4,
-    29: 4,
-    # Bài 5: Vấn đề dân tộc và tôn giáo trong thời kỳ quá độ
-    1: 5,
-    4: 5,
-    9: 5,
-    10: 5,
-    11: 5,
-    12: 5,
-    13: 5,
-    14: 5,
-    15: 5,
-    16: 5,
-    17: 5,
-    18: 5,
-}
-
-
 def build_bank():
     merged_blocks = read_blocks(ROOT / MERGED)
     bank = []
@@ -294,28 +270,22 @@ def build_bank():
 
         bank.append(q)
 
-    # Supplement questions from CNKHXH BAI6.docx
+    # Supplement questions from CNKHXH BAI6.docx (all missing questions added directly into Bài 6)
     supp_path = ROOT / SUPPLEMENT
     supp_added_count = 0
     if supp_path.exists():
         supp_blocks = read_blocks(supp_path)
-        supp_by_lesson = {3: [], 4: [], 5: []}
         for b in supp_blocks:
             sq_num = b['source_q_num']
-            if sq_num in SUPPLEMENT_MAPPING:
-                target_lesson = SUPPLEMENT_MAPPING[sq_num]
-                supp_by_lesson[target_lesson].append(b)
-
-        for target_lesson in (3, 4, 5):
-            for b in supp_by_lesson[target_lesson]:
+            if 1 <= sq_num <= 29:
                 q = repair(parse_block(b, SUPPLEMENT))
-                q['lesson_num'] = target_lesson
+                target_lesson = 6
                 lesson_counters[target_lesson] += 1
                 seq_num = lesson_counters[target_lesson]
-                source_num = b['source_q_num']
                 body_idx = b['source_index']
 
-                q['source_q_num'] = source_num
+                q['lesson_num'] = target_lesson
+                q['source_q_num'] = sq_num
                 q['body_index'] = body_idx
                 q['lesson'] = f"Bài {target_lesson}"
                 q['q_num'] = seq_num
@@ -323,7 +293,7 @@ def build_bank():
 
                 clean_title = q['question'].strip()
                 clean_title = re.sub(r'^(?:Câu\s*\d+\s*[:.]?|[A-F\d]+[.)])\s*', '', clean_title, flags=re.I).strip()
-                q['question'] = f"Câu {seq_num} [Gốc: Câu {source_num} trong {SUPPLEMENT}]: {clean_title}"
+                q['question'] = f"Câu {seq_num} [Gốc: Câu {sq_num} trong {SUPPLEMENT}]: {clean_title}"
 
                 bank.append(q)
                 supp_added_count += 1
@@ -452,7 +422,7 @@ def main():
     (ROOT / 'questions.json').write_text(payload + '\n', encoding='utf-8')
     legacy = {str(i): q['id'] for i, q in enumerate(bank, 1)}
     (ROOT / 'legacy-question-ids.json').write_text(json.dumps(legacy, indent=2) + '\n', encoding='utf-8')
-    (ROOT / 'questions-data.js').write_text('window.QUIZ_BANK_VERSION = "v6-20261020-exact-word-255";\nwindow.QUIZ_LEGACY_IDS = ' + json.dumps(legacy) + ';\nwindow.QUIZ_QUESTIONS = ' + payload + ';\n', encoding='utf-8')
+    (ROOT / 'questions-data.js').write_text('window.QUIZ_BANK_VERSION = "v7-20261020-exact-word-265";\nwindow.QUIZ_LEGACY_IDS = ' + json.dumps(legacy) + ';\nwindow.QUIZ_QUESTIONS = ' + payload + ';\n', encoding='utf-8')
     (ROOT / 'question-build-report.json').write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     print(json.dumps(report, ensure_ascii=False, indent=2))
 
