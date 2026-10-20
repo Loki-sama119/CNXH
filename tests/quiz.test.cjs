@@ -57,6 +57,18 @@ test('Current Word browser regression: filters, shuffle, all answers, navigation
     assert.equal(await retained.evaluate(() => getHistoryList()[0]?.id), 'new-source-result');
     await retained.close();
 
+    // The approved correction must accept B, reject the old C, and survive shuffling.
+    for (const [selected, expected] of [[1, true], [2, false]]) {
+      const accepted = await page.evaluate(index => {
+        isShuffled = false;
+        startQuestionSession([allQuestions.find(q => q.body_index === 46)]);
+        document.getElementById(`qz-opt-${index}`).click();
+        cancelPendingTransitions();
+        return questionStates[activeQuestions[0].id]?.isCorrect;
+      }, selected);
+      assert.equal(accepted, expected, `Approved question 10: option ${selected}`);
+    }
+
     // Every filter combination must contain exactly its eligible questions, each once.
     const filterChecks = await page.evaluate(() => {
       let checks = 0;

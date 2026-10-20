@@ -65,8 +65,15 @@ def xml_inventory():
 
 def audit(bank=None):
     bank = bank if bank is not None else json.loads((ROOT/'questions.json').read_text(encoding='utf8'))
+    correction_data = json.loads((ROOT/'answer-corrections.json').read_text(encoding='utf8'))
+    corrections = {c['body_index']: c for c in correction_data['corrections']}
     blocks, headings = xml_inventory()
     errors, mapping = [], []
+    applied_corrections = []
+    if correction_data['source_sha256'] != hashlib.sha256((ROOT/SOURCE).read_bytes()).hexdigest():
+        errors.append('Approved answer corrections refer to a different Word document')
+    if len(corrections) != len(correction_data['corrections']):
+        errors.append('Duplicate approved answer correction')
     refs = Counter(s['body_index'] for q in bank for s in q['sources'])
     if set(refs) != {b['index'] for b in blocks} or any(n != 1 for n in refs.values()):
         errors.append('Missing, duplicate or extra source exercise references')
@@ -119,6 +126,16 @@ def audit(bank=None):
                     check(answers == expected, 'red marks differ from written answer')
                 answers = expected
             check(q['options'] == options, 'changed or missing options')
+            correction = corrections.get(block['index'])
+            if correction:
+                check(correction['source_title'] == block['title'] and correction['options'] == options, 'correction applied to wrong question/options')
+                check(correction['source_correct_answers'] == answers, 'correction does not preserve original red answers')
+                check(correction['approved_by'] == 'user', 'answer correction not approved')
+                check(q.get('answer_correction') == correction, 'missing/changed correction provenance')
+                answers = correction['approved_correct_answers']
+                applied_corrections.append(correction)
+            else:
+                check('answer_correction' not in q, 'unexpected answer correction')
             check(q['correct_answers'] == answers, 'wrong answer indices from red marks')
         elif q['type'] == 'true_false':
             items, pending = [], None
@@ -197,7 +214,10 @@ def audit(bank=None):
         else:
             check(False, 'unplayable source exercise')
         mapping.append(dict(body_index=block['index'], source_title=block['title'], web_id=q['id'], type=q['type']))
+    if len(applied_corrections) != len(corrections):
+        errors.append('An approved correction was not applied to a choice exercise')
     return dict(source_file=SOURCE, source_sha256=hashlib.sha256((ROOT/SOURCE).read_bytes()).hexdigest(),
+                approved_answer_corrections=applied_corrections,
                 source_exercises=len(blocks), matched_source_exercises=len(mapping),
                 source_tables=sum(len([e for e in b['elements'] if 'table' in e]) for b in blocks),
                 headings=headings, mapping=mapping, errors=errors)

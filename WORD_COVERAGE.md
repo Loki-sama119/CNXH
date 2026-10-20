@@ -4,9 +4,9 @@ Nguồn duy nhất: `CHỦ NGHĨA XH-KH (2).docx`.
 
 SHA256: `c41143f3c5139fa386f1d0fb63c3259f8b880565bd990fa75f13ca427970fea3`.
 
-Đối chiếu ngày 20/10/2026: **252/252 bài tập, 15 bảng, không phát hiện sai lệch** giữa nội dung nhập và tài liệu nguồn.
+Đối chiếu ngày 20/10/2026: **252/252 bài tập, 15 bảng**, với **1 hiệu đính đáp án đã được người dùng duyệt**: Bài 1 Câu 10 đổi từ C trong Word gốc sang B trên ứng dụng. Không phát hiện sai lệch ngoài hiệu đính được ghi rõ này.
 
-`audit_word_coverage.py` đọc trực tiếp XML trong DOCX, không gọi lại bộ nhập để tạo đáp án kỳ vọng. Kiểm tra toàn bộ ranh giới câu, tiêu đề, đoạn văn, ô bảng, lựa chọn, chữ tô đỏ, đáp án ghi rõ, các mệnh đề Đúng/Sai, cặp ghép và phân loại cột. Không sử dụng các phép sửa từ hoặc thay đáp án của dữ liệu cũ.
+`audit_word_coverage.py` đọc trực tiếp XML trong DOCX, không gọi lại bộ nhập để tạo đáp án kỳ vọng. Kiểm tra toàn bộ ranh giới câu, tiêu đề, đoạn văn, ô bảng, lựa chọn, chữ tô đỏ, đáp án ghi rõ, các mệnh đề Đúng/Sai, cặp ghép và phân loại cột. Không sử dụng các phép sửa từ hoặc thay đáp án của dữ liệu cũ. Đối với hiệu đính tại `answer-corrections.json`, bộ đối chiếu kiểm tra câu dẫn, đủ bốn lựa chọn, đáp án tô đỏ gốc C và đáp án đã duyệt B; không bỏ qua kiểm tra đáp án.
 
 Bài 1 Câu 34 có ba cụm tô đỏ ngay trong các phát biểu; chúng được thay bằng ô trống đúng vị trí. “Đảng Cộng Sản” tô đỏ đứng riêng được giữ trong danh sách lựa chọn. Các câu chọn nhiều đáp án được đối chiếu với yêu cầu chọn bao nhiêu; các lựa chọn tự đánh số bởi Word vẫn được đọc đủ.
 

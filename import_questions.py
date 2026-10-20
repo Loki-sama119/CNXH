@@ -1,4 +1,4 @@
-"""Build the bank exclusively from the current Word document, without text repairs."""
+"""Build from the current Word document and explicitly approved answer corrections."""
 import hashlib
 import json
 import re
@@ -13,6 +13,10 @@ ROOT = Path(__file__).resolve().parent
 SOURCE = 'CHỦ NGHĨA XH-KH (2).docx'
 SOURCE_SHA256 = hashlib.sha256((ROOT / SOURCE).read_bytes()).hexdigest()
 BANK_VERSION = 'word-' + SOURCE_SHA256[:16]
+CORRECTIONS_PATH = ROOT / 'answer-corrections.json'
+CORRECTIONS = json.loads(CORRECTIONS_PATH.read_text(encoding='utf-8'))
+CORRECTIONS_DATA = json.dumps(CORRECTIONS, ensure_ascii=False, sort_keys=True, separators=(',', ':')).encode('utf-8')
+DATA_VERSION = BANK_VERSION + '-answers-' + hashlib.sha256(CORRECTIONS_DATA).hexdigest()[:8]
 
 
 def clean(text):
@@ -246,6 +250,8 @@ def parse_block(block):
 
 
 def build_bank():
+    if CORRECTIONS['source_sha256'] != SOURCE_SHA256:
+        raise ValueError('Answer corrections belong to a different Word source')
     bank, counts = [], Counter()
     for block in read_blocks(ROOT / SOURCE):
         q = parse_block(block)
@@ -255,9 +261,23 @@ def build_bank():
                  body_index=block['source_index'], id=f'{BANK_VERSION}-p{block["source_index"]}')
         q['question'] = f'Câu {q["q_num"]}: {q["question"]}'
         bank.append(q)
+    applied = set()
+    for correction in CORRECTIONS['corrections']:
+        index = correction['body_index']
+        if index in applied:
+            raise ValueError(f'Duplicate answer correction: {index}')
+        target = next((q for q in bank if q['body_index'] == index), None)
+        if target is None or target['source_title'] != correction['source_title'] or target.get('options') != correction['options'] or target.get('correct_answers') != correction['source_correct_answers']:
+            raise ValueError(f'Answer correction does not match source exercise: {index}')
+        if correction['approved_by'] != 'user':
+            raise ValueError(f'Unapproved answer correction: {index}')
+        target['correct_answers'] = correction['approved_correct_answers'].copy()
+        target['answer_correction'] = correction.copy()
+        applied.add(index)
     bank.sort(key=lambda q: (q['lesson_num'], q['q_num']))
     playable = [q for q in bank if q.get('is_gradable', True)]
-    report = dict(source_file=SOURCE, source_sha256=SOURCE_SHA256, bank_version=BANK_VERSION,
+    report = dict(source_file=SOURCE, source_sha256=SOURCE_SHA256, bank_version=DATA_VERSION,
+                  approved_answer_corrections=CORRECTIONS['corrections'],
                   source_exercises=len(bank), total=len(bank), playable=len(playable), reference_only=len(bank)-len(playable),
                   lesson_counts=dict(counts), playable_lesson_counts=dict(Counter(q['lesson_num'] for q in playable)),
                   type_counts=dict(Counter(q['type'] for q in bank)), tx_count=sum(bool(q.get('is_thuong_xuyen')) for q in playable),
@@ -274,8 +294,13 @@ def main():
         raise ValueError('\n'.join(errors))
     payload = json.dumps(bank, ensure_ascii=False, indent=2)
     (ROOT / 'questions.json').write_text(payload + '\n', encoding='utf-8')
-    (ROOT / 'questions-data.js').write_text('window.QUIZ_BANK_VERSION = ' + json.dumps(BANK_VERSION) + ';\nwindow.QUIZ_QUESTIONS = ' + payload + ';\n', encoding='utf-8')
+    (ROOT / 'questions-data.js').write_text('window.QUIZ_BANK_VERSION = ' + json.dumps(DATA_VERSION) + ';\nwindow.QUIZ_QUESTIONS = ' + payload + ';\n', encoding='utf-8')
     (ROOT / 'question-build-report.json').write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    html_path = ROOT / 'index.html'
+    html = html_path.read_text(encoding='utf-8')
+    html = re.sub(r'(<meta name="quiz-bank-version" content=")[^"]+', lambda m: m[1] + DATA_VERSION, html)
+    html = re.sub(r'((?:style\.css|script\.js|questions-data\.js)\?v=)[^"\s]+', lambda m: m[1] + DATA_VERSION, html)
+    html_path.write_text(html, encoding='utf-8')
     print(json.dumps(report, ensure_ascii=False, indent=2))
 
 

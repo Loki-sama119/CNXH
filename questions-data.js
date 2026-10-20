@@ -1,4 +1,4 @@
-window.QUIZ_BANK_VERSION = "word-c41143f3c5139fa3";
+window.QUIZ_BANK_VERSION = "word-c41143f3c5139fa3-answers-6669fce1";
 window.QUIZ_QUESTIONS = [
   {
     "lesson_num": 1,
@@ -412,13 +412,32 @@ window.QUIZ_QUESTIONS = [
       "D. Số lượng còn ít"
     ],
     "correct_answers": [
-      2
+      1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 1",
     "q_num": 10,
     "body_index": 46,
-    "id": "word-c41143f3c5139fa3-p46"
+    "id": "word-c41143f3c5139fa3-p46",
+    "answer_correction": {
+      "body_index": 46,
+      "source_title": "Câu 10: Hạn chế cơ bản lớn nhất mà giai cấp công nhân Việt Nam hiện nay cần khắc phục là gì?",
+      "options": [
+        "A. Hiệu quả lao động thấp",
+        "B. Trình độ khoa học kỹ thuật chưa cao",
+        "C. Tâm lý tiểu nông",
+        "D. Số lượng còn ít"
+      ],
+      "source_correct_answers": [
+        2
+      ],
+      "approved_correct_answers": [
+        1
+      ],
+      "approved_by": "user",
+      "approved_on": "2026-10-20",
+      "reason": "Người dùng duyệt đổi đáp án Bài 1 Câu 10 từ C sang B. Đây là hiệu đính theo phê duyệt, không phải đáp án tô đỏ trong Word gốc."
+    }
   },
   {
     "lesson_num": 1,

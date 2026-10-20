@@ -42,6 +42,17 @@ class QuestionBankTests(unittest.TestCase):
         self.assertIn('Đảng Cộng Sản', q['options_pool'])
         self.assertTrue(all('______' in p['left'] and '______Việt' not in p['left'] for p in q['pairs']))
 
+    def test_user_approved_lesson_1_question_10_uses_b_and_preserves_source(self):
+        q = self.at(46)
+        self.assertEqual(q['correct_answers'], [1])
+        self.assertEqual(q['options'][1], 'B. Trình độ khoa học kỹ thuật chưa cao')
+        self.assertEqual(q['answer_correction']['source_correct_answers'], [2])
+        self.assertEqual(q['answer_correction']['approved_by'], 'user')
+        self.assertEqual(sum('answer_correction' in q for q in self.bank), 1)
+        bad = copy.deepcopy(self.bank)
+        next(q for q in bad if q['body_index'] == 46)['correct_answers'] = [2]
+        self.assertTrue(audit(bad)['errors'])
+
     def test_word_automatic_option_labels_do_not_drop_choices(self):
         q = self.at(659)
         self.assertEqual(len(q['options']), 4)

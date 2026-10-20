@@ -618,10 +618,11 @@ function handleSingleChoiceAnswer(q, selectedIdx) {
     streak = 0;
 
     const correctText = q.options[correctIdx];
+    const answerLabel = q.answer_correction ? 'Đáp án đã hiệu đính' : 'Đáp án chuẩn (bôi đỏ trong tài liệu)';
     showFeedbackBanner(
       false,
       `💡 CHƯA ĐÚNG!`,
-      `Đáp án chuẩn (bôi đỏ trong tài liệu) là: <strong>${escapeHtml(correctText)}</strong>. Đang tự chuyển câu...`
+      `${answerLabel} là: <strong>${escapeHtml(correctText)}</strong>. Đang tự chuyển câu...`
     );
     scheduleAutoAdvance(2200);
   }
