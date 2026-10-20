@@ -274,10 +274,26 @@ def build_bank():
         target['correct_answers'] = correction['approved_correct_answers'].copy()
         target['answer_correction'] = correction.copy()
         applied.add(index)
+    for correction in CORRECTIONS.get('category_corrections', []):
+        index = correction['body_index']
+        if index in applied:
+            raise ValueError(f'Duplicate category correction: {index}')
+        target = next((q for q in bank if q['body_index'] == index), None)
+        if target is None or target['source_title'] != correction['source_title'] or target.get('categories') != correction['source_categories'] or target.get('unassigned_source_items', []) != correction['source_unassigned_items']:
+            raise ValueError(f'Category correction does not match source exercise: {index}')
+        if correction['approved_by'] != 'user':
+            raise ValueError(f'Unapproved category correction: {index}')
+        categories = json.loads(json.dumps(correction['approved_categories'], ensure_ascii=False))
+        categorize(target, categories)
+        target['category_correction'] = correction.copy()
+        target.pop('unassigned_source_items', None)
+        target.pop('source_warning', None)
+        applied.add(index)
     bank.sort(key=lambda q: (q['lesson_num'], q['q_num']))
     playable = [q for q in bank if q.get('is_gradable', True)]
     report = dict(source_file=SOURCE, source_sha256=SOURCE_SHA256, bank_version=DATA_VERSION,
                   approved_answer_corrections=CORRECTIONS['corrections'],
+                  approved_category_corrections=CORRECTIONS.get('category_corrections', []),
                   source_exercises=len(bank), total=len(bank), playable=len(playable), reference_only=len(bank)-len(playable),
                   lesson_counts=dict(counts), playable_lesson_counts=dict(Counter(q['lesson_num'] for q in playable)),
                   type_counts=dict(Counter(q['type'] for q in bank)), tx_count=sum(bool(q.get('is_thuong_xuyen')) for q in playable),

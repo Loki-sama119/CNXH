@@ -67,13 +67,17 @@ def audit(bank=None):
     bank = bank if bank is not None else json.loads((ROOT/'questions.json').read_text(encoding='utf8'))
     correction_data = json.loads((ROOT/'answer-corrections.json').read_text(encoding='utf8'))
     corrections = {c['body_index']: c for c in correction_data['corrections']}
+    category_corrections = {c['body_index']: c for c in correction_data.get('category_corrections', [])}
     blocks, headings = xml_inventory()
     errors, mapping = [], []
     applied_corrections = []
+    applied_category_corrections = []
     if correction_data['source_sha256'] != hashlib.sha256((ROOT/SOURCE).read_bytes()).hexdigest():
         errors.append('Approved answer corrections refer to a different Word document')
     if len(corrections) != len(correction_data['corrections']):
         errors.append('Duplicate approved answer correction')
+    if len(category_corrections) != len(correction_data.get('category_corrections', [])) or set(corrections) & set(category_corrections):
+        errors.append('Duplicate approved category correction')
     refs = Counter(s['body_index'] for q in bank for s in q['sources'])
     if set(refs) != {b['index'] for b in blocks} or any(n != 1 for n in refs.values()):
         errors.append('Missing, duplicate or extra source exercise references')
@@ -163,7 +167,8 @@ def audit(bank=None):
                         cell = row.findall(W+'tc')[col]
                         content.extend(tidy(s) for s in text_of(cell).splitlines() if tidy(s))
                     expected.append(dict(title=title, items=content))
-                check(q.get('unassigned_source_items', []) == texts, 'outside-table items not preserved')
+                if block['index'] not in category_corrections:
+                    check(q.get('unassigned_source_items', []) == texts, 'outside-table items not preserved')
             else:
                 expected = []
                 for p in paragraphs:
@@ -172,7 +177,20 @@ def audit(bank=None):
                         expected[-1]['items'].append(text)
                     else:
                         expected.append(dict(title=text, items=[]))
+            correction = category_corrections.get(block['index'])
+            if correction:
+                check(correction['source_title'] == block['title'] and correction['source_categories'] == expected, 'category correction applied to wrong source exercise')
+                check(correction['source_unassigned_items'] == texts, 'category correction does not preserve outside-table source items')
+                check(correction['approved_by'] == 'user', 'category correction not approved')
+                check(q.get('category_correction') == correction, 'missing/changed category correction provenance')
+                check('unassigned_source_items' not in q and 'source_warning' not in q, 'resolved category item still marked unassigned')
+                expected = correction['approved_categories']
+                applied_category_corrections.append(correction)
+            else:
+                check('category_correction' not in q, 'unexpected category correction')
             check(q['categories'] == expected, 'changed category names, items or assignments')
+            expected_items = sorted((item, cat['title']) for cat in expected for item in cat['items'])
+            check(sorted((item['text'], item['category']) for item in q['all_items']) == expected_items, 'changed category grading assignments')
         elif q['type'] == 'drag_drop_match':
             if tables:
                 expected = [dict(left=r['table'][i][0], right=r['table'][i][1])
@@ -216,8 +234,11 @@ def audit(bank=None):
         mapping.append(dict(body_index=block['index'], source_title=block['title'], web_id=q['id'], type=q['type']))
     if len(applied_corrections) != len(corrections):
         errors.append('An approved correction was not applied to a choice exercise')
+    if len(applied_category_corrections) != len(category_corrections):
+        errors.append('An approved category correction was not applied')
     return dict(source_file=SOURCE, source_sha256=hashlib.sha256((ROOT/SOURCE).read_bytes()).hexdigest(),
                 approved_answer_corrections=applied_corrections,
+                approved_category_corrections=applied_category_corrections,
                 source_exercises=len(blocks), matched_source_exercises=len(mapping),
                 source_tables=sum(len([e for e in b['elements'] if 'table' in e]) for b in blocks),
                 headings=headings, mapping=mapping, errors=errors)

@@ -69,6 +69,26 @@ test('Current Word browser regression: filters, shuffle, all answers, navigation
       assert.equal(accepted, expected, `Approved question 10: option ${selected}`);
     }
 
+    // Screenshot evidence places women in column one; both correct and incorrect drops must grade properly.
+    for (const [wrongColumn, expected] of [[false, true], [true, false]]) {
+      const accepted = await page.evaluate(useWrongColumn => {
+        isShuffled = false;
+        startQuestionSession([allQuestions.find(q => q.body_index === 855)]);
+        const q = activeQuestions[0];
+        if (q.all_items.length !== 8 || q.categories.some(c => c.items.length !== 4)) throw new Error('Question 40 lost a category item');
+        if (document.querySelector('.source-warning')) throw new Error('Stale missing-answer warning');
+        for (const item of q.all_items) {
+          const category = useWrongColumn && item.text === 'Tầng lớp phụ nữ' ? q.categories[1].title : item.category;
+          [...document.querySelectorAll('.dnd-qz-pool .dnd-qz-chip')].find(chip => chip.textContent === item.text).click();
+          [...document.querySelectorAll('.cat-box-header')].find(header => header.querySelector('.cat-box-title').textContent === category).parentElement.click();
+        }
+        document.querySelector('#hero-body .btn-check-dnd').click();
+        cancelPendingTransitions();
+        return questionStates[q.id]?.isCorrect;
+      }, wrongColumn);
+      assert.equal(accepted, expected, 'Question 40 must assign women to column one');
+    }
+
     // Every filter combination must contain exactly its eligible questions, each once.
     const filterChecks = await page.evaluate(() => {
       let checks = 0;
@@ -295,6 +315,8 @@ test('Current Word browser regression: filters, shuffle, all answers, navigation
     await offline.setViewportSize({width:390, height:844});
     const resultDir = path.join(__dirname, 'results');
     fs.mkdirSync(resultDir, { recursive: true });
+    await page.evaluate(() => { startQuestionSession([allQuestions.find(q => q.body_index === 855)]); window.scrollTo(0, 0); });
+    await page.screenshot({ path: path.join(resultDir, 'lesson4-question40-fixed.png'), fullPage: true });
     for (const type of new Set(bank.map(q => q.type))) {
       await offline.evaluate(t => { startQuestionSession([allQuestions.find(q => q.type === t)]); window.scrollTo(0,0); }, type);
       await offline.screenshot({path:path.join(resultDir, `mobile-${type}.png`),fullPage:true});

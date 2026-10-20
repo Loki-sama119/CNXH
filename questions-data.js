@@ -1,4 +1,4 @@
-window.QUIZ_BANK_VERSION = "word-c41143f3c5139fa3-answers-6669fce1";
+window.QUIZ_BANK_VERSION = "word-c41143f3c5139fa3-answers-6e385ea5";
 window.QUIZ_QUESTIONS = [
   {
     "lesson_num": 1,
@@ -7431,10 +7431,6 @@ window.QUIZ_QUESTIONS = [
         ]
       }
     ],
-    "unassigned_source_items": [
-      "Tầng lớp phụ nữ"
-    ],
-    "source_warning": "Mục “Tầng lớp phụ nữ” nằm ngoài bảng trong tài liệu, chưa xác định cột; chỉ chấm các mục trong bảng.",
     "type": "drag_drop_categorize",
     "categories": [
       {
@@ -7442,6 +7438,7 @@ window.QUIZ_QUESTIONS = [
         "items": [
           "Giai cấp công nhân",
           "Giai cấp nông dân",
+          "Tầng lớp phụ nữ",
           "Đảng Cộng sản"
         ]
       },
@@ -7463,6 +7460,10 @@ window.QUIZ_QUESTIONS = [
       },
       {
         "text": "Giai cấp nông dân",
+        "category": "1) Thành phần/yếu tố của liên minh"
+      },
+      {
+        "text": "Tầng lớp phụ nữ",
         "category": "1) Thành phần/yếu tố của liên minh"
       },
       {
@@ -7489,7 +7490,57 @@ window.QUIZ_QUESTIONS = [
     "lesson": "Bài 4",
     "q_num": 40,
     "body_index": 855,
-    "id": "word-c41143f3c5139fa3-p855"
+    "id": "word-c41143f3c5139fa3-p855",
+    "category_correction": {
+      "body_index": 855,
+      "source_title": "Câu 40 : Kéo thả các yếu tố liên quan đến liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội vào các cột tương ứng.",
+      "source_categories": [
+        {
+          "title": "1) Thành phần/yếu tố của liên minh",
+          "items": [
+            "Giai cấp công nhân",
+            "Giai cấp nông dân",
+            "Đảng Cộng sản"
+          ]
+        },
+        {
+          "title": "2) Nội dung/phương hướng của liên minh",
+          "items": [
+            "Nội dung kinh tế",
+            "Nội dung chính trị",
+            "Xóa đói giảm nghèo",
+            "Tăng cường liên minh"
+          ]
+        }
+      ],
+      "source_unassigned_items": [
+        "Tầng lớp phụ nữ"
+      ],
+      "approved_categories": [
+        {
+          "title": "1) Thành phần/yếu tố của liên minh",
+          "items": [
+            "Giai cấp công nhân",
+            "Giai cấp nông dân",
+            "Tầng lớp phụ nữ",
+            "Đảng Cộng sản"
+          ]
+        },
+        {
+          "title": "2) Nội dung/phương hướng của liên minh",
+          "items": [
+            "Nội dung kinh tế",
+            "Nội dung chính trị",
+            "Xóa đói giảm nghèo",
+            "Tăng cường liên minh"
+          ]
+        }
+      ],
+      "approved_by": "user",
+      "approved_on": "2026-10-20",
+      "evidence": "Ảnh bảng đáp án Câu 40 do người dùng cung cấp: Tầng lớp phụ nữ ở cột Thành phần/yếu tố của liên minh.",
+      "reason": "Bổ sung Tầng lớp phụ nữ vào cột 1 theo ảnh đối chiếu đã được người dùng duyệt; giữ đủ 4 mục mỗi cột."
+    }
   },
   {
     "lesson_num": 4,

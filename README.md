@@ -22,11 +22,11 @@ python -m http.server 8080
 
 Sau đó mở http://localhost:8080.
 
-Đáp án lấy từ phần chữ tô đỏ và các bảng/dòng đáp án trong tài liệu. Với câu ghép vế có đáp án tô đỏ nằm trong phát biểu, cụm đỏ được thay bằng ô trống và đưa vào danh sách lựa chọn. Các mục tô đỏ đứng riêng vẫn được giữ trong danh sách lựa chọn. Câu phân loại được đọc theo cột, không chuyển nhầm thành ghép từng hàng. Không áp dụng các chỉnh sửa nội dung hoặc đáp án từ ngân hàng cũ. Hiệu đính được người dùng duyệt lưu riêng trong `answer-corrections.json`: ngày 20/10/2026, Bài 1 Câu 10 đổi từ C sang **B. Trình độ khoa học kỹ thuật chưa cao**. Word gốc giữ nguyên; `answer_correction` trong JSON lưu cả đáp án gốc và đáp án được duyệt.
+Đáp án lấy từ phần chữ tô đỏ và các bảng/dòng đáp án trong tài liệu. Với câu ghép vế có đáp án tô đỏ nằm trong phát biểu, cụm đỏ được thay bằng ô trống và đưa vào danh sách lựa chọn. Các mục tô đỏ đứng riêng vẫn được giữ trong danh sách lựa chọn. Câu phân loại được đọc theo cột, không chuyển nhầm thành ghép từng hàng. Không áp dụng các chỉnh sửa nội dung hoặc đáp án từ ngân hàng cũ. Hiệu đính được người dùng duyệt lưu riêng trong `answer-corrections.json`: ngày 20/10/2026, Bài 1 Câu 10 đổi từ C sang **B. Trình độ khoa học kỹ thuật chưa cao**; Bài 4 Câu 40 bổ sung **Tầng lớp phụ nữ** vào cột **Thành phần/yếu tố của liên minh** theo ảnh bảng đáp án. Câu 40 có đủ 8 mục, mỗi cột 4 mục. Word gốc giữ nguyên; `answer_correction` và `category_correction` trong JSON ghi lại căn cứ và phần hiệu đính.
 
 Câu được đánh số tuần tự trong từng mục; nhãn “Gốc: Câu …” cho phép đối chiếu khi số hiển thị khác số trong Word. Nội dung gốc của từng câu và bảng được lưu tại `source_title`, `source_content` và `sources` trong JSON.
 
-Hai ghi chú của nguồn được giữ rõ trên câu liên quan: Bài 4 Câu 40 có “Tầng lớp phụ nữ” nằm ngoài bảng, không có cột đáp án; câu TX về số quy luật có dòng “chưa kiểm chứng”. Ứng dụng giữ đáp án đã đánh dấu trong nguồn, ngoại trừ hiệu đính đã được người dùng duyệt nêu trên.
+Ghi chú “chưa kiểm chứng” của câu TX về số quy luật được giữ nguyên. Câu 40 đã được người dùng cung cấp ảnh xác nhận cột đáp án nên không còn ghi chú thiếu cột cho “Tầng lớp phụ nữ”. Ứng dụng giữ đáp án đã đánh dấu trong nguồn, ngoại trừ các hiệu đính đã được người dùng duyệt nêu trên.
 
 Khi chuyển sang ngân hàng mới, lịch sử, bảng điểm và bộ lọc cũ được xoá một lần trên trình duyệt. Kết quả của ngân hàng mới được giữ khi tải lại trang.
 

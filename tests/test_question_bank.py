@@ -79,14 +79,21 @@ class QuestionBankTests(unittest.TestCase):
         self.assertEqual(q['pairs'][0], dict(left='Biến đổi về quy mô gia đình', right='A. Gia đình hạt nhân'))
         self.assertEqual(len(q['pairs']), 4)
 
-    def test_categories_are_columns_not_matching_pairs_and_unassigned_item_is_retained(self):
+    def test_categories_follow_columns_and_question_40_includes_women_in_column_one(self):
         q = self.at(175)
         self.assertEqual(q['type'], 'drag_drop_categorize')
         self.assertEqual(len(q['all_items']), 4)
         q = self.at(855)
-        self.assertEqual(len(q['all_items']), 7)
-        self.assertEqual(q['unassigned_source_items'], ['Tầng lớp phụ nữ'])
-        self.assertIn('Tầng lớp phụ nữ', q['source_warning'])
+        self.assertEqual(len(q['all_items']), 8)
+        self.assertEqual([len(c['items']) for c in q['categories']], [4, 4])
+        self.assertEqual(q['categories'][0]['items'], ['Giai cấp công nhân', 'Giai cấp nông dân', 'Tầng lớp phụ nữ', 'Đảng Cộng sản'])
+        self.assertNotIn('unassigned_source_items', q)
+        self.assertNotIn('source_warning', q)
+        self.assertEqual(q['category_correction']['source_unassigned_items'], ['Tầng lớp phụ nữ'])
+        bad = copy.deepcopy(self.bank)
+        altered = next(q for q in bad if q['body_index'] == 855)
+        next(item for item in altered['all_items'] if item['text'] == 'Tầng lớp phụ nữ')['category'] = altered['categories'][1]['title']
+        self.assertTrue(audit(bad)['errors'])
 
     def test_unheaded_section_and_regular_tests_preserve_source_structure(self):
         self.assertEqual(self.at(1009)['lesson'], 'Bổ sung')

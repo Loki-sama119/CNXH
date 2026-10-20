@@ -10,11 +10,67 @@
         "C. Tâm lý tiểu nông",
         "D. Số lượng còn ít"
       ],
-      "source_correct_answers": [2],
-      "approved_correct_answers": [1],
+      "source_correct_answers": [
+        2
+      ],
+      "approved_correct_answers": [
+        1
+      ],
       "approved_by": "user",
       "approved_on": "2026-10-20",
       "reason": "Người dùng duyệt đổi đáp án Bài 1 Câu 10 từ C sang B. Đây là hiệu đính theo phê duyệt, không phải đáp án tô đỏ trong Word gốc."
+    }
+  ],
+  "category_corrections": [
+    {
+      "body_index": 855,
+      "source_title": "Câu 40 : Kéo thả các yếu tố liên quan đến liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội vào các cột tương ứng.",
+      "source_categories": [
+        {
+          "title": "1) Thành phần/yếu tố của liên minh",
+          "items": [
+            "Giai cấp công nhân",
+            "Giai cấp nông dân",
+            "Đảng Cộng sản"
+          ]
+        },
+        {
+          "title": "2) Nội dung/phương hướng của liên minh",
+          "items": [
+            "Nội dung kinh tế",
+            "Nội dung chính trị",
+            "Xóa đói giảm nghèo",
+            "Tăng cường liên minh"
+          ]
+        }
+      ],
+      "source_unassigned_items": [
+        "Tầng lớp phụ nữ"
+      ],
+      "approved_categories": [
+        {
+          "title": "1) Thành phần/yếu tố của liên minh",
+          "items": [
+            "Giai cấp công nhân",
+            "Giai cấp nông dân",
+            "Tầng lớp phụ nữ",
+            "Đảng Cộng sản"
+          ]
+        },
+        {
+          "title": "2) Nội dung/phương hướng của liên minh",
+          "items": [
+            "Nội dung kinh tế",
+            "Nội dung chính trị",
+            "Xóa đói giảm nghèo",
+            "Tăng cường liên minh"
+          ]
+        }
+      ],
+      "approved_by": "user",
+      "approved_on": "2026-10-20",
+      "evidence": "Ảnh bảng đáp án Câu 40 do người dùng cung cấp: Tầng lớp phụ nữ ở cột Thành phần/yếu tố của liên minh.",
+      "reason": "Bổ sung Tầng lớp phụ nữ vào cột 1 theo ảnh đối chiếu đã được người dùng duyệt; giữ đủ 4 mục mỗi cột."
     }
   ]
 }
