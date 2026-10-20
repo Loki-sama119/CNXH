@@ -89,6 +89,27 @@ test('Current Word browser regression: filters, shuffle, all answers, navigation
       assert.equal(accepted, expected, 'Question 40 must assign women to column one');
     }
 
+    // Reproduce dropping the third/fourth chip onto the bottom padding of a full-looking column.
+    await page.evaluate(() => startQuestionSession([allQuestions.find(q => q.body_index === 855)]));
+    const categories = bank.find(q => q.body_index === 855).categories;
+    for (let column = 0; column < categories.length; column++) {
+      for (let item = 0; item < categories[column].items.length; item++) {
+        const chip = page.locator('.dnd-qz-pool .dnd-qz-chip').filter({ hasText: categories[column].items[item] });
+        const box = page.locator('.cat-box-header').nth(column).locator('..');
+        if (item < 2) {
+          await chip.click();
+          await box.locator('.cat-box-header').click();
+        } else {
+          const bounds = await box.boundingBox();
+          await chip.dragTo(box, { targetPosition: { x: bounds.width / 2, y: bounds.height - 5 } });
+        }
+        assert.equal(await page.locator('.cat-dropzone').nth(column).locator('.dnd-qz-chip').count(), item + 1, `Column ${column + 1} must accept item ${item + 1}`);
+      }
+    }
+    await page.locator('#hero-body .btn-check-dnd').click();
+    assert.equal(await page.evaluate(() => questionStates[activeQuestions[0].id]?.isCorrect), true);
+    await page.evaluate(() => cancelPendingTransitions());
+
     // Every filter combination must contain exactly its eligible questions, each once.
     const filterChecks = await page.evaluate(() => {
       let checks = 0;

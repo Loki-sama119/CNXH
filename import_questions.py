@@ -314,8 +314,11 @@ def main():
     (ROOT / 'question-build-report.json').write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     html_path = ROOT / 'index.html'
     html = html_path.read_text(encoding='utf-8')
+    ui_content = (ROOT / 'script.js').read_text(encoding='utf-8') + '\0' + (ROOT / 'style.css').read_text(encoding='utf-8')
+    ui_version = DATA_VERSION + '-ui-' + hashlib.sha256(ui_content.encode('utf-8')).hexdigest()[:8]
     html = re.sub(r'(<meta name="quiz-bank-version" content=")[^"]+', lambda m: m[1] + DATA_VERSION, html)
-    html = re.sub(r'((?:style\.css|script\.js|questions-data\.js)\?v=)[^"\s]+', lambda m: m[1] + DATA_VERSION, html)
+    html = re.sub(r'((?:style\.css|script\.js)\?v=)[^"\s]+', lambda m: m[1] + ui_version, html)
+    html = re.sub(r'(questions-data\.js\?v=)[^"\s]+', lambda m: m[1] + DATA_VERSION, html)
     html_path.write_text(html, encoding='utf-8')
     print(json.dumps(report, ensure_ascii=False, indent=2))
 

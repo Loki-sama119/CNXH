@@ -1097,6 +1097,7 @@ function renderQuizizzDragDropCategorize(container, q) {
 
   [cat1, cat2].forEach(cat => {
     const box = document.createElement('div');
+    box.className = 'cat-box';
     box.style.background = 'var(--bg-tertiary)';
     box.style.border = '2px solid var(--border-color)';
     box.style.borderRadius = 'var(--radius-lg)';
@@ -1179,13 +1180,21 @@ function renderQuizizzDragDropCategorize(container, q) {
     });
 
     if (!isAnswered) {
-      dropzone.addEventListener('dragover', (e) => e.preventDefault());
-      dropzone.addEventListener('drop', (e) => {
+      const hint = document.createElement('div');
+      hint.className = 'cat-drop-hint';
+      hint.textContent = 'Thả hoặc chạm để thêm mục vào cột';
+      dropzone.appendChild(hint);
+
+      // The header, padding and placed chips are all valid landing areas.
+      box.addEventListener('dragover', (e) => e.preventDefault());
+      box.addEventListener('drop', (e) => {
         e.preventDefault();
+        e.stopPropagation();
         if (questionStates[q.id].isAnswered) return;
         const text = e.dataTransfer.getData('text/plain');
         if (q.all_items.some(item => item.text === text)) {
           userCatMap[text] = cat.title;
+          touchSelectedChip = null;
           const targetContainer = document.getElementById('hero-body') || container;
           renderQuizizzDragDropCategorize(targetContainer, q);
         }
@@ -1236,6 +1245,7 @@ function renderQuizizzDragDropCategorize(container, q) {
       chip.draggable = true;
 
       chip.addEventListener('dragstart', (e) => {
+        touchSelectedChip = null;
         e.dataTransfer.setData('text/plain', itemObj.text);
       });
 
