@@ -1833,7 +1833,7 @@ const MAX_HISTORY_ITEMS = 50;
 function getLessonDisplayName(lessonKey) {
   if (lessonKey === 'all') return 'Tất cả bài học (Toàn bộ)';
   if (lessonKey === 'tx') return 'Bài Kiểm Tra Thường Xuyên';
-  if (String(lessonKey) === '6') return 'Bổ sung';
+  if (String(lessonKey) === '7') return 'Bổ sung';
   return `Bài ${lessonKey}`;
 }
 

@@ -1,7 +1,7 @@
 {
   "source_file": "CHỦ NGHĨA XH-KH (2).docx",
   "source_sha256": "c41143f3c5139fa386f1d0fb63c3259f8b880565bd990fa75f13ca427970fea3",
-  "bank_version": "word-c41143f3c5139fa3-answers-6e385ea5",
+  "bank_version": "word-c41143f3c5139fa3-answers-6e385ea5-lesson6-c9f85804",
   "approved_answer_corrections": [
     {
       "body_index": 46,
@@ -76,8 +76,10 @@
     }
   ],
   "source_exercises": 252,
-  "total": 252,
-  "playable": 252,
+  "supplementary_source": "BAI_6_NGUOI_DUNG.txt",
+  "supplementary_exercises": 9,
+  "total": 261,
+  "playable": 261,
   "reference_only": 0,
   "lesson_counts": {
     "1": 41,
@@ -85,7 +87,8 @@
     "3": 39,
     "4": 45,
     "5": 39,
-    "6": 43
+    "7": 29,
+    "6": 23
   },
   "playable_lesson_counts": {
     "1": 41,
@@ -93,13 +96,14 @@
     "3": 39,
     "4": 45,
     "5": 39,
-    "6": 43
+    "6": 23,
+    "7": 29
   },
   "type_counts": {
-    "single_choice": 177,
-    "multiple_choice": 36,
-    "true_false": 18,
-    "drag_drop_categorize": 5,
+    "single_choice": 182,
+    "multiple_choice": 38,
+    "true_false": 19,
+    "drag_drop_categorize": 6,
     "drag_drop_match": 16
   },
   "tx_count": 12,
@@ -110,5 +114,5 @@
       "warning": "Tài liệu ghi: Đáp án: A (chưa kiểm chứng được, bạn nên kiểm lại với giáo trình)"
     }
   ],
-  "section_note": "43 câu bắt đầu lại từ Câu 1 sau Bài 5 không có tiêu đề bài; hiển thị riêng ở mục Bổ sung."
+  "section_note": "Bài 6: 14 câu về gia đình từ Word và 9 câu mới người dùng cung cấp; 29 câu hỗn hợp còn lại giữ trong Bổ sung."
 }

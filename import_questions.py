@@ -8,6 +8,7 @@ from pathlib import Path
 from docx import Document
 from docx.table import Table
 from docx.text.paragraph import Paragraph
+from supplementary_questions import MANIFEST, MANIFEST_HASH, add_lesson6
 
 ROOT = Path(__file__).resolve().parent
 SOURCE = 'CHỦ NGHĨA XH-KH (2).docx'
@@ -16,7 +17,7 @@ BANK_VERSION = 'word-' + SOURCE_SHA256[:16]
 CORRECTIONS_PATH = ROOT / 'answer-corrections.json'
 CORRECTIONS = json.loads(CORRECTIONS_PATH.read_text(encoding='utf-8'))
 CORRECTIONS_DATA = json.dumps(CORRECTIONS, ensure_ascii=False, sort_keys=True, separators=(',', ':')).encode('utf-8')
-DATA_VERSION = BANK_VERSION + '-answers-' + hashlib.sha256(CORRECTIONS_DATA).hexdigest()[:8]
+DATA_VERSION = BANK_VERSION + '-answers-' + hashlib.sha256(CORRECTIONS_DATA).hexdigest()[:8] + '-lesson6-' + MANIFEST_HASH
 
 
 def clean(text):
@@ -289,16 +290,20 @@ def build_bank():
         target.pop('unassigned_source_items', None)
         target.pop('source_warning', None)
         applied.add(index)
+    word_count = len(bank)
+    add_lesson6(bank)
+    counts = Counter(q['lesson_num'] for q in bank)
     bank.sort(key=lambda q: (q['lesson_num'], q['q_num']))
     playable = [q for q in bank if q.get('is_gradable', True)]
     report = dict(source_file=SOURCE, source_sha256=SOURCE_SHA256, bank_version=DATA_VERSION,
                   approved_answer_corrections=CORRECTIONS['corrections'],
                   approved_category_corrections=CORRECTIONS.get('category_corrections', []),
-                  source_exercises=len(bank), total=len(bank), playable=len(playable), reference_only=len(bank)-len(playable),
+                  source_exercises=word_count, supplementary_source=MANIFEST['source_file'],
+                  supplementary_exercises=len(MANIFEST['questions']), total=len(bank), playable=len(playable), reference_only=len(bank)-len(playable),
                   lesson_counts=dict(counts), playable_lesson_counts=dict(Counter(q['lesson_num'] for q in playable)),
                   type_counts=dict(Counter(q['type'] for q in bank)), tx_count=sum(bool(q.get('is_thuong_xuyen')) for q in playable),
                   source_notes=[dict(id=q['id'], source_title=q['source_title'], warning=q['source_warning']) for q in bank if q.get('source_warning')],
-                  section_note='43 câu bắt đầu lại từ Câu 1 sau Bài 5 không có tiêu đề bài; hiển thị riêng ở mục Bổ sung.')
+                  section_note='Bài 6: 14 câu về gia đình từ Word và 9 câu mới người dùng cung cấp; 29 câu hỗn hợp còn lại giữ trong Bổ sung.')
     return bank, report
 
 

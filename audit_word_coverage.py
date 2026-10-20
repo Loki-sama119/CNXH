@@ -78,10 +78,11 @@ def audit(bank=None):
         errors.append('Duplicate approved answer correction')
     if len(category_corrections) != len(correction_data.get('category_corrections', [])) or set(corrections) & set(category_corrections):
         errors.append('Duplicate approved category correction')
-    refs = Counter(s['body_index'] for q in bank for s in q['sources'])
+    word_bank = [q for q in bank if q['sources'][0]['file'] == SOURCE]
+    refs = Counter(s['body_index'] for q in word_bank for s in q['sources'])
     if set(refs) != {b['index'] for b in blocks} or any(n != 1 for n in refs.values()):
         errors.append('Missing, duplicate or extra source exercise references')
-    targets = {q['sources'][0]['body_index']: q for q in bank}
+    targets = {q['sources'][0]['body_index']: q for q in word_bank}
     for block in blocks:
         q = targets.get(block['index'])
         if q is None:
@@ -236,6 +237,8 @@ def audit(bank=None):
         errors.append('An approved correction was not applied to a choice exercise')
     if len(applied_category_corrections) != len(category_corrections):
         errors.append('An approved category correction was not applied')
+    from supplementary_questions import audit_supplement
+    errors.extend(audit_supplement(bank))
     return dict(source_file=SOURCE, source_sha256=hashlib.sha256((ROOT/SOURCE).read_bytes()).hexdigest(),
                 approved_answer_corrections=applied_corrections,
                 approved_category_corrections=applied_category_corrections,

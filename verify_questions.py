@@ -17,7 +17,7 @@ def validate_questions(questions):
         require(q.get('id') not in ids, 'duplicate ID')
         ids.add(q.get('id'))
         lesson = q.get('lesson_num')
-        require(lesson in range(1, 7) and q.get('lesson') == ('Bổ sung' if lesson == 6 else f'Bài {lesson}'), 'invalid lesson')
+        require(lesson in range(1, 8) and q.get('lesson') == ('Bổ sung' if lesson == 7 else f'Bài {lesson}'), 'invalid lesson')
         counts[lesson] += 1
         require(q.get('q_num') == counts[lesson], 'nonsequential lesson number')
         require(bool(q.get('sources')), 'missing source')
@@ -54,6 +54,8 @@ def validate_questions(questions):
             require(sorted((s, c['title']) for c in cats for s in c['items']) == sorted((i['text'], i['category']) for i in items), 'category membership mismatch')
         else:
             require(False, 'unknown question type')
+    from supplementary_questions import audit_supplement
+    errors.extend(audit_supplement(questions))
     return errors
 
 

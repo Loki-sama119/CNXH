@@ -1,4 +1,4 @@
-window.QUIZ_BANK_VERSION = "word-c41143f3c5139fa3-answers-6e385ea5";
+window.QUIZ_BANK_VERSION = "word-c41143f3c5139fa3-answers-6e385ea5-lesson6-c9f85804";
 window.QUIZ_QUESTIONS = [
   {
     "lesson_num": 1,
@@ -9564,1052 +9564,48 @@ window.QUIZ_QUESTIONS = [
     "id": "word-c41143f3c5139fa3-p1196"
   },
   {
-    "lesson_num": 6,
-    "question": "Câu 1: Trong Cương lĩnh dân tộc của chủ nghĩa Mác – Lênin, nội dung nào về quyền dân tộc tự quyết được coi là cơ bản trước hết?",
     "source_q_num": 1,
-    "source_title": "Câu 1: Trong Cương lĩnh dân tộc của chủ nghĩa Mác – Lênin, nội dung nào về quyền dân tộc tự quyết được coi là cơ bản trước hết?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 1,
-        "body_index": 1009
-      }
-    ],
+    "source_title": "Câu 1: Gia đình là:",
     "source_content": [
       {
-        "text": "A. Quyền tự quyết về chính trị B. Quyền tự quyết về các mối quan hệ quốc tế C. Quyền tự quyết về văn hóa D. Quyền tự quyết về kinh tế"
-      },
-      {
-        "text": "Đáp án đúng: A"
+        "text": "Gia đình là:\nA.  Hình thức cộng đồng xã hội đặc biệt\nB.  Một tộc người\nC.  Tập đoàn xã hội ổn định\nD.  Một nhóm người"
       }
     ],
+    "answer_verification": {
+      "url": "https://hcmunre.edu.vn/upload/elfinder/Trang%20Khoa/Khoa%20Luat%20%26LLCT/Ph%E1%BA%A7n%202_GT%20h%E1%BB%8Dc%20ph%E1%BA%A7n%20Ch%E1%BB%A7%20ngh%C4%A9a%20x%C3%A3%20h%E1%BB%99i%20khoa%20h%E1%BB%8Dc%20%28K%29%20Tr%2067%20-Tr144.pdf",
+      "section": "Chương 7, mục 1.1: Khái niệm gia đình",
+      "checked_on": "2026-10-20",
+      "method": "Đối chiếu giáo trình; câu Đúng/Sai và bảng phân loại giữ đáp án người dùng cung cấp.",
+      "printed_pages": [
+        128
+      ]
+    },
+    "question": "Câu 1: Gia đình là:",
     "type": "single_choice",
     "options": [
-      "A. Quyền tự quyết về chính trị",
-      "B. Quyền tự quyết về các mối quan hệ quốc tế",
-      "C. Quyền tự quyết về văn hóa",
-      "D. Quyền tự quyết về kinh tế"
+      "A. Hình thức cộng đồng xã hội đặc biệt",
+      "B. Một tộc người",
+      "C. Tập đoàn xã hội ổn định",
+      "D. Một nhóm người"
     ],
     "correct_answers": [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
+    "lesson_num": 6,
+    "lesson": "Bài 6",
     "q_num": 1,
-    "body_index": 1009,
-    "id": "word-c41143f3c5139fa3-p1009"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 2: Theo quan điểm của chủ nghĩa Mác – Lênin, giải pháp căn bản để thực hiện bình đẳng dân tộc là gì?",
-    "source_q_num": 2,
-    "source_title": "Câu 2: Theo quan điểm của chủ nghĩa Mác – Lênin, giải pháp căn bản để thực hiện bình đẳng dân tộc là gì?",
+    "id": "user-lesson6-d1a799a6171cecda-q1",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 2,
-        "body_index": 1012
+        "file": "BAI_6_NGUOI_DUNG.txt",
+        "question_number": 1
       }
-    ],
-    "source_content": [
-      {
-        "text": "A. Phải duy trì chế độ tư hữu về tư liệu sản xuất B. Thủ tiêu ách áp bức giai cấp, trên cơ sở đó xóa bỏ áp bức dân tộc và đấu tranh chống chủ nghĩa phân biệt chủng tộc, chủ nghĩa sô-vanh C. Tách biệt cuộc đấu tranh dân tộc khỏi cuộc đấu tranh giai cấp của công nhân D. Liên kết thỏa hiệp với các nước đế quốc lớn"
-      },
-      {
-        "text": "Đáp án đúng: B"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Phải duy trì chế độ tư hữu về tư liệu sản xuất",
-      "B. Thủ tiêu ách áp bức giai cấp, trên cơ sở đó xóa bỏ áp bức dân tộc và đấu tranh chống chủ nghĩa phân biệt chủng tộc, chủ nghĩa sô-vanh",
-      "C. Tách biệt cuộc đấu tranh dân tộc khỏi cuộc đấu tranh giai cấp của công nhân",
-      "D. Liên kết thỏa hiệp với các nước đế quốc lớn"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 2,
-    "body_index": 1012,
-    "id": "word-c41143f3c5139fa3-p1012"
+    ]
   },
   {
     "lesson_num": 6,
-    "question": "Câu 3: Nội dung nào sau đây là nội dung chủ yếu và là giải pháp quan trọng để liên kết các nội dung của Cương lĩnh dân tộc thành một chỉnh thể?",
-    "source_q_num": 3,
-    "source_title": "Câu 3: Nội dung nào sau đây là nội dung chủ yếu và là giải pháp quan trọng để liên kết các nội dung của Cương lĩnh dân tộc thành một chỉnh thể?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 3,
-        "body_index": 1015
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Các dân tộc hoàn toàn bình đẳng B. Cắt đứt quan hệ giữa các quốc gia C. Liên hiệp công nhân tất cả các dân tộc D. Các dân tộc tự quyết quyền phát triển kinh tế"
-      },
-      {
-        "text": "Đáp án đúng: C"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Các dân tộc hoàn toàn bình đẳng",
-      "B. Cắt đứt quan hệ giữa các quốc gia",
-      "C. Liên hiệp công nhân tất cả các dân tộc",
-      "D. Các dân tộc tự quyết quyền phát triển kinh tế"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 3,
-    "body_index": 1015,
-    "id": "word-c41143f3c5139fa3-p1015"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 4: Theo quan điểm duy vật lịch sử, tôn giáo là sản phẩm của yếu tố nào?",
-    "source_q_num": 4,
-    "source_title": "Câu 4: Theo quan điểm duy vật lịch sử, tôn giáo là sản phẩm của yếu tố nào?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 4,
-        "body_index": 1018
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Con người B. Thượng đế C. Lực lượng siêu nhiên D. Tự nhiên huyền bí"
-      },
-      {
-        "text": "Đáp án đúng: A"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Con người",
-      "B. Thượng đế",
-      "C. Lực lượng siêu nhiên",
-      "D. Tự nhiên huyền bí"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 4,
-    "body_index": 1018,
-    "id": "word-c41143f3c5139fa3-p1018"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 5: Đâu là điểm giống nhau căn bản giữa tôn giáo và tín ngưỡng?",
-    "source_q_num": 5,
-    "source_title": "Câu 5: Đâu là điểm giống nhau căn bản giữa tôn giáo và tín ngưỡng?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 5,
-        "body_index": 1021
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Đều có hệ thống giáo chủ chặt chẽ B. Đều có kinh sách và giáo luật hoàn chỉnh C. Đều có giáo hội quản lý cấp quốc gia D. Đều có niềm tin vào đấng siêu nhiên, thần linh"
-      },
-      {
-        "text": "Đáp án đúng: D"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Đều có hệ thống giáo chủ chặt chẽ",
-      "B. Đều có kinh sách và giáo luật hoàn chỉnh",
-      "C. Đều có giáo hội quản lý cấp quốc gia",
-      "D. Đều có niềm tin vào đấng siêu nhiên, thần linh"
-    ],
-    "correct_answers": [
-      3
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 5,
-    "body_index": 1021,
-    "id": "word-c41143f3c5139fa3-p1021"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 6: Niềm tin của con người vào các lực lượng siêu nhiên, thần thánh đến mức độ mê muội, cuồng tín, dẫn đến những hành vi cực đoan, sai lệch, trái với đạo đức và pháp luật gọi là gì?",
-    "source_q_num": 6,
-    "source_title": "Câu 6: Niềm tin của con người vào các lực lượng siêu nhiên, thần thánh đến mức độ mê muội, cuồng tín, dẫn đến những hành vi cực đoan, sai lệch, trái với đạo đức và pháp luật gọi là gì?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 6,
-        "body_index": 1024
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Thờ anh hùng dân tộc B. Tín ngưỡng thờ Mẫu C. Mê tín dị đoan D. Thờ cúng tổ tiên"
-      },
-      {
-        "text": "Đáp án đúng: C"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Thờ anh hùng dân tộc",
-      "B. Tín ngưỡng thờ Mẫu",
-      "C. Mê tín dị đoan",
-      "D. Thờ cúng tổ tiên"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 6,
-    "body_index": 1024,
-    "id": "word-c41143f3c5139fa3-p1024"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 7: Ở Việt Nam hiện nay có khoảng bao nhiêu dân tộc cùng sinh sống?",
-    "source_q_num": 7,
-    "source_title": "Câu 7: Ở Việt Nam hiện nay có khoảng bao nhiêu dân tộc cùng sinh sống?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 7,
-        "body_index": 1027
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. 54 dân tộc B. 50 dân tộc C. 45 dân tộc D. 63 dân tộc"
-      },
-      {
-        "text": "Đáp án đúng: A"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. 54 dân tộc",
-      "B. 50 dân tộc",
-      "C. 45 dân tộc",
-      "D. 63 dân tộc"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 7,
-    "body_index": 1027,
-    "id": "word-c41143f3c5139fa3-p1027"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 8: Vì sao Đảng và Nhà nước Việt Nam chủ trương luôn tôn trọng, bảo đảm quyền tự do tín ngưỡng, tôn giáo và không tín ngưỡng tôn giáo của nhân dân?",
-    "source_q_num": 8,
-    "source_title": "Câu 8: Vì sao Đảng và Nhà nước Việt Nam chủ trương luôn tôn trọng, bảo đảm quyền tự do tín ngưỡng, tôn giáo và không tín ngưỡng tôn giáo của nhân dân?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 8,
-        "body_index": 1030
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Vì tín ngưỡng, tôn giáo được du nhập hoàn toàn từ nước ngoài vào B. Vì các tổ chức tôn giáo có tiềm lực kinh tế lớn mạnh C. Vì số lượng tín đồ chiếm đại đa số tuyệt đối dân số D. Vì tín ngưỡng, tôn giáo là nhu cầu tinh thần của một bộ phận nhân dân"
-      },
-      {
-        "text": "Đáp án đúng: D"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Vì tín ngưỡng, tôn giáo được du nhập hoàn toàn từ nước ngoài vào",
-      "B. Vì các tổ chức tôn giáo có tiềm lực kinh tế lớn mạnh",
-      "C. Vì số lượng tín đồ chiếm đại đa số tuyệt đối dân số",
-      "D. Vì tín ngưỡng, tôn giáo là nhu cầu tinh thần của một bộ phận nhân dân"
-    ],
-    "correct_answers": [
-      3
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 8,
-    "body_index": 1030,
-    "id": "word-c41143f3c5139fa3-p1030"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 9: Nhóm yếu tố nào sau đây phản ánh đầy đủ nguồn gốc hình thành và tồn tại của tôn giáo?",
-    "source_q_num": 9,
-    "source_title": "Câu 9: Nhóm yếu tố nào sau đây phản ánh đầy đủ nguồn gốc hình thành và tồn tại của tôn giáo?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 9,
-        "body_index": 1033
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Hệ thống tín đồ, tổ chức giáo phẩm và nghi lễ B. Cơ sở thờ tự, kinh sách và giáo luật C. Nguồn gốc nhận thức, tâm lý và kinh tế - xã hội D. Sự can thiệp của các đấng sáng tạo siêu nhiên"
-      },
-      {
-        "text": "Đáp án đúng: C"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Hệ thống tín đồ, tổ chức giáo phẩm và nghi lễ",
-      "B. Cơ sở thờ tự, kinh sách và giáo luật",
-      "C. Nguồn gốc nhận thức, tâm lý và kinh tế - xã hội",
-      "D. Sự can thiệp của các đấng sáng tạo siêu nhiên"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 9,
-    "body_index": 1033,
-    "id": "word-c41143f3c5139fa3-p1033"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 10: Khái niệm dân tộc theo nghĩa hẹp được dùng để chỉ khái niệm nào?",
-    "source_q_num": 10,
-    "source_title": "Câu 10: Khái niệm dân tộc theo nghĩa hẹp được dùng để chỉ khái niệm nào?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 10,
-        "body_index": 1036
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Dân tộc quốc gia B. Dân tộc tộc người C. Cộng đồng đa quốc gia D. Liên hiệp các quốc gia"
-      },
-      {
-        "text": "Đáp án đúng: B"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Dân tộc quốc gia",
-      "B. Dân tộc tộc người",
-      "C. Cộng đồng đa quốc gia",
-      "D. Liên hiệp các quốc gia"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 10,
-    "body_index": 1036,
-    "id": "word-c41143f3c5139fa3-p1036"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 11: Tiêu chí nào mang tính thiêng liêng nhất đối với một dân tộc quốc gia và mỗi thành viên dân tộc?",
-    "source_q_num": 11,
-    "source_title": "Câu 11: Tiêu chí nào mang tính thiêng liêng nhất đối với một dân tộc quốc gia và mỗi thành viên dân tộc?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 11,
-        "body_index": 1039
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Lãnh thổ B. Thị trường nội địa C. Mức sống thu nhập D. Ý thức cá nhân"
-      },
-      {
-        "text": "Đáp án đúng: A"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Lãnh thổ",
-      "B. Thị trường nội địa",
-      "C. Mức sống thu nhập",
-      "D. Ý thức cá nhân"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 11,
-    "body_index": 1039,
-    "id": "word-c41143f3c5139fa3-p1039"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 12: Nhận định nào sau đây là SAI khi nói về quyền tự quyết dân tộc trong Cương lĩnh dân tộc Mác – Lênin?",
-    "source_q_num": 12,
-    "source_title": "Câu 12: Nhận định nào sau đây là SAI khi nói về quyền tự quyết dân tộc trong Cương lĩnh dân tộc Mác – Lênin?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 12,
-        "body_index": 1042
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Quyền tự quyết bao gồm quyền tự do tách ra thành quốc gia độc lập B. Quyền tự quyết dân tộc không bao gồm nội dung tự nguyện liên hiệp các dân tộc lại C. Dân tộc tộc người có đặc trưng về ngôn ngữ riêng D. Cương lĩnh dân tộc khẳng định nguyên tắc bình đẳng giữa các dân tộc"
-      },
-      {
-        "text": "Đáp án đúng: B"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Quyền tự quyết bao gồm quyền tự do tách ra thành quốc gia độc lập",
-      "B. Quyền tự quyết dân tộc không bao gồm nội dung tự nguyện liên hiệp các dân tộc lại",
-      "C. Dân tộc tộc người có đặc trưng về ngôn ngữ riêng",
-      "D. Cương lĩnh dân tộc khẳng định nguyên tắc bình đẳng giữa các dân tộc"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 12,
-    "body_index": 1042,
-    "id": "word-c41143f3c5139fa3-p1042"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 13: Hình thái ý thức xã hội phản ánh một cách hoang đường, hư ảo hiện thực khách quan là khái niệm của hiện tượng nào?",
-    "source_q_num": 13,
-    "source_title": "Câu 13: Hình thái ý thức xã hội phản ánh một cách hoang đường, hư ảo hiện thực khách quan là khái niệm của hiện tượng nào?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 13,
-        "body_index": 1045
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Nghệ thuật dân gian B. Tôn giáo C. Đạo đức xã hội D. Triết học khoa học"
-      },
-      {
-        "text": "Đáp án đúng: B"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Nghệ thuật dân gian",
-      "B. Tôn giáo",
-      "C. Đạo đức xã hội",
-      "D. Triết học khoa học"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 13,
-    "body_index": 1045,
-    "id": "word-c41143f3c5139fa3-p1045"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 14: Phát biểu nào sau đây là SAI về sự khác biệt giữa tín ngưỡng và tôn giáo?",
-    "source_q_num": 14,
-    "source_title": "Câu 14: Phát biểu nào sau đây là SAI về sự khác biệt giữa tín ngưỡng và tôn giáo?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 14,
-        "body_index": 1048
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Tín ngưỡng có hệ thống giáo lý, giáo luật và tổ chức chặt chẽ như tôn giáo B. Nguồn gốc kinh tế - xã hội dẫn đến sự ra đời của tôn giáo C. Mê tín dị đoan là niềm tin mù quáng gây hậu quả xấu cần loại bỏ D. Tôn giáo phản ánh hiện thực một cách hoang đường, hư ảo"
-      },
-      {
-        "text": "Đáp án đúng: A"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Tín ngưỡng có hệ thống giáo lý, giáo luật và tổ chức chặt chẽ như tôn giáo",
-      "B. Nguồn gốc kinh tế - xã hội dẫn đến sự ra đời của tôn giáo",
-      "C. Mê tín dị đoan là niềm tin mù quáng gây hậu quả xấu cần loại bỏ",
-      "D. Tôn giáo phản ánh hiện thực một cách hoang đường, hư ảo"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 14,
-    "body_index": 1048,
-    "id": "word-c41143f3c5139fa3-p1048"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 15: Vì sao các tôn giáo ở Việt Nam luôn đồng hành cùng dân tộc và đóng góp tích cực cho sự nghiệp xây dựng, bảo vệ Tổ quốc?",
-    "source_q_num": 15,
-    "source_title": "Câu 15: Vì sao các tôn giáo ở Việt Nam luôn đồng hành cùng dân tộc và đóng góp tích cực cho sự nghiệp xây dựng, bảo vệ Tổ quốc?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 15,
-        "body_index": 1051
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Vì đa số tín đồ là nhân dân lao động có tinh thần yêu nước, chống giặc ngoại xâm B. Vì các tôn giáo nắm vai trò lãnh đạo cơ quan quyền lực nhà nước C. Vì các tổ chức tôn giáo có quân đội riêng bảo vệ biên giới D. Vì các tôn giáo được chi phối bởi các tổ chức quốc tế"
-      },
-      {
-        "text": "Đáp án đúng: A"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Vì đa số tín đồ là nhân dân lao động có tinh thần yêu nước, chống giặc ngoại xâm",
-      "B. Vì các tôn giáo nắm vai trò lãnh đạo cơ quan quyền lực nhà nước",
-      "C. Vì các tổ chức tôn giáo có quân đội riêng bảo vệ biên giới",
-      "D. Vì các tôn giáo được chi phối bởi các tổ chức quốc tế"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 15,
-    "body_index": 1051,
-    "id": "word-c41143f3c5139fa3-p1051"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 16: Đâu là các đặc trưng cơ bản thuộc về dân tộc tộc người?",
-    "source_q_num": 16,
-    "source_title": "Câu 16: Đâu là các đặc trưng cơ bản thuộc về dân tộc tộc người?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 16,
-        "body_index": 1054
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Lãnh thổ quốc gia, nền kinh tế chung, nhà nước chung B. Ngôn ngữ tộc người, văn hóa đặc thù và ý thức tự giác tộc người C. Quân đội riêng, hiến pháp riêng, tài chính độc lập D. Hệ thống chính trị riêng biệt và tiền tệ riêng"
-      },
-      {
-        "text": "Đáp án đúng: B"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Lãnh thổ quốc gia, nền kinh tế chung, nhà nước chung",
-      "B. Ngôn ngữ tộc người, văn hóa đặc thù và ý thức tự giác tộc người",
-      "C. Quân đội riêng, hiến pháp riêng, tài chính độc lập",
-      "D. Hệ thống chính trị riêng biệt và tiền tệ riêng"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 16,
-    "body_index": 1054,
-    "id": "word-c41143f3c5139fa3-p1054"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 17: Hai nguyên nhân chủ yếu khiến tôn giáo vẫn tiếp tục tồn tại lâu dài trong thời kỳ quá độ là gì?",
-    "source_q_num": 17,
-    "source_title": "Câu 17: Hai nguyên nhân chủ yếu khiến tôn giáo vẫn tiếp tục tồn tại lâu dài trong thời kỳ quá độ là gì?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 17,
-        "body_index": 1057
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Do quy định bắt buộc của nhà nước và do các giáo hội nước ngoài thúc đẩy B. Do khoa học chưa giải thích hết mọi hiện tượng và xã hội vẫn còn phân hóa, áp bức C. Do các thế lực siêu nhiên thực sự tồn tại can thiệp vào đời sống D. Do sự phát triển của công nghệ truyền thông"
-      },
-      {
-        "text": "Đáp án đúng: B"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Do quy định bắt buộc của nhà nước và do các giáo hội nước ngoài thúc đẩy",
-      "B. Do khoa học chưa giải thích hết mọi hiện tượng và xã hội vẫn còn phân hóa, áp bức",
-      "C. Do các thế lực siêu nhiên thực sự tồn tại can thiệp vào đời sống",
-      "D. Do sự phát triển của công nghệ truyền thông"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 17,
-    "body_index": 1057,
-    "id": "word-c41143f3c5139fa3-p1057"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 18: Điểm khác biệt căn bản trong quá trình hình thành dân tộc Việt Nam so với các dân tộc phương Tây là gì?",
-    "source_q_num": 18,
-    "source_title": "Câu 18: Điểm khác biệt căn bản trong quá trình hình thành dân tộc Việt Nam so với các dân tộc phương Tây là gì?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 18,
-        "body_index": 1060
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Hình thành gắn liền với sự phát triển mạnh mẽ của phương thức tư bản chủ nghĩa B. Hình thành do quá trình đồng hóa cưỡng bức của các triều đại phong kiến C. Hình thành sớm do đòi hỏi khách quan của công cuộc trị thủy, làm thủy lợi và đoàn kết chống giặc ngoại xâm D. Hình thành do dân tộc có quy mô diện tích lãnh thổ nhỏ hẹp"
-      },
-      {
-        "text": "Đáp án đúng: C"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Hình thành gắn liền với sự phát triển mạnh mẽ của phương thức tư bản chủ nghĩa",
-      "B. Hình thành do quá trình đồng hóa cưỡng bức của các triều đại phong kiến",
-      "C. Hình thành sớm do đòi hỏi khách quan của công cuộc trị thủy, làm thủy lợi và đoàn kết chống giặc ngoại xâm",
-      "D. Hình thành do dân tộc có quy mô diện tích lãnh thổ nhỏ hẹp"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 18,
-    "body_index": 1060,
-    "id": "word-c41143f3c5139fa3-p1060"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 19: Tính nhất nguyên về mặt chính trị của nền dân chủ xã hội chủ nghĩa được thể hiện như thế nào?",
-    "source_q_num": 19,
-    "source_title": "Câu 19: Tính nhất nguyên về mặt chính trị của nền dân chủ xã hội chủ nghĩa được thể hiện như thế nào?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 19,
-        "body_index": 1063
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Nền dân chủ chấp nhận cơ chế đa đảng cạnh tranh quyền lực B. Nền dân chủ do tầng lớp trí thức nắm quyền chuyên chính C. Nền dân chủ đặt dưới sự lãnh đạo duy nhất của Đảng Cộng sản – đại biểu cho trí tuệ, lợi ích của công nhân, nhân dân lao động và toàn dân tộc D. Nền dân chủ chỉ phục vụ quyền lợi của riêng giai cấp nông dân"
-      },
-      {
-        "text": "Đáp án đúng: C"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Nền dân chủ chấp nhận cơ chế đa đảng cạnh tranh quyền lực",
-      "B. Nền dân chủ do tầng lớp trí thức nắm quyền chuyên chính",
-      "C. Nền dân chủ đặt dưới sự lãnh đạo duy nhất của Đảng Cộng sản – đại biểu cho trí tuệ, lợi ích của công nhân, nhân dân lao động và toàn dân tộc",
-      "D. Nền dân chủ chỉ phục vụ quyền lợi của riêng giai cấp nông dân"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 19,
-    "body_index": 1063,
-    "id": "word-c41143f3c5139fa3-p1063"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 20: Luận điểm nào sau đây KHÔNG đúng khi so sánh nền dân chủ xã hội chủ nghĩa với nền dân chủ tư sản?",
-    "source_q_num": 20,
-    "source_title": "Câu 20: Luận điểm nào sau đây KHÔNG đúng khi so sánh nền dân chủ xã hội chủ nghĩa với nền dân chủ tư sản?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 20,
-        "body_index": 1066
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Dựa trên chế độ công hữu về các tư liệu sản xuất chủ yếu của xã hội B. Mang tính nhất nguyên về chính trị dưới sự lãnh đạo của Đảng Cộng sản C. Là nền dân chủ thuần túy, hoàn toàn không mang tính giai cấp D. Được thực hiện chủ yếu bằng công cụ Nhà nước pháp quyền xã hội chủ nghĩa"
-      },
-      {
-        "text": "Đáp án đúng: C"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Dựa trên chế độ công hữu về các tư liệu sản xuất chủ yếu của xã hội",
-      "B. Mang tính nhất nguyên về chính trị dưới sự lãnh đạo của Đảng Cộng sản",
-      "C. Là nền dân chủ thuần túy, hoàn toàn không mang tính giai cấp",
-      "D. Được thực hiện chủ yếu bằng công cụ Nhà nước pháp quyền xã hội chủ nghĩa"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 20,
-    "body_index": 1066,
-    "id": "word-c41143f3c5139fa3-p1066"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 21: So với các nền dân chủ trước đây trong lịch sử, dân chủ xã hội chủ nghĩa có điểm khác biệt căn bản nào?",
-    "source_q_num": 21,
-    "source_title": "Câu 21: So với các nền dân chủ trước đây trong lịch sử, dân chủ xã hội chủ nghĩa có điểm khác biệt căn bản nào?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 21,
-        "body_index": 1069
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Là nền dân chủ rộng rãi cho giai cấp công nhân và nhân dân lao động B. Là nền dân chủ phi lịch sử, tồn tại vĩnh viễn ngoài nhà nước C. Là nền dân chủ thuần túy, không có giới hạn pháp lý D. Không còn mang tính giai cấp"
-      },
-      {
-        "text": "Đáp án đúng: A"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Là nền dân chủ rộng rãi cho giai cấp công nhân và nhân dân lao động",
-      "B. Là nền dân chủ phi lịch sử, tồn tại vĩnh viễn ngoài nhà nước",
-      "C. Là nền dân chủ thuần túy, không có giới hạn pháp lý",
-      "D. Không còn mang tính giai cấp"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 21,
-    "body_index": 1069,
-    "id": "word-c41143f3c5139fa3-p1069"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 22: Việc thực hiện chế độ công hữu về tư liệu sản xuất chủ yếu và phân phối lợi ích theo kết quả lao động là bản chất kinh tế của nền dân chủ nào?",
-    "source_q_num": 22,
-    "source_title": "Câu 22: Việc thực hiện chế độ công hữu về tư liệu sản xuất chủ yếu và phân phối lợi ích theo kết quả lao động là bản chất kinh tế của nền dân chủ nào?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 22,
-        "body_index": 1072
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Nền dân chủ tư sản B. Nền dân chủ chủ nô C. Nền dân chủ xã hội chủ nghĩa D. Nền dân chủ nguyên thủy"
-      },
-      {
-        "text": "Đáp án đúng: C"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Nền dân chủ tư sản",
-      "B. Nền dân chủ chủ nô",
-      "C. Nền dân chủ xã hội chủ nghĩa",
-      "D. Nền dân chủ nguyên thủy"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 22,
-    "body_index": 1072,
-    "id": "word-c41143f3c5139fa3-p1072"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 23: Nhà nước pháp quyền xã hội chủ nghĩa quản lý mọi mặt của đời sống xã hội chủ yếu bằng công cụ nào?",
-    "source_q_num": 23,
-    "source_title": "Câu 23: Nhà nước pháp quyền xã hội chủ nghĩa quản lý mọi mặt của đời sống xã hội chủ yếu bằng công cụ nào?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 23,
-        "body_index": 1075
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Tuyên truyền, vận động quần chúng B. Hiến pháp và pháp luật C. Đường lối, chủ trương chưa thể chế hóa D. Các biện pháp hành chính mệnh lệnh"
-      },
-      {
-        "text": "Đáp án đúng: B"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Tuyên truyền, vận động quần chúng",
-      "B. Hiến pháp và pháp luật",
-      "C. Đường lối, chủ trương chưa thể chế hóa",
-      "D. Các biện pháp hành chính mệnh lệnh"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 23,
-    "body_index": 1075,
-    "id": "word-c41143f3c5139fa3-p1075"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 24: Khác biệt căn bản về chất của Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam so với các nhà nước bóc lột trong lịch sử là gì?",
-    "source_q_num": 24,
-    "source_title": "Câu 24: Khác biệt căn bản về chất của Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam so với các nhà nước bóc lột trong lịch sử là gì?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 24,
-        "body_index": 1078
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Chỉ đại diện duy nhất cho bộ phận giai cấp công nhân B. Là nhà nước phi giai cấp, phi chính trị C. Mang bản chất của giai cấp công nhân, tính nhân dân sâu sắc và tính dân tộc rộng rãi D. Chỉ tập trung thực hiện chức năng trấn áp quân sự"
-      },
-      {
-        "text": "Đáp án đúng: C"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Chỉ đại diện duy nhất cho bộ phận giai cấp công nhân",
-      "B. Là nhà nước phi giai cấp, phi chính trị",
-      "C. Mang bản chất của giai cấp công nhân, tính nhân dân sâu sắc và tính dân tộc rộng rãi",
-      "D. Chỉ tập trung thực hiện chức năng trấn áp quân sự"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 24,
-    "body_index": 1078,
-    "id": "word-c41143f3c5139fa3-p1078"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 25: Hình thức dân chủ nào là hình thức mà nhân dân trực tiếp bày tỏ ý chí, trực tiếp tham gia quản lý nhà nước và xã hội?",
-    "source_q_num": 25,
-    "source_title": "Câu 25: Hình thức dân chủ nào là hình thức mà nhân dân trực tiếp bày tỏ ý chí, trực tiếp tham gia quản lý nhà nước và xã hội?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 25,
-        "body_index": 1081
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Dân chủ gián tiếp B. Dân chủ đại diện C. Dân chủ trực tiếp D. Dân chủ ủy quyền"
-      },
-      {
-        "text": "Đáp án đúng: C"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Dân chủ gián tiếp",
-      "B. Dân chủ đại diện",
-      "C. Dân chủ trực tiếp",
-      "D. Dân chủ ủy quyền"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 25,
-    "body_index": 1081,
-    "id": "word-c41143f3c5139fa3-p1081"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 26: Khẳng định nào sau đây về tổ chức quyền lực nhà nước ở Việt Nam là SAI?",
-    "source_q_num": 26,
-    "source_title": "Câu 26: Khẳng định nào sau đây về tổ chức quyền lực nhà nước ở Việt Nam là SAI?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 26,
-        "body_index": 1084
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Bản chất dân chủ XHCN được thực hiện qua hình thức trực tiếp và gián tiếp B. Quốc hội là cơ quan quyền lực nhà nước cao nhất hoạt động theo nhiệm kỳ 3 năm C. Nhà nước Việt Nam là nhà nước của nhân dân, do nhân dân, vì nhân dân làm chủ D. Trong hoạt động nhà nước có sự phân công, phối hợp và kiểm soát giữa các cơ quan quyền lực"
-      },
-      {
-        "text": "Đáp án đúng: B"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Bản chất dân chủ XHCN được thực hiện qua hình thức trực tiếp và gián tiếp",
-      "B. Quốc hội là cơ quan quyền lực nhà nước cao nhất hoạt động theo nhiệm kỳ 3 năm",
-      "C. Nhà nước Việt Nam là nhà nước của nhân dân, do nhân dân, vì nhân dân làm chủ",
-      "D. Trong hoạt động nhà nước có sự phân công, phối hợp và kiểm soát giữa các cơ quan quyền lực"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 26,
-    "body_index": 1084,
-    "id": "word-c41143f3c5139fa3-p1084"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 27: Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội – giai cấp biến đổi theo quy luật vận động nào?",
-    "source_q_num": 27,
-    "source_title": "Câu 27: Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội – giai cấp biến đổi theo quy luật vận động nào?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 27,
-        "body_index": 1087
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Tách biệt đối lập hoàn toàn, không liên minh gắn kết B. Vừa đấu tranh, vừa bài xích triệt tiêu lẫn nhau C. Vừa đấu tranh, vừa liên minh, từng bước xóa bỏ bất bình đẳng xã hội dẫn đến sự xích lại gần nhau D. Các giai cấp lớn liên minh đàn áp các giai cấp nhỏ"
-      },
-      {
-        "text": "Đáp án đúng: C"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Tách biệt đối lập hoàn toàn, không liên minh gắn kết",
-      "B. Vừa đấu tranh, vừa bài xích triệt tiêu lẫn nhau",
-      "C. Vừa đấu tranh, vừa liên minh, từng bước xóa bỏ bất bình đẳng xã hội dẫn đến sự xích lại gần nhau",
-      "D. Các giai cấp lớn liên minh đàn áp các giai cấp nhỏ"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 27,
-    "body_index": 1087,
-    "id": "word-c41143f3c5139fa3-p1087"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 28: Trong cơ cấu xã hội – giai cấp ở Việt Nam thời kỳ quá độ, đội ngũ trí thức giữ vai trò là lực lượng gì?",
-    "source_q_num": 28,
-    "source_title": "Câu 28: Trong cơ cấu xã hội – giai cấp ở Việt Nam thời kỳ quá độ, đội ngũ trí thức giữ vai trò là lực lượng gì?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 28,
-        "body_index": 1090
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Lực lượng sáng tạo đặc biệt B. Lực lượng lãnh đạo sự nghiệp cách mạng C. Lực lượng sản xuất nông nghiệp nòng cốt D. Đội ngũ quản lý doanh nghiệp độc lập"
-      },
-      {
-        "text": "Đáp án đúng: A"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Lực lượng sáng tạo đặc biệt",
-      "B. Lực lượng lãnh đạo sự nghiệp cách mạng",
-      "C. Lực lượng sản xuất nông nghiệp nòng cốt",
-      "D. Đội ngũ quản lý doanh nghiệp độc lập"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 28,
-    "body_index": 1090,
-    "id": "word-c41143f3c5139fa3-p1090"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 29: Phát biểu nào sau đây về khối liên minh giai cấp, tầng lớp ở Việt Nam là ĐÚNG?",
-    "source_q_num": 29,
-    "source_title": "Câu 29: Phát biểu nào sau đây về khối liên minh giai cấp, tầng lớp ở Việt Nam là ĐÚNG?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 29,
-        "body_index": 1093
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Nội dung tôn giáo là nội dung nòng cốt của liên minh B. Xây dựng Nhà nước pháp quyền là nội dung văn hóa của liên minh C. Đồng thuận xã hội là một mục tiêu quan trọng của liên minh giai cấp, tầng lớp D. Đội ngũ doanh nhân bị loại trừ, không tham gia khối liên minh"
-      },
-      {
-        "text": "Đáp án đúng: C"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Nội dung tôn giáo là nội dung nòng cốt của liên minh",
-      "B. Xây dựng Nhà nước pháp quyền là nội dung văn hóa của liên minh",
-      "C. Đồng thuận xã hội là một mục tiêu quan trọng của liên minh giai cấp, tầng lớp",
-      "D. Đội ngũ doanh nhân bị loại trừ, không tham gia khối liên minh"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 29,
-    "body_index": 1093,
-    "id": "word-c41143f3c5139fa3-p1093"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 30: Hai mối quan hệ cơ bản hình thành nên gia đình là: (chọn 2 đáp án)",
+    "question": "Câu 2: Hai mối quan hệ cơ bản hình thành nên gia đình là: (chọn 2 đáp án)",
     "source_q_num": 30,
     "source_title": "Câu 30: Hai mối quan hệ cơ bản hình thành nên gia đình là: (chọn 2 đáp án)",
     "sources": [
@@ -10639,50 +9635,14 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bổ sung",
-    "q_num": 30,
+    "lesson": "Bài 6",
+    "q_num": 2,
     "body_index": 1096,
     "id": "word-c41143f3c5139fa3-p1096"
   },
   {
     "lesson_num": 6,
-    "question": "Câu 31: Vị trí của gia đình trong xã hội là:",
-    "source_q_num": 31,
-    "source_title": "Câu 31: Vị trí của gia đình trong xã hội là:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 31,
-        "body_index": 1099
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Tế bào B. Bộ não C. Mạch máu D. Xương sống"
-      },
-      {
-        "text": "Đáp án đúng: A"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Tế bào",
-      "B. Bộ não",
-      "C. Mạch máu",
-      "D. Xương sống"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 31,
-    "body_index": 1099,
-    "id": "word-c41143f3c5139fa3-p1099"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 32: Tình yêu giữa nam và nữ trở thành quan hệ hôn nhân được thể hiện bằng:",
+    "question": "Câu 3: Tình yêu giữa nam và nữ trở thành quan hệ hôn nhân được thể hiện bằng:",
     "source_q_num": 32,
     "source_title": "Câu 32: Tình yêu giữa nam và nữ trở thành quan hệ hôn nhân được thể hiện bằng:",
     "sources": [
@@ -10711,14 +9671,14 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 32,
+    "lesson": "Bài 6",
+    "q_num": 3,
     "body_index": 1102,
     "id": "word-c41143f3c5139fa3-p1102"
   },
   {
     "lesson_num": 6,
-    "question": "Câu 33: “Hàng ngày tái tạo ra đời sống của bản thân mình, con người bắt đầu tạo ra những người khác, sinh sôi nảy nở - đó là quan hệ giữa chồng và vợ, cha mẹ và con cái...” Đây là quan hệ của:",
+    "question": "Câu 4: “Hàng ngày tái tạo ra đời sống của bản thân mình, con người bắt đầu tạo ra những người khác, sinh sôi nảy nở - đó là quan hệ giữa chồng và vợ, cha mẹ và con cái...” Đây là quan hệ của:",
     "source_q_num": 33,
     "source_title": "Câu 33: “Hàng ngày tái tạo ra đời sống của bản thân mình, con người bắt đầu tạo ra những người khác, sinh sôi nảy nở - đó là quan hệ giữa chồng và vợ, cha mẹ và con cái...” Đây là quan hệ của:",
     "sources": [
@@ -10747,14 +9707,14 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 33,
+    "lesson": "Bài 6",
+    "q_num": 4,
     "body_index": 1105,
     "id": "word-c41143f3c5139fa3-p1105"
   },
   {
     "lesson_num": 6,
-    "question": "Câu 34: Quan hệ nào được coi là cơ sở, nền tảng hình thành nên các mối quan hệ khác trong gia đình?",
+    "question": "Câu 5: Quan hệ nào được coi là cơ sở, nền tảng hình thành nên các mối quan hệ khác trong gia đình?",
     "source_q_num": 34,
     "source_title": "Câu 34: Quan hệ nào được coi là cơ sở, nền tảng hình thành nên các mối quan hệ khác trong gia đình?",
     "sources": [
@@ -10783,14 +9743,14 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 34,
+    "lesson": "Bài 6",
+    "q_num": 5,
     "body_index": 1108,
     "id": "word-c41143f3c5139fa3-p1108"
   },
   {
     "lesson_num": 6,
-    "question": "Câu 35: Chức năng của gia đình là:",
+    "question": "Câu 6: Chức năng của gia đình là:",
     "source_q_num": 35,
     "source_title": "Câu 35: Chức năng của gia đình là:",
     "sources": [
@@ -10819,14 +9779,54 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 35,
+    "lesson": "Bài 6",
+    "q_num": 6,
     "body_index": 1111,
     "id": "word-c41143f3c5139fa3-p1111"
   },
   {
+    "source_q_num": 7,
+    "source_title": "Câu 7: Gia đình phải thực hiện chức năng nào để đảm bảo nguồn sinh sống, đáp ứng nhu cầu vật chất, tinh thần của các thành viên trong gia đình?",
+    "source_content": [
+      {
+        "text": "Gia đình phải thực hiện chức năng nào để đảm bảo nguồn sinh sống, đáp ứng nhu cầu vật chất, tinh thần của các thành viên trong gia đình?\nA.Chức năng nuôi dưỡng, giáo dục\nB.Chức năng tái sản xuất ra con người\nC.Chức năng thoả mãn các nhu cầu tâm sinh lý, duy trì tình cảm\nD.Chức năng kinh tế, tổ chức tiêu dùng"
+      }
+    ],
+    "answer_verification": {
+      "url": "https://hcmunre.edu.vn/upload/elfinder/Trang%20Khoa/Khoa%20Luat%20%26LLCT/Ph%E1%BA%A7n%202_GT%20h%E1%BB%8Dc%20ph%E1%BA%A7n%20Ch%E1%BB%A7%20ngh%C4%A9a%20x%C3%A3%20h%E1%BB%99i%20khoa%20h%E1%BB%8Dc%20%28K%29%20Tr%2067%20-Tr144.pdf",
+      "section": "Chương 7, mục 1.3: Chức năng kinh tế và tổ chức tiêu dùng",
+      "checked_on": "2026-10-20",
+      "method": "Đối chiếu giáo trình; câu Đúng/Sai và bảng phân loại giữ đáp án người dùng cung cấp.",
+      "printed_pages": [
+        132
+      ]
+    },
+    "question": "Câu 7: Gia đình phải thực hiện chức năng nào để đảm bảo nguồn sinh sống, đáp ứng nhu cầu vật chất, tinh thần của các thành viên trong gia đình?",
+    "type": "single_choice",
+    "options": [
+      "A. Chức năng nuôi dưỡng, giáo dục",
+      "B. Chức năng tái sản xuất ra con người",
+      "C. Chức năng thoả mãn các nhu cầu tâm sinh lý, duy trì tình cảm",
+      "D. Chức năng kinh tế, tổ chức tiêu dùng"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson_num": 6,
-    "question": "Câu 36: Chức năng đảm bảo tái sản xuất nguồn lao động và sức lao động cho xã hội của gia đình là:",
+    "lesson": "Bài 6",
+    "q_num": 7,
+    "id": "user-lesson6-d1a799a6171cecda-q7",
+    "sources": [
+      {
+        "file": "BAI_6_NGUOI_DUNG.txt",
+        "question_number": 7
+      }
+    ]
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 8: Chức năng đảm bảo tái sản xuất nguồn lao động và sức lao động cho xã hội của gia đình là:",
     "source_q_num": 36,
     "source_title": "Câu 36: Chức năng đảm bảo tái sản xuất nguồn lao động và sức lao động cho xã hội của gia đình là:",
     "sources": [
@@ -10855,50 +9855,14 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 36,
+    "lesson": "Bài 6",
+    "q_num": 8,
     "body_index": 1114,
     "id": "word-c41143f3c5139fa3-p1114"
   },
   {
     "lesson_num": 6,
-    "question": "Câu 37: Thực hiện chức năng nào của gia đình nhằm góp phần tạo lớn lao vào việc đào tạo thế hệ trẻ, thế hệ tương lai của xã hội?",
-    "source_q_num": 37,
-    "source_title": "Câu 37: Thực hiện chức năng nào của gia đình nhằm góp phần tạo lớn lao vào việc đào tạo thế hệ trẻ, thế hệ tương lai của xã hội?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 37,
-        "body_index": 1117
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Chức năng nuôi dưỡng, giáo dục B. Chức năng kinh tế và tổ chức tiêu dùng C. Chức năng thỏa mãn nhu cầu tâm sinh lý, duy trì tình cảm gia đình D. Chức năng tái sản xuất ra con người"
-      },
-      {
-        "text": "Đáp án đúng: A"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Chức năng nuôi dưỡng, giáo dục",
-      "B. Chức năng kinh tế và tổ chức tiêu dùng",
-      "C. Chức năng thỏa mãn nhu cầu tâm sinh lý, duy trì tình cảm gia đình",
-      "D. Chức năng tái sản xuất ra con người"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 37,
-    "body_index": 1117,
-    "id": "word-c41143f3c5139fa3-p1117"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 38: Với chức năng chính trị, gia đình là:",
+    "question": "Câu 9: Với chức năng chính trị, gia đình là:",
     "source_q_num": 38,
     "source_title": "Câu 38: Với chức năng chính trị, gia đình là:",
     "sources": [
@@ -10927,14 +9891,14 @@ window.QUIZ_QUESTIONS = [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 38,
+    "lesson": "Bài 6",
+    "q_num": 9,
     "body_index": 1120,
     "id": "word-c41143f3c5139fa3-p1120"
   },
   {
     "lesson_num": 6,
-    "question": "Câu 39: Gia đình Việt Nam ngày nay có thể được coi là:",
+    "question": "Câu 10: Gia đình Việt Nam ngày nay có thể được coi là:",
     "source_q_num": 39,
     "source_title": "Câu 39: Gia đình Việt Nam ngày nay có thể được coi là:",
     "sources": [
@@ -10963,14 +9927,469 @@ window.QUIZ_QUESTIONS = [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 39,
+    "lesson": "Bài 6",
+    "q_num": 10,
     "body_index": 1123,
     "id": "word-c41143f3c5139fa3-p1123"
   },
   {
+    "source_q_num": 11,
+    "source_title": "Câu 11: Sự thay đổi quy mô của gia đình hiện nay ở Việt Nam có tác động như thế nào đối với xã hội?",
+    "source_content": [
+      {
+        "text": "Sự thay đổi quy mô của gia đình hiện nay ở Việt Nam có tác động như thế nào đối với xã hội? \nSinh viên chọn 2 phương án đúng nhất\nA.Không có tác động gì đối với sự phát triển của xã hội\nB.Sự bình đẳng nam nữ được đề cao hơn, cuộc sống riêng tư của con người được tôn trọng hơn\nC.Làm cho xã hội trở nên thích nghi và phù hợp hơn với tình hình mới, thời đại mới\nD.Làm cho kinh tế của đất nước chậm phát triển"
+      }
+    ],
+    "answer_verification": {
+      "url": "https://hcmunre.edu.vn/upload/elfinder/Trang%20Khoa/Khoa%20Luat%20%26LLCT/Ph%E1%BA%A7n%202_GT%20h%E1%BB%8Dc%20ph%E1%BA%A7n%20Ch%E1%BB%A7%20ngh%C4%A9a%20x%C3%A3%20h%E1%BB%99i%20khoa%20h%E1%BB%8Dc%20%28K%29%20Tr%2067%20-Tr144.pdf",
+      "section": "Chương 7, mục 3.1.1: Biến đổi quy mô, kết cấu gia đình",
+      "checked_on": "2026-10-20",
+      "method": "Đối chiếu giáo trình; câu Đúng/Sai và bảng phân loại giữ đáp án người dùng cung cấp.",
+      "printed_pages": [
+        137,
+        138
+      ]
+    },
+    "question": "Câu 11: Sự thay đổi quy mô của gia đình hiện nay ở Việt Nam có tác động như thế nào đối với xã hội? (Chọn 2 đáp án đúng)",
+    "type": "multiple_choice",
+    "options": [
+      "A. Không có tác động gì đối với sự phát triển của xã hội",
+      "B. Sự bình đẳng nam nữ được đề cao hơn, cuộc sống riêng tư của con người được tôn trọng hơn",
+      "C. Làm cho xã hội trở nên thích nghi và phù hợp hơn với tình hình mới, thời đại mới",
+      "D. Làm cho kinh tế của đất nước chậm phát triển"
+    ],
+    "correct_answers": [
+      1,
+      2
+    ],
+    "instruction": "Chọn 2 đáp án đúng",
     "lesson_num": 6,
-    "question": "Câu 40: So với các chế độ xã hội trước thì quan hệ gia đình trong thời kỳ quá độ lên chủ nghĩa xã hội có đặc điểm khác biệt về chất?",
+    "lesson": "Bài 6",
+    "q_num": 11,
+    "id": "user-lesson6-d1a799a6171cecda-q11",
+    "sources": [
+      {
+        "file": "BAI_6_NGUOI_DUNG.txt",
+        "question_number": 11
+      }
+    ]
+  },
+  {
+    "source_q_num": 12,
+    "source_title": "Câu 12: Trong gia đình Việt Nam hiện đại ngày nay, nhu cầu về con cái đã có những thay đổi căn bản như thế nào?",
+    "source_content": [
+      {
+        "text": "Trong gia đình Việt Nam hiện đại ngày nay, nhu cầu về con cái đã có những thay đổi căn bản như thế nào?\nA.Các gia đình không muốn có con để không bị gánh nặng kinh tế\nB.Giảm mức sinh của phụ nữ, giảm số con mong muốn và giảm nhu cầu nhất thiết phải có con trai của các cặp vợ chồng\nC.Phải có con, càng đông con càng tốt và nhất thiết phải có con trai nối dõi\nD.Tỷ lệ sinh thấp, nhu cầu phải có con trai tăng"
+      }
+    ],
+    "answer_verification": {
+      "url": "https://hcmunre.edu.vn/upload/elfinder/Trang%20Khoa/Khoa%20Luat%20%26LLCT/Ph%E1%BA%A7n%202_GT%20h%E1%BB%8Dc%20ph%E1%BA%A7n%20Ch%E1%BB%A7%20ngh%C4%A9a%20x%C3%A3%20h%E1%BB%99i%20khoa%20h%E1%BB%8Dc%20%28K%29%20Tr%2067%20-Tr144.pdf",
+      "section": "Chương 7, mục 3.1.2: Biến đổi chức năng tái sản xuất ra con người",
+      "checked_on": "2026-10-20",
+      "method": "Đối chiếu giáo trình; câu Đúng/Sai và bảng phân loại giữ đáp án người dùng cung cấp.",
+      "printed_pages": [
+        138
+      ]
+    },
+    "question": "Câu 12: Trong gia đình Việt Nam hiện đại ngày nay, nhu cầu về con cái đã có những thay đổi căn bản như thế nào?",
+    "type": "single_choice",
+    "options": [
+      "A. Các gia đình không muốn có con để không bị gánh nặng kinh tế",
+      "B. Giảm mức sinh của phụ nữ, giảm số con mong muốn và giảm nhu cầu nhất thiết phải có con trai của các cặp vợ chồng",
+      "C. Phải có con, càng đông con càng tốt và nhất thiết phải có con trai nối dõi",
+      "D. Tỷ lệ sinh thấp, nhu cầu phải có con trai tăng"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson_num": 6,
+    "lesson": "Bài 6",
+    "q_num": 12,
+    "id": "user-lesson6-d1a799a6171cecda-q12",
+    "sources": [
+      {
+        "file": "BAI_6_NGUOI_DUNG.txt",
+        "question_number": 12
+      }
+    ]
+  },
+  {
+    "source_q_num": 13,
+    "source_title": "Câu 13: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+    "source_content": [
+      {
+        "text": "Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:\n1)Trong gia đình hiện đại, sự bền vững của hôn nhân không phụ thuộc vào các yếu tố tâm lý, tình cảm, kinh tế.\nSai \n2)Hiện nay việc sinh đẻ được các gia đình tiến hành một cách chủ động, tự giác.\nĐúng\n     3) Tăng số con mong muốn và tăng nhu cầu nhất thiết phải có con trai của các cặp vợ chồng.\nSai\n     4) Gia đình từ đơn vị kinh tế tự cung tự cấp sang đơn vị kinh tế hàng hoá.\n         Đúng"
+      }
+    ],
+    "answer_verification": {
+      "url": "https://hcmunre.edu.vn/upload/elfinder/Trang%20Khoa/Khoa%20Luat%20%26LLCT/Ph%E1%BA%A7n%202_GT%20h%E1%BB%8Dc%20ph%E1%BA%A7n%20Ch%E1%BB%A7%20ngh%C4%A9a%20x%C3%A3%20h%E1%BB%99i%20khoa%20h%E1%BB%8Dc%20%28K%29%20Tr%2067%20-Tr144.pdf",
+      "section": "Chương 7, mục 3.1.2–3.1.3: Biến đổi chức năng và quan hệ gia đình",
+      "checked_on": "2026-10-20",
+      "method": "Đối chiếu giáo trình; câu Đúng/Sai và bảng phân loại giữ đáp án người dùng cung cấp.",
+      "printed_pages": [
+        138,
+        139
+      ]
+    },
+    "question": "Câu 13: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+    "type": "true_false",
+    "items": [
+      {
+        "statement": "1)Trong gia đình hiện đại, sự bền vững của hôn nhân không phụ thuộc vào các yếu tố tâm lý, tình cảm, kinh tế.",
+        "correct": false
+      },
+      {
+        "statement": "2)Hiện nay việc sinh đẻ được các gia đình tiến hành một cách chủ động, tự giác.",
+        "correct": true
+      },
+      {
+        "statement": "3) Tăng số con mong muốn và tăng nhu cầu nhất thiết phải có con trai của các cặp vợ chồng.",
+        "correct": false
+      },
+      {
+        "statement": "4) Gia đình từ đơn vị kinh tế tự cung tự cấp sang đơn vị kinh tế hàng hoá.",
+        "correct": true
+      }
+    ],
+    "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
+    "lesson_num": 6,
+    "lesson": "Bài 6",
+    "q_num": 13,
+    "id": "user-lesson6-d1a799a6171cecda-q13",
+    "sources": [
+      {
+        "file": "BAI_6_NGUOI_DUNG.txt",
+        "question_number": 13
+      }
+    ]
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 14: Chọn đáp án Đúng hoặc Sai với từng phát biểu:",
+    "source_q_num": 42,
+    "source_title": "Câu 42: Chọn đáp án Đúng hoặc Sai với từng phát biểu:",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 42,
+        "body_index": 1138
+      }
+    ],
+    "source_content": [
+      {
+        "text": "1. Hiện nay, độ bền vững của gia đình không bị chi phối bởi các mối quan hệ hòa hợp tình cảm giữa chồng và vợ, cha mẹ và con cái. → Sai"
+      },
+      {
+        "text": "2. Hiện nay, kinh tế gia đình đang trở thành một bộ phận quan trọng trong nền kinh tế quốc dân. → Đúng"
+      },
+      {
+        "text": "3. Nội dung giáo dục trong gia đình hiện nay chỉ tập trung giáo dục đạo đức. → Sai"
+      },
+      {
+        "text": "4. Giáo dục gia đình tiếp tục nhấn mạnh sự hy sinh của cá nhân cho cộng đồng. → Đúng"
+      },
+      {
+        "text": "Đáp án: 1 – Sai; 2 – Đúng; 3 – Sai; 4 – Đúng"
+      }
+    ],
+    "type": "true_false",
+    "items": [
+      {
+        "statement": "1. Hiện nay, độ bền vững của gia đình không bị chi phối bởi các mối quan hệ hòa hợp tình cảm giữa chồng và vợ, cha mẹ và con cái.",
+        "correct": false
+      },
+      {
+        "statement": "2. Hiện nay, kinh tế gia đình đang trở thành một bộ phận quan trọng trong nền kinh tế quốc dân.",
+        "correct": true
+      },
+      {
+        "statement": "3. Nội dung giáo dục trong gia đình hiện nay chỉ tập trung giáo dục đạo đức.",
+        "correct": false
+      },
+      {
+        "statement": "4. Giáo dục gia đình tiếp tục nhấn mạnh sự hy sinh của cá nhân cho cộng đồng.",
+        "correct": true
+      }
+    ],
+    "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
+    "lesson": "Bài 6",
+    "q_num": 14,
+    "body_index": 1138,
+    "id": "word-c41143f3c5139fa3-p1138"
+  },
+  {
+    "source_q_num": 15,
+    "source_title": "Câu 15: Chức năng tái sản xuất của gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội có những biến đổi như thế nào? (Chọn 2 đáp án đúng)",
+    "source_content": [
+      {
+        "text": "Chức năng tái sản xuất của gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội có những biến đổi như thế nào? (Chọn 2 đáp án đúng)\nA.Tăng nhu cầu có con trai\nB.Tăng sản xuất hàng hóa\nC.Giảm số con mong muốn\nD.Chủ động trong việc sinh con"
+      }
+    ],
+    "answer_verification": {
+      "url": "https://hcmunre.edu.vn/upload/elfinder/Trang%20Khoa/Khoa%20Luat%20%26LLCT/Ph%E1%BA%A7n%202_GT%20h%E1%BB%8Dc%20ph%E1%BA%A7n%20Ch%E1%BB%A7%20ngh%C4%A9a%20x%C3%A3%20h%E1%BB%99i%20khoa%20h%E1%BB%8Dc%20%28K%29%20Tr%2067%20-Tr144.pdf",
+      "section": "Chương 7, mục 3.1.2: Biến đổi chức năng tái sản xuất ra con người",
+      "checked_on": "2026-10-20",
+      "method": "Đối chiếu giáo trình; câu Đúng/Sai và bảng phân loại giữ đáp án người dùng cung cấp.",
+      "printed_pages": [
+        138
+      ]
+    },
+    "question": "Câu 15: Chức năng tái sản xuất của gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội có những biến đổi như thế nào? (Chọn 2 đáp án đúng)",
+    "type": "multiple_choice",
+    "options": [
+      "A. Tăng nhu cầu có con trai",
+      "B. Tăng sản xuất hàng hóa",
+      "C. Giảm số con mong muốn",
+      "D. Chủ động trong việc sinh con"
+    ],
+    "correct_answers": [
+      2,
+      3
+    ],
+    "instruction": "Chọn 2 đáp án đúng",
+    "lesson_num": 6,
+    "lesson": "Bài 6",
+    "q_num": 15,
+    "id": "user-lesson6-d1a799a6171cecda-q15",
+    "sources": [
+      {
+        "file": "BAI_6_NGUOI_DUNG.txt",
+        "question_number": 15
+      }
+    ]
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 16: Vị trí của gia đình trong xã hội là:",
+    "source_q_num": 31,
+    "source_title": "Câu 31: Vị trí của gia đình trong xã hội là:",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 31,
+        "body_index": 1099
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Tế bào B. Bộ não C. Mạch máu D. Xương sống"
+      },
+      {
+        "text": "Đáp án đúng: A"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Tế bào",
+      "B. Bộ não",
+      "C. Mạch máu",
+      "D. Xương sống"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 6",
+    "q_num": 16,
+    "body_index": 1099,
+    "id": "word-c41143f3c5139fa3-p1099"
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 17: Thực hiện chức năng nào của gia đình nhằm góp phần tạo lớn lao vào việc đào tạo thế hệ trẻ, thế hệ tương lai của xã hội?",
+    "source_q_num": 37,
+    "source_title": "Câu 37: Thực hiện chức năng nào của gia đình nhằm góp phần tạo lớn lao vào việc đào tạo thế hệ trẻ, thế hệ tương lai của xã hội?",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 37,
+        "body_index": 1117
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Chức năng nuôi dưỡng, giáo dục B. Chức năng kinh tế và tổ chức tiêu dùng C. Chức năng thỏa mãn nhu cầu tâm sinh lý, duy trì tình cảm gia đình D. Chức năng tái sản xuất ra con người"
+      },
+      {
+        "text": "Đáp án đúng: A"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Chức năng nuôi dưỡng, giáo dục",
+      "B. Chức năng kinh tế và tổ chức tiêu dùng",
+      "C. Chức năng thỏa mãn nhu cầu tâm sinh lý, duy trì tình cảm gia đình",
+      "D. Chức năng tái sản xuất ra con người"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 6",
+    "q_num": 17,
+    "body_index": 1117,
+    "id": "word-c41143f3c5139fa3-p1117"
+  },
+  {
+    "source_q_num": 18,
+    "source_title": "Câu 18: Chọn đáp án sai về mô hình gia đình Việt Nam hiện đại ngày nay?",
+    "source_content": [
+      {
+        "text": "Chọn đáp án sai về mô hình gia đình Việt Nam hiện đại ngày nay?\nA. Cả hai vợ chồng cùng làm chủ gia đình\nB. Ông bà là người làm chủ gia đình \nC. Người đàn ông – người chồng làm chủ gia đình\nD. Người phụ nữ - người vợ làm chủ gia đình"
+      }
+    ],
+    "answer_verification": {
+      "url": "https://hcmunre.edu.vn/upload/elfinder/Trang%20Khoa/Khoa%20Luat%20%26LLCT/Ph%E1%BA%A7n%202_GT%20h%E1%BB%8Dc%20ph%E1%BA%A7n%20Ch%E1%BB%A7%20ngh%C4%A9a%20x%C3%A3%20h%E1%BB%99i%20khoa%20h%E1%BB%8Dc%20%28K%29%20Tr%2067%20-Tr144.pdf",
+      "section": "Chương 7, mục 3.1.3: Biến đổi quan hệ hôn nhân và vợ chồng",
+      "checked_on": "2026-10-20",
+      "method": "Đối chiếu giáo trình; câu Đúng/Sai và bảng phân loại giữ đáp án người dùng cung cấp.",
+      "printed_pages": [
+        141
+      ]
+    },
+    "question": "Câu 18: Chọn đáp án sai về mô hình gia đình Việt Nam hiện đại ngày nay?",
+    "type": "single_choice",
+    "options": [
+      "A. Cả hai vợ chồng cùng làm chủ gia đình",
+      "B. Ông bà là người làm chủ gia đình",
+      "C. Người đàn ông – người chồng làm chủ gia đình",
+      "D. Người phụ nữ - người vợ làm chủ gia đình"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson_num": 6,
+    "lesson": "Bài 6",
+    "q_num": 18,
+    "id": "user-lesson6-d1a799a6171cecda-q18",
+    "sources": [
+      {
+        "file": "BAI_6_NGUOI_DUNG.txt",
+        "question_number": 18
+      }
+    ]
+  },
+  {
+    "source_q_num": 19,
+    "source_title": "Câu 19: Sự biến đổi trong việc thực hiện chức năng giáo dục của gia đình Việt Nam hiện nay là gì?",
+    "source_content": [
+      {
+        "text": "Sự biến đổi trong việc thực hiện chức năng giáo dục của gia đình Việt Nam hiện nay là gì?\nA. Giảm chi tiêu cho giáo dục\nB. Chỉ giáo dục đạo đức mà không hướng tới giáo dục kiến thức khoa học hiện đại\nC. Sự đầu tư tài chính của gia đình cho giáo dục con cái tăng lên \nD. Không hướng tới giáo dục đạo đức, lối sống"
+      }
+    ],
+    "answer_verification": {
+      "url": "https://hcmunre.edu.vn/upload/elfinder/Trang%20Khoa/Khoa%20Luat%20%26LLCT/Ph%E1%BA%A7n%202_GT%20h%E1%BB%8Dc%20ph%E1%BA%A7n%20Ch%E1%BB%A7%20ngh%C4%A9a%20x%C3%A3%20h%E1%BB%99i%20khoa%20h%E1%BB%8Dc%20%28K%29%20Tr%2067%20-Tr144.pdf",
+      "section": "Chương 7, mục 3.1.2: Biến đổi chức năng giáo dục",
+      "checked_on": "2026-10-20",
+      "method": "Đối chiếu giáo trình; câu Đúng/Sai và bảng phân loại giữ đáp án người dùng cung cấp.",
+      "printed_pages": [
+        139
+      ]
+    },
+    "question": "Câu 19: Sự biến đổi trong việc thực hiện chức năng giáo dục của gia đình Việt Nam hiện nay là gì?",
+    "type": "single_choice",
+    "options": [
+      "A. Giảm chi tiêu cho giáo dục",
+      "B. Chỉ giáo dục đạo đức mà không hướng tới giáo dục kiến thức khoa học hiện đại",
+      "C. Sự đầu tư tài chính của gia đình cho giáo dục con cái tăng lên",
+      "D. Không hướng tới giáo dục đạo đức, lối sống"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson_num": 6,
+    "lesson": "Bài 6",
+    "q_num": 19,
+    "id": "user-lesson6-d1a799a6171cecda-q19",
+    "sources": [
+      {
+        "file": "BAI_6_NGUOI_DUNG.txt",
+        "question_number": 19
+      }
+    ]
+  },
+  {
+    "source_q_num": 20,
+    "source_title": "Câu 20: Kéo thả các yếu tố liên quan đến biến đổi gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội vào các cột tương ứng:",
+    "source_content": [
+      {
+        "text": "Kéo thả các yếu tố liên quan đến biến đổi gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội vào các cột tương ứng:\n1) Biến đổi về quy mô gia đình\t2) Biến đổi về chức năng gia đình\nGia đình đơn thân\tĐầu tư tài chính của gia đình cho giáo dục con cái tăng lên\nXu hướng thu nhỏ\tHướng đến giáo dục kiến thức khoa học hiện đại\nGia đình hạt nhân\tVai trò giáo dục của các chủ thể trong gia đình có xu hướng giảm"
+      }
+    ],
+    "answer_verification": {
+      "url": "https://hcmunre.edu.vn/upload/elfinder/Trang%20Khoa/Khoa%20Luat%20%26LLCT/Ph%E1%BA%A7n%202_GT%20h%E1%BB%8Dc%20ph%E1%BA%A7n%20Ch%E1%BB%A7%20ngh%C4%A9a%20x%C3%A3%20h%E1%BB%99i%20khoa%20h%E1%BB%8Dc%20%28K%29%20Tr%2067%20-Tr144.pdf",
+      "section": "Chương 7, mục 3.1.1–3.1.2: Quy mô và chức năng gia đình",
+      "checked_on": "2026-10-20",
+      "method": "Đối chiếu giáo trình; câu Đúng/Sai và bảng phân loại giữ đáp án người dùng cung cấp.",
+      "printed_pages": [
+        137,
+        139
+      ]
+    },
+    "question": "Câu 20: Kéo thả các yếu tố liên quan đến biến đổi gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội vào các cột tương ứng:",
+    "type": "drag_drop_categorize",
+    "categories": [
+      {
+        "title": "1) Biến đổi về quy mô gia đình",
+        "items": [
+          "Gia đình đơn thân",
+          "Xu hướng thu nhỏ",
+          "Gia đình hạt nhân"
+        ]
+      },
+      {
+        "title": "2) Biến đổi về chức năng gia đình",
+        "items": [
+          "Đầu tư tài chính của gia đình cho giáo dục con cái tăng lên",
+          "Hướng đến giáo dục kiến thức khoa học hiện đại",
+          "Vai trò giáo dục của các chủ thể trong gia đình có xu hướng giảm"
+        ]
+      }
+    ],
+    "all_items": [
+      {
+        "text": "Gia đình đơn thân",
+        "category": "1) Biến đổi về quy mô gia đình"
+      },
+      {
+        "text": "Xu hướng thu nhỏ",
+        "category": "1) Biến đổi về quy mô gia đình"
+      },
+      {
+        "text": "Gia đình hạt nhân",
+        "category": "1) Biến đổi về quy mô gia đình"
+      },
+      {
+        "text": "Đầu tư tài chính của gia đình cho giáo dục con cái tăng lên",
+        "category": "2) Biến đổi về chức năng gia đình"
+      },
+      {
+        "text": "Hướng đến giáo dục kiến thức khoa học hiện đại",
+        "category": "2) Biến đổi về chức năng gia đình"
+      },
+      {
+        "text": "Vai trò giáo dục của các chủ thể trong gia đình có xu hướng giảm",
+        "category": "2) Biến đổi về chức năng gia đình"
+      }
+    ],
+    "instruction": "Kéo hoặc chọn từng mục vào đúng cột tương ứng",
+    "lesson_num": 6,
+    "lesson": "Bài 6",
+    "q_num": 20,
+    "id": "user-lesson6-d1a799a6171cecda-q20",
+    "sources": [
+      {
+        "file": "BAI_6_NGUOI_DUNG.txt",
+        "question_number": 20
+      }
+    ]
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 21: So với các chế độ xã hội trước thì quan hệ gia đình trong thời kỳ quá độ lên chủ nghĩa xã hội có đặc điểm khác biệt về chất?",
     "source_q_num": 40,
     "source_title": "Câu 40: So với các chế độ xã hội trước thì quan hệ gia đình trong thời kỳ quá độ lên chủ nghĩa xã hội có đặc điểm khác biệt về chất?",
     "sources": [
@@ -10999,14 +10418,14 @@ window.QUIZ_QUESTIONS = [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 40,
+    "lesson": "Bài 6",
+    "q_num": 21,
     "body_index": 1126,
     "id": "word-c41143f3c5139fa3-p1126"
   },
   {
     "lesson_num": 6,
-    "question": "Câu 41: Ghép các khái niệm với các phát biểu về biến đổi gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội:",
+    "question": "Câu 22: Ghép các khái niệm với các phát biểu về biến đổi gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội:",
     "source_q_num": 41,
     "source_title": "Câu 41: Ghép các khái niệm với các phát biểu về biến đổi gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội:",
     "sources": [
@@ -11068,68 +10487,14 @@ window.QUIZ_QUESTIONS = [
       "D. Kinh tế hàng hóa"
     ],
     "instruction": "Kéo hoặc chọn đáp án đúng ghép vào vế tương ứng",
-    "lesson": "Bổ sung",
-    "q_num": 41,
+    "lesson": "Bài 6",
+    "q_num": 22,
     "body_index": 1129,
     "id": "word-c41143f3c5139fa3-p1129"
   },
   {
     "lesson_num": 6,
-    "question": "Câu 42: Chọn đáp án Đúng hoặc Sai với từng phát biểu:",
-    "source_q_num": 42,
-    "source_title": "Câu 42: Chọn đáp án Đúng hoặc Sai với từng phát biểu:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 42,
-        "body_index": 1138
-      }
-    ],
-    "source_content": [
-      {
-        "text": "1. Hiện nay, độ bền vững của gia đình không bị chi phối bởi các mối quan hệ hòa hợp tình cảm giữa chồng và vợ, cha mẹ và con cái. → Sai"
-      },
-      {
-        "text": "2. Hiện nay, kinh tế gia đình đang trở thành một bộ phận quan trọng trong nền kinh tế quốc dân. → Đúng"
-      },
-      {
-        "text": "3. Nội dung giáo dục trong gia đình hiện nay chỉ tập trung giáo dục đạo đức. → Sai"
-      },
-      {
-        "text": "4. Giáo dục gia đình tiếp tục nhấn mạnh sự hy sinh của cá nhân cho cộng đồng. → Đúng"
-      },
-      {
-        "text": "Đáp án: 1 – Sai; 2 – Đúng; 3 – Sai; 4 – Đúng"
-      }
-    ],
-    "type": "true_false",
-    "items": [
-      {
-        "statement": "1. Hiện nay, độ bền vững của gia đình không bị chi phối bởi các mối quan hệ hòa hợp tình cảm giữa chồng và vợ, cha mẹ và con cái.",
-        "correct": false
-      },
-      {
-        "statement": "2. Hiện nay, kinh tế gia đình đang trở thành một bộ phận quan trọng trong nền kinh tế quốc dân.",
-        "correct": true
-      },
-      {
-        "statement": "3. Nội dung giáo dục trong gia đình hiện nay chỉ tập trung giáo dục đạo đức.",
-        "correct": false
-      },
-      {
-        "statement": "4. Giáo dục gia đình tiếp tục nhấn mạnh sự hy sinh của cá nhân cho cộng đồng.",
-        "correct": true
-      }
-    ],
-    "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "lesson": "Bổ sung",
-    "q_num": 42,
-    "body_index": 1138,
-    "id": "word-c41143f3c5139fa3-p1138"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 43: Những vấn đề xã hội nào có dấu hiệu gia tăng đối với gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội? (Chọn 2 đáp án)",
+    "question": "Câu 23: Những vấn đề xã hội nào có dấu hiệu gia tăng đối với gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội? (Chọn 2 đáp án)",
     "source_q_num": 43,
     "source_title": "Câu 43: Những vấn đề xã hội nào có dấu hiệu gia tăng đối với gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội? (Chọn 2 đáp án)",
     "sources": [
@@ -11159,9 +10524,1053 @@ window.QUIZ_QUESTIONS = [
       3
     ],
     "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bổ sung",
-    "q_num": 43,
+    "lesson": "Bài 6",
+    "q_num": 23,
     "body_index": 1144,
     "id": "word-c41143f3c5139fa3-p1144"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 1: Trong Cương lĩnh dân tộc của chủ nghĩa Mác – Lênin, nội dung nào về quyền dân tộc tự quyết được coi là cơ bản trước hết?",
+    "source_q_num": 1,
+    "source_title": "Câu 1: Trong Cương lĩnh dân tộc của chủ nghĩa Mác – Lênin, nội dung nào về quyền dân tộc tự quyết được coi là cơ bản trước hết?",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 1,
+        "body_index": 1009
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Quyền tự quyết về chính trị B. Quyền tự quyết về các mối quan hệ quốc tế C. Quyền tự quyết về văn hóa D. Quyền tự quyết về kinh tế"
+      },
+      {
+        "text": "Đáp án đúng: A"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Quyền tự quyết về chính trị",
+      "B. Quyền tự quyết về các mối quan hệ quốc tế",
+      "C. Quyền tự quyết về văn hóa",
+      "D. Quyền tự quyết về kinh tế"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bổ sung",
+    "q_num": 1,
+    "body_index": 1009,
+    "id": "word-c41143f3c5139fa3-p1009"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 2: Theo quan điểm của chủ nghĩa Mác – Lênin, giải pháp căn bản để thực hiện bình đẳng dân tộc là gì?",
+    "source_q_num": 2,
+    "source_title": "Câu 2: Theo quan điểm của chủ nghĩa Mác – Lênin, giải pháp căn bản để thực hiện bình đẳng dân tộc là gì?",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 2,
+        "body_index": 1012
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Phải duy trì chế độ tư hữu về tư liệu sản xuất B. Thủ tiêu ách áp bức giai cấp, trên cơ sở đó xóa bỏ áp bức dân tộc và đấu tranh chống chủ nghĩa phân biệt chủng tộc, chủ nghĩa sô-vanh C. Tách biệt cuộc đấu tranh dân tộc khỏi cuộc đấu tranh giai cấp của công nhân D. Liên kết thỏa hiệp với các nước đế quốc lớn"
+      },
+      {
+        "text": "Đáp án đúng: B"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Phải duy trì chế độ tư hữu về tư liệu sản xuất",
+      "B. Thủ tiêu ách áp bức giai cấp, trên cơ sở đó xóa bỏ áp bức dân tộc và đấu tranh chống chủ nghĩa phân biệt chủng tộc, chủ nghĩa sô-vanh",
+      "C. Tách biệt cuộc đấu tranh dân tộc khỏi cuộc đấu tranh giai cấp của công nhân",
+      "D. Liên kết thỏa hiệp với các nước đế quốc lớn"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bổ sung",
+    "q_num": 2,
+    "body_index": 1012,
+    "id": "word-c41143f3c5139fa3-p1012"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 3: Nội dung nào sau đây là nội dung chủ yếu và là giải pháp quan trọng để liên kết các nội dung của Cương lĩnh dân tộc thành một chỉnh thể?",
+    "source_q_num": 3,
+    "source_title": "Câu 3: Nội dung nào sau đây là nội dung chủ yếu và là giải pháp quan trọng để liên kết các nội dung của Cương lĩnh dân tộc thành một chỉnh thể?",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 3,
+        "body_index": 1015
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Các dân tộc hoàn toàn bình đẳng B. Cắt đứt quan hệ giữa các quốc gia C. Liên hiệp công nhân tất cả các dân tộc D. Các dân tộc tự quyết quyền phát triển kinh tế"
+      },
+      {
+        "text": "Đáp án đúng: C"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Các dân tộc hoàn toàn bình đẳng",
+      "B. Cắt đứt quan hệ giữa các quốc gia",
+      "C. Liên hiệp công nhân tất cả các dân tộc",
+      "D. Các dân tộc tự quyết quyền phát triển kinh tế"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bổ sung",
+    "q_num": 3,
+    "body_index": 1015,
+    "id": "word-c41143f3c5139fa3-p1015"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 4: Theo quan điểm duy vật lịch sử, tôn giáo là sản phẩm của yếu tố nào?",
+    "source_q_num": 4,
+    "source_title": "Câu 4: Theo quan điểm duy vật lịch sử, tôn giáo là sản phẩm của yếu tố nào?",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 4,
+        "body_index": 1018
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Con người B. Thượng đế C. Lực lượng siêu nhiên D. Tự nhiên huyền bí"
+      },
+      {
+        "text": "Đáp án đúng: A"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Con người",
+      "B. Thượng đế",
+      "C. Lực lượng siêu nhiên",
+      "D. Tự nhiên huyền bí"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bổ sung",
+    "q_num": 4,
+    "body_index": 1018,
+    "id": "word-c41143f3c5139fa3-p1018"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 5: Đâu là điểm giống nhau căn bản giữa tôn giáo và tín ngưỡng?",
+    "source_q_num": 5,
+    "source_title": "Câu 5: Đâu là điểm giống nhau căn bản giữa tôn giáo và tín ngưỡng?",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 5,
+        "body_index": 1021
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Đều có hệ thống giáo chủ chặt chẽ B. Đều có kinh sách và giáo luật hoàn chỉnh C. Đều có giáo hội quản lý cấp quốc gia D. Đều có niềm tin vào đấng siêu nhiên, thần linh"
+      },
+      {
+        "text": "Đáp án đúng: D"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Đều có hệ thống giáo chủ chặt chẽ",
+      "B. Đều có kinh sách và giáo luật hoàn chỉnh",
+      "C. Đều có giáo hội quản lý cấp quốc gia",
+      "D. Đều có niềm tin vào đấng siêu nhiên, thần linh"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bổ sung",
+    "q_num": 5,
+    "body_index": 1021,
+    "id": "word-c41143f3c5139fa3-p1021"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 6: Niềm tin của con người vào các lực lượng siêu nhiên, thần thánh đến mức độ mê muội, cuồng tín, dẫn đến những hành vi cực đoan, sai lệch, trái với đạo đức và pháp luật gọi là gì?",
+    "source_q_num": 6,
+    "source_title": "Câu 6: Niềm tin của con người vào các lực lượng siêu nhiên, thần thánh đến mức độ mê muội, cuồng tín, dẫn đến những hành vi cực đoan, sai lệch, trái với đạo đức và pháp luật gọi là gì?",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 6,
+        "body_index": 1024
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Thờ anh hùng dân tộc B. Tín ngưỡng thờ Mẫu C. Mê tín dị đoan D. Thờ cúng tổ tiên"
+      },
+      {
+        "text": "Đáp án đúng: C"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Thờ anh hùng dân tộc",
+      "B. Tín ngưỡng thờ Mẫu",
+      "C. Mê tín dị đoan",
+      "D. Thờ cúng tổ tiên"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bổ sung",
+    "q_num": 6,
+    "body_index": 1024,
+    "id": "word-c41143f3c5139fa3-p1024"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 7: Ở Việt Nam hiện nay có khoảng bao nhiêu dân tộc cùng sinh sống?",
+    "source_q_num": 7,
+    "source_title": "Câu 7: Ở Việt Nam hiện nay có khoảng bao nhiêu dân tộc cùng sinh sống?",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 7,
+        "body_index": 1027
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. 54 dân tộc B. 50 dân tộc C. 45 dân tộc D. 63 dân tộc"
+      },
+      {
+        "text": "Đáp án đúng: A"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. 54 dân tộc",
+      "B. 50 dân tộc",
+      "C. 45 dân tộc",
+      "D. 63 dân tộc"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bổ sung",
+    "q_num": 7,
+    "body_index": 1027,
+    "id": "word-c41143f3c5139fa3-p1027"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 8: Vì sao Đảng và Nhà nước Việt Nam chủ trương luôn tôn trọng, bảo đảm quyền tự do tín ngưỡng, tôn giáo và không tín ngưỡng tôn giáo của nhân dân?",
+    "source_q_num": 8,
+    "source_title": "Câu 8: Vì sao Đảng và Nhà nước Việt Nam chủ trương luôn tôn trọng, bảo đảm quyền tự do tín ngưỡng, tôn giáo và không tín ngưỡng tôn giáo của nhân dân?",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 8,
+        "body_index": 1030
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Vì tín ngưỡng, tôn giáo được du nhập hoàn toàn từ nước ngoài vào B. Vì các tổ chức tôn giáo có tiềm lực kinh tế lớn mạnh C. Vì số lượng tín đồ chiếm đại đa số tuyệt đối dân số D. Vì tín ngưỡng, tôn giáo là nhu cầu tinh thần của một bộ phận nhân dân"
+      },
+      {
+        "text": "Đáp án đúng: D"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Vì tín ngưỡng, tôn giáo được du nhập hoàn toàn từ nước ngoài vào",
+      "B. Vì các tổ chức tôn giáo có tiềm lực kinh tế lớn mạnh",
+      "C. Vì số lượng tín đồ chiếm đại đa số tuyệt đối dân số",
+      "D. Vì tín ngưỡng, tôn giáo là nhu cầu tinh thần của một bộ phận nhân dân"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bổ sung",
+    "q_num": 8,
+    "body_index": 1030,
+    "id": "word-c41143f3c5139fa3-p1030"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 9: Nhóm yếu tố nào sau đây phản ánh đầy đủ nguồn gốc hình thành và tồn tại của tôn giáo?",
+    "source_q_num": 9,
+    "source_title": "Câu 9: Nhóm yếu tố nào sau đây phản ánh đầy đủ nguồn gốc hình thành và tồn tại của tôn giáo?",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 9,
+        "body_index": 1033
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Hệ thống tín đồ, tổ chức giáo phẩm và nghi lễ B. Cơ sở thờ tự, kinh sách và giáo luật C. Nguồn gốc nhận thức, tâm lý và kinh tế - xã hội D. Sự can thiệp của các đấng sáng tạo siêu nhiên"
+      },
+      {
+        "text": "Đáp án đúng: C"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Hệ thống tín đồ, tổ chức giáo phẩm và nghi lễ",
+      "B. Cơ sở thờ tự, kinh sách và giáo luật",
+      "C. Nguồn gốc nhận thức, tâm lý và kinh tế - xã hội",
+      "D. Sự can thiệp của các đấng sáng tạo siêu nhiên"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bổ sung",
+    "q_num": 9,
+    "body_index": 1033,
+    "id": "word-c41143f3c5139fa3-p1033"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 10: Khái niệm dân tộc theo nghĩa hẹp được dùng để chỉ khái niệm nào?",
+    "source_q_num": 10,
+    "source_title": "Câu 10: Khái niệm dân tộc theo nghĩa hẹp được dùng để chỉ khái niệm nào?",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 10,
+        "body_index": 1036
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Dân tộc quốc gia B. Dân tộc tộc người C. Cộng đồng đa quốc gia D. Liên hiệp các quốc gia"
+      },
+      {
+        "text": "Đáp án đúng: B"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Dân tộc quốc gia",
+      "B. Dân tộc tộc người",
+      "C. Cộng đồng đa quốc gia",
+      "D. Liên hiệp các quốc gia"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bổ sung",
+    "q_num": 10,
+    "body_index": 1036,
+    "id": "word-c41143f3c5139fa3-p1036"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 11: Tiêu chí nào mang tính thiêng liêng nhất đối với một dân tộc quốc gia và mỗi thành viên dân tộc?",
+    "source_q_num": 11,
+    "source_title": "Câu 11: Tiêu chí nào mang tính thiêng liêng nhất đối với một dân tộc quốc gia và mỗi thành viên dân tộc?",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 11,
+        "body_index": 1039
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Lãnh thổ B. Thị trường nội địa C. Mức sống thu nhập D. Ý thức cá nhân"
+      },
+      {
+        "text": "Đáp án đúng: A"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Lãnh thổ",
+      "B. Thị trường nội địa",
+      "C. Mức sống thu nhập",
+      "D. Ý thức cá nhân"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bổ sung",
+    "q_num": 11,
+    "body_index": 1039,
+    "id": "word-c41143f3c5139fa3-p1039"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 12: Nhận định nào sau đây là SAI khi nói về quyền tự quyết dân tộc trong Cương lĩnh dân tộc Mác – Lênin?",
+    "source_q_num": 12,
+    "source_title": "Câu 12: Nhận định nào sau đây là SAI khi nói về quyền tự quyết dân tộc trong Cương lĩnh dân tộc Mác – Lênin?",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 12,
+        "body_index": 1042
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Quyền tự quyết bao gồm quyền tự do tách ra thành quốc gia độc lập B. Quyền tự quyết dân tộc không bao gồm nội dung tự nguyện liên hiệp các dân tộc lại C. Dân tộc tộc người có đặc trưng về ngôn ngữ riêng D. Cương lĩnh dân tộc khẳng định nguyên tắc bình đẳng giữa các dân tộc"
+      },
+      {
+        "text": "Đáp án đúng: B"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Quyền tự quyết bao gồm quyền tự do tách ra thành quốc gia độc lập",
+      "B. Quyền tự quyết dân tộc không bao gồm nội dung tự nguyện liên hiệp các dân tộc lại",
+      "C. Dân tộc tộc người có đặc trưng về ngôn ngữ riêng",
+      "D. Cương lĩnh dân tộc khẳng định nguyên tắc bình đẳng giữa các dân tộc"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bổ sung",
+    "q_num": 12,
+    "body_index": 1042,
+    "id": "word-c41143f3c5139fa3-p1042"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 13: Hình thái ý thức xã hội phản ánh một cách hoang đường, hư ảo hiện thực khách quan là khái niệm của hiện tượng nào?",
+    "source_q_num": 13,
+    "source_title": "Câu 13: Hình thái ý thức xã hội phản ánh một cách hoang đường, hư ảo hiện thực khách quan là khái niệm của hiện tượng nào?",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 13,
+        "body_index": 1045
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Nghệ thuật dân gian B. Tôn giáo C. Đạo đức xã hội D. Triết học khoa học"
+      },
+      {
+        "text": "Đáp án đúng: B"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Nghệ thuật dân gian",
+      "B. Tôn giáo",
+      "C. Đạo đức xã hội",
+      "D. Triết học khoa học"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bổ sung",
+    "q_num": 13,
+    "body_index": 1045,
+    "id": "word-c41143f3c5139fa3-p1045"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 14: Phát biểu nào sau đây là SAI về sự khác biệt giữa tín ngưỡng và tôn giáo?",
+    "source_q_num": 14,
+    "source_title": "Câu 14: Phát biểu nào sau đây là SAI về sự khác biệt giữa tín ngưỡng và tôn giáo?",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 14,
+        "body_index": 1048
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Tín ngưỡng có hệ thống giáo lý, giáo luật và tổ chức chặt chẽ như tôn giáo B. Nguồn gốc kinh tế - xã hội dẫn đến sự ra đời của tôn giáo C. Mê tín dị đoan là niềm tin mù quáng gây hậu quả xấu cần loại bỏ D. Tôn giáo phản ánh hiện thực một cách hoang đường, hư ảo"
+      },
+      {
+        "text": "Đáp án đúng: A"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Tín ngưỡng có hệ thống giáo lý, giáo luật và tổ chức chặt chẽ như tôn giáo",
+      "B. Nguồn gốc kinh tế - xã hội dẫn đến sự ra đời của tôn giáo",
+      "C. Mê tín dị đoan là niềm tin mù quáng gây hậu quả xấu cần loại bỏ",
+      "D. Tôn giáo phản ánh hiện thực một cách hoang đường, hư ảo"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bổ sung",
+    "q_num": 14,
+    "body_index": 1048,
+    "id": "word-c41143f3c5139fa3-p1048"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 15: Vì sao các tôn giáo ở Việt Nam luôn đồng hành cùng dân tộc và đóng góp tích cực cho sự nghiệp xây dựng, bảo vệ Tổ quốc?",
+    "source_q_num": 15,
+    "source_title": "Câu 15: Vì sao các tôn giáo ở Việt Nam luôn đồng hành cùng dân tộc và đóng góp tích cực cho sự nghiệp xây dựng, bảo vệ Tổ quốc?",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 15,
+        "body_index": 1051
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Vì đa số tín đồ là nhân dân lao động có tinh thần yêu nước, chống giặc ngoại xâm B. Vì các tôn giáo nắm vai trò lãnh đạo cơ quan quyền lực nhà nước C. Vì các tổ chức tôn giáo có quân đội riêng bảo vệ biên giới D. Vì các tôn giáo được chi phối bởi các tổ chức quốc tế"
+      },
+      {
+        "text": "Đáp án đúng: A"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Vì đa số tín đồ là nhân dân lao động có tinh thần yêu nước, chống giặc ngoại xâm",
+      "B. Vì các tôn giáo nắm vai trò lãnh đạo cơ quan quyền lực nhà nước",
+      "C. Vì các tổ chức tôn giáo có quân đội riêng bảo vệ biên giới",
+      "D. Vì các tôn giáo được chi phối bởi các tổ chức quốc tế"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bổ sung",
+    "q_num": 15,
+    "body_index": 1051,
+    "id": "word-c41143f3c5139fa3-p1051"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 16: Đâu là các đặc trưng cơ bản thuộc về dân tộc tộc người?",
+    "source_q_num": 16,
+    "source_title": "Câu 16: Đâu là các đặc trưng cơ bản thuộc về dân tộc tộc người?",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 16,
+        "body_index": 1054
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Lãnh thổ quốc gia, nền kinh tế chung, nhà nước chung B. Ngôn ngữ tộc người, văn hóa đặc thù và ý thức tự giác tộc người C. Quân đội riêng, hiến pháp riêng, tài chính độc lập D. Hệ thống chính trị riêng biệt và tiền tệ riêng"
+      },
+      {
+        "text": "Đáp án đúng: B"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Lãnh thổ quốc gia, nền kinh tế chung, nhà nước chung",
+      "B. Ngôn ngữ tộc người, văn hóa đặc thù và ý thức tự giác tộc người",
+      "C. Quân đội riêng, hiến pháp riêng, tài chính độc lập",
+      "D. Hệ thống chính trị riêng biệt và tiền tệ riêng"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bổ sung",
+    "q_num": 16,
+    "body_index": 1054,
+    "id": "word-c41143f3c5139fa3-p1054"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 17: Hai nguyên nhân chủ yếu khiến tôn giáo vẫn tiếp tục tồn tại lâu dài trong thời kỳ quá độ là gì?",
+    "source_q_num": 17,
+    "source_title": "Câu 17: Hai nguyên nhân chủ yếu khiến tôn giáo vẫn tiếp tục tồn tại lâu dài trong thời kỳ quá độ là gì?",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 17,
+        "body_index": 1057
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Do quy định bắt buộc của nhà nước và do các giáo hội nước ngoài thúc đẩy B. Do khoa học chưa giải thích hết mọi hiện tượng và xã hội vẫn còn phân hóa, áp bức C. Do các thế lực siêu nhiên thực sự tồn tại can thiệp vào đời sống D. Do sự phát triển của công nghệ truyền thông"
+      },
+      {
+        "text": "Đáp án đúng: B"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Do quy định bắt buộc của nhà nước và do các giáo hội nước ngoài thúc đẩy",
+      "B. Do khoa học chưa giải thích hết mọi hiện tượng và xã hội vẫn còn phân hóa, áp bức",
+      "C. Do các thế lực siêu nhiên thực sự tồn tại can thiệp vào đời sống",
+      "D. Do sự phát triển của công nghệ truyền thông"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bổ sung",
+    "q_num": 17,
+    "body_index": 1057,
+    "id": "word-c41143f3c5139fa3-p1057"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 18: Điểm khác biệt căn bản trong quá trình hình thành dân tộc Việt Nam so với các dân tộc phương Tây là gì?",
+    "source_q_num": 18,
+    "source_title": "Câu 18: Điểm khác biệt căn bản trong quá trình hình thành dân tộc Việt Nam so với các dân tộc phương Tây là gì?",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 18,
+        "body_index": 1060
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Hình thành gắn liền với sự phát triển mạnh mẽ của phương thức tư bản chủ nghĩa B. Hình thành do quá trình đồng hóa cưỡng bức của các triều đại phong kiến C. Hình thành sớm do đòi hỏi khách quan của công cuộc trị thủy, làm thủy lợi và đoàn kết chống giặc ngoại xâm D. Hình thành do dân tộc có quy mô diện tích lãnh thổ nhỏ hẹp"
+      },
+      {
+        "text": "Đáp án đúng: C"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Hình thành gắn liền với sự phát triển mạnh mẽ của phương thức tư bản chủ nghĩa",
+      "B. Hình thành do quá trình đồng hóa cưỡng bức của các triều đại phong kiến",
+      "C. Hình thành sớm do đòi hỏi khách quan của công cuộc trị thủy, làm thủy lợi và đoàn kết chống giặc ngoại xâm",
+      "D. Hình thành do dân tộc có quy mô diện tích lãnh thổ nhỏ hẹp"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bổ sung",
+    "q_num": 18,
+    "body_index": 1060,
+    "id": "word-c41143f3c5139fa3-p1060"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 19: Tính nhất nguyên về mặt chính trị của nền dân chủ xã hội chủ nghĩa được thể hiện như thế nào?",
+    "source_q_num": 19,
+    "source_title": "Câu 19: Tính nhất nguyên về mặt chính trị của nền dân chủ xã hội chủ nghĩa được thể hiện như thế nào?",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 19,
+        "body_index": 1063
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Nền dân chủ chấp nhận cơ chế đa đảng cạnh tranh quyền lực B. Nền dân chủ do tầng lớp trí thức nắm quyền chuyên chính C. Nền dân chủ đặt dưới sự lãnh đạo duy nhất của Đảng Cộng sản – đại biểu cho trí tuệ, lợi ích của công nhân, nhân dân lao động và toàn dân tộc D. Nền dân chủ chỉ phục vụ quyền lợi của riêng giai cấp nông dân"
+      },
+      {
+        "text": "Đáp án đúng: C"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Nền dân chủ chấp nhận cơ chế đa đảng cạnh tranh quyền lực",
+      "B. Nền dân chủ do tầng lớp trí thức nắm quyền chuyên chính",
+      "C. Nền dân chủ đặt dưới sự lãnh đạo duy nhất của Đảng Cộng sản – đại biểu cho trí tuệ, lợi ích của công nhân, nhân dân lao động và toàn dân tộc",
+      "D. Nền dân chủ chỉ phục vụ quyền lợi của riêng giai cấp nông dân"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bổ sung",
+    "q_num": 19,
+    "body_index": 1063,
+    "id": "word-c41143f3c5139fa3-p1063"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 20: Luận điểm nào sau đây KHÔNG đúng khi so sánh nền dân chủ xã hội chủ nghĩa với nền dân chủ tư sản?",
+    "source_q_num": 20,
+    "source_title": "Câu 20: Luận điểm nào sau đây KHÔNG đúng khi so sánh nền dân chủ xã hội chủ nghĩa với nền dân chủ tư sản?",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 20,
+        "body_index": 1066
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Dựa trên chế độ công hữu về các tư liệu sản xuất chủ yếu của xã hội B. Mang tính nhất nguyên về chính trị dưới sự lãnh đạo của Đảng Cộng sản C. Là nền dân chủ thuần túy, hoàn toàn không mang tính giai cấp D. Được thực hiện chủ yếu bằng công cụ Nhà nước pháp quyền xã hội chủ nghĩa"
+      },
+      {
+        "text": "Đáp án đúng: C"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Dựa trên chế độ công hữu về các tư liệu sản xuất chủ yếu của xã hội",
+      "B. Mang tính nhất nguyên về chính trị dưới sự lãnh đạo của Đảng Cộng sản",
+      "C. Là nền dân chủ thuần túy, hoàn toàn không mang tính giai cấp",
+      "D. Được thực hiện chủ yếu bằng công cụ Nhà nước pháp quyền xã hội chủ nghĩa"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bổ sung",
+    "q_num": 20,
+    "body_index": 1066,
+    "id": "word-c41143f3c5139fa3-p1066"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 21: So với các nền dân chủ trước đây trong lịch sử, dân chủ xã hội chủ nghĩa có điểm khác biệt căn bản nào?",
+    "source_q_num": 21,
+    "source_title": "Câu 21: So với các nền dân chủ trước đây trong lịch sử, dân chủ xã hội chủ nghĩa có điểm khác biệt căn bản nào?",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 21,
+        "body_index": 1069
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Là nền dân chủ rộng rãi cho giai cấp công nhân và nhân dân lao động B. Là nền dân chủ phi lịch sử, tồn tại vĩnh viễn ngoài nhà nước C. Là nền dân chủ thuần túy, không có giới hạn pháp lý D. Không còn mang tính giai cấp"
+      },
+      {
+        "text": "Đáp án đúng: A"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Là nền dân chủ rộng rãi cho giai cấp công nhân và nhân dân lao động",
+      "B. Là nền dân chủ phi lịch sử, tồn tại vĩnh viễn ngoài nhà nước",
+      "C. Là nền dân chủ thuần túy, không có giới hạn pháp lý",
+      "D. Không còn mang tính giai cấp"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bổ sung",
+    "q_num": 21,
+    "body_index": 1069,
+    "id": "word-c41143f3c5139fa3-p1069"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 22: Việc thực hiện chế độ công hữu về tư liệu sản xuất chủ yếu và phân phối lợi ích theo kết quả lao động là bản chất kinh tế của nền dân chủ nào?",
+    "source_q_num": 22,
+    "source_title": "Câu 22: Việc thực hiện chế độ công hữu về tư liệu sản xuất chủ yếu và phân phối lợi ích theo kết quả lao động là bản chất kinh tế của nền dân chủ nào?",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 22,
+        "body_index": 1072
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Nền dân chủ tư sản B. Nền dân chủ chủ nô C. Nền dân chủ xã hội chủ nghĩa D. Nền dân chủ nguyên thủy"
+      },
+      {
+        "text": "Đáp án đúng: C"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Nền dân chủ tư sản",
+      "B. Nền dân chủ chủ nô",
+      "C. Nền dân chủ xã hội chủ nghĩa",
+      "D. Nền dân chủ nguyên thủy"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bổ sung",
+    "q_num": 22,
+    "body_index": 1072,
+    "id": "word-c41143f3c5139fa3-p1072"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 23: Nhà nước pháp quyền xã hội chủ nghĩa quản lý mọi mặt của đời sống xã hội chủ yếu bằng công cụ nào?",
+    "source_q_num": 23,
+    "source_title": "Câu 23: Nhà nước pháp quyền xã hội chủ nghĩa quản lý mọi mặt của đời sống xã hội chủ yếu bằng công cụ nào?",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 23,
+        "body_index": 1075
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Tuyên truyền, vận động quần chúng B. Hiến pháp và pháp luật C. Đường lối, chủ trương chưa thể chế hóa D. Các biện pháp hành chính mệnh lệnh"
+      },
+      {
+        "text": "Đáp án đúng: B"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Tuyên truyền, vận động quần chúng",
+      "B. Hiến pháp và pháp luật",
+      "C. Đường lối, chủ trương chưa thể chế hóa",
+      "D. Các biện pháp hành chính mệnh lệnh"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bổ sung",
+    "q_num": 23,
+    "body_index": 1075,
+    "id": "word-c41143f3c5139fa3-p1075"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 24: Khác biệt căn bản về chất của Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam so với các nhà nước bóc lột trong lịch sử là gì?",
+    "source_q_num": 24,
+    "source_title": "Câu 24: Khác biệt căn bản về chất của Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam so với các nhà nước bóc lột trong lịch sử là gì?",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 24,
+        "body_index": 1078
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Chỉ đại diện duy nhất cho bộ phận giai cấp công nhân B. Là nhà nước phi giai cấp, phi chính trị C. Mang bản chất của giai cấp công nhân, tính nhân dân sâu sắc và tính dân tộc rộng rãi D. Chỉ tập trung thực hiện chức năng trấn áp quân sự"
+      },
+      {
+        "text": "Đáp án đúng: C"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Chỉ đại diện duy nhất cho bộ phận giai cấp công nhân",
+      "B. Là nhà nước phi giai cấp, phi chính trị",
+      "C. Mang bản chất của giai cấp công nhân, tính nhân dân sâu sắc và tính dân tộc rộng rãi",
+      "D. Chỉ tập trung thực hiện chức năng trấn áp quân sự"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bổ sung",
+    "q_num": 24,
+    "body_index": 1078,
+    "id": "word-c41143f3c5139fa3-p1078"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 25: Hình thức dân chủ nào là hình thức mà nhân dân trực tiếp bày tỏ ý chí, trực tiếp tham gia quản lý nhà nước và xã hội?",
+    "source_q_num": 25,
+    "source_title": "Câu 25: Hình thức dân chủ nào là hình thức mà nhân dân trực tiếp bày tỏ ý chí, trực tiếp tham gia quản lý nhà nước và xã hội?",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 25,
+        "body_index": 1081
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Dân chủ gián tiếp B. Dân chủ đại diện C. Dân chủ trực tiếp D. Dân chủ ủy quyền"
+      },
+      {
+        "text": "Đáp án đúng: C"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Dân chủ gián tiếp",
+      "B. Dân chủ đại diện",
+      "C. Dân chủ trực tiếp",
+      "D. Dân chủ ủy quyền"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bổ sung",
+    "q_num": 25,
+    "body_index": 1081,
+    "id": "word-c41143f3c5139fa3-p1081"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 26: Khẳng định nào sau đây về tổ chức quyền lực nhà nước ở Việt Nam là SAI?",
+    "source_q_num": 26,
+    "source_title": "Câu 26: Khẳng định nào sau đây về tổ chức quyền lực nhà nước ở Việt Nam là SAI?",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 26,
+        "body_index": 1084
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Bản chất dân chủ XHCN được thực hiện qua hình thức trực tiếp và gián tiếp B. Quốc hội là cơ quan quyền lực nhà nước cao nhất hoạt động theo nhiệm kỳ 3 năm C. Nhà nước Việt Nam là nhà nước của nhân dân, do nhân dân, vì nhân dân làm chủ D. Trong hoạt động nhà nước có sự phân công, phối hợp và kiểm soát giữa các cơ quan quyền lực"
+      },
+      {
+        "text": "Đáp án đúng: B"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Bản chất dân chủ XHCN được thực hiện qua hình thức trực tiếp và gián tiếp",
+      "B. Quốc hội là cơ quan quyền lực nhà nước cao nhất hoạt động theo nhiệm kỳ 3 năm",
+      "C. Nhà nước Việt Nam là nhà nước của nhân dân, do nhân dân, vì nhân dân làm chủ",
+      "D. Trong hoạt động nhà nước có sự phân công, phối hợp và kiểm soát giữa các cơ quan quyền lực"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bổ sung",
+    "q_num": 26,
+    "body_index": 1084,
+    "id": "word-c41143f3c5139fa3-p1084"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 27: Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội – giai cấp biến đổi theo quy luật vận động nào?",
+    "source_q_num": 27,
+    "source_title": "Câu 27: Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội – giai cấp biến đổi theo quy luật vận động nào?",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 27,
+        "body_index": 1087
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Tách biệt đối lập hoàn toàn, không liên minh gắn kết B. Vừa đấu tranh, vừa bài xích triệt tiêu lẫn nhau C. Vừa đấu tranh, vừa liên minh, từng bước xóa bỏ bất bình đẳng xã hội dẫn đến sự xích lại gần nhau D. Các giai cấp lớn liên minh đàn áp các giai cấp nhỏ"
+      },
+      {
+        "text": "Đáp án đúng: C"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Tách biệt đối lập hoàn toàn, không liên minh gắn kết",
+      "B. Vừa đấu tranh, vừa bài xích triệt tiêu lẫn nhau",
+      "C. Vừa đấu tranh, vừa liên minh, từng bước xóa bỏ bất bình đẳng xã hội dẫn đến sự xích lại gần nhau",
+      "D. Các giai cấp lớn liên minh đàn áp các giai cấp nhỏ"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bổ sung",
+    "q_num": 27,
+    "body_index": 1087,
+    "id": "word-c41143f3c5139fa3-p1087"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 28: Trong cơ cấu xã hội – giai cấp ở Việt Nam thời kỳ quá độ, đội ngũ trí thức giữ vai trò là lực lượng gì?",
+    "source_q_num": 28,
+    "source_title": "Câu 28: Trong cơ cấu xã hội – giai cấp ở Việt Nam thời kỳ quá độ, đội ngũ trí thức giữ vai trò là lực lượng gì?",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 28,
+        "body_index": 1090
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Lực lượng sáng tạo đặc biệt B. Lực lượng lãnh đạo sự nghiệp cách mạng C. Lực lượng sản xuất nông nghiệp nòng cốt D. Đội ngũ quản lý doanh nghiệp độc lập"
+      },
+      {
+        "text": "Đáp án đúng: A"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Lực lượng sáng tạo đặc biệt",
+      "B. Lực lượng lãnh đạo sự nghiệp cách mạng",
+      "C. Lực lượng sản xuất nông nghiệp nòng cốt",
+      "D. Đội ngũ quản lý doanh nghiệp độc lập"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bổ sung",
+    "q_num": 28,
+    "body_index": 1090,
+    "id": "word-c41143f3c5139fa3-p1090"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 29: Phát biểu nào sau đây về khối liên minh giai cấp, tầng lớp ở Việt Nam là ĐÚNG?",
+    "source_q_num": 29,
+    "source_title": "Câu 29: Phát biểu nào sau đây về khối liên minh giai cấp, tầng lớp ở Việt Nam là ĐÚNG?",
+    "sources": [
+      {
+        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "question_number": 29,
+        "body_index": 1093
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Nội dung tôn giáo là nội dung nòng cốt của liên minh B. Xây dựng Nhà nước pháp quyền là nội dung văn hóa của liên minh C. Đồng thuận xã hội là một mục tiêu quan trọng của liên minh giai cấp, tầng lớp D. Đội ngũ doanh nhân bị loại trừ, không tham gia khối liên minh"
+      },
+      {
+        "text": "Đáp án đúng: C"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Nội dung tôn giáo là nội dung nòng cốt của liên minh",
+      "B. Xây dựng Nhà nước pháp quyền là nội dung văn hóa của liên minh",
+      "C. Đồng thuận xã hội là một mục tiêu quan trọng của liên minh giai cấp, tầng lớp",
+      "D. Đội ngũ doanh nhân bị loại trừ, không tham gia khối liên minh"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bổ sung",
+    "q_num": 29,
+    "body_index": 1093,
+    "id": "word-c41143f3c5139fa3-p1093"
   }
 ];

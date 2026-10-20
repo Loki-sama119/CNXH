@@ -42,6 +42,13 @@ test('Current Word browser regression: filters, shuffle, all answers, navigation
     await page.locator('.toggle-label').filter({ has: page.locator('#autoadvance-toggle') }).click();
     await page.evaluate(() => { soundEnabled = false; });
     assert.equal(await page.locator('#count-all').textContent(), String(bank.length));
+    assert.equal(await page.locator('#count-b6').textContent(), '23');
+    assert.equal(await page.locator('#count-b7').textContent(), '29');
+    await page.locator('button[data-lesson="6"]').click();
+    assert.deepEqual(await page.evaluate(() => activeQuestions.map(q => q.q_num)), Array.from({length:23}, (_, i) => i + 1));
+    assert.equal(await page.evaluate(() => getLessonDisplayName('6')), 'Bài 6');
+    assert.equal(await page.evaluate(() => getLessonDisplayName('7')), 'Bổ sung');
+    await page.locator('button[data-lesson="all"]').click();
     assert.deepEqual(await page.evaluate(() => getHistoryList()), []);
     assert.deepEqual(await page.evaluate(() => getLeaderboardEntries()), []);
     assert.equal(await page.evaluate(() => currentLesson), 'all');
@@ -110,10 +117,42 @@ test('Current Word browser regression: filters, shuffle, all answers, navigation
     assert.equal(await page.evaluate(() => questionStates[activeQuestions[0].id]?.isCorrect), true);
     await page.evaluate(() => cancelPendingTransitions());
 
+    // The new six-item family table must support real dragging and narrow-screen selection.
+    for (const width of [1280, 390]) {
+      await page.setViewportSize({width, height:900});
+      const cats = await page.evaluate(() => {
+        startQuestionSession([allQuestions.find(q => q.lesson_num === 6 && q.q_num === 20)]);
+        return activeQuestions[0].categories;
+      });
+      for (let column = 0; column < cats.length; column++) {
+        for (const text of cats[column].items) {
+          const chip = page.locator('.dnd-qz-pool .dnd-qz-chip').filter({hasText:text});
+          const box = page.locator('.cat-box').nth(column);
+          if (width === 1280) {
+            await box.scrollIntoViewIfNeeded();
+            const bounds = await box.boundingBox();
+            await chip.dragTo(box, {targetPosition:{x:bounds.width / 2, y:bounds.height - 5}});
+          } else {
+            await chip.click();
+            await box.locator('.cat-drop-hint').click();
+          }
+        }
+        assert.equal(await page.locator('.cat-dropzone').nth(column).locator('.dnd-qz-chip').count(), 3);
+      }
+      assert.equal(await page.locator('.dnd-qz-pool .dnd-qz-chip').count(), 0);
+      assert.equal(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth), true);
+      fs.mkdirSync(path.join(__dirname, 'results'), {recursive:true});
+      await page.screenshot({path:path.join(__dirname, 'results', `lesson6-question20-${width}.png`), fullPage:true});
+      await page.locator('#hero-body .btn-check-dnd').click();
+      assert.equal(await page.evaluate(() => questionStates[activeQuestions[0].id]?.isCorrect), true);
+      await page.evaluate(() => cancelPendingTransitions());
+    }
+    await page.setViewportSize({width:1280, height:720});
+
     // Every filter combination must contain exactly its eligible questions, each once.
     const filterChecks = await page.evaluate(() => {
       let checks = 0;
-      for (const lesson of ['all', 'tx', '1', '2', '3', '4', '5', '6']) {
+      for (const lesson of ['all', 'tx', '1', '2', '3', '4', '5', '6', '7']) {
         for (const type of ['all', 'single_choice', 'multiple_choice', 'true_false', 'drag_drop']) {
           currentLesson = lesson; currentType = type; applyFiltersAndReset();
           const expected = allQuestions.filter(q => (lesson === 'all' || (lesson === 'tx' ? q.is_thuong_xuyen : q.lesson_num === Number(lesson))) && (type === 'all' || (type === 'drag_drop' ? q.type.startsWith(type) : q.type === type)));
@@ -141,7 +180,7 @@ test('Current Word browser regression: filters, shuffle, all answers, navigation
       if (uniqueQuestions([tf, { ...tf, id: tf.id }]).length !== 1) throw new Error('Duplicate question not filtered');
       return checks;
     });
-    assert.equal(filterChecks, 40);
+    assert.equal(filterChecks, 45);
     console.log('Filters and shuffles passed');
 
     // Partially selected multiple choice answers survive navigating away and never leak.
@@ -348,7 +387,7 @@ test('Current Word browser regression: filters, shuffle, all answers, navigation
     await offline.screenshot({ path: path.join(resultDir, 'word-mobile.png'), fullPage: true });
     await page.screenshot({ path: path.join(resultDir, 'word-desktop.png'), fullPage: true });
     assert.deepEqual(errors, []);
-    console.log(`Validated ${bank.length} questions, all five types, 40 filter combinations, 100 shuffles, desktop and mobile/offline.`);
+    console.log(`Validated ${bank.length} questions, all five types, 45 filter combinations, 100 shuffles, desktop and mobile/offline.`);
   } finally {
     if (browser) await browser.close();
     await new Promise(resolve => server.close(resolve));
