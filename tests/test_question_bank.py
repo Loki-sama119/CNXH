@@ -1,11 +1,12 @@
 import copy
-import hashlib
+import json
 import sys
 import unittest
+import unicodedata
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-from build_merged_questions import ROOT, MERGED, build_bank, exercise_key, read_blocks
+from import_questions import ROOT, SOURCE, BANK_VERSION, build_bank
 from verify_questions import validate_questions
 from audit_word_coverage import audit
 
@@ -15,70 +16,105 @@ class QuestionBankTests(unittest.TestCase):
     def setUpClass(cls):
         cls.bank, cls.report = build_bank()
 
-    def test_every_merged_exercise_is_represented_even_without_a_number(self):
-        blocks = read_blocks(ROOT / MERGED)
-        actual = {s['body_index'] for q in self.bank for s in q['sources'] if s['file'] == MERGED}
-        self.assertEqual(actual, {b['source_index'] for b in blocks})
-        self.assertEqual(len(blocks), 233)
-        self.assertEqual(sum(b['source_q_num'] is None for b in blocks), 0)
+    def at(self, paragraph):
+        return next(q for q in self.bank if q['body_index'] == paragraph)
 
-    def test_independent_word_xml_and_full_contents_are_covered(self):
+    def test_current_word_only_and_every_exercise_is_preserved(self):
+        self.assertEqual(len(self.bank), 252)
+        self.assertEqual(self.report['lesson_counts'], {1:41, 2:45, 3:39, 4:45, 5:39, 6:43})
+        self.assertEqual(validate_questions(self.bank), [])
+        self.assertTrue(all(s['file'] == SOURCE for q in self.bank for s in q['sources']))
+        self.assertTrue(all(q['id'].startswith(BANK_VERSION) for q in self.bank))
+        self.assertEqual(len({q['id'] for q in self.bank}), 252)
+        self.assertEqual(self.report['reference_only'], 0)
+
+    def test_independent_xml_audit_checks_every_question_and_answer(self):
         report = audit(self.bank)
         self.assertEqual(report['errors'], [])
-        self.assertEqual(report['source_exercises'], report['matched_source_exercises'])
-        self.assertEqual(report['source_tables'], 25)
-        self.assertEqual(report['unnumbered'], [])
+        self.assertEqual(report['source_exercises'], 252)
+        self.assertEqual(report['matched_source_exercises'], 252)
+        self.assertEqual(report['source_tables'], 15)
 
-    def test_distinct_questions_with_similar_titles_are_both_preserved(self):
-        q20 = next(q for q in self.bank if q['lesson_num'] == 1 and q['q_num'] == 20)
-        q26 = next(q for q in self.bank if q['lesson_num'] == 1 and q['q_num'] == 26)
-        self.assertNotEqual(q20['id'], q26['id'])
-        self.assertNotEqual(q20['options'], q26['options'])
-        self.assertEqual(len(self.bank), 265)
+    def test_inline_red_matching_answers_are_blanks_and_extra_choice_survives(self):
+        q = self.at(179)
+        self.assertEqual(q['type'], 'drag_drop_match')
+        self.assertEqual([p['right'] for p in q['pairs']], ['tầng lớp nhân dân', 'giai cấp, tầng lớp', 'tầng lớp trí thức'])
+        self.assertIn('Đảng Cộng Sản', q['options_pool'])
+        self.assertTrue(all('______' in p['left'] and '______Việt' not in p['left'] for p in q['pairs']))
 
-    def test_rebuild_is_deterministic_and_ids_are_unique(self):
-        self.assertEqual((self.bank, self.report), build_bank())
-        self.assertEqual(len({q['id'] for q in self.bank}), 265)
-
-    def test_no_duplicates_and_correct_distribution(self):
-        self.assertEqual(validate_questions(self.bank), [])
-        self.assertEqual(self.report['lesson_counts'], {1: 41, 2: 41, 3: 41, 4: 45, 5: 41, 6: 56})
-        self.assertEqual(self.report['total'], 265)
-        self.assertEqual(self.report['tx_count'], 12)
-        b6_base = [q for q in self.bank if q['lesson_num'] == 6 and q['q_num'] <= 27]
-        self.assertTrue(all('gia đình' in q['question'].lower() or q['type'] == 'true_false' or 'hôn nhân' in q['question'].lower() or 'Hằng ngày' in q['question'] or 'Quan điểm sau đây' in q['question'] or 'Tình yêu' in q['question'] for q in b6_base))
-
-    def test_supplement_questions_from_bai6_doc_are_represented(self):
-        supp_questions = [q for q in self.bank if any(s['file'] == 'CNKHXH BAI6.docx' for s in q['sources'])]
-        self.assertEqual(len(supp_questions), 29)
-        self.assertTrue(all(q['lesson_num'] == 6 for q in supp_questions))
-        self.assertEqual(sorted(q['source_q_num'] for q in supp_questions), list(range(1, 30)))
-
-    def test_tx_questions_are_represented_and_tagged(self):
-        tx_questions = [q for q in self.bank if q.get('is_thuong_xuyen')]
-        self.assertEqual(len(tx_questions), 12)
-        self.assertEqual(sum(q.get('test_group') == 'BÀI KIỂM TRA THƯỜNG XUYÊN 1' for q in tx_questions), 5)
-        self.assertEqual(sum(q.get('test_group') == 'BÀI KIỂM TRA THƯỜNG XUYÊN 2' for q in tx_questions), 7)
-
-    def test_red_color_does_not_leak_between_options_in_one_paragraph(self):
-        q = next(q for q in self.bank if q['lesson_num'] == 5 and q['q_num'] == 20)
-        self.assertEqual(q['type'], 'single_choice')
-        self.assertEqual(q['correct_answers'], [1])
+    def test_word_automatic_option_labels_do_not_drop_choices(self):
+        q = self.at(659)
         self.assertEqual(len(q['options']), 4)
+        self.assertEqual(q['options'][0], 'A. Giai cấp công nhân')
+        self.assertEqual(q['correct_answers'], [0])
+        self.assertEqual(len(self.at(765)['options']), 4)
 
-    def test_updated_word_true_false_answer_overrides_old_bank(self):
-        q = next(q for q in self.bank if q['lesson_num'] == 6 and q['q_num'] == 25)
-        self.assertEqual([it['correct'] for it in q['items']], [False, False, False, True])
+    def test_red_colors_do_not_leak_between_options_in_a_single_paragraph(self):
+        for q in self.bank:
+            if q['body_index'] == 1009:
+                self.assertEqual(q['correct_answers'], [0])
+                self.assertEqual(len(q['options']), 4)
+        q = self.at(1096)
+        self.assertEqual(q['correct_answers'], [1, 3])
+        self.assertEqual(q['type'], 'multiple_choice')
 
-    def test_bai_5_cau_19_so_luong_ton_giao_answer_is_16(self):
-        q = next(x for x in self.bank if x['lesson_num'] == 5 and 'xác định số lượng tôn giáo' in x['question'])
-        self.assertEqual(q['options'][q['correct_answers'][0]], 'C. 16')
+    def test_true_false_handles_separate_inline_and_arrow_answers(self):
+        self.assertEqual([i['correct'] for i in self.at(156)['items']], [True, True, True, False])
+        self.assertEqual([i['correct'] for i in self.at(859)['items']], [True, False, False, True])
+        self.assertEqual([i['correct'] for i in self.at(1138)['items']], [False, True, False, True])
 
-    def test_validation_rejects_corrupt_answer_and_duplicate_content(self):
+    def test_matching_numbered_answer_key_uses_full_left_statement(self):
+        q = self.at(1129)
+        self.assertEqual(q['pairs'][0], dict(left='Biến đổi về quy mô gia đình', right='A. Gia đình hạt nhân'))
+        self.assertEqual(len(q['pairs']), 4)
+
+    def test_categories_are_columns_not_matching_pairs_and_unassigned_item_is_retained(self):
+        q = self.at(175)
+        self.assertEqual(q['type'], 'drag_drop_categorize')
+        self.assertEqual(len(q['all_items']), 4)
+        q = self.at(855)
+        self.assertEqual(len(q['all_items']), 7)
+        self.assertEqual(q['unassigned_source_items'], ['Tầng lớp phụ nữ'])
+        self.assertIn('Tầng lớp phụ nữ', q['source_warning'])
+
+    def test_unheaded_section_and_regular_tests_preserve_source_structure(self):
+        self.assertEqual(self.at(1009)['lesson'], 'Bổ sung')
+        self.assertEqual(self.at(1129)['lesson'], 'Bổ sung')
+        tx = [q for q in self.bank if q.get('is_thuong_xuyen')]
+        self.assertEqual(len(tx), 12)
+        self.assertEqual(sum(q['test_group'].endswith('1') for q in tx), 5)
+        self.assertEqual(sum(q['test_group'].endswith('2') for q in tx), 7)
+        self.assertIn('chưa kiểm chứng', self.at(1170)['source_warning'])
+
+    def test_exact_source_text_is_preserved_without_old_repairs(self):
+        self.assertIn('troChính sách an sinh xã hộing', self.at(813)['pairs'][0]['left'])
+        payload = json.dumps(self.bank, ensure_ascii=False)
+        self.assertEqual(payload, unicodedata.normalize('NFC', payload))
+        self.assertNotIn('\ufffd', payload)
+
+    def test_rebuild_is_deterministic_and_matches_both_shipped_banks(self):
+        self.assertEqual((self.bank, self.report), build_bank())
+        self.assertEqual(self.bank, json.loads((ROOT/'questions.json').read_text(encoding='utf8')))
+        js = (ROOT/'questions-data.js').read_text(encoding='utf8').split('window.QUIZ_QUESTIONS = ',1)[1].strip().removesuffix(';')
+        self.assertEqual(self.bank, json.loads(js))
+
+    def test_audit_rejects_changed_prompt_choice_answer_pair_and_category(self):
+        for field in ['question', 'options', 'correct_answers', 'pairs', 'categories', 'items', 'source_content']:
+            bank = copy.deepcopy(self.bank)
+            q = next(q for q in bank if field in q)
+            if field == 'question': q[field] += ' changed'
+            elif field == 'options': q[field][0] += ' changed'
+            elif field == 'correct_answers': q[field] = [99]
+            elif field == 'pairs': q[field][0]['right'] += ' changed'
+            elif field == 'categories': q[field][0]['items'][0] += ' changed'
+            elif field == 'items': q[field][0]['correct'] = not q[field][0]['correct']
+            else: q[field][0]['text'] += ' changed'
+            self.assertTrue(audit(bank)['errors'], field)
+
+    def test_validation_rejects_bad_answer_and_duplicate_id(self):
         bad = copy.deepcopy(self.bank)
         bad[0]['correct_answers'] = [99]
         self.assertTrue(any('answer indices' in e for e in validate_questions(bad)))
-        bad = copy.deepcopy(self.bank)
         bad[1]['id'] = bad[0]['id']
         self.assertTrue(any('duplicate ID' in e for e in validate_questions(bad)))
 

@@ -202,11 +202,26 @@ function animateConfetti() {
 // ================= INITIALIZATION =================
 document.addEventListener('DOMContentLoaded', async () => {
   initTheme();
-  restoreSavedPreferences();
   await loadQuestionsData();
+  resetPreviousBankStorage();
+  restoreSavedPreferences();
   initEventListeners();
   applyFiltersAndReset(0);
 });
+
+function resetPreviousBankStorage() {
+  const version = document.querySelector('meta[name="quiz-bank-version"]').content;
+  try {
+    if (localStorage.getItem('cnxhkh_bank_version') === version) return;
+    // Scores and numeric question IDs from previous sources have no meaning here.
+    for (const key of [HISTORY_STORAGE_KEY, LEADERBOARD_STORAGE_KEY, 'cnx_current_lesson', 'cnx_current_type']) {
+      localStorage.removeItem(key);
+    }
+    localStorage.setItem('cnxhkh_bank_version', version);
+  } catch (e) {
+    console.warn('Trình duyệt không cho phép lưu dữ liệu cục bộ.', e);
+  }
+}
 
 function restoreSavedPreferences() {
   const savedLesson = localStorage.getItem('cnx_current_lesson');
@@ -231,7 +246,8 @@ async function loadQuestionsData() {
     allQuestions = window.QUIZ_QUESTIONS;
   } else {
     try {
-      const response = await fetch('questions.json');
+      const version = document.querySelector('meta[name="quiz-bank-version"]').content;
+      const response = await fetch(`questions.json?v=${encodeURIComponent(version)}`, { cache: 'no-store' });
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       allQuestions = await response.json();
     } catch (e) {
@@ -416,6 +432,7 @@ function renderCurrentQuestion() {
     </div>
     <div class="hero-question-title">${escapeHtml(q.question)}</div>
     <div class="hero-instruction">⚡ ${escapeHtml(q.instruction || '')}</div>
+    ${q.source_warning ? `<p class="source-warning">${escapeHtml(q.source_warning)}</p>` : ''}
     <div class="hero-body" id="hero-body"></div>
   `;
 
@@ -1805,6 +1822,7 @@ const MAX_HISTORY_ITEMS = 50;
 function getLessonDisplayName(lessonKey) {
   if (lessonKey === 'all') return 'Tất cả bài học (Toàn bộ)';
   if (lessonKey === 'tx') return 'Bài Kiểm Tra Thường Xuyên';
+  if (String(lessonKey) === '6') return 'Bổ sung';
   return `Bài ${lessonKey}`;
 }
 
@@ -1979,7 +1997,7 @@ function practiceWrongFromHistory(attemptId) {
   }
 
   // Find matching questions from allQuestions
-  const wrongSet = new Set(attempt.wrongQIds.map(id => window.QUIZ_LEGACY_IDS?.[id] || id));
+  const wrongSet = new Set(attempt.wrongQIds.filter(id => typeof id === 'string'));
   const targetQuestions = allQuestions.filter(q => wrongSet.has(q.id));
   if (targetQuestions.length === 0) {
     alert('Không tìm thấy dữ liệu câu hỏi tương ứng trong ngân hàng câu hỏi.');

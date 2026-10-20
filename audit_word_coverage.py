@@ -1,130 +1,210 @@
-"""Independently inventory Word XML and verify every exercise's full content."""
+"""Audit Word XML independently of the importer, including red answer spans."""
+import hashlib
 import json
 import re
-import sys
-if hasattr(sys.stdout, 'reconfigure'):
-    sys.stdout.reconfigure(encoding='utf-8')
+import unicodedata
 import xml.etree.ElementTree as ET
-from collections import Counter, defaultdict
+from collections import Counter
 from pathlib import Path
 from zipfile import ZipFile
 
-from build_merged_questions import ROOT, MERGED, normal, read_blocks, parse_block, repair
-
+ROOT = Path(__file__).resolve().parent
+SOURCE = 'CHỦ NGHĨA XH-KH (2).docx'
 W = '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}'
 
 
-def xml_inventory(path):
-    with ZipFile(path) as archive:
+def tidy(text):
+    return ' '.join(unicodedata.normalize('NFC', text).split())
+
+
+def text_of(element):
+    return ''.join(n.text or '' if n.tag == W+'t' else '\n' if n.tag in (W+'br', W+'cr') else '\t' if n.tag == W+'tab' else '' for n in element.iter())
+
+
+def red_characters(paragraph):
+    result = []
+    for run in paragraph.iter(W+'r'):
+        color = run.find(W+'rPr/'+W+'color')
+        value = color.get(W+'val', '') if color is not None else ''
+        marked = False
+        if re.fullmatch('[0-9a-fA-F]{6}', value):
+            r, g, b = (int(value[i:i+2], 16) for i in (0, 2, 4))
+            marked = r >= 160 and r > g * 1.5 and r > b * 1.5
+        result.extend((ch, marked) for ch in text_of(run))
+    return result
+
+
+def xml_inventory():
+    with ZipFile(ROOT / SOURCE) as archive:
         doc = ET.fromstring(archive.read('word/document.xml'))
-    inventory, outside, tables = [], [], []
-    current, lesson = None, 0
-    for index, element in enumerate(doc.find(W + 'body')):
-        if element.tag == W + 'p':
-            text = ''.join((node.text or '') if node.tag == W + 't' else '\n' if node.tag in (W + 'br', W + 'cr') else '\t' if node.tag == W + 'tab' else '' for node in element.iter()).strip()
+    blocks, current, headings = [], None, []
+    for i, el in enumerate(doc.find(W+'body')):
+        if el.tag == W+'p':
+            text = tidy(text_of(el))
             if not text:
                 continue
-            heading = re.fullmatch(r'BÀI\s+(\d+)', text, re.I)
-            if heading:
-                lesson, current = int(heading[1]), None
-                continue
-            question = re.match(r'^Câu\s*(?:(\d+)\s*[:.]?\s*|[:.]\s*)(.*)$', text, re.I | re.S)
-            if question:
-                current = dict(lesson=lesson, body_index=index,
-                               source_number=int(question[1]) if question[1] else None,
-                               title=question[2], paragraphs=[], tables=[])
-                inventory.append(current)
+            if re.fullmatch(r'BÀI\s+\d+', text) or text.startswith('BÀI KIỂM TRA THƯỜNG XUYÊN') or text == 'CÁC CÂU CÒN THIẾU':
+                headings.append(text)
+                current = None
+            elif re.match(r'^Câu\s*\d+', text):
+                current = dict(index=i, title=text, elements=[], xml=[])
+                blocks.append(current)
             elif current is not None:
-                current['paragraphs'].append(text)
+                current['elements'].append(dict(text=text))
+                current['xml'].append(el)
             else:
-                outside.append(dict(body_index=index, text=text))
-        elif element.tag == W + 'tbl':
-            tables.append(index)
-            if current is not None:
-                current['tables'].append(index)
-    return inventory, outside, tables, len(list(doc.iter(W + 'tbl')))
-
-
-def content_signature(q):
-    if 'options' in q:
-        content = [normal(q['question']), list(map(normal, q['options'])),
-                   sorted(normal(q['options'][i]) for i in q['correct_answers'])]
-    elif q['type'] == 'true_false':
-        content = sorted((normal(it['statement']), it['correct']) for it in q['items'])
-    elif q['type'] == 'drag_drop_match':
-        content = sorted((normal(p['left']), normal(p['right'])) for p in q['pairs'])
-    else:
-        content = sorted((normal(it['text']), normal(it['category'])) for it in q['all_items'])
-    return json.dumps([q['type'], content], ensure_ascii=False)
+                raise ValueError(f'Unassigned source paragraph {i}: {text}')
+        elif el.tag == W+'tbl':
+            if current is None:
+                raise ValueError(f'Unassigned table {i}')
+            rows = [[tidy(text_of(c)) for c in row.findall(W+'tc')] for row in el.findall(W+'tr')]
+            current['elements'].append(dict(table=rows))
+            current['xml'].append(el)
+    return blocks, headings
 
 
 def audit(bank=None):
-    bank = bank if bank is not None else json.loads((ROOT / 'questions.json').read_text(encoding='utf-8'))
-    inventory, outside, tables, all_table_count = xml_inventory(ROOT / MERGED)
-    blocks = {b['source_index']: b for b in read_blocks(ROOT / MERGED)}
-    references = defaultdict(list)
-    for q in bank:
-        for source in q['sources']:
-            if source['file'] == MERGED:
-                references[source['body_index']].append(q)
-    errors = []
-    if outside:
-        errors.append(f'Text outside exercises: {outside}')
-    if set(blocks) != {item['body_index'] for item in inventory}:
-        errors.append('Importer question boundaries differ from independent XML inventory')
-    assigned_tables = {i for item in inventory for i in item['tables']}
-    if assigned_tables != set(tables) or all_table_count != len(tables):
-        errors.append('Unassigned or nested Word tables')
-    stats = defaultdict(Counter)
-    mapping, unnumbered = [], []
-    for item in inventory:
-        index, lesson = item['body_index'], item['lesson']
-        counts = stats[lesson]
-        counts['source_exercises'] += 1
-        counts['drag_exercises'] += len(item['tables'])
-        tf_answers = sum(bool(re.fullmatch(r'(?:Đúng|Sai)\s*\**', p.strip(), re.I)) for p in item['paragraphs'])
-        counts['tf_statements'] += tf_answers
-        counts['tf_groups'] += bool(tf_answers)
-        counts['choice_exercises'] += not tf_answers and not item['tables']
-        counts['unnumbered'] += item['source_number'] is None
-        targets = references.get(index, [])
-        if len(targets) != 1 or index not in blocks:
-            errors.append(f'Word exercise {lesson}/{index}: missing or ambiguous bank reference')
+    bank = bank if bank is not None else json.loads((ROOT/'questions.json').read_text(encoding='utf8'))
+    blocks, headings = xml_inventory()
+    errors, mapping = [], []
+    refs = Counter(s['body_index'] for q in bank for s in q['sources'])
+    if set(refs) != {b['index'] for b in blocks} or any(n != 1 for n in refs.values()):
+        errors.append('Missing, duplicate or extra source exercise references')
+    targets = {q['sources'][0]['body_index']: q for q in bank}
+    for block in blocks:
+        q = targets.get(block['index'])
+        if q is None:
             continue
-        target = targets[0]
-        expected = repair(parse_block(blocks[index], MERGED))
-        candidates = [target, *target.get('variants', [])]
-        if content_signature(expected) not in {content_signature(q) for q in candidates}:
-            errors.append(f'Word exercise {lesson}/{index}: question, options, items or answers not preserved')
-        if 'options' in expected:
-            option_count = len(re.findall(r'^\s*[A-F](?:[.)]\s*|\s+)', '\n'.join(item['paragraphs']), re.M))
-            if option_count != len(expected['options']):
-                errors.append(f'Word exercise {lesson}/{index}: option count differs from XML')
-        if tf_answers != len(expected.get('items', [])):
-            errors.append(f'Word exercise {lesson}/{index}: true/false statement count differs from XML')
-        row = dict(lesson=lesson, source_number=item['source_number'], body_index=index,
-                   web_id=target['id'], web_number=target['q_num'], type=target['type'])
-        mapping.append(row)
-        if item['source_number'] is None:
-            unnumbered.append({**row, 'title': item['title']})
-    for lesson, counts in stats.items():
-        primary = [q for q in bank if q['lesson_num'] == lesson and any(s['file'] == MERGED for s in q['sources'])]
-        counts['unique_web_exercises_from_source'] = len(primary)
-        counts['unique_choice_exercises'] = sum('options' in q for q in primary)
-        counts['unique_tf_statements'] = sum(len(q.get('items', [])) for q in primary)
-        counts['source_expanded_total'] = counts['choice_exercises'] + counts['tf_statements'] + counts['drag_exercises']
-        counts['unique_expanded_total'] = counts['unique_choice_exercises'] + counts['unique_tf_statements'] + counts['drag_exercises']
-    totals = {key: sum(row[key] for row in stats.values()) for key in ('source_exercises', 'choice_exercises', 'tf_groups', 'tf_statements', 'drag_exercises', 'unnumbered', 'unique_web_exercises_from_source', 'unique_choice_exercises', 'unique_tf_statements', 'source_expanded_total', 'unique_expanded_total')}
-    totals['all_web_exercises'] = len(bank)
-    totals['all_web_expanded_total'] = sum(len(q['items']) if q['type'] == 'true_false' else 1 for q in bank)
-    return dict(source_file=MERGED, source_exercises=len(inventory), source_tables=len(tables), totals=totals,
-                matched_source_exercises=len(mapping), unnumbered=unnumbered,
-                lesson_counts={str(k): dict(v) for k, v in stats.items()}, mapping=mapping,
-                errors=errors)
+        label = f'Word paragraph {block["index"]}'
+        def check(condition, message):
+            if not condition:
+                errors.append(f'{label}: {message}')
+        check(q['sources'][0]['file'] == SOURCE, 'old source file')
+        check(q['source_title'] == block['title'], 'changed source title')
+        check(q['source_content'] == block['elements'], 'changed or missing source paragraphs/table cells')
+        title = re.sub(r'^Câu\s*\d+\s*', '', block['title']).lstrip(' :.').strip()
+        title = re.sub(r'^\(Bài[^)]*\)\s*:\s*', '', title)
+        check(q['question'] == f'Câu {q["q_num"]}: {title}', 'changed displayed question')
+        paragraphs = [el for el in block['xml'] if el.tag == W+'p']
+        tables = [el for el in block['xml'] if el.tag == W+'tbl']
+        texts = [tidy(text_of(el)) for el in paragraphs]
+        if q['type'] in ('single_choice', 'multiple_choice'):
+            # XML characters are split into lines first; no importer or repair helpers.
+            chars = []
+            for p in paragraphs:
+                t = tidy(text_of(p))
+                if t.startswith('Đáp án') or t.startswith('(Sinh viên chọn'):
+                    continue
+                chars.extend(red_characters(p))
+                chars.append(('\n', False))
+            lines, line = [], []
+            for char in chars:
+                if char[0] == '\n':
+                    if tidy(''.join(c for c, _ in line)):
+                        lines.append(line)
+                    line = []
+                else:
+                    line.append(char)
+            options, answers = [], []
+            for i, line in enumerate(lines):
+                t = tidy(''.join(c for c, _ in line))
+                m = re.match(r'^([A-F])(?:[.)]\s*|\s+)(.*)$', t)
+                options.append(f'{m[1]}. {m[2]}' if m else f'{chr(65+i)}. {t}')
+                if any(marked and ch.strip() for ch, marked in line):
+                    answers.append(i)
+            explicit = next((re.match(r'Đáp án(?: đúng)?:\s*([A-F](?:(?:\s*,\s*|\s+và\s+)[A-F])*)', t) for t in texts if t.startswith('Đáp án')), None)
+            if explicit:
+                expected = [ord(x)-65 for x in re.findall('[A-F]', explicit[1])]
+                if answers:
+                    check(answers == expected, 'red marks differ from written answer')
+                answers = expected
+            check(q['options'] == options, 'changed or missing options')
+            check(q['correct_answers'] == answers, 'wrong answer indices from red marks')
+        elif q['type'] == 'true_false':
+            items, pending = [], None
+            for t in texts:
+                if t.startswith('Đáp án'):
+                    continue
+                if t.casefold() in ('đúng', 'sai'):
+                    items.append(dict(statement=pending, correct=t.casefold() == 'đúng'))
+                    pending = None
+                else:
+                    m = re.search(r'\s*(?:→\s*)?(Đúng|Sai)\s*$', t, re.I)
+                    if m:
+                        items.append(dict(statement=t[:m.start()].strip(), correct=m[1].casefold() == 'đúng'))
+                    else:
+                        pending = t
+            check(pending is None and q['items'] == items, 'changed true/false statements or answers')
+        elif q['type'] == 'drag_drop_categorize':
+            if tables:
+                rows = tables[0].findall(W+'tr')
+                expected = []
+                for col in range(2):
+                    title = tidy(text_of(rows[0].findall(W+'tc')[col]))
+                    content = []
+                    for row in rows[1:]:
+                        cell = row.findall(W+'tc')[col]
+                        content.extend(tidy(s) for s in text_of(cell).splitlines() if tidy(s))
+                    expected.append(dict(title=title, items=content))
+                check(q.get('unassigned_source_items', []) == texts, 'outside-table items not preserved')
+            else:
+                expected = []
+                for p in paragraphs:
+                    text = tidy(text_of(p))
+                    if any(marked and ch.strip() for ch, marked in red_characters(p)):
+                        expected[-1]['items'].append(text)
+                    else:
+                        expected.append(dict(title=text, items=[]))
+            check(q['categories'] == expected, 'changed category names, items or assignments')
+        elif q['type'] == 'drag_drop_match':
+            if tables:
+                expected = [dict(left=r['table'][i][0], right=r['table'][i][1])
+                            for r in block['elements'] if 'table' in r for i in range(len(r['table']))]
+                check(q['pairs'] == expected, 'changed matching rows')
+            elif any('→' in t for t in texts):
+                statements = {}
+                for p in paragraphs:
+                    for line in text_of(p).splitlines():
+                        m = re.match(r'^(\d+)\.\s*(.*)$', tidy(line))
+                        if m:
+                            statements[m[1]] = m[2]
+                expected = []
+                for t in texts:
+                    if '→' in t and not t.startswith('Đáp án'):
+                        left, right = map(tidy, t.split('→', 1))
+                        expected.append(dict(left=statements.get(left, left), right=right))
+                check(q['pairs'] == expected, 'changed arrow matching answers')
+            elif any('[' in t for t in texts):
+                expected = []
+                for t in texts:
+                    m = re.search(r'\[([^]]+)\]', t)
+                    expected.append(dict(left=t[:m.start()]+'______'+t[m.end():], right=m[1]))
+                check(q['pairs'] == expected, 'changed bracket matching answers')
+            else:
+                expected, pool = [], []
+                for p in paragraphs:
+                    chars = red_characters(p)
+                    answer = tidy(''.join(ch for ch, marked in chars if marked))
+                    pool.append(answer)
+                    if tidy(text_of(p)) == answer:
+                        continue
+                    first = next(i for i, (ch, marked) in enumerate(chars) if marked and ch.strip())
+                    last = max(i for i, (ch, marked) in enumerate(chars) if marked and ch.strip())
+                    left = tidy(''.join(ch for ch, _ in chars[:first])+' ______ '+''.join(ch for ch, _ in chars[last+1:]))
+                    expected.append(dict(left=left, right=answer))
+                check(q['pairs'] == expected, 'changed inline-red matching answers')
+                check(set(q['options_pool']) == set(pool), 'lost matching choices or distractors')
+        else:
+            check(False, 'unplayable source exercise')
+        mapping.append(dict(body_index=block['index'], source_title=block['title'], web_id=q['id'], type=q['type']))
+    return dict(source_file=SOURCE, source_sha256=hashlib.sha256((ROOT/SOURCE).read_bytes()).hexdigest(),
+                source_exercises=len(blocks), matched_source_exercises=len(mapping),
+                source_tables=sum(len([e for e in b['elements'] if 'table' in e]) for b in blocks),
+                headings=headings, mapping=mapping, errors=errors)
 
 
 if __name__ == '__main__':
     report = audit()
-    (ROOT / 'word-coverage-report.json').write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
-    print(json.dumps({k: v for k, v in report.items() if k != 'mapping'}, ensure_ascii=False, indent=2))
+    (ROOT/'word-coverage-report.json').write_text(json.dumps(report, ensure_ascii=False, indent=2)+'\n', encoding='utf8')
+    print(json.dumps({k:v for k,v in report.items() if k != 'mapping'}, ensure_ascii=False, indent=2))
     raise SystemExit(bool(report['errors']))

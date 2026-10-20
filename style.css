@@ -3,7 +3,18 @@
    Giao diện Quizizz hiện đại: Phản hồi tức thì, Thẻ chọn rực rỡ, Gamification
    =================================================================== */
 
-@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;600;700&display=swap');
+.source-warning {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  color: var(--text-primary);
+  line-height: 1.6;
+  font-size: 0.9rem;
+  overflow-wrap: anywhere;
+}
+.hero-question-title, .qz-text, .dnd-qz-chip, .tf-statement-text { overflow-wrap: anywhere; }
 
 .question-variant-picker {
   display: flex;
@@ -78,8 +89,8 @@
   --shadow-lg: 0 12px 24px -4px rgba(0, 0, 0, 0.12);
   --shadow-xl: 0 24px 36px -8px rgba(0, 0, 0, 0.16);
 
-  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
-  --font-mono: 'JetBrains Mono', monospace;
+  --font-sans: 'Segoe UI', Arial, system-ui, -apple-system, sans-serif;
+  --font-mono: Consolas, 'Courier New', monospace;
 
   --header-height: 72px;
 }

@@ -1,4 +1,4 @@
-"""Fail on invalid answers, duplicate exercises and incorrect lesson numbering."""
+"""Fail on invalid answers, duplicate IDs and incorrect lesson numbering."""
 import json
 import re
 from collections import Counter
@@ -6,7 +6,7 @@ from pathlib import Path
 
 
 def validate_questions(questions):
-    from build_merged_questions import clean, normal
+    from import_questions import normal
     errors, ids = [], set()
     counts = Counter()
     for q in questions:
@@ -17,7 +17,7 @@ def validate_questions(questions):
         require(q.get('id') not in ids, 'duplicate ID')
         ids.add(q.get('id'))
         lesson = q.get('lesson_num')
-        require(lesson in range(1, 7) and q.get('lesson') == f'Bài {lesson}', 'invalid lesson')
+        require(lesson in range(1, 7) and q.get('lesson') == ('Bổ sung' if lesson == 6 else f'Bài {lesson}'), 'invalid lesson')
         counts[lesson] += 1
         require(q.get('q_num') == counts[lesson], 'nonsequential lesson number')
         require(bool(q.get('sources')), 'missing source')
@@ -64,8 +64,5 @@ if __name__ == '__main__':
     js = (root / 'questions-data.js').read_text(encoding='utf-8').split('window.QUIZ_QUESTIONS = ', 1)[1].strip().removesuffix(';')
     if json.loads(js) != bank:
         errors.append('JSON and offline JS bank differ')
-    legacy = json.loads((root / 'legacy-question-ids.json').read_text(encoding='utf-8'))
-    if not set(legacy.values()).issubset({q['id'] for q in bank}):
-        errors.append('Legacy history points to removed questions')
-    print('\n'.join(errors) if errors else f'PASS: {len(bank)} unique questions, valid answers, numbering and identical offline data')
+    print('\n'.join(errors) if errors else f'PASS: {len(bank)} questions with distinct IDs, valid answers, numbering and identical offline data')
     raise SystemExit(bool(errors))

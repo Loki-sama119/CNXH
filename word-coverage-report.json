@@ -1,1968 +1,1531 @@
 {
-  "source_file": "GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx",
-  "source_exercises": 233,
-  "source_tables": 25,
-  "totals": {
-    "source_exercises": 233,
-    "choice_exercises": 185,
-    "tf_groups": 23,
-    "tf_statements": 92,
-    "drag_exercises": 25,
-    "unnumbered": 0,
-    "unique_web_exercises_from_source": 233,
-    "unique_choice_exercises": 185,
-    "unique_tf_statements": 92,
-    "source_expanded_total": 302,
-    "unique_expanded_total": 302,
-    "all_web_exercises": 265,
-    "all_web_expanded_total": 337
-  },
-  "matched_source_exercises": 233,
-  "unnumbered": [],
-  "lesson_counts": {
-    "1": {
-      "source_exercises": 41,
-      "drag_exercises": 4,
-      "tf_statements": 20,
-      "tf_groups": 5,
-      "choice_exercises": 32,
-      "unnumbered": 0,
-      "unique_web_exercises_from_source": 41,
-      "unique_choice_exercises": 32,
-      "unique_tf_statements": 20,
-      "source_expanded_total": 56,
-      "unique_expanded_total": 56
-    },
-    "2": {
-      "source_exercises": 40,
-      "drag_exercises": 3,
-      "tf_statements": 20,
-      "tf_groups": 5,
-      "choice_exercises": 32,
-      "unnumbered": 0,
-      "unique_web_exercises_from_source": 40,
-      "unique_choice_exercises": 32,
-      "unique_tf_statements": 20,
-      "source_expanded_total": 55,
-      "unique_expanded_total": 55
-    },
-    "3": {
-      "source_exercises": 41,
-      "drag_exercises": 4,
-      "tf_statements": 20,
-      "tf_groups": 5,
-      "choice_exercises": 32,
-      "unnumbered": 0,
-      "unique_web_exercises_from_source": 41,
-      "unique_choice_exercises": 32,
-      "unique_tf_statements": 20,
-      "source_expanded_total": 56,
-      "unique_expanded_total": 56
-    },
-    "4": {
-      "source_exercises": 45,
-      "drag_exercises": 5,
-      "tf_statements": 16,
-      "tf_groups": 4,
-      "choice_exercises": 36,
-      "unnumbered": 0,
-      "unique_web_exercises_from_source": 45,
-      "unique_choice_exercises": 36,
-      "unique_tf_statements": 16,
-      "source_expanded_total": 57,
-      "unique_expanded_total": 57
-    },
-    "5": {
-      "source_exercises": 39,
-      "drag_exercises": 7,
-      "tf_statements": 8,
-      "tf_groups": 2,
-      "choice_exercises": 30,
-      "unnumbered": 0,
-      "unique_web_exercises_from_source": 39,
-      "unique_choice_exercises": 30,
-      "unique_tf_statements": 8,
-      "source_expanded_total": 45,
-      "unique_expanded_total": 45
-    },
-    "6": {
-      "source_exercises": 27,
-      "drag_exercises": 2,
-      "tf_statements": 8,
-      "tf_groups": 2,
-      "choice_exercises": 23,
-      "unnumbered": 0,
-      "unique_web_exercises_from_source": 27,
-      "unique_choice_exercises": 23,
-      "unique_tf_statements": 8,
-      "source_expanded_total": 33,
-      "unique_expanded_total": 33
-    }
-  },
+  "source_file": "CHỦ NGHĨA XH-KH (2).docx",
+  "source_sha256": "c41143f3c5139fa386f1d0fb63c3259f8b880565bd990fa75f13ca427970fea3",
+  "source_exercises": 252,
+  "matched_source_exercises": 252,
+  "source_tables": 15,
+  "headings": [
+    "BÀI 1",
+    "BÀI 2",
+    "BÀI 3",
+    "BÀI 4",
+    "BÀI 5",
+    "CÁC CÂU CÒN THIẾU",
+    "BÀI KIỂM TRA THƯỜNG XUYÊN 1",
+    "BÀI KIỂM TRA THƯỜNG XUYÊN 2"
+  ],
   "mapping": [
     {
-      "lesson": 1,
-      "source_number": 1,
       "body_index": 1,
-      "web_id": "q-b1-c1-1",
-      "web_number": 1,
+      "source_title": "Câu 1: Những nhà tư tưởng tiêu biểu của chủ nghĩa xã hội không tưởng phê phán đầu thế kỷ XIX là ai?",
+      "web_id": "word-c41143f3c5139fa3-p1",
       "type": "single_choice"
     },
     {
-      "lesson": 1,
-      "source_number": 2,
-      "body_index": 7,
-      "web_id": "q-b1-c2-7",
-      "web_number": 2,
+      "body_index": 6,
+      "source_title": "Câu 2: Tác phẩm nào đánh dấu sự ra đời của chủ nghĩa xã hội khoa học?",
+      "web_id": "word-c41143f3c5139fa3-p6",
       "type": "single_choice"
     },
     {
-      "lesson": 1,
-      "source_number": 3,
-      "body_index": 13,
-      "web_id": "q-b1-c3-13",
-      "web_number": 3,
+      "body_index": 11,
+      "source_title": "Câu 3: Phát kiến nào của C.Mác và Ph.Ăngghen chỉ ra sự diệt vong về kinh tế của chủ nghĩa tư bản?",
+      "web_id": "word-c41143f3c5139fa3-p11",
       "type": "single_choice"
     },
     {
-      "lesson": 1,
-      "source_number": 4,
-      "body_index": 19,
-      "web_id": "q-b1-c4-19",
-      "web_number": 4,
+      "body_index": 16,
+      "source_title": "Câu 4: Phát kiến nào của C.Mác và Ph.Ăngghen chỉ ra những hạn chế có tính lịch sử của chủ nghĩa xã hội không tưởng?",
+      "web_id": "word-c41143f3c5139fa3-p16",
       "type": "single_choice"
     },
     {
-      "lesson": 1,
-      "source_number": 5,
-      "body_index": 25,
-      "web_id": "q-b1-c5-25",
-      "web_number": 5,
+      "body_index": 21,
+      "source_title": "Câu 5: Ph.Ăngghen đã đánh giá: \"Hai phát hiện vĩ đại này đã đưa chủ nghĩa xã hội trở thành một khoa học\". Hai phát kiến đó là gì?",
+      "web_id": "word-c41143f3c5139fa3-p21",
       "type": "single_choice"
     },
     {
-      "lesson": 1,
-      "source_number": 6,
+      "body_index": 26,
+      "source_title": "Câu 6: Phạm trù nào được coi là cơ bản nhất và là xuất phát điểm của chủ nghĩa xã hội khoa học?",
+      "web_id": "word-c41143f3c5139fa3-p26",
+      "type": "single_choice"
+    },
+    {
       "body_index": 31,
-      "web_id": "q-b1-c6-31",
-      "web_number": 6,
+      "source_title": "Câu 7: Xét về phương thức lao động, phương thức sản xuất, giai cấp công nhân mang thuộc tính cơ bản nào?",
+      "web_id": "word-c41143f3c5139fa3-p31",
       "type": "single_choice"
     },
     {
-      "lesson": 1,
-      "source_number": 7,
-      "body_index": 37,
-      "web_id": "q-b1-c7-37",
-      "web_number": 7,
+      "body_index": 36,
+      "source_title": "Câu 8: Xét trong quan hệ sản xuất tư bản chủ nghĩa giai cấp công nhân là:",
+      "web_id": "word-c41143f3c5139fa3-p36",
       "type": "single_choice"
     },
     {
-      "lesson": 1,
-      "source_number": 8,
-      "body_index": 43,
-      "web_id": "q-b1-c8-43",
-      "web_number": 8,
+      "body_index": 41,
+      "source_title": "Câu 9: Giai cấp công nhân Việt Nam ra đời vào thời gian nào?",
+      "web_id": "word-c41143f3c5139fa3-p41",
       "type": "single_choice"
     },
     {
-      "lesson": 1,
-      "source_number": 9,
-      "body_index": 49,
-      "web_id": "q-b1-c9-49",
-      "web_number": 9,
+      "body_index": 46,
+      "source_title": "Câu 10: Hạn chế cơ bản lớn nhất mà giai cấp công nhân Việt Nam hiện nay cần khắc phục là gì?",
+      "web_id": "word-c41143f3c5139fa3-p46",
       "type": "single_choice"
     },
     {
-      "lesson": 1,
-      "source_number": 10,
-      "body_index": 54,
-      "web_id": "q-b1-c10-54",
-      "web_number": 10,
+      "body_index": 51,
+      "source_title": "Câu 11: Trong các nội dung sau đây thì nội dung nào thuộc về giải pháp xây dựng giai cấp công nhân Việt Nam hiện nay?",
+      "web_id": "word-c41143f3c5139fa3-p51",
       "type": "single_choice"
     },
     {
-      "lesson": 1,
-      "source_number": 11,
-      "body_index": 60,
-      "web_id": "q-b1-c11-60",
-      "web_number": 11,
+      "body_index": 56,
+      "source_title": "Câu 12: Theo Ph. Ăngghen: \"Thực hiện nhiệm vụ giải phóng thế giới ấy, đó là sứ mệnh lịch sử của.........\". Hãy chọn đáp án đúng điền vào chỗ trống?",
+      "web_id": "word-c41143f3c5139fa3-p56",
       "type": "single_choice"
     },
     {
-      "lesson": 1,
-      "source_number": 12,
+      "body_index": 61,
+      "source_title": "Câu 13: Đặc điểm nào sau đây thể hiện đúng bản chất của giai cấp công nhân? (Chọn 2 đáp án đúng)",
+      "web_id": "word-c41143f3c5139fa3-p61",
+      "type": "multiple_choice"
+    },
+    {
       "body_index": 66,
-      "web_id": "q-b1-c12-66",
-      "web_number": 12,
+      "source_title": "Câu 14: Giai cấp công nhân Việt Nam chủ yếu xuất thân từ tầng lớp nào? (Chọn 2 đáp án đúng)",
+      "web_id": "word-c41143f3c5139fa3-p66",
+      "type": "multiple_choice"
+    },
+    {
+      "body_index": 71,
+      "source_title": "Câu 15: Giai cấp công nhân Việt Nam có đặc điểm gì khác với giai cấp công nhân ở các nước tư bản? (Chọn 2 đáp án đúng)",
+      "web_id": "word-c41143f3c5139fa3-p71",
+      "type": "multiple_choice"
+    },
+    {
+      "body_index": 76,
+      "source_title": "Câu 16: Đối tượng nghiên cứu của chủ nghĩa xã hội khoa học là gì?",
+      "web_id": "word-c41143f3c5139fa3-p76",
       "type": "single_choice"
     },
     {
-      "lesson": 1,
-      "source_number": 13,
-      "body_index": 72,
-      "web_id": "q-b1-c13-72",
-      "web_number": 13,
-      "type": "multiple_choice"
-    },
-    {
-      "lesson": 1,
-      "source_number": 14,
-      "body_index": 78,
-      "web_id": "q-b1-c14-78",
-      "web_number": 14,
-      "type": "multiple_choice"
-    },
-    {
-      "lesson": 1,
-      "source_number": 15,
-      "body_index": 84,
-      "web_id": "q-b1-c15-84",
-      "web_number": 15,
-      "type": "multiple_choice"
-    },
-    {
-      "lesson": 1,
-      "source_number": 16,
-      "body_index": 90,
-      "web_id": "q-b1-c16-90",
-      "web_number": 16,
+      "body_index": 81,
+      "source_title": "Câu 17: Đâu là nhân tố chủ quan quan trọng nhất để giai cấp công nhân thực hiện thắng lợi sứ mệnh lịch sử của mình?",
+      "web_id": "word-c41143f3c5139fa3-p81",
       "type": "single_choice"
     },
     {
-      "lesson": 1,
-      "source_number": 17,
+      "body_index": 86,
+      "source_title": "Câu 18: Tìm ý đúng để hoàn thiện luận điểm sau: Cùng với sự phát triển của khoa học và công nghệ ngày càng hiện đại, giai cấp công nhân:",
+      "web_id": "word-c41143f3c5139fa3-p86",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 91,
+      "source_title": "Câu 19: Điền từ còn thiếu vào chỗ trống: Giai cấp công nhân và nhân dân lao động là cơ sở..., cơ sở... của Đảng cộng sản, là nguồn bổ sung lực lượng phong phú cho Đảng.",
+      "web_id": "word-c41143f3c5139fa3-p91",
+      "type": "single_choice"
+    },
+    {
       "body_index": 96,
-      "web_id": "q-b1-c17-96",
-      "web_number": 17,
+      "source_title": "Câu 20 : Điền từ còn thiếu vào chỗ trống \"Giai cấp công nhân Việt Nam thực hiện lãnh đạo cách mạng thông qua đội tiên phong của nó là (...)\"",
+      "web_id": "word-c41143f3c5139fa3-p96",
       "type": "single_choice"
     },
     {
-      "lesson": 1,
-      "source_number": 18,
-      "body_index": 102,
-      "web_id": "q-b1-c18-102",
-      "web_number": 18,
+      "body_index": 101,
+      "source_title": "Câu 21: Điểm then chốt để giúp giai cấp công nhân Việt Nam hiện nay thực hiện thành công sứ mệnh lịch sử của mình là:",
+      "web_id": "word-c41143f3c5139fa3-p101",
       "type": "single_choice"
     },
     {
-      "lesson": 1,
-      "source_number": 19,
-      "body_index": 108,
-      "web_id": "q-b1-c19-108",
-      "web_number": 19,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 1,
-      "source_number": 20,
-      "body_index": 114,
-      "web_id": "q-b1-c20-114",
-      "web_number": 20,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 1,
-      "source_number": 21,
-      "body_index": 120,
-      "web_id": "q-b1-c21-120",
-      "web_number": 21,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 1,
-      "source_number": 22,
-      "body_index": 126,
-      "web_id": "q-b1-c22-126",
-      "web_number": 22,
+      "body_index": 106,
+      "source_title": "Câu 22: Trong thời kỳ thuộc địa, giai cấp công nhân Việt Nam chủ yếu làm việc trong: (Chọn 2 đáp án đúng)",
+      "web_id": "word-c41143f3c5139fa3-p106",
       "type": "multiple_choice"
     },
     {
-      "lesson": 1,
-      "source_number": 23,
-      "body_index": 132,
-      "web_id": "q-b1-c23-132",
-      "web_number": 23,
+      "body_index": 111,
+      "source_title": "Câu 23 : Dấu hiệu đánh dấu sự trưởng thành vượt bậc của giai cấp công nhân với tư cách là giai cấp cách mạng là:",
+      "web_id": "word-c41143f3c5139fa3-p111",
       "type": "single_choice"
     },
     {
-      "lesson": 1,
-      "source_number": 24,
-      "body_index": 138,
-      "web_id": "q-b1-c24-138",
-      "web_number": 24,
+      "body_index": 117,
+      "source_title": "Câu 24: Nội dung trực tiếp về văn hoá tư tưởng thể hiện sứ mệnh lịch sử của giai cấp công nhân Việt Nam là:",
+      "web_id": "word-c41143f3c5139fa3-p117",
       "type": "single_choice"
     },
     {
-      "lesson": 1,
-      "source_number": 25,
-      "body_index": 144,
-      "web_id": "q-b1-c25-144",
-      "web_number": 25,
+      "body_index": 123,
+      "source_title": "Câu 25 : Theo C.Mác và Ph.Ăngghen thì đặc điểm nổi bật của giai cấp công nhân là: (Chọn 2 đáp án đúng)",
+      "web_id": "word-c41143f3c5139fa3-p123",
+      "type": "multiple_choice"
+    },
+    {
+      "body_index": 129,
+      "source_title": "Câu 26: Trong các nội dung sau đây thì nội dung nào thuộc về giải pháp xây dựng giai cấp công nhân Việt Nam hiện nay?",
+      "web_id": "word-c41143f3c5139fa3-p129",
       "type": "single_choice"
     },
     {
-      "lesson": 1,
-      "source_number": 26,
+      "body_index": 134,
+      "source_title": "Câu 27: Điều kiện chủ quan để giai cấp công nhân thực hiện được sứ mệnh lịch sử của mình là: (Chọn 2 đáp án đúng)",
+      "web_id": "word-c41143f3c5139fa3-p134",
+      "type": "multiple_choice"
+    },
+    {
+      "body_index": 139,
+      "source_title": "Câu 28: Đặc điểm sứ mệnh lịch sử của giai cấp công nhân là:",
+      "web_id": "word-c41143f3c5139fa3-p139",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 145,
+      "source_title": "Câu 29: Vấn đề nổi bật nhất đối với việc thực hiện sứ mệnh lịch sử của giai cấp công nhân Việt Nam hiện nay là gì?",
+      "web_id": "word-c41143f3c5139fa3-p145",
+      "type": "single_choice"
+    },
+    {
       "body_index": 150,
-      "web_id": "q-b1-c26-150",
-      "web_number": 26,
-      "type": "single_choice"
+      "source_title": "Câu 30: Chủ nghĩa xã hội khoa học ra đời dựa trên cơ sở của những tiền đề nào? (Chọn 2 đáp án đúng)",
+      "web_id": "word-c41143f3c5139fa3-p150",
+      "type": "multiple_choice"
     },
     {
-      "lesson": 1,
-      "source_number": 27,
       "body_index": 156,
-      "web_id": "q-b1-c27-156",
-      "web_number": 27,
-      "type": "multiple_choice"
-    },
-    {
-      "lesson": 1,
-      "source_number": 28,
-      "body_index": 162,
-      "web_id": "q-b1-c28-162",
-      "web_number": 28,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 1,
-      "source_number": 29,
-      "body_index": 168,
-      "web_id": "q-b1-c29-168",
-      "web_number": 29,
-      "type": "multiple_choice"
-    },
-    {
-      "lesson": 1,
-      "source_number": 30,
-      "body_index": 174,
-      "web_id": "q-b1-c30-174",
-      "web_number": 30,
-      "type": "multiple_choice"
-    },
-    {
-      "lesson": 1,
-      "source_number": 31,
-      "body_index": 181,
-      "web_id": "q-b1-c31-181",
-      "web_number": 31,
-      "type": "multiple_choice"
-    },
-    {
-      "lesson": 1,
-      "source_number": 32,
-      "body_index": 187,
-      "web_id": "q-b1-c32-187",
-      "web_number": 32,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 1,
-      "source_number": 33,
-      "body_index": 193,
-      "web_id": "q-b1-c33-193",
-      "web_number": 33,
+      "source_title": "Câu 31: Chọn đáp án đúng hoặc sai với từng phát biểu sau.",
+      "web_id": "word-c41143f3c5139fa3-p156",
       "type": "true_false"
     },
     {
-      "lesson": 1,
-      "source_number": 34,
-      "body_index": 203,
-      "web_id": "q-b1-c34-203",
-      "web_number": 34,
+      "body_index": 166,
+      "source_title": "Câu 32: Chọn đáp án đúng hoặc sai với từng phát biểu sau.",
+      "web_id": "word-c41143f3c5139fa3-p166",
       "type": "true_false"
     },
     {
-      "lesson": 1,
-      "source_number": 35,
-      "body_index": 213,
-      "web_id": "q-b1-c35-213",
-      "web_number": 35,
-      "type": "true_false"
-    },
-    {
-      "lesson": 1,
-      "source_number": 36,
-      "body_index": 224,
-      "web_id": "q-b1-c36-224",
-      "web_number": 36,
-      "type": "true_false"
-    },
-    {
-      "lesson": 1,
-      "source_number": 37,
-      "body_index": 234,
-      "web_id": "q-b1-c37-234",
-      "web_number": 37,
-      "type": "true_false"
-    },
-    {
-      "lesson": 1,
-      "source_number": 38,
-      "body_index": 244,
-      "web_id": "q-b1-c38-244",
-      "web_number": 38,
+      "body_index": 175,
+      "source_title": "Câu 33: Hãy kéo thả các yếu tố sau đây vào cột tương ứng.",
+      "web_id": "word-c41143f3c5139fa3-p175",
       "type": "drag_drop_categorize"
     },
     {
-      "lesson": 1,
-      "source_number": 39,
-      "body_index": 248,
-      "web_id": "q-b1-c39-248",
-      "web_number": 39,
+      "body_index": 179,
+      "source_title": "Câu 34: Kéo thả các đáp án khớp với các phát biểu từ 1 - 3 vế trái dưới đây:",
+      "web_id": "word-c41143f3c5139fa3-p179",
       "type": "drag_drop_match"
     },
     {
-      "lesson": 1,
-      "source_number": 40,
+      "body_index": 185,
+      "source_title": "Câu 35: chọn đáp án ( đúng hoặc sai) với từng phát biểu sau",
+      "web_id": "word-c41143f3c5139fa3-p185",
+      "type": "true_false"
+    },
+    {
+      "body_index": 194,
+      "source_title": "Câu 36: Nội dung sứ mệnh lịch sử của giai cấp công nhân Việt Nam hiện nay bao gồm: (Chọn 3 đáp án đúng)",
+      "web_id": "word-c41143f3c5139fa3-p194",
+      "type": "multiple_choice"
+    },
+    {
+      "body_index": 200,
+      "source_title": "Câu 37 : Xã hội xã hội chủ nghĩa ở Việt Nam là xã hội:",
+      "web_id": "word-c41143f3c5139fa3-p200",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 205,
+      "source_title": "Câu 38 : Vận dụng những kiến thức đã học, cho biết đâu là quan niệm đúng và đầy đủ về nhà nước xã hội chủ nghĩa ở Việt Nam?",
+      "web_id": "word-c41143f3c5139fa3-p205",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 210,
+      "source_title": "Câu 39 : Kéo thả các đáp án khớp với các phát biểu từ 1 – 3 về trái dưới đây:",
+      "web_id": "word-c41143f3c5139fa3-p210",
+      "type": "drag_drop_match"
+    },
+    {
+      "body_index": 217,
+      "source_title": "Câu 1 Theo C.Mác và Phh.Ăngghen thì giai đoạn đầu của hình thái kinh tế - xã hội cộng sản chủ nghĩa là gì?",
+      "web_id": "word-c41143f3c5139fa3-p217",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 222,
+      "source_title": "Câu 2 Câu \"Cần phải có thời kỳ quá độ khá lâu dài từ chủ nghĩa tư bản lên chủ nghĩa xã hội\" là của ai?",
+      "web_id": "word-c41143f3c5139fa3-p222",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 227,
+      "source_title": "Câu 3 Hình thái kinh tế - xã hội cộng sản chủ nghĩa bắt đầu và hoàn thiện khi nào?",
+      "web_id": "word-c41143f3c5139fa3-p227",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 232,
+      "source_title": "Câu 4 Đặc trưng về kinh tế của chủ nghĩa xã hội là gì?",
+      "web_id": "word-c41143f3c5139fa3-p232",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 237,
+      "source_title": "Câu 5 Nguyên nhân sâu xa dẫn đến sự thay thế hình thái kinh tế - xã hội tư bản chủ nghĩa bằng hình thái kinh tế - xã hội cộng sản chủ nghĩa là gì?",
+      "web_id": "word-c41143f3c5139fa3-p237",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 242,
+      "source_title": "Câu 6 Theo quan điểm của chủ nghĩa Mác – Lênin mốc bắt đầu của thời kỳ quá độ lên chủ nghĩa xã hội từ khi nào?",
+      "web_id": "word-c41143f3c5139fa3-p242",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 247,
+      "source_title": "Câu 7: Đặc điểm nổi bật của thời kỳ quá độ đó là:",
+      "web_id": "word-c41143f3c5139fa3-p247",
+      "type": "single_choice"
+    },
+    {
       "body_index": 252,
-      "web_id": "q-b1-c40-252",
-      "web_number": 40,
-      "type": "drag_drop_match"
+      "source_title": "Câu 8: Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa ở nước ta, được hiểu là:",
+      "web_id": "word-c41143f3c5139fa3-p252",
+      "type": "single_choice"
     },
     {
-      "lesson": 1,
-      "source_number": 41,
-      "body_index": 256,
-      "web_id": "q-b1-c41-256",
-      "web_number": 41,
-      "type": "drag_drop_match"
+      "body_index": 257,
+      "source_title": "Câu 9 :Chọn cụm từ còn thiếu điền vào dấu ...: \"Giữa xã hội tư bản chủ nghĩa và xã hội cộng sản chủ nghĩa là một thời kỳ....từ xã hội nọ sang xã hội kia\"(C.Mác)",
+      "web_id": "word-c41143f3c5139fa3-p257",
+      "type": "single_choice"
     },
     {
-      "lesson": 2,
-      "source_number": 1,
       "body_index": 262,
-      "web_id": "q-b2-c1-262",
-      "web_number": 1,
+      "source_title": "Câu 10: Kiểu quá độ lên chủ nghĩa xã hội ở Việt Nam là kiểu quá độ nào?",
+      "web_id": "word-c41143f3c5139fa3-p262",
       "type": "single_choice"
     },
     {
-      "lesson": 2,
-      "source_number": 2,
-      "body_index": 268,
-      "web_id": "q-b2-c2-268",
-      "web_number": 2,
+      "body_index": 267,
+      "source_title": "Câu 11: Chọn từ đúng điền vào chỗ trống để hoàn thành mục tiêu của Đảng xác định trong thời kỳ quá độ lên chủ nghĩa xã hội ở nước ta: Độc lập dân tộc gắn liền với chủ nghĩa xã hội; dân giàu, nước mạnh, dân chủ, ...., văn minh",
+      "web_id": "word-c41143f3c5139fa3-p267",
       "type": "single_choice"
     },
     {
-      "lesson": 2,
-      "source_number": 3,
-      "body_index": 274,
-      "web_id": "q-b2-c3-274",
-      "web_number": 3,
+      "body_index": 272,
+      "source_title": "Câu 12: Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (Bổ sung và phát triển năm 2011) được Đảng ta thông qua ở đại hội lần thứ mấy?",
+      "web_id": "word-c41143f3c5139fa3-p272",
       "type": "single_choice"
     },
     {
-      "lesson": 2,
-      "source_number": 4,
-      "body_index": 281,
-      "web_id": "q-b2-c4-281",
-      "web_number": 4,
+      "body_index": 277,
+      "source_title": "Câu 13 :Thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là bước quá độ:",
+      "web_id": "word-c41143f3c5139fa3-p277",
       "type": "single_choice"
     },
     {
-      "lesson": 2,
-      "source_number": 5,
-      "body_index": 288,
-      "web_id": "q-b2-c5-288",
-      "web_number": 5,
+      "body_index": 282,
+      "source_title": "Câu 14: Chọn phương án sai",
+      "web_id": "word-c41143f3c5139fa3-p282",
       "type": "single_choice"
     },
     {
-      "lesson": 2,
-      "source_number": 6,
-      "body_index": 295,
-      "web_id": "q-b2-c6-295",
-      "web_number": 6,
+      "body_index": 287,
+      "source_title": "Câu 15: Kéo thả các đáp án khớp với các phát biểu từ 1 – 3:",
+      "web_id": "word-c41143f3c5139fa3-p287",
+      "type": "drag_drop_match"
+    },
+    {
+      "body_index": 291,
+      "source_title": "Câu 16: Chủ nghĩa xã hội có mấy đặc trưng cơ bản",
+      "web_id": "word-c41143f3c5139fa3-p291",
       "type": "single_choice"
     },
     {
-      "lesson": 2,
-      "source_number": 7,
-      "body_index": 302,
-      "web_id": "q-b2-c7-302",
-      "web_number": 7,
+      "body_index": 296,
+      "source_title": "Câu 17: Về nội dung, thời kỳ quá độ lên chủ nghĩa xã hội là thời kỳ cải tạo cách mạng sâu sắc, triệt để xã hội tư bản chủ nghĩa trên các lĩnh vực:",
+      "web_id": "word-c41143f3c5139fa3-p296",
       "type": "single_choice"
     },
     {
-      "lesson": 2,
-      "source_number": 8,
-      "body_index": 309,
-      "web_id": "q-b2-c8-309",
-      "web_number": 8,
+      "body_index": 301,
+      "source_title": "Câu 18: Phát triển bỏ qua chế độ tư bản chủ nghĩa ở Việt Nam được hiểu như thế nào?",
+      "web_id": "word-c41143f3c5139fa3-p301",
       "type": "single_choice"
     },
     {
-      "lesson": 2,
-      "source_number": 9,
-      "body_index": 316,
-      "web_id": "q-b2-c9-316",
-      "web_number": 9,
-      "type": "single_choice"
+      "body_index": 306,
+      "source_title": "Câu 19: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+      "web_id": "word-c41143f3c5139fa3-p306",
+      "type": "true_false"
     },
     {
-      "lesson": 2,
-      "source_number": 10,
-      "body_index": 323,
-      "web_id": "q-b2-c10-323",
-      "web_number": 10,
-      "type": "single_choice"
+      "body_index": 315,
+      "source_title": "Câu 20: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+      "web_id": "word-c41143f3c5139fa3-p315",
+      "type": "true_false"
     },
     {
-      "lesson": 2,
-      "source_number": 11,
-      "body_index": 330,
-      "web_id": "q-b2-c11-330",
-      "web_number": 11,
+      "body_index": 324,
+      "source_title": "Câu 21 :Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+      "web_id": "word-c41143f3c5139fa3-p324",
+      "type": "true_false"
+    },
+    {
+      "body_index": 334,
+      "source_title": "Câu 22: Đặc điểm nổi bật của thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là gì? (Chọn 2 đáp án đúng)",
+      "web_id": "word-c41143f3c5139fa3-p334",
       "type": "multiple_choice"
     },
     {
-      "lesson": 2,
-      "source_number": 12,
-      "body_index": 337,
-      "web_id": "q-b2-c12-337",
-      "web_number": 12,
+      "body_index": 340,
+      "source_title": "Câu 23: Đặc điểm về chính trị trong thời kỳ quá độ được thể hiện ở điểm nào? (Chọn 2 đáp án đúng)",
+      "web_id": "word-c41143f3c5139fa3-p340",
       "type": "multiple_choice"
     },
     {
-      "lesson": 2,
-      "source_number": 13,
-      "body_index": 344,
-      "web_id": "q-b2-c13-344",
-      "web_number": 13,
+      "body_index": 346,
+      "source_title": "Câu 24: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+      "web_id": "word-c41143f3c5139fa3-p346",
+      "type": "true_false"
+    },
+    {
+      "body_index": 355,
+      "source_title": "Câu 25: Hãy chỉ ra luận điểm không chính xác:",
+      "web_id": "word-c41143f3c5139fa3-p355",
       "type": "single_choice"
     },
     {
-      "lesson": 2,
-      "source_number": 14,
-      "body_index": 351,
-      "web_id": "q-b2-c14-351",
-      "web_number": 14,
+      "body_index": 360,
+      "source_title": "Câu 26: Đặc điểm của thời kỳ quá độ lên chủ nghĩa xã hội trên lĩnh vực kinh tế là gì?",
+      "web_id": "word-c41143f3c5139fa3-p360",
       "type": "single_choice"
     },
     {
-      "lesson": 2,
-      "source_number": 15,
-      "body_index": 358,
-      "web_id": "q-b2-c15-358",
-      "web_number": 15,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 2,
-      "source_number": 16,
       "body_index": 365,
-      "web_id": "q-b2-c16-365",
-      "web_number": 16,
+      "source_title": "Câu 27: Tìm đáp án sai. Đặc trưng bản chất của chủ nghĩa xã hội Việt Nam theo tinh thần của Đại hội XI",
+      "web_id": "word-c41143f3c5139fa3-p365",
       "type": "single_choice"
     },
     {
-      "lesson": 2,
-      "source_number": 17,
-      "body_index": 371,
-      "web_id": "q-b2-c17-371",
-      "web_number": 17,
+      "body_index": 370,
+      "source_title": "Câu 28:Trong cuốn sách \"Một số vấn đề lý luận và thực tiễn về chủ nghĩa xã hội và con đường đi lên chủ nghĩa xã hội ở Việt Nam\", Tổng Bí thư Nguyễn Phú Trọng khẳng định: đường lối cơ bản, xuyên suốt của cách mạng Việt Nam và cũng là điểm cốt yếu trong di sản tư tưởng của Chủ tịch Hồ Chí Minh là:",
+      "web_id": "word-c41143f3c5139fa3-p370",
       "type": "single_choice"
     },
     {
-      "lesson": 2,
-      "source_number": 18,
-      "body_index": 378,
-      "web_id": "q-b2-c18-378",
-      "web_number": 18,
+      "body_index": 375,
+      "source_title": "Câu 29: Tại sao cho rằng con đường cách mạng Việt Nam là quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa là một tất yếu?",
+      "web_id": "word-c41143f3c5139fa3-p375",
       "type": "single_choice"
     },
     {
-      "lesson": 2,
-      "source_number": 19,
+      "body_index": 380,
+      "source_title": "Câu 30 :Căn cứ vào giáo trình Chủ nghĩa xã hội khoa học, hãy xác định khái niệm dùng để chỉ một chế độ xã hội tốt đẹp, giai đoạn đầu của hình thái kinh tế - xã hội cộng sản chủ nghĩa",
+      "web_id": "word-c41143f3c5139fa3-p380",
+      "type": "single_choice"
+    },
+    {
       "body_index": 385,
-      "web_id": "q-b2-c19-385",
-      "web_number": 19,
+      "source_title": "Câu 31: Theo chủ nghĩa Mác – Lênin có mấy hình thức quá độ lên chủ nghĩa xã hội?",
+      "web_id": "word-c41143f3c5139fa3-p385",
       "type": "single_choice"
     },
     {
-      "lesson": 2,
-      "source_number": 20,
-      "body_index": 392,
-      "web_id": "q-b2-c20-392",
-      "web_number": 20,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 2,
-      "source_number": 21,
-      "body_index": 399,
-      "web_id": "q-b2-c21-399",
-      "web_number": 21,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 2,
-      "source_number": 22,
-      "body_index": 406,
-      "web_id": "q-b2-c22-406",
-      "web_number": 22,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 2,
-      "source_number": 23,
-      "body_index": 413,
-      "web_id": "q-b2-c23-413",
-      "web_number": 23,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 2,
-      "source_number": 24,
-      "body_index": 420,
-      "web_id": "q-b2-c24-420",
-      "web_number": 24,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 2,
-      "source_number": 25,
-      "body_index": 427,
-      "web_id": "q-b2-c25-427",
-      "web_number": 25,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 2,
-      "source_number": 26,
-      "body_index": 434,
-      "web_id": "q-b2-c26-434",
-      "web_number": 26,
+      "body_index": 390,
+      "source_title": "Câu 32: Đặc điểm về kinh tế của thời kỳ quá độ lên chủ nghĩa xã hội gồm: (Chọn 2 đáp án đúng)",
+      "web_id": "word-c41143f3c5139fa3-p390",
       "type": "multiple_choice"
     },
     {
-      "lesson": 2,
-      "source_number": 27,
-      "body_index": 441,
-      "web_id": "q-b2-c27-441",
-      "web_number": 27,
+      "body_index": 395,
+      "source_title": "Câu 33: Việc \"bỏ qua chế độ tư bản chủ nghĩa\" ở Việt Nam có nghĩa là: (Chọn 2 đáp án đúng)",
+      "web_id": "word-c41143f3c5139fa3-p395",
       "type": "multiple_choice"
     },
     {
-      "lesson": 2,
-      "source_number": 28,
-      "body_index": 448,
-      "web_id": "q-b2-c28-448",
-      "web_number": 28,
+      "body_index": 400,
+      "source_title": "Câu 34: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+      "web_id": "word-c41143f3c5139fa3-p400",
       "type": "true_false"
     },
     {
-      "lesson": 2,
-      "source_number": 29,
-      "body_index": 459,
-      "web_id": "q-b2-c29-459",
-      "web_number": 29,
-      "type": "true_false"
+      "body_index": 408,
+      "source_title": "Câu 35: Kéo thả các đáp án khớp với các phát biểu từ 1 - 3 vế trái dưới đây:",
+      "web_id": "word-c41143f3c5139fa3-p408",
+      "type": "drag_drop_match"
     },
     {
-      "lesson": 2,
-      "source_number": 30,
-      "body_index": 470,
-      "web_id": "q-b2-c30-470",
-      "web_number": 30,
-      "type": "true_false"
+      "body_index": 411,
+      "source_title": "Câu 36 : Đặc điểm cơ bản của thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là gì? (Chọn 2 đáp án đúng)",
+      "web_id": "word-c41143f3c5139fa3-p411",
+      "type": "multiple_choice"
     },
     {
-      "lesson": 2,
-      "source_number": 31,
-      "body_index": 480,
-      "web_id": "q-b2-c31-480",
-      "web_number": 31,
-      "type": "true_false"
+      "body_index": 417,
+      "source_title": "Câu 37 : Việc \"bỏ qua chế độ tư bản chủ nghĩa\" ở Việt Nam có nghĩa là: (Chọn 2 đáp án đúng)",
+      "web_id": "word-c41143f3c5139fa3-p417",
+      "type": "multiple_choice"
     },
     {
-      "lesson": 2,
-      "source_number": 32,
+      "body_index": 423,
+      "source_title": "Câu 38: Thời kỳ quá độ lên chủ nghĩa xã hội có những mâu thuẫn nào cần giải quyết? (Chọn 2 đáp án đúng)",
+      "web_id": "word-c41143f3c5139fa3-p423",
+      "type": "multiple_choice"
+    },
+    {
+      "body_index": 428,
+      "source_title": "Câu 39 : Hai loại quá độ từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đó là: (Chọn 2 đáp án)",
+      "web_id": "word-c41143f3c5139fa3-p428",
+      "type": "multiple_choice"
+    },
+    {
+      "body_index": 433,
+      "source_title": "Câu 40 : Cuộc cách mạng của giai cấp công nhân và nhân dân lao động dưới sự lãnh đạo của Đảng cộng sản chống lại giai cấp tư sản, là cuộc cách mạng:",
+      "web_id": "word-c41143f3c5139fa3-p433",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 440,
+      "source_title": "Câu 41: Kéo thả các đáp án khớp với các phát biểu từ 1 - 3 vế trái dưới đây:",
+      "web_id": "word-c41143f3c5139fa3-p440",
+      "type": "drag_drop_match"
+    },
+    {
+      "body_index": 443,
+      "source_title": "Câu 42 : Kéo thả các đáp án khớp với các phát biểu từ 1 – 3 về trái dưới đây:",
+      "web_id": "word-c41143f3c5139fa3-p443",
+      "type": "drag_drop_match"
+    },
+    {
+      "body_index": 447,
+      "source_title": "Câu 43 : Kéo thả các đáp án khớp với các phát biểu từ 1 – 4 về trái dưới đây:",
+      "web_id": "word-c41143f3c5139fa3-p447",
+      "type": "drag_drop_match"
+    },
+    {
+      "body_index": 452,
+      "source_title": "Câu 1: Theo nguyên nghĩa tiếng Hy Lạp thì \"Dân chủ\" là gì?",
+      "web_id": "word-c41143f3c5139fa3-p452",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 457,
+      "source_title": "Câu 2: Dân chủ xã hội chủ nghĩa mang tính nhất nguyên về chính trị, được hiểu là:",
+      "web_id": "word-c41143f3c5139fa3-p457",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 462,
+      "source_title": "Câu 3: Lịch sử loài người đã từng xuất hiện các nền dân chủ nào?",
+      "web_id": "word-c41143f3c5139fa3-p462",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 467,
+      "source_title": "Câu 4: Bản chất chính trị của nền dân chủ xã hội chủ nghĩa thể hiện như thế nào?",
+      "web_id": "word-c41143f3c5139fa3-p467",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 472,
+      "source_title": "Câu 5: Bản chất tư tưởng - văn hoá - xã hội của nền dân chủ xã hội chủ nghĩa được thể hiện ở nội dung nào?",
+      "web_id": "word-c41143f3c5139fa3-p472",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 477,
+      "source_title": "Câu 6: Đặc điểm của nhà nước pháp quyền xã hội chủ nghĩa là gì?",
+      "web_id": "word-c41143f3c5139fa3-p477",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 482,
+      "source_title": "Câu 7: Kiểu nhà nước nào sau đây được V.I. Lênin gọi là nhà nước \"nửa nhà nước\"?",
+      "web_id": "word-c41143f3c5139fa3-p482",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 487,
+      "source_title": "Câu 8: Căn cứ vào phạm vi tác động của quyền lực nhà nước, chức năng của nhà nước được chia thành:",
+      "web_id": "word-c41143f3c5139fa3-p487",
+      "type": "single_choice"
+    },
+    {
       "body_index": 492,
-      "web_id": "q-b2-c32-492",
-      "web_number": 32,
-      "type": "true_false"
-    },
-    {
-      "lesson": 2,
-      "source_number": 33,
-      "body_index": 503,
-      "web_id": "q-b2-c33-503",
-      "web_number": 33,
-      "type": "drag_drop_match"
-    },
-    {
-      "lesson": 2,
-      "source_number": 34,
-      "body_index": 508,
-      "web_id": "q-b2-c34-508",
-      "web_number": 34,
-      "type": "drag_drop_match"
-    },
-    {
-      "lesson": 2,
-      "source_number": 35,
-      "body_index": 513,
-      "web_id": "q-b2-c35-513",
-      "web_number": 35,
-      "type": "multiple_choice"
-    },
-    {
-      "lesson": 2,
-      "source_number": 36,
-      "body_index": 519,
-      "web_id": "q-b2-c36-519",
-      "web_number": 36,
-      "type": "drag_drop_match"
-    },
-    {
-      "lesson": 2,
-      "source_number": 37,
-      "body_index": 524,
-      "web_id": "q-b2-c37-524",
-      "web_number": 37,
+      "source_title": "Câu 9: Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam ở Việt Nam được thực hiện thông qua:",
+      "web_id": "word-c41143f3c5139fa3-p492",
       "type": "single_choice"
     },
     {
-      "lesson": 2,
-      "source_number": 38,
-      "body_index": 531,
-      "web_id": "q-b2-c38-531",
-      "web_number": 38,
+      "body_index": 497,
+      "source_title": "Câu 10: So với các mô hình nhà nước khác trong lịch sử thì nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam có sự khác biệt về chất như thế nào?",
+      "web_id": "word-c41143f3c5139fa3-p497",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 502,
+      "source_title": "Câu 11: Nền dân chủ xã hội chủ nghĩa ở Việt Nam có điểm khác biệt cơ bản nào so với các nền dân chủ trước đây?",
+      "web_id": "word-c41143f3c5139fa3-p502",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 507,
+      "source_title": "Câu 12: Hãy xác định mục tiêu chính của việc xây dựng Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam.",
+      "web_id": "word-c41143f3c5139fa3-p507",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 512,
+      "source_title": "Câu 13: Bản chất của nền dân chủ xã hội chủ nghĩa là: (Chọn 2 đáp án đúng)",
+      "web_id": "word-c41143f3c5139fa3-p512",
       "type": "multiple_choice"
     },
     {
-      "lesson": 2,
-      "source_number": 39,
-      "body_index": 539,
-      "web_id": "q-b2-c39-539",
-      "web_number": 39,
+      "body_index": 517,
+      "source_title": "Câu 14: Đặc điểm nổi bật của nền dân chủ xã hội chủ nghĩa là gì? (Chọn 2 đáp án đúng)",
+      "web_id": "word-c41143f3c5139fa3-p517",
       "type": "multiple_choice"
     },
     {
-      "lesson": 2,
-      "source_number": 40,
+      "body_index": 522,
+      "source_title": "Câu 15: Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam được xây dựng dựa trên những nguyên tắc nào sau đây? (Chọn 2 đáp án đúng)",
+      "web_id": "word-c41143f3c5139fa3-p522",
+      "type": "multiple_choice"
+    },
+    {
+      "body_index": 527,
+      "source_title": "Câu 16: Chế độ dân chủ nhân dân ở Việt Nam được xác lập từ khi nào?",
+      "web_id": "word-c41143f3c5139fa3-p527",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 532,
+      "source_title": "Câu 17 : Chọn ý không đúng về điểm khác biệt của nền dân chủ xã hội chủ nghĩa so với nền dân chủ tư sản:",
+      "web_id": "word-c41143f3c5139fa3-p532",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 537,
+      "source_title": "Câu 18: Sự ra đời của nhà nước xã hội chủ nghĩa gắn với sự kiện nào?",
+      "web_id": "word-c41143f3c5139fa3-p537",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 542,
+      "source_title": "Câu 19: Hãy xác định biện pháp để nâng cao hiệu quả hoạt động của Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam.",
+      "web_id": "word-c41143f3c5139fa3-p542",
+      "type": "single_choice"
+    },
+    {
       "body_index": 547,
-      "web_id": "q-b2-c40-547",
-      "web_number": 40,
-      "type": "multiple_choice"
-    },
-    {
-      "lesson": 3,
-      "source_number": 1,
-      "body_index": 556,
-      "web_id": "q-b3-c1-556",
-      "web_number": 1,
+      "source_title": "Câu 20 : Bằng hiểu biết của bản thân, hãy cho biết đâu là hình thức dân chủ gián tiếp?",
+      "web_id": "word-c41143f3c5139fa3-p547",
       "type": "single_choice"
     },
     {
-      "lesson": 3,
-      "source_number": 2,
+      "body_index": 552,
+      "source_title": "Câu 21: So với các nền dân chủ trước đây, dân chủ xã hội chủ nghĩa có điểm khác biệt cơ bản nào?",
+      "web_id": "word-c41143f3c5139fa3-p552",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 557,
+      "source_title": "Câu 22: Đâu là định nghĩa đúng và đầy đủ về dân chủ?",
+      "web_id": "word-c41143f3c5139fa3-p557",
+      "type": "single_choice"
+    },
+    {
       "body_index": 562,
-      "web_id": "q-b3-c2-562",
-      "web_number": 2,
+      "source_title": "Câu 23: Nhà nước pháp quyền XHCN quản lý mọi mặt của đời sống xã hội chủ yếu bằng gì?",
+      "web_id": "word-c41143f3c5139fa3-p562",
       "type": "single_choice"
     },
     {
-      "lesson": 3,
-      "source_number": 3,
-      "body_index": 573,
-      "web_id": "q-b3-c3-573",
-      "web_number": 3,
+      "body_index": 567,
+      "source_title": "Câu 24: Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam có đặc điểm như thế nào?",
+      "web_id": "word-c41143f3c5139fa3-p567",
       "type": "single_choice"
     },
     {
-      "lesson": 3,
-      "source_number": 4,
-      "body_index": 583,
-      "web_id": "q-b3-c4-583",
-      "web_number": 4,
+      "body_index": 572,
+      "source_title": "Câu 25: Dân chủ trong xã hội nguyên thủy được thể hiện như thế nào? (Chọn 2 đáp án đúng)",
+      "web_id": "word-c41143f3c5139fa3-p572",
+      "type": "multiple_choice"
+    },
+    {
+      "body_index": 577,
+      "source_title": "Câu 26: Dân chủ xã hội chủ nghĩa ở Việt Nam là: (Chọn 2 đáp án đúng)",
+      "web_id": "word-c41143f3c5139fa3-p577",
+      "type": "multiple_choice"
+    },
+    {
+      "body_index": 582,
+      "source_title": "Câu 27: Bản chất kinh tế của nền dân chủ xã hội chủ nghĩa là:",
+      "web_id": "word-c41143f3c5139fa3-p582",
       "type": "single_choice"
     },
     {
-      "lesson": 3,
-      "source_number": 5,
-      "body_index": 594,
-      "web_id": "q-b3-c5-594",
-      "web_number": 5,
+      "body_index": 587,
+      "source_title": "Câu 28 : Bản chất kinh tế của nền dân chủ xã hội chủ nghĩa là:",
+      "web_id": "word-c41143f3c5139fa3-p587",
       "type": "single_choice"
     },
     {
-      "lesson": 3,
-      "source_number": 6,
-      "body_index": 605,
-      "web_id": "q-b3-c6-605",
-      "web_number": 6,
+      "body_index": 592,
+      "source_title": "Câu 29 : Tại sao quyền lực nhà nước ở Việt Nam được tổ chức theo nguyên tắc thống nhất?",
+      "web_id": "word-c41143f3c5139fa3-p592",
       "type": "single_choice"
     },
     {
-      "lesson": 3,
-      "source_number": 7,
-      "body_index": 616,
-      "web_id": "q-b3-c7-616",
-      "web_number": 7,
+      "body_index": 597,
+      "source_title": "Câu 30: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+      "web_id": "word-c41143f3c5139fa3-p597",
+      "type": "true_false"
+    },
+    {
+      "body_index": 606,
+      "source_title": "Câu 31 :Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+      "web_id": "word-c41143f3c5139fa3-p606",
+      "type": "true_false"
+    },
+    {
+      "body_index": 615,
+      "source_title": "Câu 32: Căn cứ vào tính chất của quyền lực nhà nước, chức năng của nhà nước được chia thành:",
+      "web_id": "word-c41143f3c5139fa3-p615",
       "type": "single_choice"
     },
     {
-      "lesson": 3,
-      "source_number": 8,
-      "body_index": 626,
-      "web_id": "q-b3-c8-626",
-      "web_number": 8,
-      "type": "single_choice"
+      "body_index": 619,
+      "source_title": "Câu 33: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+      "web_id": "word-c41143f3c5139fa3-p619",
+      "type": "true_false"
     },
     {
-      "lesson": 3,
-      "source_number": 9,
+      "body_index": 628,
+      "source_title": "Câu 34 : Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+      "web_id": "word-c41143f3c5139fa3-p628",
+      "type": "true_false"
+    },
+    {
       "body_index": 637,
-      "web_id": "q-b3-c9-637",
-      "web_number": 9,
+      "source_title": "Câu 35: Vận dụng những kiến thức đã học hãy chỉ ra luận điểm không chính xác:",
+      "web_id": "word-c41143f3c5139fa3-p637",
       "type": "single_choice"
     },
     {
-      "lesson": 3,
-      "source_number": 10,
+      "body_index": 642,
+      "source_title": "Câu 36 : Những điều kiện khách quan quy định sứ mệnh lịch sử của giai cấp công nhân bao gồm: (Chọn 2 đáp án)",
+      "web_id": "word-c41143f3c5139fa3-p642",
+      "type": "multiple_choice"
+    },
+    {
       "body_index": 647,
-      "web_id": "q-b3-c10-647",
-      "web_number": 10,
+      "source_title": "Câu 37 : So với các giai cấp khác thì sứ mệnh lịch sử của giai cấp công nhân có gì khác biệt?",
+      "web_id": "word-c41143f3c5139fa3-p647",
       "type": "single_choice"
     },
     {
-      "lesson": 3,
-      "source_number": 11,
-      "body_index": 658,
-      "web_id": "q-b3-c11-658",
-      "web_number": 11,
+      "body_index": 653,
+      "source_title": "Câu 38: Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam được thực hiện thông qua các hình thức dân chủ nào? (Chọn 2 đáp án đúng)",
+      "web_id": "word-c41143f3c5139fa3-p653",
+      "type": "multiple_choice"
+    },
+    {
+      "body_index": 659,
+      "source_title": "Câu 1: Trong cơ cấu xã hội – giai cấp của thời kỳ quá độ lên chủ nghĩa xã hội, lực lượng tiêu biểu cho phương thức sản xuất mới giữ vai trò chủ đạo, tiên phong trong quá trình công nghiệp hoá, hiện đại hoá đất nước là:",
+      "web_id": "word-c41143f3c5139fa3-p659",
       "type": "single_choice"
     },
     {
-      "lesson": 3,
-      "source_number": 12,
-      "body_index": 668,
-      "web_id": "q-b3-c12-668",
-      "web_number": 12,
+      "body_index": 664,
+      "source_title": "Câu 2: Xét về mặt kinh tế, trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội – giai cấp biến đổi phức tạp, đa dạng, làm xuất hiện các tầng lớp mới là do:",
+      "web_id": "word-c41143f3c5139fa3-p664",
       "type": "single_choice"
     },
     {
-      "lesson": 3,
-      "source_number": 13,
+      "body_index": 669,
+      "source_title": "Câu 3: Vì sao cơ cấu xã hội giai cấp có vị trí quan trọng hàng đầu, chi phối các loại hình cơ cấu xã hội khác? (Chọn 2 đáp án)",
+      "web_id": "word-c41143f3c5139fa3-p669",
+      "type": "multiple_choice"
+    },
+    {
       "body_index": 674,
-      "web_id": "q-b3-c13-674",
-      "web_number": 13,
+      "source_title": "Câu 4: Theo C.Mác và Ph.Ăngghen, nhiều cuộc đấu tranh của giai cấp công nhân ở châu Âu, nhất là ở nước Anh và Pháp từ giữa thế kỷ XIX thất bại là do:",
+      "web_id": "word-c41143f3c5139fa3-p674",
       "type": "single_choice"
     },
     {
-      "lesson": 3,
-      "source_number": 14,
-      "body_index": 680,
-      "web_id": "q-b3-c14-680",
-      "web_number": 14,
+      "body_index": 679,
+      "source_title": "Câu 5: Yếu tố quyết định sự liên minh giữa giai cấp công nhân, giai cấp nông dân và tầng lớp trí thức là:",
+      "web_id": "word-c41143f3c5139fa3-p679",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 684,
+      "source_title": "Câu 6: Theo quan điểm của chủ nghĩa Mác – Lênin, trong thời kỳ quá độ lên chủ nghĩa xã hội, giai cấp công nhân, giai cấp nông dân và tầng lớp lao động khác được coi là:",
+      "web_id": "word-c41143f3c5139fa3-p684",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 689,
+      "source_title": "Câu 7: Chọn phương án trả lời đúng nhất để điền vào chỗ trống cho câu sau: \"Trước sự liên minh của các đại biểu khoa học, ..., giới kỹ thuật không một thế lực đen tối nào đứng vững được\"",
+      "web_id": "word-c41143f3c5139fa3-p689",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 694,
+      "source_title": "Câu 8: Theo V.I. Lênin, đâu là vấn đề mang tính nguyên tắc để đảm bảo cho thắng lợi của cuộc cách mạng xã hội chủ nghĩa tháng Mười Nga năm 1917?",
+      "web_id": "word-c41143f3c5139fa3-p694",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 699,
+      "source_title": "Câu 9: Vì sao giai cấp công nhân, nông dân và đội ngũ trí thức cần liên minh với nhau trong thời kỳ quá độ lên chủ nghĩa xã hội? (Chọn 2 đáp án)",
+      "web_id": "word-c41143f3c5139fa3-p699",
       "type": "multiple_choice"
     },
     {
-      "lesson": 3,
-      "source_number": 15,
-      "body_index": 686,
-      "web_id": "q-b3-c15-686",
-      "web_number": 15,
-      "type": "multiple_choice"
-    },
-    {
-      "lesson": 3,
-      "source_number": 16,
-      "body_index": 692,
-      "web_id": "q-b3-c16-692",
-      "web_number": 16,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 3,
-      "source_number": 17,
-      "body_index": 698,
-      "web_id": "q-b3-c17-698",
-      "web_number": 17,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 3,
-      "source_number": 18,
       "body_index": 704,
-      "web_id": "q-b3-c18-704",
-      "web_number": 18,
+      "source_title": "Câu 10: Hiện nay ở Việt Nam, lực lượng xã hội đặc biệt được Đảng ta chủ trương xây dựng thành một đội ngũ vững mạnh là:",
+      "web_id": "word-c41143f3c5139fa3-p704",
       "type": "single_choice"
     },
     {
-      "lesson": 3,
-      "source_number": 19,
-      "body_index": 710,
-      "web_id": "q-b3-c19-710",
-      "web_number": 19,
+      "body_index": 709,
+      "source_title": "Câu 11: Lực lượng nào là lực lượng lao động sáng tạo đặc biệt quan trọng trong tiến trình đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước và hội nhập quốc tế, xây dựng kinh tế tri thức, phát triển nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc?",
+      "web_id": "word-c41143f3c5139fa3-p709",
       "type": "single_choice"
     },
     {
-      "lesson": 3,
-      "source_number": 20,
-      "body_index": 716,
-      "web_id": "q-b3-c20-716",
-      "web_number": 20,
+      "body_index": 714,
+      "source_title": "Câu 12: Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, giai cấp nào là lực lượng đi đầu thực hiện nhiệm vụ trung tâm phát triển kinh tế, tiến hành công nghiệp hoá, hiện đại hoá đất nước?",
+      "web_id": "word-c41143f3c5139fa3-p714",
       "type": "single_choice"
     },
     {
-      "lesson": 3,
-      "source_number": 21,
       "body_index": 719,
-      "web_id": "q-b3-c21-719",
-      "web_number": 21,
+      "source_title": "Câu 13: Nội dung cơ bản quyết định nhất, là cơ sở vật chất – kỹ thuật của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là nội dung nào?",
+      "web_id": "word-c41143f3c5139fa3-p719",
       "type": "single_choice"
     },
     {
-      "lesson": 3,
-      "source_number": 22,
-      "body_index": 722,
-      "web_id": "q-b3-c22-722",
-      "web_number": 22,
+      "body_index": 724,
+      "source_title": "Câu 14: Nội dung chính trị của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam thể hiện việc giữ vững lập trường chính trị - tư tưởng của giai cấp, tầng lớp nào?",
+      "web_id": "word-c41143f3c5139fa3-p724",
       "type": "single_choice"
     },
     {
-      "lesson": 3,
-      "source_number": 23,
-      "body_index": 725,
-      "web_id": "q-b3-c23-725",
-      "web_number": 23,
-      "type": "multiple_choice"
-    },
-    {
-      "lesson": 3,
-      "source_number": 24,
-      "body_index": 728,
-      "web_id": "q-b3-c24-728",
-      "web_number": 24,
-      "type": "multiple_choice"
-    },
-    {
-      "lesson": 3,
-      "source_number": 25,
-      "body_index": 731,
-      "web_id": "q-b3-c25-731",
-      "web_number": 25,
+      "body_index": 729,
+      "source_title": "Câu 15: Vận dụng kiến thức về vai trò của thế hệ trẻ, hãy xác định mục tiêu chính của việc giáo dục chính trị, tư tưởng cho thanh niên trong giai đoạn hiện nay ở Việt Nam là gì?",
+      "web_id": "word-c41143f3c5139fa3-p729",
       "type": "single_choice"
     },
     {
-      "lesson": 3,
-      "source_number": 26,
-      "body_index": 738,
-      "web_id": "q-b3-c26-738",
-      "web_number": 26,
+      "body_index": 735,
+      "source_title": "Câu 16: V.I. Lênin đã xem liên minh giữa giai cấp, tầng lớp nào là một hình thức \"liên minh đặc biệt\" trong giai đoạn giành chính quyền và xây dựng chủ nghĩa xã hội?",
+      "web_id": "word-c41143f3c5139fa3-p735",
       "type": "single_choice"
     },
     {
-      "lesson": 3,
-      "source_number": 27,
-      "body_index": 745,
-      "web_id": "q-b3-c27-745",
-      "web_number": 27,
+      "body_index": 741,
+      "source_title": "Câu 17: Trong cách mạng xã hội chủ nghĩa, dưới sự lãnh đạo của Đảng Cộng sản, giai cấp công nhân phải liên minh với giai cấp, tầng lớp nào?",
+      "web_id": "word-c41143f3c5139fa3-p741",
       "type": "single_choice"
     },
     {
-      "lesson": 3,
-      "source_number": 28,
-      "body_index": 752,
-      "web_id": "q-b3-c28-752",
-      "web_number": 28,
-      "type": "multiple_choice"
+      "body_index": 747,
+      "source_title": "Câu 18: Xét dưới góc độ chính trị, trong cuộc đấu tranh giai cấp của các giai cấp có lợi ích đối lập nhau đặt ra nhu cầu tất yếu khách quan mỗi giai cấp đứng ở vị trí trung tâm đều phải:",
+      "web_id": "word-c41143f3c5139fa3-p747",
+      "type": "single_choice"
     },
     {
-      "lesson": 3,
-      "source_number": 31,
+      "body_index": 753,
+      "source_title": "Câu 19: Cơ cấu xã hội – giai cấp ở Việt Nam thời kỳ quá độ lên chủ nghĩa xã hội bao gồm mấy giai cấp, tầng lớp?",
+      "web_id": "word-c41143f3c5139fa3-p753",
+      "type": "single_choice"
+    },
+    {
       "body_index": 759,
-      "web_id": "q-b3-c29-759",
-      "web_number": 29,
+      "source_title": "Câu 20: Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, sự biến đổi của cơ cấu xã hội – giai cấp bị chi phối bởi biến đổi của cơ cấu nào",
+      "web_id": "word-c41143f3c5139fa3-p759",
       "type": "single_choice"
     },
     {
-      "lesson": 3,
-      "source_number": 34,
-      "body_index": 768,
-      "web_id": "q-b3-c30-768",
-      "web_number": 30,
-      "type": "multiple_choice"
+      "body_index": 765,
+      "source_title": "Câu 21: Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội – giai cấp gồm mấy giai cấp, tầng lớp cơ bản?",
+      "web_id": "word-c41143f3c5139fa3-p765",
+      "type": "single_choice"
     },
     {
-      "lesson": 3,
-      "source_number": 38,
+      "body_index": 770,
+      "source_title": "Câu 22 :Dưới góc độ chính trị - xã hội, môn Chủ nghĩa xã hội khoa học tập trung nghiên cứu cơ cấu xã hội nào?",
+      "web_id": "word-c41143f3c5139fa3-p770",
+      "type": "single_choice"
+    },
+    {
       "body_index": 775,
-      "web_id": "q-b3-c31-775",
-      "web_number": 31,
+      "source_title": "Câu 23: Theo C. Mác – Ph. Ăngghen, \"người bạn đồng minh tự nhiên\" của giai cấp công nhân là ai?",
+      "web_id": "word-c41143f3c5139fa3-p775",
       "type": "single_choice"
     },
     {
-      "lesson": 3,
-      "source_number": 32,
-      "body_index": 782,
-      "web_id": "q-b3-c32-782",
-      "web_number": 32,
+      "body_index": 780,
+      "source_title": "Câu 24 : Nội dung kinh tế của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là gì?",
+      "web_id": "word-c41143f3c5139fa3-p780",
       "type": "single_choice"
     },
     {
-      "lesson": 3,
-      "source_number": 38,
-      "body_index": 789,
-      "web_id": "q-b3-c33-789",
-      "web_number": 33,
-      "type": "true_false"
+      "body_index": 785,
+      "source_title": "Câu 25 : Chọn ý sai về nội dung kinh tế của liên minh giữa giai cấp công nhân với giai cấp nông dân và các tầng lớp lao động khác trong cách mạng xã hội chủ nghĩa:",
+      "web_id": "word-c41143f3c5139fa3-p785",
+      "type": "single_choice"
     },
     {
-      "lesson": 3,
-      "source_number": 32,
-      "body_index": 803,
-      "web_id": "q-b3-c34-803",
-      "web_number": 34,
-      "type": "true_false"
+      "body_index": 790,
+      "source_title": "Câu 26: Chọn cụm từ thích hợp điền vào chỗ trống của câu: “Cơ cấu xã hội là những... cùng toàn bộ những mối quan hệ xã hội do sự tác động lẫn nhau của các cộng đồng ấy tạo nên”.",
+      "web_id": "word-c41143f3c5139fa3-p790",
+      "type": "single_choice"
     },
     {
-      "lesson": 3,
-      "source_number": 35,
+      "body_index": 795,
+      "source_title": "Câu 27: Chọn đáp án đúng điền vào chỗ trống cho câu sau: \"Cơ cấu xã hội – giai cấp là hệ thống các ......... tồn tại khách quan trong một chế độ xã hội nhất định,...\"",
+      "web_id": "word-c41143f3c5139fa3-p795",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 800,
+      "source_title": "Câu 28: Vận dụng kiến thức về vai trò của thế hệ trẻ, hãy xác định mục tiêu chính của việc giáo dục chính trị, tư tưởng cho thanh niên trong giai đoạn hiện nay ở Việt Nam là gì?",
+      "web_id": "word-c41143f3c5139fa3-p800",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 806,
+      "source_title": "Câu 29: Kéo thả các đáp án khớp với các phát biểu từ 1 - 3 về trái dưới đây:",
+      "web_id": "word-c41143f3c5139fa3-p806",
+      "type": "drag_drop_match"
+    },
+    {
+      "body_index": 809,
+      "source_title": "Câu 30: Kéo thả các đáp án khớp với các phát biểu từ 1 - 4 về trái dưới đây:",
+      "web_id": "word-c41143f3c5139fa3-p809",
+      "type": "drag_drop_match"
+    },
+    {
       "body_index": 813,
-      "web_id": "q-b3-c35-813",
-      "web_number": 35,
-      "type": "true_false"
-    },
-    {
-      "lesson": 3,
-      "source_number": 36,
-      "body_index": 824,
-      "web_id": "q-b3-c36-824",
-      "web_number": 36,
-      "type": "true_false"
-    },
-    {
-      "lesson": 3,
-      "source_number": 38,
-      "body_index": 834,
-      "web_id": "q-b3-c37-834",
-      "web_number": 37,
-      "type": "true_false"
-    },
-    {
-      "lesson": 3,
-      "source_number": 41,
-      "body_index": 849,
-      "web_id": "q-b3-c38-849",
-      "web_number": 38,
+      "source_title": "Câu 31 : Kéo thả các khái niệm khớp với các phát biểu về cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội dưới đây:",
+      "web_id": "word-c41143f3c5139fa3-p813",
       "type": "drag_drop_match"
     },
     {
-      "lesson": 3,
-      "source_number": 30,
-      "body_index": 853,
-      "web_id": "q-b3-c39-853",
-      "web_number": 39,
-      "type": "drag_drop_match"
-    },
-    {
-      "lesson": 3,
-      "source_number": 33,
-      "body_index": 857,
-      "web_id": "q-b3-c40-857",
-      "web_number": 40,
-      "type": "drag_drop_match"
-    },
-    {
-      "lesson": 3,
-      "source_number": 37,
-      "body_index": 861,
-      "web_id": "q-b3-c41-861",
-      "web_number": 41,
-      "type": "drag_drop_match"
-    },
-    {
-      "lesson": 4,
-      "source_number": 1,
-      "body_index": 866,
-      "web_id": "q-b4-c1-866",
-      "web_number": 1,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 4,
-      "source_number": 2,
-      "body_index": 872,
-      "web_id": "q-b4-c2-872",
-      "web_number": 2,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 4,
-      "source_number": 3,
-      "body_index": 878,
-      "web_id": "q-b4-c3-878",
-      "web_number": 3,
+      "body_index": 816,
+      "source_title": "Câu 32 : Những lực lượng nào sau đây là trung tâm trong cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội?",
+      "web_id": "word-c41143f3c5139fa3-p816",
       "type": "multiple_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 4,
-      "body_index": 884,
-      "web_id": "q-b4-c4-884",
-      "web_number": 4,
+      "body_index": 822,
+      "source_title": "Câu 33 : Những tầng lớp nào sau đây tham gia cơ cấu xã hội - giai cấp ở Việt Nam? (Chọn 2 đáp án đúng)",
+      "web_id": "word-c41143f3c5139fa3-p822",
+      "type": "multiple_choice"
+    },
+    {
+      "body_index": 827,
+      "source_title": "Câu 34 : Những phương hướng nào sau đây nhằm phát triển cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội? (Chọn 2 đáp án đúng)",
+      "web_id": "word-c41143f3c5139fa3-p827",
+      "type": "multiple_choice"
+    },
+    {
+      "body_index": 832,
+      "source_title": "Câu 35 : Những phương hướng nào sau đây củng cố liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội? (Chọn 2 đáp án đúng)",
+      "web_id": "word-c41143f3c5139fa3-p832",
+      "type": "multiple_choice"
+    },
+    {
+      "body_index": 837,
+      "source_title": "Câu 36 : Những phương hướng nào sau đây củng cố liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội? (Chọn 2 đáp án đúng)",
+      "web_id": "word-c41143f3c5139fa3-p837",
+      "type": "multiple_choice"
+    },
+    {
+      "body_index": 842,
+      "source_title": "Câu 37 : Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội - giai cấp biến đổi trong mối quan hệ nào?",
+      "web_id": "word-c41143f3c5139fa3-p842",
       "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 5,
+      "body_index": 847,
+      "source_title": "Câu 38 : Trong cách mạng xã hội chủ nghĩa, dưới sự lãnh đạo của Đảng Cộng sản, giai cấp công nhân phải liên minh với giai cấp, tầng lớp nào?",
+      "web_id": "word-c41143f3c5139fa3-p847",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 852,
+      "source_title": "Câu 39 : Kéo thả các đáp án đúng ứng với từng phát biểu sau đây về vị trí, vai trò của các giai cấp, tầng lớp trong cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội:",
+      "web_id": "word-c41143f3c5139fa3-p852",
+      "type": "drag_drop_match"
+    },
+    {
+      "body_index": 855,
+      "source_title": "Câu 40 : Kéo thả các yếu tố liên quan đến liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội vào các cột tương ứng.",
+      "web_id": "word-c41143f3c5139fa3-p855",
+      "type": "drag_drop_categorize"
+    },
+    {
+      "body_index": 859,
+      "source_title": "Câu 41 : Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+      "web_id": "word-c41143f3c5139fa3-p859",
+      "type": "true_false"
+    },
+    {
+      "body_index": 865,
+      "source_title": "Câu 1: Dân tộc hiểu theo nghĩa hẹp là:",
+      "web_id": "word-c41143f3c5139fa3-p865",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 870,
+      "source_title": "Câu 2: Hiểu theo nghĩa rộng, dân tộc là:",
+      "web_id": "word-c41143f3c5139fa3-p870",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 875,
+      "source_title": "Câu 3: Thứ tự quá trình phát triển của dân tộc lần lượt trải qua các hình thức nào?",
+      "web_id": "word-c41143f3c5139fa3-p875",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 880,
+      "source_title": "Câu 4: Theo chủ nghĩa Mác – Lênin, nguyên nhân nào dẫn đến các cộng đồng dân cư muốn tách ra để hình thành cộng đồng dân tộc độc lập?",
+      "web_id": "word-c41143f3c5139fa3-p880",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 885,
+      "source_title": "Câu 5: Tôn giáo là một phạm trù thuộc:",
+      "web_id": "word-c41143f3c5139fa3-p885",
+      "type": "single_choice"
+    },
+    {
       "body_index": 890,
-      "web_id": "q-b4-c5-890",
-      "web_number": 5,
+      "source_title": "Câu 6: Tôn giáo là sản phẩm của ai?",
+      "web_id": "word-c41143f3c5139fa3-p890",
       "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 6,
-      "body_index": 896,
-      "web_id": "q-b4-c6-896",
-      "web_number": 6,
+      "body_index": 895,
+      "source_title": "Câu 7: Tôn giáo khác với tín ngưỡng ở điểm nào?",
+      "web_id": "word-c41143f3c5139fa3-p895",
       "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 7,
-      "body_index": 901,
-      "web_id": "q-b4-c7-901",
-      "web_number": 7,
+      "body_index": 900,
+      "source_title": "Câu 8: Về phương diện thế giới quan, tôn giáo mang bản chất:",
+      "web_id": "word-c41143f3c5139fa3-p900",
       "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 8,
-      "body_index": 907,
-      "web_id": "q-b4-c8-907",
-      "web_number": 8,
+      "body_index": 905,
+      "source_title": "Câu 9: Tìm đáp án sai về nguồn gốc hình thành của tôn giáo:",
+      "web_id": "word-c41143f3c5139fa3-p905",
       "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 9,
-      "body_index": 913,
-      "web_id": "q-b4-c9-913",
-      "web_number": 9,
+      "body_index": 910,
+      "source_title": "Câu 10: Luận điểm nổi tiếng: \"Tôn giáo là tiếng thở dài của chúng sinh bị áp bức, là trái tim của thế giới không có trái tim... Tôn giáo là thuốc phiện của nhân dân\" là của ai?",
+      "web_id": "word-c41143f3c5139fa3-p910",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 915,
+      "source_title": "Câu 11: Tại sao ngày nay khoa học đã phát triển rất mạnh mẽ mà tôn giáo vẫn có xu hướng phát triển? (Chọn nhiều đáp án) (Sinh viên chọn 2 phương án đúng nhất)",
+      "web_id": "word-c41143f3c5139fa3-p915",
       "type": "multiple_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 10,
-      "body_index": 918,
-      "web_id": "q-b4-c10-918",
-      "web_number": 10,
+      "body_index": 920,
+      "source_title": "Câu 12: Ở Việt Nam hiện nay có khoảng bao nhiêu dân tộc?",
+      "web_id": "word-c41143f3c5139fa3-p920",
       "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 11,
-      "body_index": 924,
-      "web_id": "q-b4-c11-924",
-      "web_number": 11,
+      "body_index": 925,
+      "source_title": "Câu 13: Tìm đáp án sai về đặc điểm dân tộc ở Việt Nam",
+      "web_id": "word-c41143f3c5139fa3-p925",
       "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 12,
       "body_index": 930,
-      "web_id": "q-b4-c12-930",
-      "web_number": 12,
+      "source_title": "Câu 14: Vận dụng kiến thức về đặc điểm tôn giáo ở Việt Nam, hãy xác định số lượng tôn giáo đã được công nhận và cấp đăng ký hoạt động ở Việt Nam:",
+      "web_id": "word-c41143f3c5139fa3-p930",
       "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 13,
       "body_index": 935,
-      "web_id": "q-b4-c13-935",
-      "web_number": 13,
+      "source_title": "Câu 15: Vận dụng kiến thức về vấn đề dân tộc, hãy chỉ ra điểm khác biệt cơ bản trong quá trình hình thành nên dân tộc Việt Nam so với các dân tộc khác là gì?",
+      "web_id": "word-c41143f3c5139fa3-p935",
       "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 14,
+      "body_index": 940,
+      "source_title": "Câu 16: Quan điểm: Không phân biệt dân tộc lớn hay nhỏ, ở trình độ phát triển cao hay thấp, các dân tộc đều có nghĩa vụ và quyền lợi ngang nhau trên tất cả các lĩnh vực của đời sống xã hội - thuộc nội dung nào trong Cương lĩnh dân tộc của V.I. Lênin?",
+      "web_id": "word-c41143f3c5139fa3-p940",
+      "type": "single_choice"
+    },
+    {
       "body_index": 942,
-      "web_id": "q-b4-c14-942",
-      "web_number": 14,
+      "source_title": "Câu 17: Theo quan điểm của chủ nghĩa Mác – Lênin, để thực hiện được bình đẳng dân tộc cần phải làm gì? (Chọn 2 đáp án)",
+      "web_id": "word-c41143f3c5139fa3-p942",
+      "type": "multiple_choice"
+    },
+    {
+      "body_index": 944,
+      "source_title": "Câu 18 : Trong những nội dung của quyền dân tộc tự quyết, nội dung nào được coi là cơ bản, trước hết?",
+      "web_id": "word-c41143f3c5139fa3-p944",
       "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 15,
-      "body_index": 951,
-      "web_id": "q-b4-c15-951",
-      "web_number": 15,
+      "body_index": 946,
+      "source_title": "Câu 19 : Đâu là đặc trưng quan trọng nhất, là cơ sở để liên kết các thành viên của dân tộc tạo thành nền tảng vững chắc của cộng đồng dân tộc?",
+      "web_id": "word-c41143f3c5139fa3-p946",
       "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 16,
-      "body_index": 959,
-      "web_id": "q-b4-c16-959",
-      "web_number": 16,
+      "body_index": 948,
+      "source_title": "Câu 20. Đối với quốc gia và từng thành viên của dân tộc, yếu tố nào là thiêng liêng nhất mà nếu không có thì không có khái niệm Tổ quốc, quốc gia?",
+      "web_id": "word-c41143f3c5139fa3-p948",
       "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 17,
-      "body_index": 966,
-      "web_id": "q-b4-c17-966",
-      "web_number": 17,
+      "body_index": 950,
+      "source_title": "Câu 21. Niềm tin của con người vào các lực lượng siêu nhiên, thần thánh đến mức độ mê muội, cuồng tín, dẫn đến những hành vi cực đoan, sai lệch quá mức, trái với các giá trị văn hoá, đạo đức, pháp luật – gọi là:",
+      "web_id": "word-c41143f3c5139fa3-p950",
       "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 18,
-      "body_index": 974,
-      "web_id": "q-b4-c18-974",
-      "web_number": 18,
+      "body_index": 952,
+      "source_title": "Câu 22 : Sự sợ hãi trước những hiện tượng tự nhiên, xã hội, hay lúc ốm đau, những may rủi, bất ngờ, tâm lý muốn bình yên khi làm việc lớn… khiến con người dễ tìm đến với hình thái ý thức xã hội nào?",
+      "web_id": "word-c41143f3c5139fa3-p952",
       "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 19,
-      "body_index": 981,
-      "web_id": "q-b4-c19-981",
-      "web_number": 19,
+      "body_index": 954,
+      "source_title": "Câu 23: Vì sao Đảng, Nhà nước Việt Nam chủ trương luôn tôn trọng, bảo đảm quyền tự do tín ngưỡng tôn giáo và không tín ngưỡng tôn giáo của nhân dân?",
+      "web_id": "word-c41143f3c5139fa3-p954",
       "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 20,
-      "body_index": 988,
-      "web_id": "q-b4-c20-988",
-      "web_number": 20,
+      "body_index": 956,
+      "source_title": "Câu 23. Theo chủ nghĩa Mác – Lênin, xét đến cùng nhân tố quyết định sự tồn tại và phát triển của các hình thái ý thức xã hội, trong đó có tôn giáo là gì?",
+      "web_id": "word-c41143f3c5139fa3-p956",
       "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 21,
-      "body_index": 995,
-      "web_id": "q-b4-c21-995",
-      "web_number": 21,
+      "body_index": 958,
+      "source_title": "Câu 24. Tôn giáo ra đời từ những nguồn gốc cơ bản nào?",
+      "web_id": "word-c41143f3c5139fa3-p958",
       "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 22,
-      "body_index": 1002,
-      "web_id": "q-b4-c22-1002",
-      "web_number": 22,
+      "body_index": 960,
+      "source_title": "Câu 25. Đâu là sự giống nhau giữa tôn giáo và tín ngưỡng?",
+      "web_id": "word-c41143f3c5139fa3-p960",
       "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 23,
+      "body_index": 962,
+      "source_title": "Câu 26. Tại sao các tôn giáo ở Việt Nam luôn đồng hành cùng dân tộc và có nhiều đóng góp quan trọng trong quá trình xây dựng và bảo vệ đất nước?",
+      "web_id": "word-c41143f3c5139fa3-p962",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 964,
+      "source_title": "Câu 27: Nội dung nào vừa là nội dung chủ yếu vừa là giải pháp quan trọng để liên kết các nội dung của Cương lĩnh dân tộc thành một chỉnh thể?",
+      "web_id": "word-c41143f3c5139fa3-p964",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 969,
+      "source_title": "Câu 28: Kéo thả các yếu tố liên quan vào các cột tương ứng:",
+      "web_id": "word-c41143f3c5139fa3-p969",
+      "type": "drag_drop_categorize"
+    },
+    {
+      "body_index": 972,
+      "source_title": "Câu 29: Ai được coi là \"dân\" trong nền dân chủ chủ nô?",
+      "web_id": "word-c41143f3c5139fa3-p972",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 976,
+      "source_title": "Câu 30 : Kéo thả các yếu tố liên quan đến liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội vào các cột tương ứng.",
+      "web_id": "word-c41143f3c5139fa3-p976",
+      "type": "drag_drop_categorize"
+    },
+    {
+      "body_index": 979,
+      "source_title": "Câu 31: Kéo thả các đáp án đúng tương ứng với các phát biểu về nội dung Cương lĩnh dân tộc của Chủ nghĩa Mác - Lênin:",
+      "web_id": "word-c41143f3c5139fa3-p979",
+      "type": "drag_drop_match"
+    },
+    {
+      "body_index": 982,
+      "source_title": "Câu 32: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+      "web_id": "word-c41143f3c5139fa3-p982",
+      "type": "true_false"
+    },
+    {
+      "body_index": 991,
+      "source_title": "Câu 33 : Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+      "web_id": "word-c41143f3c5139fa3-p991",
+      "type": "true_false"
+    },
+    {
+      "body_index": 1000,
+      "source_title": "Câu 34: Kéo thả các đáp án khớp với các phát biểu về tôn giáo, tín ngưỡng dưới đây:",
+      "web_id": "word-c41143f3c5139fa3-p1000",
+      "type": "drag_drop_match"
+    },
+    {
+      "body_index": 1004,
+      "source_title": "Câu 35: Bản chất của dân chủ là gì? (Chọn 2 đáp án đúng)",
+      "web_id": "word-c41143f3c5139fa3-p1004",
+      "type": "multiple_choice"
+    },
+    {
       "body_index": 1009,
-      "web_id": "q-b4-c23-1009",
-      "web_number": 23,
+      "source_title": "Câu 1: Trong Cương lĩnh dân tộc của chủ nghĩa Mác – Lênin, nội dung nào về quyền dân tộc tự quyết được coi là cơ bản trước hết?",
+      "web_id": "word-c41143f3c5139fa3-p1009",
       "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 24,
-      "body_index": 1016,
-      "web_id": "q-b4-c24-1016",
-      "web_number": 24,
+      "body_index": 1012,
+      "source_title": "Câu 2: Theo quan điểm của chủ nghĩa Mác – Lênin, giải pháp căn bản để thực hiện bình đẳng dân tộc là gì?",
+      "web_id": "word-c41143f3c5139fa3-p1012",
       "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 25,
-      "body_index": 1023,
-      "web_id": "q-b4-c25-1023",
-      "web_number": 25,
+      "body_index": 1015,
+      "source_title": "Câu 3: Nội dung nào sau đây là nội dung chủ yếu và là giải pháp quan trọng để liên kết các nội dung của Cương lĩnh dân tộc thành một chỉnh thể?",
+      "web_id": "word-c41143f3c5139fa3-p1015",
       "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 26,
+      "body_index": 1018,
+      "source_title": "Câu 4: Theo quan điểm duy vật lịch sử, tôn giáo là sản phẩm của yếu tố nào?",
+      "web_id": "word-c41143f3c5139fa3-p1018",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1021,
+      "source_title": "Câu 5: Đâu là điểm giống nhau căn bản giữa tôn giáo và tín ngưỡng?",
+      "web_id": "word-c41143f3c5139fa3-p1021",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1024,
+      "source_title": "Câu 6: Niềm tin của con người vào các lực lượng siêu nhiên, thần thánh đến mức độ mê muội, cuồng tín, dẫn đến những hành vi cực đoan, sai lệch, trái với đạo đức và pháp luật gọi là gì?",
+      "web_id": "word-c41143f3c5139fa3-p1024",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1027,
+      "source_title": "Câu 7: Ở Việt Nam hiện nay có khoảng bao nhiêu dân tộc cùng sinh sống?",
+      "web_id": "word-c41143f3c5139fa3-p1027",
+      "type": "single_choice"
+    },
+    {
       "body_index": 1030,
-      "web_id": "q-b4-c26-1030",
-      "web_number": 26,
+      "source_title": "Câu 8: Vì sao Đảng và Nhà nước Việt Nam chủ trương luôn tôn trọng, bảo đảm quyền tự do tín ngưỡng, tôn giáo và không tín ngưỡng tôn giáo của nhân dân?",
+      "web_id": "word-c41143f3c5139fa3-p1030",
       "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 27,
-      "body_index": 1037,
-      "web_id": "q-b4-c27-1037",
-      "web_number": 27,
+      "body_index": 1033,
+      "source_title": "Câu 9: Nhóm yếu tố nào sau đây phản ánh đầy đủ nguồn gốc hình thành và tồn tại của tôn giáo?",
+      "web_id": "word-c41143f3c5139fa3-p1033",
       "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 28,
-      "body_index": 1044,
-      "web_id": "q-b4-c28-1044",
-      "web_number": 28,
+      "body_index": 1036,
+      "source_title": "Câu 10: Khái niệm dân tộc theo nghĩa hẹp được dùng để chỉ khái niệm nào?",
+      "web_id": "word-c41143f3c5139fa3-p1036",
       "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 29,
+      "body_index": 1039,
+      "source_title": "Câu 11: Tiêu chí nào mang tính thiêng liêng nhất đối với một dân tộc quốc gia và mỗi thành viên dân tộc?",
+      "web_id": "word-c41143f3c5139fa3-p1039",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1042,
+      "source_title": "Câu 12: Nhận định nào sau đây là SAI khi nói về quyền tự quyết dân tộc trong Cương lĩnh dân tộc Mác – Lênin?",
+      "web_id": "word-c41143f3c5139fa3-p1042",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1045,
+      "source_title": "Câu 13: Hình thái ý thức xã hội phản ánh một cách hoang đường, hư ảo hiện thực khách quan là khái niệm của hiện tượng nào?",
+      "web_id": "word-c41143f3c5139fa3-p1045",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1048,
+      "source_title": "Câu 14: Phát biểu nào sau đây là SAI về sự khác biệt giữa tín ngưỡng và tôn giáo?",
+      "web_id": "word-c41143f3c5139fa3-p1048",
+      "type": "single_choice"
+    },
+    {
       "body_index": 1051,
-      "web_id": "q-b4-c29-1051",
-      "web_number": 29,
+      "source_title": "Câu 15: Vì sao các tôn giáo ở Việt Nam luôn đồng hành cùng dân tộc và đóng góp tích cực cho sự nghiệp xây dựng, bảo vệ Tổ quốc?",
+      "web_id": "word-c41143f3c5139fa3-p1051",
       "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 30,
-      "body_index": 1058,
-      "web_id": "q-b4-c30-1058",
-      "web_number": 30,
-      "type": "multiple_choice"
-    },
-    {
-      "lesson": 4,
-      "source_number": 31,
-      "body_index": 1065,
-      "web_id": "q-b4-c31-1065",
-      "web_number": 31,
+      "body_index": 1054,
+      "source_title": "Câu 16: Đâu là các đặc trưng cơ bản thuộc về dân tộc tộc người?",
+      "web_id": "word-c41143f3c5139fa3-p1054",
       "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 32,
-      "body_index": 1071,
-      "web_id": "q-b4-c32-1071",
-      "web_number": 32,
-      "type": "multiple_choice"
+      "body_index": 1057,
+      "source_title": "Câu 17: Hai nguyên nhân chủ yếu khiến tôn giáo vẫn tiếp tục tồn tại lâu dài trong thời kỳ quá độ là gì?",
+      "web_id": "word-c41143f3c5139fa3-p1057",
+      "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 33,
+      "body_index": 1060,
+      "source_title": "Câu 18: Điểm khác biệt căn bản trong quá trình hình thành dân tộc Việt Nam so với các dân tộc phương Tây là gì?",
+      "web_id": "word-c41143f3c5139fa3-p1060",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1063,
+      "source_title": "Câu 19: Tính nhất nguyên về mặt chính trị của nền dân chủ xã hội chủ nghĩa được thể hiện như thế nào?",
+      "web_id": "word-c41143f3c5139fa3-p1063",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1066,
+      "source_title": "Câu 20: Luận điểm nào sau đây KHÔNG đúng khi so sánh nền dân chủ xã hội chủ nghĩa với nền dân chủ tư sản?",
+      "web_id": "word-c41143f3c5139fa3-p1066",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1069,
+      "source_title": "Câu 21: So với các nền dân chủ trước đây trong lịch sử, dân chủ xã hội chủ nghĩa có điểm khác biệt căn bản nào?",
+      "web_id": "word-c41143f3c5139fa3-p1069",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1072,
+      "source_title": "Câu 22: Việc thực hiện chế độ công hữu về tư liệu sản xuất chủ yếu và phân phối lợi ích theo kết quả lao động là bản chất kinh tế của nền dân chủ nào?",
+      "web_id": "word-c41143f3c5139fa3-p1072",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1075,
+      "source_title": "Câu 23: Nhà nước pháp quyền xã hội chủ nghĩa quản lý mọi mặt của đời sống xã hội chủ yếu bằng công cụ nào?",
+      "web_id": "word-c41143f3c5139fa3-p1075",
+      "type": "single_choice"
+    },
+    {
       "body_index": 1078,
-      "web_id": "q-b4-c33-1078",
-      "web_number": 33,
-      "type": "multiple_choice"
+      "source_title": "Câu 24: Khác biệt căn bản về chất của Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam so với các nhà nước bóc lột trong lịch sử là gì?",
+      "web_id": "word-c41143f3c5139fa3-p1078",
+      "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 10,
-      "body_index": 1085,
-      "web_id": "q-b4-c34-1085",
-      "web_number": 34,
-      "type": "multiple_choice"
+      "body_index": 1081,
+      "source_title": "Câu 25: Hình thức dân chủ nào là hình thức mà nhân dân trực tiếp bày tỏ ý chí, trực tiếp tham gia quản lý nhà nước và xã hội?",
+      "web_id": "word-c41143f3c5139fa3-p1081",
+      "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 15,
+      "body_index": 1084,
+      "source_title": "Câu 26: Khẳng định nào sau đây về tổ chức quyền lực nhà nước ở Việt Nam là SAI?",
+      "web_id": "word-c41143f3c5139fa3-p1084",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1087,
+      "source_title": "Câu 27: Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội – giai cấp biến đổi theo quy luật vận động nào?",
+      "web_id": "word-c41143f3c5139fa3-p1087",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1090,
+      "source_title": "Câu 28: Trong cơ cấu xã hội – giai cấp ở Việt Nam thời kỳ quá độ, đội ngũ trí thức giữ vai trò là lực lượng gì?",
+      "web_id": "word-c41143f3c5139fa3-p1090",
+      "type": "single_choice"
+    },
+    {
       "body_index": 1093,
-      "web_id": "q-b4-c35-1093",
-      "web_number": 35,
+      "source_title": "Câu 29: Phát biểu nào sau đây về khối liên minh giai cấp, tầng lớp ở Việt Nam là ĐÚNG?",
+      "web_id": "word-c41143f3c5139fa3-p1093",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1096,
+      "source_title": "Câu 30: Hai mối quan hệ cơ bản hình thành nên gia đình là: (chọn 2 đáp án)",
+      "web_id": "word-c41143f3c5139fa3-p1096",
       "type": "multiple_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 8,
-      "body_index": 1101,
-      "web_id": "q-b4-c36-1101",
-      "web_number": 36,
-      "type": "multiple_choice"
+      "body_index": 1099,
+      "source_title": "Câu 31: Vị trí của gia đình trong xã hội là:",
+      "web_id": "word-c41143f3c5139fa3-p1099",
+      "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 34,
-      "body_index": 1110,
-      "web_id": "q-b4-c37-1110",
-      "web_number": 37,
-      "type": "true_false"
+      "body_index": 1102,
+      "source_title": "Câu 32: Tình yêu giữa nam và nữ trở thành quan hệ hôn nhân được thể hiện bằng:",
+      "web_id": "word-c41143f3c5139fa3-p1102",
+      "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 35,
-      "body_index": 1124,
-      "web_id": "q-b4-c38-1124",
-      "web_number": 38,
-      "type": "true_false"
+      "body_index": 1105,
+      "source_title": "Câu 33: “Hàng ngày tái tạo ra đời sống của bản thân mình, con người bắt đầu tạo ra những người khác, sinh sôi nảy nở - đó là quan hệ giữa chồng và vợ, cha mẹ và con cái...” Đây là quan hệ của:",
+      "web_id": "word-c41143f3c5139fa3-p1105",
+      "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 36,
-      "body_index": 1137,
-      "web_id": "q-b4-c39-1137",
-      "web_number": 39,
-      "type": "true_false"
+      "body_index": 1108,
+      "source_title": "Câu 34: Quan hệ nào được coi là cơ sở, nền tảng hình thành nên các mối quan hệ khác trong gia đình?",
+      "web_id": "word-c41143f3c5139fa3-p1108",
+      "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 37,
-      "body_index": 1150,
-      "web_id": "q-b4-c40-1150",
-      "web_number": 40,
-      "type": "true_false"
+      "body_index": 1111,
+      "source_title": "Câu 35: Chức năng của gia đình là:",
+      "web_id": "word-c41143f3c5139fa3-p1111",
+      "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 38,
-      "body_index": 1164,
-      "web_id": "q-b4-c41-1164",
-      "web_number": 41,
-      "type": "drag_drop_categorize"
+      "body_index": 1114,
+      "source_title": "Câu 36: Chức năng đảm bảo tái sản xuất nguồn lao động và sức lao động cho xã hội của gia đình là:",
+      "web_id": "word-c41143f3c5139fa3-p1114",
+      "type": "single_choice"
     },
     {
-      "lesson": 4,
-      "source_number": 39,
-      "body_index": 1169,
-      "web_id": "q-b4-c42-1169",
-      "web_number": 42,
+      "body_index": 1117,
+      "source_title": "Câu 37: Thực hiện chức năng nào của gia đình nhằm góp phần tạo lớn lao vào việc đào tạo thế hệ trẻ, thế hệ tương lai của xã hội?",
+      "web_id": "word-c41143f3c5139fa3-p1117",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1120,
+      "source_title": "Câu 38: Với chức năng chính trị, gia đình là:",
+      "web_id": "word-c41143f3c5139fa3-p1120",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1123,
+      "source_title": "Câu 39: Gia đình Việt Nam ngày nay có thể được coi là:",
+      "web_id": "word-c41143f3c5139fa3-p1123",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1126,
+      "source_title": "Câu 40: So với các chế độ xã hội trước thì quan hệ gia đình trong thời kỳ quá độ lên chủ nghĩa xã hội có đặc điểm khác biệt về chất?",
+      "web_id": "word-c41143f3c5139fa3-p1126",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1129,
+      "source_title": "Câu 41: Ghép các khái niệm với các phát biểu về biến đổi gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội:",
+      "web_id": "word-c41143f3c5139fa3-p1129",
       "type": "drag_drop_match"
     },
     {
-      "lesson": 4,
-      "source_number": 40,
+      "body_index": 1138,
+      "source_title": "Câu 42: Chọn đáp án Đúng hoặc Sai với từng phát biểu:",
+      "web_id": "word-c41143f3c5139fa3-p1138",
+      "type": "true_false"
+    },
+    {
+      "body_index": 1144,
+      "source_title": "Câu 43: Những vấn đề xã hội nào có dấu hiệu gia tăng đối với gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội? (Chọn 2 đáp án)",
+      "web_id": "word-c41143f3c5139fa3-p1144",
+      "type": "multiple_choice"
+    },
+    {
+      "body_index": 1149,
+      "source_title": "Câu 22 (Bài 1): Câu nói sau đây được viết trong tác phẩm nào: “Giai cấp tư sản, trong quá trình thống trị giai cấp chưa đầy một thế kỷ, đã tạo ra những lực lượng sản xuất nhiều hơn và đồ sộ hơn lực lượng sản xuất của tất cả các thế hệ trước gộp lại”",
+      "web_id": "word-c41143f3c5139fa3-p1149",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1152,
+      "source_title": "Câu 23 (Bài 1 – Kéo thả): Kéo thả các đáp án khớp với các phát biểu từ 1 – 3 vế trái dưới đây:",
+      "web_id": "word-c41143f3c5139fa3-p1152",
+      "type": "drag_drop_match"
+    },
+    {
+      "body_index": 1156,
+      "source_title": "Câu 26 (Bài 2 – Chọn 2 đáp án đúng): Những đặc điểm nổi bật trong thời kỳ quá độ lên chủ nghĩa xã hội gồm:",
+      "web_id": "word-c41143f3c5139fa3-p1156",
+      "type": "multiple_choice"
+    },
+    {
+      "body_index": 1159,
+      "source_title": "Câu 27 (Bài 2): So sánh sự khác nhau giữa giai đoạn thấp và giai đoạn cao của hình thái kinh tế - xã hội cộng sản chủ nghĩa?",
+      "web_id": "word-c41143f3c5139fa3-p1159",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1162,
+      "source_title": "Câu 30 (Bài 3): Vận dụng những kiến thức đã học hãy chọn phương án đúng về mối quan hệ giữa dân chủ xã hội chủ nghĩa và nhà nước xã hội chủ nghĩa?",
+      "web_id": "word-c41143f3c5139fa3-p1162",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1167,
+      "source_title": "Câu 6 (Bài 4): Trong cơ cấu xã hội của thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội nào giữ vị trí quan trọng hàng đầu, chi phối các loại hình cơ cấu xã hội khác?",
+      "web_id": "word-c41143f3c5139fa3-p1167",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1170,
+      "source_title": "Câu 7 (Bài 4): Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội – giai cấp thường xuyên biến đổi theo mấy quy luật cơ bản?",
+      "web_id": "word-c41143f3c5139fa3-p1170",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1173,
+      "source_title": "Câu 10 (Bài 5): Dân tộc được hiểu theo mấy nghĩa?",
+      "web_id": "word-c41143f3c5139fa3-p1173",
+      "type": "single_choice"
+    },
+    {
       "body_index": 1176,
-      "web_id": "q-b4-c43-1176",
-      "web_number": 43,
-      "type": "drag_drop_match"
-    },
-    {
-      "lesson": 4,
-      "source_number": 7,
-      "body_index": 1181,
-      "web_id": "q-b4-c44-1181",
-      "web_number": 44,
+      "source_title": "Câu 19 (Bài 4 – Kéo thả): Kéo thả các yếu tố liên quan đến cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội vào các cột tương ứng:",
+      "web_id": "word-c41143f3c5139fa3-p1176",
       "type": "drag_drop_categorize"
     },
     {
-      "lesson": 4,
-      "source_number": 45,
       "body_index": 1186,
-      "web_id": "q-b4-c45-1186",
-      "web_number": 45,
+      "source_title": "Câu 20 (Bài 4 – Kéo thả): Kéo thả các đáp án khớp với các phát biểu về liên minh giai cấp, giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội dưới đây:",
+      "web_id": "word-c41143f3c5139fa3-p1186",
       "type": "drag_drop_match"
     },
     {
-      "lesson": 5,
-      "source_number": 1,
-      "body_index": 1192,
-      "web_id": "q-b5-c1-1192",
-      "web_number": 1,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 5,
-      "source_number": 2,
-      "body_index": 1195,
-      "web_id": "q-b5-c2-1195",
-      "web_number": 2,
-      "type": "multiple_choice"
-    },
-    {
-      "lesson": 5,
-      "source_number": 3,
-      "body_index": 1198,
-      "web_id": "q-b5-c3-1198",
-      "web_number": 3,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 5,
-      "source_number": 4,
-      "body_index": 1201,
-      "web_id": "q-b5-c4-1201",
-      "web_number": 4,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 5,
-      "source_number": 5,
-      "body_index": 1204,
-      "web_id": "q-b5-c5-1204",
-      "web_number": 5,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 5,
-      "source_number": 6,
-      "body_index": 1207,
-      "web_id": "q-b5-c6-1207",
-      "web_number": 6,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 5,
-      "source_number": 7,
-      "body_index": 1210,
-      "web_id": "q-b5-c7-1210",
-      "web_number": 7,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 5,
-      "source_number": 8,
-      "body_index": 1213,
-      "web_id": "q-b5-c8-1213",
-      "web_number": 8,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 5,
-      "source_number": 9,
-      "body_index": 1216,
-      "web_id": "q-b5-c9-1216",
-      "web_number": 9,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 5,
-      "source_number": 10,
-      "body_index": 1219,
-      "web_id": "q-b5-c10-1219",
-      "web_number": 10,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 5,
-      "source_number": 11,
-      "body_index": 1222,
-      "web_id": "q-b5-c11-1222",
-      "web_number": 11,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 5,
-      "source_number": 12,
-      "body_index": 1225,
-      "web_id": "q-b5-c12-1225",
-      "web_number": 12,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 5,
-      "source_number": 13,
-      "body_index": 1228,
-      "web_id": "q-b5-c13-1228",
-      "web_number": 13,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 5,
-      "source_number": 14,
-      "body_index": 1231,
-      "web_id": "q-b5-c14-1231",
-      "web_number": 14,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 5,
-      "source_number": 15,
-      "body_index": 1234,
-      "web_id": "q-b5-c15-1234",
-      "web_number": 15,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 5,
-      "source_number": 16,
-      "body_index": 1237,
-      "web_id": "q-b5-c16-1237",
-      "web_number": 16,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 5,
-      "source_number": 17,
-      "body_index": 1240,
-      "web_id": "q-b5-c17-1240",
-      "web_number": 17,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 5,
-      "source_number": 18,
-      "body_index": 1243,
-      "web_id": "q-b5-c18-1243",
-      "web_number": 18,
-      "type": "multiple_choice"
-    },
-    {
-      "lesson": 5,
-      "source_number": 19,
-      "body_index": 1246,
-      "web_id": "q-b5-c19-1246",
-      "web_number": 19,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 5,
-      "source_number": 20,
-      "body_index": 1249,
-      "web_id": "q-b5-c20-1249",
-      "web_number": 20,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 5,
-      "source_number": 21,
-      "body_index": 1252,
-      "web_id": "q-b5-c21-1252",
-      "web_number": 21,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 5,
-      "source_number": 22,
-      "body_index": 1255,
-      "web_id": "q-b5-c22-1255",
-      "web_number": 22,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 5,
-      "source_number": 23,
-      "body_index": 1258,
-      "web_id": "q-b5-c23-1258",
-      "web_number": 23,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 5,
-      "source_number": 24,
-      "body_index": 1261,
-      "web_id": "q-b5-c24-1261",
-      "web_number": 24,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 5,
-      "source_number": 25,
-      "body_index": 1264,
-      "web_id": "q-b5-c25-1264",
-      "web_number": 25,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 5,
-      "source_number": 26,
-      "body_index": 1267,
-      "web_id": "q-b5-c26-1267",
-      "web_number": 26,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 5,
-      "source_number": 27,
-      "body_index": 1269,
-      "web_id": "q-b5-c27-1269",
-      "web_number": 27,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 5,
-      "source_number": 28,
-      "body_index": 1276,
-      "web_id": "q-b5-c28-1276",
-      "web_number": 28,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 5,
-      "source_number": 12,
-      "body_index": 1284,
-      "web_id": "q-b5-c29-1284",
-      "web_number": 29,
+      "body_index": 1191,
+      "source_title": "Câu 28 (Bài 5 – Đúng/Sai): Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+      "web_id": "word-c41143f3c5139fa3-p1191",
       "type": "true_false"
     },
     {
-      "lesson": 5,
-      "source_number": 14,
-      "body_index": 1302,
-      "web_id": "q-b5-c30-1302",
-      "web_number": 30,
+      "body_index": 1196,
+      "source_title": "Câu 30 (Bài 5 – Đúng/Sai): Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+      "web_id": "word-c41143f3c5139fa3-p1196",
       "type": "true_false"
-    },
-    {
-      "lesson": 5,
-      "source_number": 10,
-      "body_index": 1321,
-      "web_id": "q-b5-c31-1321",
-      "web_number": 31,
-      "type": "drag_drop_categorize"
-    },
-    {
-      "lesson": 5,
-      "source_number": 11,
-      "body_index": 1326,
-      "web_id": "q-b5-c32-1326",
-      "web_number": 32,
-      "type": "drag_drop_match"
-    },
-    {
-      "lesson": 5,
-      "source_number": 13,
-      "body_index": 1331,
-      "web_id": "q-b5-c33-1331",
-      "web_number": 33,
-      "type": "drag_drop_match"
-    },
-    {
-      "lesson": 5,
-      "source_number": 30,
-      "body_index": 1335,
-      "web_id": "q-b5-c34-1335",
-      "web_number": 34,
-      "type": "multiple_choice"
-    },
-    {
-      "lesson": 5,
-      "source_number": 27,
-      "body_index": 1342,
-      "web_id": "q-b5-c35-1342",
-      "web_number": 35,
-      "type": "multiple_choice"
-    },
-    {
-      "lesson": 5,
-      "source_number": 9,
-      "body_index": 1349,
-      "web_id": "q-b5-c36-1349",
-      "web_number": 36,
-      "type": "drag_drop_categorize"
-    },
-    {
-      "lesson": 5,
-      "source_number": 10,
-      "body_index": 1354,
-      "web_id": "q-b5-c37-1354",
-      "web_number": 37,
-      "type": "drag_drop_categorize"
-    },
-    {
-      "lesson": 5,
-      "source_number": 38,
-      "body_index": 1360,
-      "web_id": "q-b5-c38-1360",
-      "web_number": 38,
-      "type": "drag_drop_match"
-    },
-    {
-      "lesson": 5,
-      "source_number": 39,
-      "body_index": 1363,
-      "web_id": "q-b5-c39-1363",
-      "web_number": 39,
-      "type": "drag_drop_match"
-    },
-    {
-      "lesson": 6,
-      "source_number": 1,
-      "body_index": 1369,
-      "web_id": "q-b6-c1-1369",
-      "web_number": 1,
-      "type": "multiple_choice"
-    },
-    {
-      "lesson": 6,
-      "source_number": 2,
-      "body_index": 1378,
-      "web_id": "q-b6-c2-1378",
-      "web_number": 2,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 6,
-      "source_number": 3,
-      "body_index": 1385,
-      "web_id": "q-b6-c3-1385",
-      "web_number": 3,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 6,
-      "source_number": 4,
-      "body_index": 1392,
-      "web_id": "q-b6-c4-1392",
-      "web_number": 4,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 6,
-      "source_number": 5,
-      "body_index": 1399,
-      "web_id": "q-b6-c5-1399",
-      "web_number": 5,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 6,
-      "source_number": 6,
-      "body_index": 1407,
-      "web_id": "q-b6-c6-1407",
-      "web_number": 6,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 6,
-      "source_number": 7,
-      "body_index": 1415,
-      "web_id": "q-b6-c7-1415",
-      "web_number": 7,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 6,
-      "source_number": 8,
-      "body_index": 1422,
-      "web_id": "q-b6-c8-1422",
-      "web_number": 8,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 6,
-      "source_number": 9,
-      "body_index": 1430,
-      "web_id": "q-b6-c9-1430",
-      "web_number": 9,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 6,
-      "source_number": 10,
-      "body_index": 1438,
-      "web_id": "q-b6-c10-1438",
-      "web_number": 10,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 6,
-      "source_number": 11,
-      "body_index": 1446,
-      "web_id": "q-b6-c11-1446",
-      "web_number": 11,
-      "type": "multiple_choice"
-    },
-    {
-      "lesson": 6,
-      "source_number": 12,
-      "body_index": 1455,
-      "web_id": "q-b6-c12-1455",
-      "web_number": 12,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 6,
-      "source_number": 13,
-      "body_index": 1462,
-      "web_id": "q-b6-c13-1462",
-      "web_number": 13,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 6,
-      "source_number": 14,
-      "body_index": 1469,
-      "web_id": "q-b6-c14-1469",
-      "web_number": 14,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 6,
-      "source_number": 15,
-      "body_index": 1476,
-      "web_id": "q-b6-c15-1476",
-      "web_number": 15,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 6,
-      "source_number": 16,
-      "body_index": 1483,
-      "web_id": "q-b6-c16-1483",
-      "web_number": 16,
-      "type": "multiple_choice"
-    },
-    {
-      "lesson": 6,
-      "source_number": 17,
-      "body_index": 1492,
-      "web_id": "q-b6-c17-1492",
-      "web_number": 17,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 6,
-      "source_number": 18,
-      "body_index": 1499,
-      "web_id": "q-b6-c18-1499",
-      "web_number": 18,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 6,
-      "source_number": 19,
-      "body_index": 1507,
-      "web_id": "q-b6-c19-1507",
-      "web_number": 19,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 6,
-      "source_number": 20,
-      "body_index": 1514,
-      "web_id": "q-b6-c20-1514",
-      "web_number": 20,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 6,
-      "source_number": 21,
-      "body_index": 1521,
-      "web_id": "q-b6-c21-1521",
-      "web_number": 21,
-      "type": "multiple_choice"
-    },
-    {
-      "lesson": 6,
-      "source_number": 22,
-      "body_index": 1528,
-      "web_id": "q-b6-c22-1528",
-      "web_number": 22,
-      "type": "single_choice"
-    },
-    {
-      "lesson": 6,
-      "source_number": 23,
-      "body_index": 1535,
-      "web_id": "q-b6-c23-1535",
-      "web_number": 23,
-      "type": "multiple_choice"
-    },
-    {
-      "lesson": 6,
-      "source_number": 24,
-      "body_index": 1542,
-      "web_id": "q-b6-c24-1542",
-      "web_number": 24,
-      "type": "true_false"
-    },
-    {
-      "lesson": 6,
-      "source_number": 25,
-      "body_index": 1553,
-      "web_id": "q-b6-c25-1553",
-      "web_number": 25,
-      "type": "true_false"
-    },
-    {
-      "lesson": 6,
-      "source_number": 26,
-      "body_index": 1563,
-      "web_id": "q-b6-c26-1563",
-      "web_number": 26,
-      "type": "drag_drop_categorize"
-    },
-    {
-      "lesson": 6,
-      "source_number": 27,
-      "body_index": 1568,
-      "web_id": "q-b6-c27-1568",
-      "web_number": 27,
-      "type": "drag_drop_match"
     }
   ],
   "errors": []

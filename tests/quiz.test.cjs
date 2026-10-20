@@ -9,7 +9,7 @@ const { chromium } = require('playwright');
 const root = path.resolve(__dirname, '..');
 const bank = JSON.parse(fs.readFileSync(path.join(root, 'questions.json'), 'utf8'));
 
-test('v6 browser regression: filters, shuffle, all answers, navigation, history and offline mode', { timeout: 120000 }, async () => {
+test('Current Word browser regression: filters, shuffle, all answers, navigation, history and offline mode', { timeout: 120000 }, async () => {
   const server = http.createServer((req, res) => {
     const file = path.join(root, new URL(req.url, 'http://localhost').pathname === '/' ? 'index.html' : decodeURIComponent(new URL(req.url, 'http://localhost').pathname));
     if (!file.startsWith(root + path.sep)) { res.writeHead(403).end(); return; }
@@ -29,12 +29,33 @@ test('v6 browser regression: filters, shuffle, all answers, navigation, history 
     page.on('pageerror', e => errors.push(e.message));
     page.on('dialog', d => d.dismiss());
     const url = `http://127.0.0.1:${server.address().port}/`;
+    await page.addInitScript(() => {
+      localStorage.setItem('cnxhkh_quiz_history', JSON.stringify([{id:'old-source', wrongQIds:[1,2]}]));
+      localStorage.setItem('cnxhkh_leaderboard', JSON.stringify([{id:'old-score',score:100}]));
+      localStorage.setItem('cnx_current_lesson', '6');
+      localStorage.setItem('cnxhkh_player_name', 'Người học');
+      localStorage.setItem('cnx_theme', 'dark');
+    });
     await page.goto(url);
     console.log('Browser loaded');
     await page.waitForFunction(() => allQuestions.length > 0);
     await page.locator('.toggle-label').filter({ has: page.locator('#autoadvance-toggle') }).click();
     await page.evaluate(() => { soundEnabled = false; });
     assert.equal(await page.locator('#count-all').textContent(), String(bank.length));
+    assert.deepEqual(await page.evaluate(() => getHistoryList()), []);
+    assert.deepEqual(await page.evaluate(() => getLeaderboardEntries()), []);
+    assert.equal(await page.evaluate(() => currentLesson), 'all');
+    assert.equal(await page.evaluate(() => getPlayerName()), 'Người học');
+    assert.equal(await page.locator('html').getAttribute('data-theme'), 'dark');
+    assert.equal(await page.evaluate(() => localStorage.getItem('cnxhkh_bank_version')), await page.locator('meta[name="quiz-bank-version"]').getAttribute('content'));
+    const retained = await browser.newPage();
+    await retained.goto(url);
+    await retained.waitForFunction(() => allQuestions.length > 0);
+    await retained.evaluate(() => saveHistoryEntry({id:'new-source-result',wrongQIds:[],totalQuestions:1}));
+    await retained.reload();
+    await retained.waitForFunction(() => allQuestions.length > 0);
+    assert.equal(await retained.evaluate(() => getHistoryList()[0]?.id), 'new-source-result');
+    await retained.close();
 
     // Every filter combination must contain exactly its eligible questions, each once.
     const filterChecks = await page.evaluate(() => {
@@ -195,9 +216,10 @@ test('v6 browser regression: filters, shuffle, all answers, navigation, history 
     assert.equal(await page.evaluate(() => activeQuestions.length), 5);
     console.log('Wrong answers and history passed');
     await page.evaluate(() => {
-      saveHistoryEntry({ id: 'legacy-check', wrongQIds: [50, 50, 92], lesson: 'all' });
-      practiceWrongFromHistory('legacy-check');
-      if (activeQuestions.length !== 2 || activeQuestions.some(q => typeof q.id !== 'string')) throw new Error('Legacy history migration failed');
+      const ids = [allQuestions[0].id, allQuestions[0].id, allQuestions[1].id];
+      saveHistoryEntry({ id: 'current-bank-check', wrongQIds: ids, lesson: 'all' });
+      practiceWrongFromHistory('current-bank-check');
+      if (activeQuestions.length !== 2) throw new Error('History repeated or lost current-bank questions');
     });
 
     // Complete a one-question session then immediately change lessons: no stale summary.
@@ -244,13 +266,32 @@ test('v6 browser regression: filters, shuffle, all answers, navigation, history 
       await offline.evaluate(t => startQuestionSession([allQuestions.find(q => q.type === t)]), type);
       assert.equal(await offline.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth), true, `Mobile overflow: ${type}`);
     }
+    for (const width of [320, 390, 768]) {
+      await offline.setViewportSize({width, height:844});
+      const overflowing = await offline.evaluate(() => {
+        const failures = [];
+        startQuestionSession(allQuestions);
+        for (let i=0; i<activeQuestions.length; i++) {
+          currentIndex=i; renderCurrentQuestion();
+          if (document.documentElement.scrollWidth > window.innerWidth) failures.push(activeQuestions[i].id);
+          if (document.getElementById('hero-body').textContent.includes('\uFFFD')) throw new Error('Broken Unicode');
+        }
+        return failures;
+      });
+      assert.deepEqual(overflowing, [], `Horizontal overflow at ${width}px`);
+    }
+    await offline.setViewportSize({width:390, height:844});
     const resultDir = path.join(__dirname, 'results');
     fs.mkdirSync(resultDir, { recursive: true });
-    await offline.evaluate(() => startQuestionSession([allQuestions.find(q => q.variants) || allQuestions[0]]));
+    for (const type of new Set(bank.map(q => q.type))) {
+      await offline.evaluate(t => { startQuestionSession([allQuestions.find(q => q.type === t)]); window.scrollTo(0,0); }, type);
+      await offline.screenshot({path:path.join(resultDir, `mobile-${type}.png`),fullPage:true});
+    }
+    await offline.evaluate(() => { startQuestionSession([allQuestions.find(q => q.body_index === 179)]); window.scrollTo(0,0); });
     await offline.evaluate(() => window.scrollTo(0, 0));
     await page.evaluate(() => window.scrollTo(0, 0));
-    await offline.screenshot({ path: path.join(resultDir, 'v6-mobile.png'), fullPage: true });
-    await page.screenshot({ path: path.join(resultDir, 'v6-desktop.png'), fullPage: true });
+    await offline.screenshot({ path: path.join(resultDir, 'word-mobile.png'), fullPage: true });
+    await page.screenshot({ path: path.join(resultDir, 'word-desktop.png'), fullPage: true });
     assert.deepEqual(errors, []);
     console.log(`Validated ${bank.length} questions, all five types, 40 filter combinations, 100 shuffles, desktop and mobile/offline.`);
   } finally {

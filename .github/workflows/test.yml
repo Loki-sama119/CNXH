@@ -1,4 +1,4 @@
-name: v6 question and browser checks
+name: Word source and browser checks
 on: [push, pull_request]
 jobs:
   test:
@@ -12,7 +12,7 @@ jobs:
         with:
           node-version: '22'
       - run: python -m pip install -r requirements.txt
-      - run: python build_merged_questions.py
+      - run: python import_questions.py
       - run: python verify_questions.py
       - run: python audit_word_coverage.py
       - run: python -m unittest discover -s tests -p 'test_*.py' -v

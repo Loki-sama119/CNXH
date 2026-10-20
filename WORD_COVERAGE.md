@@ -1,28 +1,17 @@
-# Đối chiếu nội dung Word với ngân hàng v6
+# Đối chiếu tài liệu Word mới
 
-Nguồn chính hiện là bản `GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx` xuất trực tiếp từ [Google Docs người dùng cung cấp](https://docs.google.com/document/d/1cu38LJeR8I9mVD7imaGD2i-kYiMH0cSk6t9UoXA1Wdc/edit?tab=t.0), được kiểm tra ngày 20/10/2026. Bản xuất khớp nội dung và màu đánh dấu đáp án với 1.574 phần tử đọc trực tiếp từ Google Docs. Mã SHA256 và lần đồng bộ được lưu trong `google-docs-source.json`. Nội dung câu hỏi và đáp án không thay đổi so với nguồn Word trước đó.
+Nguồn duy nhất: `CHỦ NGHĨA XH-KH (2).docx`.
 
-Việc đối chiếu kiểm tra độ đầy đủ của câu hỏi, lựa chọn, đáp án theo Word, mệnh đề Đúng/Sai và nội dung bảng; không thay thế việc thẩm định kiến thức trong nguồn.
+SHA256: `c41143f3c5139fa386f1d0fb63c3259f8b880565bd990fa75f13ca427970fea3`.
 
-## Kết quả kiểm tra độc lập
+Đối chiếu ngày 20/10/2026: **252/252 bài tập, 15 bảng, không phát hiện sai lệch** giữa nội dung nhập và tài liệu nguồn.
 
-Đọc trực tiếp XML trong Word tìm được **233 mục bài tập** và **25 bảng kéo thả**. 4 câu trước đây bị khuyết số câu trong bản gốc (`Câu : `) nay đã được điền số câu chuẩn xác trực tiếp vào file Word:
+`audit_word_coverage.py` đọc trực tiếp XML trong DOCX, không gọi lại bộ nhập để tạo đáp án kỳ vọng. Kiểm tra toàn bộ ranh giới câu, tiêu đề, đoạn văn, ô bảng, lựa chọn, chữ tô đỏ, đáp án ghi rõ, các mệnh đề Đúng/Sai, cặp ghép và phân loại cột. Không sử dụng các phép sửa từ hoặc thay đáp án của dữ liệu cũ.
 
-- Bài 3, Câu 32: quan hệ giữa dân chủ xã hội chủ nghĩa và nhà nước xã hội chủ nghĩa.
-- Bài 4, Câu 45: ghép các nội dung về liên minh giai cấp, tầng lớp.
-- Bài 5, Câu 38: ghép các phát biểu về quyền dân tộc.
-- Bài 5, Câu 39: ghép các phát biểu về tôn giáo, tín ngưỡng.
+Bài 1 Câu 34 có ba cụm tô đỏ ngay trong các phát biểu; chúng được thay bằng ô trống đúng vị trí. “Đảng Cộng Sản” tô đỏ đứng riêng được giữ trong danh sách lựa chọn. Các câu chọn nhiều đáp án được đối chiếu với yêu cầu chọn bao nhiêu; các lựa chọn tự đánh số bởi Word vẫn được đọc đủ.
 
-Hiện tại toàn bộ 233 mục bài tập trong file Word đều đã có số câu đầy đủ (0 câu khuyết số), bảo lưu độc lập 100% trong ngân hàng câu hỏi (không gộp bất kỳ câu nào thành biến thể), tương ứng chính xác với từng câu trong file Word.
+Phần 43 câu bắt đầu lại từ Câu 1 sau Bài 5 không có tiêu đề trong nguồn, nên hiển thị ở mục Bổ sung. 12 câu kiểm tra thường xuyên ở cuối tài liệu được giữ đủ, gắn bài theo nhãn nguồn và lọc được qua tab TX.
 
-## Phân bố và đánh số câu theo từng bài
- 
-- **Bài 1 (41 câu)**: Đánh số từ Câu 1 đến Câu 41, khớp 100% với số thứ tự trong file Word gốc.
-- **Bài 2 (41 câu)**: Đánh số từ Câu 1 đến Câu 41 (bổ sung 1 câu so sánh giai đoạn thấp/cao của CSCN từ `cac_cau_con_thieu_to_do.docx`).
-- **Bài 3 (41 câu)**: Đánh số tuần tự từ Câu 1 đến Câu 41. Các câu số 29–41 có nhãn `[Gốc: Câu X]`.
-- **Bài 4 (45 câu)**: Đánh số tuần tự từ Câu 1 đến Câu 45. Các câu số 34–45 có nhãn `[Gốc: Câu X]`.
-- **Bài 5 (41 câu)**: Đánh số tuần tự từ Câu 1 đến Câu 41 (39 câu từ Word gốc + 2 câu bổ sung từ `cac_cau_con_thieu_to_do.docx`).
-- **Bài 6 (56 câu)**: Đánh số từ Câu 1 đến Câu 56 (gồm 27 câu từ bản Word gộp gốc + 29 câu còn thiếu bổ sung trực tiếp từ `CNKHXH BAI6.docx`: Câu 28 đến Câu 56 có nhãn `[Gốc: Câu X trong CNKHXH BAI6.docx]`). Đầy đủ 100% tất cả 43 câu hỏi trong file `CNKHXH BAI6.docx`.
-- **Kiểm Tra TX (12 câu)**: Gồm 12 bài tập thường xuyên (Bài TX 1: 5 câu; Bài TX 2: 7 câu) từ file `cac_cau_con_thieu_to_do.docx`.
+Bài 4 Câu 40 có “Tầng lớp phụ nữ” ngoài bảng, không được chỉ định cột; mục này được lưu nguyên và hiện ghi chú, còn các mục trong bảng được chấm theo đúng cột. Dòng “chưa kiểm chứng” ở câu TX về số quy luật được giữ nguyên, cùng đáp án A đã tô đỏ. Đây là ghi chú sẵn có của nguồn.
 
-Tổng cộng toàn bộ web app có đúng **265 câu bài tập** (233 câu từ file Word gộp gốc + 29 câu từ `CNKHXH BAI6.docx` + 3 câu mới từ `cac_cau_con_thieu_to_do.docx`), bảo toàn 100% câu hỏi và đáp án chuẩn. Chạy `python audit_word_coverage.py` và `python verify_questions.py` để kiểm tra tự động.
+Chạy lại `python audit_word_coverage.py` để tạo `word-coverage-report.json`, gồm vị trí XML và mã câu trên web cho đủ 252 mục. Kiểm thử có sửa cố ý câu hỏi, lựa chọn, đáp án, cặp ghép, nhóm phân loại và nội dung gốc để xác nhận bộ đối chiếu phát hiện sai lệch.

@@ -1,24 +1,46 @@
 {
-  "source_exercises": 265,
-  "merged_source_exercises": 233,
-  "supplement_exercises": 29,
-  "tx_new_exercises": 3,
-  "duplicate_groups": [],
+  "source_file": "CHỦ NGHĨA XH-KH (2).docx",
+  "source_sha256": "c41143f3c5139fa386f1d0fb63c3259f8b880565bd990fa75f13ca427970fea3",
+  "bank_version": "word-c41143f3c5139fa3",
+  "source_exercises": 252,
+  "total": 252,
+  "playable": 252,
+  "reference_only": 0,
   "lesson_counts": {
     "1": 41,
-    "2": 41,
-    "3": 41,
+    "2": 45,
+    "3": 39,
     "4": 45,
-    "5": 41,
-    "6": 56
+    "5": 39,
+    "6": 43
+  },
+  "playable_lesson_counts": {
+    "1": 41,
+    "2": 45,
+    "3": 39,
+    "4": 45,
+    "5": 39,
+    "6": 43
   },
   "type_counts": {
     "single_choice": 177,
-    "multiple_choice": 39,
-    "true_false": 24,
-    "drag_drop_categorize": 7,
-    "drag_drop_match": 18
+    "multiple_choice": 36,
+    "true_false": 18,
+    "drag_drop_categorize": 5,
+    "drag_drop_match": 16
   },
-  "total": 265,
-  "tx_count": 12
+  "tx_count": 12,
+  "source_notes": [
+    {
+      "id": "word-c41143f3c5139fa3-p855",
+      "source_title": "Câu 40 : Kéo thả các yếu tố liên quan đến liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội vào các cột tương ứng.",
+      "warning": "Mục “Tầng lớp phụ nữ” nằm ngoài bảng trong tài liệu, chưa xác định cột; chỉ chấm các mục trong bảng."
+    },
+    {
+      "id": "word-c41143f3c5139fa3-p1170",
+      "source_title": "Câu 7 (Bài 4): Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội – giai cấp thường xuyên biến đổi theo mấy quy luật cơ bản?",
+      "warning": "Tài liệu ghi: Đáp án: A (chưa kiểm chứng được, bạn nên kiểm lại với giáo trình)"
+    }
+  ],
+  "section_note": "43 câu bắt đầu lại từ Câu 1 sau Bài 5 không có tiêu đề bài; hiển thị riêng ở mục Bổ sung."
 }

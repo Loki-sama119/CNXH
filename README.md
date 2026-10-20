@@ -1,21 +1,20 @@
-# Ôn tập Chủ nghĩa xã hội khoa học v6
+# Ôn tập Chủ nghĩa xã hội khoa học
 
-Ứng dụng trắc nghiệm chạy trực tiếp trong trình duyệt, có phản hồi đúng/sai, lọc theo bài, xáo trộn, kéo thả, lịch sử và ôn lại câu sai. Dữ liệu đã được đối chiếu trực tiếp với [Google Docs nguồn](https://docs.google.com/document/d/1cu38LJeR8I9mVD7imaGD2i-kYiMH0cSk6t9UoXA1Wdc/edit?tab=t.0) ngày 20/10/2026.
+Ứng dụng trắc nghiệm dùng duy nhất tài liệu `CHỦ NGHĨA XH-KH (2).docx` do người dùng cung cấp ngày 20/10/2026. Các tài liệu, dữ liệu và công cụ ghép nguồn cũ đã được thay thế.
 
-Ngân hàng có **đúng 265 câu** (gồm 233 câu chuẩn từ file GỘP gốc, 29 câu còn thiếu bổ sung trực tiếp từ `CNKHXH BAI6.docx`, và 3 câu mới cùng 12 câu bài tập trong `cac_cau_con_thieu_to_do.docx`), phân loại chuẩn xác theo từng chuyên đề:
-- **Bài 1**: 41 câu (Câu 1 đến Câu 41)
-- **Bài 2**: 41 câu (Câu 1 đến Câu 41, bổ sung câu so sánh giai đoạn thấp/cao của CSCN)
-- **Bài 3**: 41 câu (Câu 1 đến Câu 41)
-- **Bài 4**: 45 câu (Câu 1 đến Câu 45)
-- **Bài 5**: 41 câu (Câu 1 đến Câu 41, bổ sung 2 câu từ `cac_cau_con_thieu_to_do.docx`)
-- **Bài 6**: 56 câu (Câu 1 đến Câu 56, gồm 27 câu gốc + 29 câu bổ sung trực tiếp từ `CNKHXH BAI6.docx`, đầy đủ toàn bộ 43 câu trong file Bài 6)
-- **Kiểm Tra TX (12 câu)**: Gồm trọn vẹn 12 bài tập của Bài kiểm tra thường xuyên 1 (5 câu) và 2 (7 câu).
+Ngân hàng giữ đủ **252 bài tập** trong tài liệu, gồm 177 câu một đáp án, 36 câu nhiều đáp án, 18 bài Đúng/Sai, 16 bài ghép vế và 5 bài phân loại hai cột. Các câu xuất hiện ở nhiều vị trí trong tài liệu vẫn được giữ riêng để không bỏ sót nguồn.
 
-Các dạng bài: 177 câu một đáp án, 39 câu nhiều đáp án, 24 bài Đúng/Sai, 18 bài ghép vế và 7 bài phân loại hai cột.
+- Bài 1: 41 câu.
+- Bài 2: 45 câu.
+- Bài 3: 39 câu.
+- Bài 4: 45 câu.
+- Bài 5: 39 câu.
+- Bổ sung: 43 câu bắt đầu lại từ Câu 1 sau Bài 5 nhưng không có tiêu đề bài trong tài liệu. Không tự đặt tên phần này là Bài 6.
+- Tab Kiểm Tra TX lọc 12 câu đã có trong các bài trên (TX 1: 5 câu, TX 2: 7 câu), không cộng thêm vào tổng.
 
-## Chạy ứng dụng
+## Cách sử dụng
 
-Mở `index.html` hoặc nhấp đúp `run_app.bat`. Không cần cài đặt để sử dụng ngoại tuyến. Có thể chạy qua máy chủ:
+Mở `index.html` hoặc nhấp đúp `run_app.bat`. Ứng dụng chạy ngoại tuyến, không cần tải phông chữ từ mạng. Có thể dùng máy chủ cục bộ:
 
 ```powershell
 python -m http.server 8080
@@ -23,32 +22,30 @@ python -m http.server 8080
 
 Sau đó mở http://localhost:8080.
 
-## Nguồn dữ liệu và cách đánh số
+Đáp án lấy từ phần chữ tô đỏ và các bảng/dòng đáp án trong tài liệu. Với câu ghép vế có đáp án tô đỏ nằm trong phát biểu, cụm đỏ được thay bằng ô trống và đưa vào danh sách lựa chọn. Các mục tô đỏ đứng riêng vẫn được giữ trong danh sách lựa chọn. Câu phân loại được đọc theo cột, không chuyển nhầm thành ghép từng hàng. Không áp dụng các chỉnh sửa nội dung hoặc đáp án từ ngân hàng cũ.
 
-- `GỘP CHỦ NGHĨA XÃ HỘI KHOA HỌC - BÀI 1 2 3 4 5 6.docx` là bản xuất trực tiếp từ Google Docs nguồn. Toàn bộ 233 bài tập được bảo lưu nguyên vẹn, không gộp bất kỳ câu nào thành biến thể.
-- Mọi câu hỏi đều được đánh số tuần tự trong từng bài từ Câu 1 đến hết. Đối với các câu ở Bài 3, Bài 4, Bài 5 có số thứ tự trong bản Word gốc nhảy cóc hoặc chưa đánh số, ứng dụng hiển thị thêm nhãn `[Gốc: Câu X]` hoặc `[Gốc: Chưa đánh số]` để người học dễ dàng đối chiếu trực tiếp với file Word.
-- Toàn bộ đáp án đúng (bôi đỏ hoặc ghi chú đáp án) trong file Word đều được giữ chuẩn xác 100%.
-- `WORD_COVERAGE.md` và `word-coverage-report.json` đối chiếu độc lập 233 mục trong XML của Word với từng câu trên web, đạt tỷ lệ khớp 233/233 mục (0 lỗi).
+Câu được đánh số tuần tự trong từng mục; nhãn “Gốc: Câu …” cho phép đối chiếu khi số hiển thị khác số trong Word. Nội dung gốc của từng câu và bảng được lưu tại `source_title`, `source_content` và `sources` trong JSON.
 
-## Xây dựng lại dữ liệu và kiểm thử
+Hai ghi chú của nguồn được giữ rõ trên câu liên quan: Bài 4 Câu 40 có “Tầng lớp phụ nữ” nằm ngoài bảng, không có cột đáp án; câu TX về số quy luật có dòng “chưa kiểm chứng”. Ứng dụng giữ đáp án đã đánh dấu trong nguồn, không tự suy diễn thêm.
 
-Yêu cầu Python 3.10+ và Node.js 20+ cho công cụ phát triển:
+Khi chuyển sang ngân hàng mới, lịch sử, bảng điểm và bộ lọc cũ được xoá một lần trên trình duyệt. Kết quả của ngân hàng mới được giữ khi tải lại trang.
+
+## Xây dựng và kiểm tra
+
+Yêu cầu Python 3.10+ và Node.js 20+:
 
 ```powershell
 python -m pip install -r requirements.txt
-python build_merged_questions.py
+python import_questions.py
 python verify_questions.py
 python audit_word_coverage.py
 python -m unittest discover -s tests -p "test_*.py" -v
-npm install
-```
-
-Trên Windows, bộ test dùng Microsoft Edge đã cài sẵn. Trên Linux/macOS, chạy `npx playwright install chromium` trước `npm test`.
-
-```powershell
+npm ci --ignore-scripts
 npm test
 ```
 
-Bộ test kiểm tra tính đầy đủ của nguồn, trùng câu, đáp án, số thứ tự, xây dựng lặp lại, toàn bộ 238 câu trên trình duyệt, 40 tổ hợp bộ lọc, 100 lần xáo trộn, lịch sử cũ, tải JSON dự phòng, hẹn giờ chuyển câu, ngoại tuyến và giao diện điện thoại cho cả năm dạng bài. Ảnh kiểm tra được lưu trong `tests/results/` và không đưa lên Git.
+Trên Windows, kiểm thử trình duyệt dùng Edge. Trên Linux/macOS, cài Chromium bằng `npx playwright install --with-deps chromium` trước khi chạy `npm test`.
 
-Các tệp chạy chính là `index.html`, `style.css`, `script.js`, `questions-data.js` và `questions.json`. `question-build-report.json` ghi số lượng và các bài được gộp khi xây dựng. Chỉ dùng `build_merged_questions.py` để tái tạo dữ liệu v6.
+Bộ đối chiếu XML độc lập kiểm tra đủ 252/252 bài tập, 15 bảng, nội dung lựa chọn, chữ tô đỏ, đáp án Đúng/Sai, các cặp ghép và phân loại. 13 kiểm thử Python còn kiểm tra các lỗi nhập liệu đặc biệt, tính lặp lại và phát hiện khi nội dung/đáp án bị sửa sai. Bộ kiểm thử trình duyệt thực hiện chấm điểm cả 252 câu, 40 tổ hợp bộ lọc, 100 lần xáo trộn, ôn câu sai, xoá lịch sử cũ, giữ lịch sử mới, tải JSON dự phòng và ngoại tuyến. Toàn bộ câu được kiểm tra tràn ngang ở chiều rộng 320, 390 và 768 px; ảnh giao diện lưu ở `tests/results/` và không đưa lên Git.
+
+Các tệp chạy chính: `index.html`, `style.css`, `script.js`, `questions-data.js`, `questions.json`. `question-build-report.json` lưu số lượng và SHA256 nguồn; `word-coverage-report.json` lưu ánh xạ đối chiếu từng câu.
