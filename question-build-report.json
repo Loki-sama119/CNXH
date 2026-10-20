@@ -1,7 +1,7 @@
 {
   "source_file": "CHỦ NGHĨA XH-KH (2).docx",
   "source_sha256": "c41143f3c5139fa386f1d0fb63c3259f8b880565bd990fa75f13ca427970fea3",
-  "bank_version": "word-c41143f3c5139fa3-answers-6e385ea5-lesson6-c9f85804",
+  "bank_version": "word-c41143f3c5139fa3-answers-e388d914-lesson6-c9f85804",
   "approved_answer_corrections": [
     {
       "body_index": 46,
@@ -21,6 +21,25 @@
       "approved_by": "user",
       "approved_on": "2026-10-20",
       "reason": "Người dùng duyệt đổi đáp án Bài 1 Câu 10 từ C sang B. Đây là hiệu đính theo phê duyệt, không phải đáp án tô đỏ trong Word gốc."
+    },
+    {
+      "body_index": 1108,
+      "source_title": "Câu 34: Quan hệ nào được coi là cơ sở, nền tảng hình thành nên các mối quan hệ khác trong gia đình?",
+      "options": [
+        "A. Quan hệ hôn nhân và huyết thống",
+        "B. Quan hệ nuôi dưỡng",
+        "C. Quan hệ quản trị trong một không gian sinh tồn",
+        "D. Quan hệ hôn nhân"
+      ],
+      "source_correct_answers": [
+        0
+      ],
+      "approved_correct_answers": [
+        3
+      ],
+      "approved_by": "user",
+      "approved_on": "2026-10-20",
+      "reason": "Người dùng yêu cầu sửa Bài 6 Câu 5 (gốc Câu 34) sang D. Quan hệ hôn nhân, theo ảnh và xác nhận trực tiếp. Quan hệ hôn nhân là cơ sở, nền tảng hình thành các mối quan hệ khác trong gia đình."
     }
   ],
   "approved_category_corrections": [

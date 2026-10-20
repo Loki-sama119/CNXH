@@ -9,7 +9,7 @@ Ngân hàng có **261 bài tập**: giữ đủ 252 câu trong Word và thêm đ
 - Bài 3: 39 câu.
 - Bài 4: 45 câu.
 - Bài 5: 39 câu.
-- Bài 6: 23 câu về gia đình. Câu 1–20 theo thứ tự danh sách người dùng gửi; câu 21–23 là ba câu khác về gia đình đã có trong Word. Chuyển 14 câu cũ sang đúng mục, giữ nguyên ID, nội dung và đáp án.
+- Bài 6: 23 câu về gia đình. Câu 1–20 theo thứ tự danh sách người dùng gửi; câu 21–23 là ba câu khác về gia đình đã có trong Word. Chuyển 14 câu cũ sang đúng mục, giữ nguyên ID và nội dung; áp dụng các hiệu đính đáp án được duyệt.
 - Bổ sung: 29 câu hỗn hợp còn lại từ phần không có tiêu đề trong Word; không gán toàn bộ phần này cho Bài 6.
 - Tab Kiểm Tra TX lọc 12 câu đã có trong các bài trên (TX 1: 5 câu, TX 2: 7 câu), không cộng thêm vào tổng.
 
@@ -47,7 +47,7 @@ npm test
 
 Trên Windows, kiểm thử trình duyệt dùng Edge. Trên Linux/macOS, cài Chromium bằng `npx playwright install --with-deps chromium` trước khi chạy `npm test`.
 
-Bộ đối chiếu XML độc lập kiểm tra đủ 252/252 bài tập, 15 bảng, nội dung lựa chọn, chữ tô đỏ, đáp án Đúng/Sai, các cặp ghép và phân loại. 16 kiểm thử Python còn kiểm tra các lỗi nhập liệu đặc biệt, tính lặp lại và phát hiện khi nội dung/đáp án bị sửa sai. Bộ kiểm thử trình duyệt thực hiện chấm điểm cả 261 câu, 45 tổ hợp bộ lọc, 100 lần xáo trộn, ôn câu sai, xoá lịch sử cũ, giữ lịch sử mới, tải JSON dự phòng và ngoại tuyến. Toàn bộ câu được kiểm tra tràn ngang ở chiều rộng 320, 390 và 768 px; ảnh giao diện lưu ở `tests/results/` và không đưa lên Git.
+Bộ đối chiếu XML độc lập kiểm tra đủ 252/252 bài tập, 15 bảng, nội dung lựa chọn, chữ tô đỏ, đáp án Đúng/Sai, các cặp ghép và phân loại. 17 kiểm thử Python còn kiểm tra các lỗi nhập liệu đặc biệt, tính lặp lại và phát hiện khi nội dung/đáp án bị sửa sai. Bộ kiểm thử trình duyệt thực hiện chấm điểm cả 261 câu, 45 tổ hợp bộ lọc, 100 lần xáo trộn, ôn câu sai, xoá lịch sử cũ, giữ lịch sử mới, tải JSON dự phòng và ngoại tuyến. Toàn bộ câu được kiểm tra tràn ngang ở chiều rộng 320, 390 và 768 px; ảnh giao diện lưu ở `tests/results/` và không đưa lên Git.
 
 Các tệp chạy chính: `index.html`, `style.css`, `script.js`, `questions-data.js`, `questions.json`. `question-build-report.json` lưu số lượng và SHA256 nguồn; `word-coverage-report.json` lưu ánh xạ đối chiếu từng câu.
 
@@ -56,3 +56,5 @@ Các tệp chạy chính: `index.html`, `style.css`, `script.js`, `questions-dat
 Chỉ thêm các câu gốc 1, 7, 11, 12, 13, 15, 18, 19 và 20. Cấu trúc, đáp án và ánh xạ 11 câu tương ứng đã có lưu trong `supplemental-lesson6.json`; `supplementary_questions.py` bổ sung dữ liệu khi xây dựng, đồng thời đối chiếu trực tiếp với văn bản người dùng. Câu 13 giữ đủ bốn phát biểu Đúng/Sai; Câu 20 giữ bảng phân loại hai cột với ba mục mỗi cột, không chuyển thành ghép hàng.
 
 Đáp án theo thứ tự lựa chọn trong văn bản mới: 1 A; 7 D; 11 B,C; 12 B; 13 Sai–Đúng–Sai–Đúng; 15 C,D; 18 B (câu hỏi chọn phát biểu sai); 19 C. Câu 20 theo đúng hai cột người dùng cung cấp. Các đáp án được đối chiếu Chương 7 giáo trình trên website Trường Đại học Tài nguyên và Môi trường TP.HCM; đường dẫn và mục tham chiếu nằm trong `answer_verification`. Các chữ đáp án của 11 câu cũ có thể khác vì thứ tự lựa chọn trong Word khác văn bản mới.
+
+Hiệu đính người dùng duyệt: Bài 6 Câu 5 (Word gốc Câu 34, đoạn 1108) chọn **D. Quan hệ hôn nhân**, thay cho A. Bản ghi trong `answer-corrections.json` giữ đáp án gốc và đáp án được duyệt; Word nguồn không sửa.

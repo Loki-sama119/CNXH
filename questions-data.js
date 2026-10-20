@@ -1,4 +1,4 @@
-window.QUIZ_BANK_VERSION = "word-c41143f3c5139fa3-answers-6e385ea5-lesson6-c9f85804";
+window.QUIZ_BANK_VERSION = "word-c41143f3c5139fa3-answers-e388d914-lesson6-c9f85804";
 window.QUIZ_QUESTIONS = [
   {
     "lesson_num": 1,
@@ -9740,13 +9740,32 @@ window.QUIZ_QUESTIONS = [
       "D. Quan hệ hôn nhân"
     ],
     "correct_answers": [
-      0
+      3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 6",
     "q_num": 5,
     "body_index": 1108,
-    "id": "word-c41143f3c5139fa3-p1108"
+    "id": "word-c41143f3c5139fa3-p1108",
+    "answer_correction": {
+      "body_index": 1108,
+      "source_title": "Câu 34: Quan hệ nào được coi là cơ sở, nền tảng hình thành nên các mối quan hệ khác trong gia đình?",
+      "options": [
+        "A. Quan hệ hôn nhân và huyết thống",
+        "B. Quan hệ nuôi dưỡng",
+        "C. Quan hệ quản trị trong một không gian sinh tồn",
+        "D. Quan hệ hôn nhân"
+      ],
+      "source_correct_answers": [
+        0
+      ],
+      "approved_correct_answers": [
+        3
+      ],
+      "approved_by": "user",
+      "approved_on": "2026-10-20",
+      "reason": "Người dùng yêu cầu sửa Bài 6 Câu 5 (gốc Câu 34) sang D. Quan hệ hôn nhân, theo ảnh và xác nhận trực tiếp. Quan hệ hôn nhân là cơ sở, nền tảng hình thành các mối quan hệ khác trong gia đình."
+    }
   },
   {
     "lesson_num": 6,

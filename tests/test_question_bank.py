@@ -71,9 +71,20 @@ class QuestionBankTests(unittest.TestCase):
         self.assertEqual(q['options'][1], 'B. Trình độ khoa học kỹ thuật chưa cao')
         self.assertEqual(q['answer_correction']['source_correct_answers'], [2])
         self.assertEqual(q['answer_correction']['approved_by'], 'user')
-        self.assertEqual(sum('answer_correction' in q for q in self.bank), 1)
+        self.assertEqual(sum('answer_correction' in q for q in self.bank), 2)
         bad = copy.deepcopy(self.bank)
         next(q for q in bad if q.get('body_index') == 46)['correct_answers'] = [2]
+        self.assertTrue(audit(bad)['errors'])
+
+    def test_user_approved_family_foundation_is_marriage_option_d(self):
+        q = self.at(1108)
+        self.assertEqual((q['lesson_num'], q['q_num']), (6, 5))
+        self.assertEqual(q['correct_answers'], [3])
+        self.assertEqual(q['options'][3], 'D. Quan hệ hôn nhân')
+        self.assertEqual(q['answer_correction']['source_correct_answers'], [0])
+        self.assertEqual(q['answer_correction']['approved_by'], 'user')
+        bad = copy.deepcopy(self.bank)
+        next(q for q in bad if q.get('body_index') == 1108)['correct_answers'] = [0]
         self.assertTrue(audit(bad)['errors'])
 
     def test_word_automatic_option_labels_do_not_drop_choices(self):

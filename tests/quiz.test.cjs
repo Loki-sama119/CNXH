@@ -76,6 +76,23 @@ test('Current Word browser regression: filters, shuffle, all answers, navigation
       assert.equal(accepted, expected, `Approved question 10: option ${selected}`);
     }
 
+    // Lesson 6 question 5 accepts marriage alone, including after option shuffling.
+    for (const shuffled of [false, true]) {
+      for (const [text, expected] of [['Quan hệ hôn nhân', true], ['Quan hệ hôn nhân và huyết thống', false]]) {
+        const accepted = await page.evaluate(({text, shuffled}) => {
+          isShuffled = shuffled;
+          startQuestionSession([allQuestions.find(q => q.body_index === 1108)]);
+          const q = activeQuestions[0];
+          const index = q.options.findIndex(option => option.replace(/^[A-Z]\.\s*/, '') === text);
+          document.getElementById(`qz-opt-${index}`).click();
+          cancelPendingTransitions();
+          return questionStates[q.id]?.isCorrect;
+        }, {text, shuffled});
+        assert.equal(accepted, expected, `Family foundation: ${text}, shuffle ${shuffled}`);
+      }
+    }
+    await page.evaluate(() => { isShuffled = false; });
+
     // Screenshot evidence places women in column one; both correct and incorrect drops must grade properly.
     for (const [wrongColumn, expected] of [[false, true], [true, false]]) {
       const accepted = await page.evaluate(useWrongColumn => {
