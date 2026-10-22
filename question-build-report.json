@@ -1,137 +1,20 @@
 {
-  "source_file": "CHỦ NGHĨA XH-KH (2).docx",
-  "source_sha256": "c41143f3c5139fa386f1d0fb63c3259f8b880565bd990fa75f13ca427970fea3",
-  "bank_version": "word-c41143f3c5139fa3-answers-e388d914-lesson6-c9f85804",
-  "approved_answer_corrections": [
-    {
-      "body_index": 46,
-      "source_title": "Câu 10: Hạn chế cơ bản lớn nhất mà giai cấp công nhân Việt Nam hiện nay cần khắc phục là gì?",
-      "options": [
-        "A. Hiệu quả lao động thấp",
-        "B. Trình độ khoa học kỹ thuật chưa cao",
-        "C. Tâm lý tiểu nông",
-        "D. Số lượng còn ít"
-      ],
-      "source_correct_answers": [
-        2
-      ],
-      "approved_correct_answers": [
-        1
-      ],
-      "approved_by": "user",
-      "approved_on": "2026-10-20",
-      "reason": "Người dùng duyệt đổi đáp án Bài 1 Câu 10 từ C sang B. Đây là hiệu đính theo phê duyệt, không phải đáp án tô đỏ trong Word gốc."
-    },
-    {
-      "body_index": 1108,
-      "source_title": "Câu 34: Quan hệ nào được coi là cơ sở, nền tảng hình thành nên các mối quan hệ khác trong gia đình?",
-      "options": [
-        "A. Quan hệ hôn nhân và huyết thống",
-        "B. Quan hệ nuôi dưỡng",
-        "C. Quan hệ quản trị trong một không gian sinh tồn",
-        "D. Quan hệ hôn nhân"
-      ],
-      "source_correct_answers": [
-        0
-      ],
-      "approved_correct_answers": [
-        3
-      ],
-      "approved_by": "user",
-      "approved_on": "2026-10-20",
-      "reason": "Người dùng yêu cầu sửa Bài 6 Câu 5 (gốc Câu 34) sang D. Quan hệ hôn nhân, theo ảnh và xác nhận trực tiếp. Quan hệ hôn nhân là cơ sở, nền tảng hình thành các mối quan hệ khác trong gia đình."
-    }
-  ],
-  "approved_category_corrections": [
-    {
-      "body_index": 855,
-      "source_title": "Câu 40 : Kéo thả các yếu tố liên quan đến liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội vào các cột tương ứng.",
-      "source_categories": [
-        {
-          "title": "1) Thành phần/yếu tố của liên minh",
-          "items": [
-            "Giai cấp công nhân",
-            "Giai cấp nông dân",
-            "Đảng Cộng sản"
-          ]
-        },
-        {
-          "title": "2) Nội dung/phương hướng của liên minh",
-          "items": [
-            "Nội dung kinh tế",
-            "Nội dung chính trị",
-            "Xóa đói giảm nghèo",
-            "Tăng cường liên minh"
-          ]
-        }
-      ],
-      "source_unassigned_items": [
-        "Tầng lớp phụ nữ"
-      ],
-      "approved_categories": [
-        {
-          "title": "1) Thành phần/yếu tố của liên minh",
-          "items": [
-            "Giai cấp công nhân",
-            "Giai cấp nông dân",
-            "Tầng lớp phụ nữ",
-            "Đảng Cộng sản"
-          ]
-        },
-        {
-          "title": "2) Nội dung/phương hướng của liên minh",
-          "items": [
-            "Nội dung kinh tế",
-            "Nội dung chính trị",
-            "Xóa đói giảm nghèo",
-            "Tăng cường liên minh"
-          ]
-        }
-      ],
-      "approved_by": "user",
-      "approved_on": "2026-10-20",
-      "evidence": "Ảnh bảng đáp án Câu 40 do người dùng cung cấp: Tầng lớp phụ nữ ở cột Thành phần/yếu tố của liên minh.",
-      "reason": "Bổ sung Tầng lớp phụ nữ vào cột 1 theo ảnh đối chiếu đã được người dùng duyệt; giữ đủ 4 mục mỗi cột."
-    }
-  ],
-  "source_exercises": 252,
-  "supplementary_source": "BAI_6_NGUOI_DUNG.txt",
-  "supplementary_exercises": 9,
-  "total": 261,
-  "playable": 261,
-  "reference_only": 0,
+  "bank_version": "word-1d55e841b9e15dba",
+  "data_version": "word-1d55e841b9e15dba",
+  "source_sha256": "1d55e841b9e15dba1f696d33bb6012e968b404096627c1e3de2847e53d1e8f14",
+  "total_questions": 276,
   "lesson_counts": {
-    "1": 41,
-    "2": 45,
-    "3": 39,
-    "4": 45,
-    "5": 39,
-    "7": 29,
-    "6": 23
+    "1": 31,
+    "2": 34,
+    "3": 30,
+    "4": 33,
+    "5": 30,
+    "6": 30,
+    "7": 35,
+    "8": 32,
+    "9": 21
   },
-  "playable_lesson_counts": {
-    "1": 41,
-    "2": 45,
-    "3": 39,
-    "4": 45,
-    "5": 39,
-    "6": 23,
-    "7": 29
-  },
-  "type_counts": {
-    "single_choice": 182,
-    "multiple_choice": 38,
-    "true_false": 19,
-    "drag_drop_categorize": 6,
-    "drag_drop_match": 16
-  },
-  "tx_count": 12,
-  "source_notes": [
-    {
-      "id": "word-c41143f3c5139fa3-p1170",
-      "source_title": "Câu 7 (Bài 4): Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội – giai cấp thường xuyên biến đổi theo mấy quy luật cơ bản?",
-      "warning": "Tài liệu ghi: Đáp án: A (chưa kiểm chứng được, bạn nên kiểm lại với giáo trình)"
-    }
-  ],
-  "section_note": "Bài 6: 14 câu về gia đình từ Word và 9 câu mới người dùng cung cấp; 29 câu hỗn hợp còn lại giữ trong Bổ sung."
+  "types": {
+    "single_choice": 276
+  }
 }

@@ -1,205 +1,205 @@
-window.QUIZ_BANK_VERSION = "word-c41143f3c5139fa3-answers-e388d914-lesson6-c9f85804";
+window.QUIZ_BANK_VERSION = "word-1d55e841b9e15dba";
 window.QUIZ_QUESTIONS = [
   {
     "lesson_num": 1,
-    "question": "Câu 1: Những nhà tư tưởng tiêu biểu của chủ nghĩa xã hội không tưởng phê phán đầu thế kỷ XIX là ai?",
+    "question": "Câu 1: Thư ký văn phòng được hiểu là gì?",
     "source_q_num": 1,
-    "source_title": "Câu 1: Những nhà tư tưởng tiêu biểu của chủ nghĩa xã hội không tưởng phê phán đầu thế kỷ XIX là ai?",
+    "source_title": "Câu 1: Thư ký văn phòng được hiểu là gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 1,
         "body_index": 1
       }
     ],
     "source_content": [
       {
-        "text": "A. Xanh Ximông, Sáclơ Phuriê, Rôbớt Ôoen"
+        "text": "A. Người đại diện hoặc điều hành công việc hàng ngày của một tổ chức."
       },
       {
-        "text": "B. Xanh Ximông, Sáclơ Phuriê, G. Mably"
+        "text": "B. Người đảm nhận các công việc liên quan đến văn thư, giao tiếp và tổ chức công việc hàng ngày."
       },
       {
-        "text": "C. Xanh Ximông, Giăng Mêliê, Rôbớt Ôoen"
+        "text": "C. Người giúp việc cho lãnh đạo cao nhất của một cơ quan."
       },
       {
-        "text": "D. Grắccơ Babớp, Xanh Ximông, Sáclơ Phuriê"
+        "text": "D. Người ghi chép hoặc soạn thảo văn bản trong một cuộc họp."
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Xanh Ximông, Sáclơ Phuriê, Rôbớt Ôoen",
-      "B. Xanh Ximông, Sáclơ Phuriê, G. Mably",
-      "C. Xanh Ximông, Giăng Mêliê, Rôbớt Ôoen",
-      "D. Grắccơ Babớp, Xanh Ximông, Sáclơ Phuriê"
+      "A. Người đại diện hoặc điều hành công việc hàng ngày của một tổ chức.",
+      "B. Người đảm nhận các công việc liên quan đến văn thư, giao tiếp và tổ chức công việc hàng ngày.",
+      "C. Người giúp việc cho lãnh đạo cao nhất của một cơ quan.",
+      "D. Người ghi chép hoặc soạn thảo văn bản trong một cuộc họp."
     ],
     "correct_answers": [
-      0
+      1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 1",
     "q_num": 1,
     "body_index": 1,
-    "id": "word-c41143f3c5139fa3-p1"
+    "id": "word-1d55e841b9e15dba-p1"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 2: Tác phẩm nào đánh dấu sự ra đời của chủ nghĩa xã hội khoa học?",
+    "question": "Câu 2: Phân biệt giữa thư ký văn phòng và thư ký riêng?",
     "source_q_num": 2,
-    "source_title": "Câu 2: Tác phẩm nào đánh dấu sự ra đời của chủ nghĩa xã hội khoa học?",
+    "source_title": "Câu 2: Phân biệt giữa thư ký văn phòng và thư ký riêng?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 2,
         "body_index": 6
       }
     ],
     "source_content": [
       {
-        "text": "A. Tình cảnh nước Anh"
+        "text": "A. Thư ký văn phòng làm việc trong văn phòng của các cơ quan, trong khi thư ký riêng giúp việc trực tiếp cho lãnh đạo"
       },
       {
-        "text": "B. Góp phần phê phán triết học pháp quyền của Héghen – Lời nói đầu"
+        "text": "B. Thư ký văn phòng ghi chép biên bản, còn thư ký riêng soạn thảo văn bản."
       },
       {
-        "text": "C. Bộ tư bản"
+        "text": "C. Thư ký văn phòng đại diện tổ chức, còn thư ký riêng điều hành công việc."
       },
       {
-        "text": "D. Tuyên ngôn của Đảng Cộng sản"
+        "text": "D. Thư ký văn phòng làm việc ngoài văn phòng, còn thư ký riêng làm việc trong văn phòng"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Tình cảnh nước Anh",
-      "B. Góp phần phê phán triết học pháp quyền của Héghen – Lời nói đầu",
-      "C. Bộ tư bản",
-      "D. Tuyên ngôn của Đảng Cộng sản"
+      "A. Thư ký văn phòng làm việc trong văn phòng của các cơ quan, trong khi thư ký riêng giúp việc trực tiếp cho lãnh đạo",
+      "B. Thư ký văn phòng ghi chép biên bản, còn thư ký riêng soạn thảo văn bản.",
+      "C. Thư ký văn phòng đại diện tổ chức, còn thư ký riêng điều hành công việc.",
+      "D. Thư ký văn phòng làm việc ngoài văn phòng, còn thư ký riêng làm việc trong văn phòng"
     ],
     "correct_answers": [
-      3
+      0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 1",
     "q_num": 2,
     "body_index": 6,
-    "id": "word-c41143f3c5139fa3-p6"
+    "id": "word-1d55e841b9e15dba-p6"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 3: Phát kiến nào của C.Mác và Ph.Ăngghen chỉ ra sự diệt vong về kinh tế của chủ nghĩa tư bản?",
+    "question": "Câu 3: Một thư ký văn phòng cần có chuyên môn nào dưới đây để thực hiện công việc hiệu quả?",
     "source_q_num": 3,
-    "source_title": "Câu 3: Phát kiến nào của C.Mác và Ph.Ăngghen chỉ ra sự diệt vong về kinh tế của chủ nghĩa tư bản?",
+    "source_title": "Câu 3: Một thư ký văn phòng cần có chuyên môn nào dưới đây để thực hiện công việc hiệu quả?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 3,
         "body_index": 11
       }
     ],
     "source_content": [
       {
-        "text": "A. Chủ nghĩa duy vật lịch sử"
+        "text": "A. Kế toán và tài chính."
       },
       {
-        "text": "B. Học thuyết về giá trị thặng dư"
+        "text": "B. Quản lý sản xuất."
       },
       {
-        "text": "C. Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân"
+        "text": "C. Bảo vệ và an ninh."
       },
       {
-        "text": "D. Chủ nghĩa duy vật biện chứng"
+        "text": "D. Quản lý văn bản và giao tiếp."
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Chủ nghĩa duy vật lịch sử",
-      "B. Học thuyết về giá trị thặng dư",
-      "C. Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân",
-      "D. Chủ nghĩa duy vật biện chứng"
+      "A. Kế toán và tài chính.",
+      "B. Quản lý sản xuất.",
+      "C. Bảo vệ và an ninh.",
+      "D. Quản lý văn bản và giao tiếp."
     ],
     "correct_answers": [
-      1
+      3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 1",
     "q_num": 3,
     "body_index": 11,
-    "id": "word-c41143f3c5139fa3-p11"
+    "id": "word-1d55e841b9e15dba-p11"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 4: Phát kiến nào của C.Mác và Ph.Ăngghen chỉ ra những hạn chế có tính lịch sử của chủ nghĩa xã hội không tưởng?",
+    "question": "Câu 4: Thư ký văn phòng cần phải ghi biên bản những nội dung nào trong một cuộc họp?",
     "source_q_num": 4,
-    "source_title": "Câu 4: Phát kiến nào của C.Mác và Ph.Ăngghen chỉ ra những hạn chế có tính lịch sử của chủ nghĩa xã hội không tưởng?",
+    "source_title": "Câu 4: Thư ký văn phòng cần phải ghi biên bản những nội dung nào trong một cuộc họp?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 4,
         "body_index": 16
       }
     ],
     "source_content": [
       {
-        "text": "A. Học thuyết về giá trị thặng dư"
+        "text": "A. Các thành viên tham dự, nội dung thảo luận, quyết định và kế hoạch hành động."
       },
       {
-        "text": "B. Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân"
+        "text": "B. Ghi lại tất cả các lời nói trong cuộc họp."
       },
       {
-        "text": "C. Chủ nghĩa duy vật biện chứng"
+        "text": "C. Ghi lại các vấn đề tài chính."
       },
       {
-        "text": "D. Chủ nghĩa duy vật lịch sử"
+        "text": "D. Tất cả phương án trên."
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Học thuyết về giá trị thặng dư",
-      "B. Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân",
-      "C. Chủ nghĩa duy vật biện chứng",
-      "D. Chủ nghĩa duy vật lịch sử"
+      "A. Các thành viên tham dự, nội dung thảo luận, quyết định và kế hoạch hành động.",
+      "B. Ghi lại tất cả các lời nói trong cuộc họp.",
+      "C. Ghi lại các vấn đề tài chính.",
+      "D. Tất cả phương án trên."
     ],
     "correct_answers": [
-      1
+      0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 1",
     "q_num": 4,
     "body_index": 16,
-    "id": "word-c41143f3c5139fa3-p16"
+    "id": "word-1d55e841b9e15dba-p16"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 5: Ph.Ăngghen đã đánh giá: \"Hai phát hiện vĩ đại này đã đưa chủ nghĩa xã hội trở thành một khoa học\". Hai phát kiến đó là gì?",
+    "question": "Câu 5: Khái niệm về thư ký văn phòng nào dưới đây là đúng?",
     "source_q_num": 5,
-    "source_title": "Câu 5: Ph.Ăngghen đã đánh giá: \"Hai phát hiện vĩ đại này đã đưa chủ nghĩa xã hội trở thành một khoa học\". Hai phát kiến đó là gì?",
+    "source_title": "Câu 5: Khái niệm về thư ký văn phòng nào dưới đây là đúng?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 5,
         "body_index": 21
       }
     ],
     "source_content": [
       {
-        "text": "A. Sứ mệnh lịch sử của giai cấp công nhân – Học thuyết giá trị thặng dư"
+        "text": "A. Thư ký văn phòng là người được giao làm các công việc liên quan đến văn thư, liên lạc thư tín và thủ tục hành chính ở văn phòng của một cơ quan, tổ chức."
       },
       {
-        "text": "B. Học thuyết giá trị thặng dư – Chủ nghĩa duy vật lịch sử"
+        "text": "B. Thư ký văn phòng là những người được giao đảm nhận một phần hoặc toàn bộ các công việc có liên quan đến những lĩnh vực chuyên môn của một văn phòng như: quản lý văn bản, hồ sơ tài liệu, đảm bảo các yêu cầu về thông tin, liên lạc, giao tiếp và tổ chức, sắp xếp công việc hàng ngày nhằm hỗ trợ, phục vụ cho hoạt động của một cơ quan hoặc người lãnh đạo của một cơ quan, tổ chức và doanh nghiệp."
       },
       {
-        "text": "C. Chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử"
+        "text": "C. Thư ký văn phòng là người được giao việc ghi chép hoặc soạn thảo những văn bản, giấy tờ quan trọng trong một cuộc họp hay hội nghị (thư ký hội nghị, thư ký hội đồng khoa học)."
       },
       {
-        "text": "D. Sứ mệnh lịch sử của giai cấp công nhân – Chủ nghĩa duy vật lịch sử"
+        "text": "D. Thư ký văn phòng là người đại diện hoặc được giao nhiệm vụ điều hành công việc hàng ngày của một số tổ chức và đoàn thể."
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Sứ mệnh lịch sử của giai cấp công nhân – Học thuyết giá trị thặng dư",
-      "B. Học thuyết giá trị thặng dư – Chủ nghĩa duy vật lịch sử",
-      "C. Chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử",
-      "D. Sứ mệnh lịch sử của giai cấp công nhân – Chủ nghĩa duy vật lịch sử"
+      "A. Thư ký văn phòng là người được giao làm các công việc liên quan đến văn thư, liên lạc thư tín và thủ tục hành chính ở văn phòng của một cơ quan, tổ chức.",
+      "B. Thư ký văn phòng là những người được giao đảm nhận một phần hoặc toàn bộ các công việc có liên quan đến những lĩnh vực chuyên môn của một văn phòng như: quản lý văn bản, hồ sơ tài liệu, đảm bảo các yêu cầu về thông tin, liên lạc, giao tiếp và tổ chức, sắp xếp công việc hàng ngày nhằm hỗ trợ, phục vụ cho hoạt động của một cơ quan hoặc người lãnh đạo của một cơ quan, tổ chức và doanh nghiệp.",
+      "C. Thư ký văn phòng là người được giao việc ghi chép hoặc soạn thảo những văn bản, giấy tờ quan trọng trong một cuộc họp hay hội nghị (thư ký hội nghị, thư ký hội đồng khoa học).",
+      "D. Thư ký văn phòng là người đại diện hoặc được giao nhiệm vụ điều hành công việc hàng ngày của một số tổ chức và đoàn thể."
     ],
     "correct_answers": [
       1
@@ -208,166 +208,166 @@ window.QUIZ_QUESTIONS = [
     "lesson": "Bài 1",
     "q_num": 5,
     "body_index": 21,
-    "id": "word-c41143f3c5139fa3-p21"
+    "id": "word-1d55e841b9e15dba-p21"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 6: Phạm trù nào được coi là cơ bản nhất và là xuất phát điểm của chủ nghĩa xã hội khoa học?",
+    "question": "Câu 6: Căn cứ nào để người thư ký văn phòng giải quyết các thủ tục hành chính về kinh phí và cơ sở vật chất cho hoạt động của cơ quan?",
     "source_q_num": 6,
-    "source_title": "Câu 6: Phạm trù nào được coi là cơ bản nhất và là xuất phát điểm của chủ nghĩa xã hội khoa học?",
+    "source_title": "Câu 6: Căn cứ nào để người thư ký văn phòng giải quyết các thủ tục hành chính về kinh phí và cơ sở vật chất cho hoạt động của cơ quan?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 6,
         "body_index": 26
       }
     ],
     "source_content": [
       {
-        "text": "A. Cách mạng xã hội chủ nghĩa"
+        "text": "A. Mua sắm trang thiết bị khi cần thiết."
       },
       {
-        "text": "B. Chuyên chính vô sản"
+        "text": "B. Tham khảo ý kiến của đồng nghiệp."
       },
       {
-        "text": "C. Sứ mệnh lịch sử của giai cấp công nhân"
+        "text": "C. Tự quyết định mà không cần theo quy định nào."
       },
       {
-        "text": "D. Giai cấp công nhân"
+        "text": "D. Theo các quy định của cơ quan và pháp luật"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Cách mạng xã hội chủ nghĩa",
-      "B. Chuyên chính vô sản",
-      "C. Sứ mệnh lịch sử của giai cấp công nhân",
-      "D. Giai cấp công nhân"
+      "A. Mua sắm trang thiết bị khi cần thiết.",
+      "B. Tham khảo ý kiến của đồng nghiệp.",
+      "C. Tự quyết định mà không cần theo quy định nào.",
+      "D. Theo các quy định của cơ quan và pháp luật"
     ],
     "correct_answers": [
-      2
+      3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 1",
     "q_num": 6,
     "body_index": 26,
-    "id": "word-c41143f3c5139fa3-p26"
+    "id": "word-1d55e841b9e15dba-p26"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 7: Xét về phương thức lao động, phương thức sản xuất, giai cấp công nhân mang thuộc tính cơ bản nào?",
+    "question": "Câu 7: Khi biên tập văn bản và tổ chức, sắp xếp, quản lý văn bản, hồ sơ thì thư ký văn phòng cần phải làm gì để đảm bảo tính khoa học và hệ thống?",
     "source_q_num": 7,
-    "source_title": "Câu 7: Xét về phương thức lao động, phương thức sản xuất, giai cấp công nhân mang thuộc tính cơ bản nào?",
+    "source_title": "Câu 7: Khi biên tập văn bản và tổ chức, sắp xếp, quản lý văn bản, hồ sơ thì thư ký văn phòng cần phải làm gì để đảm bảo tính khoa học và hệ thống?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 7,
         "body_index": 31
       }
     ],
     "source_content": [
       {
-        "text": "A. Là giai cấp trực tiếp hay gián tiếp vận hành máy móc có tính chất công nghiệp ngày càng hiện đại"
+        "text": "A. Chỉ cần lưu trữ các văn bản quan trọng."
       },
       {
-        "text": "B. Có số lượng đông nhất trong dân cư."
+        "text": "B. Theo dõi và quản lý một cách có hệ thống và khoa học."
       },
       {
-        "text": "C. Giai cấp có tư liệu sản xuất nhiều nhất"
+        "text": "C. Không cần lưu trữ hồ sơ, tài liệu."
       },
       {
-        "text": "D. Là giai cấp tạo ra của cải vật chất làm giàu cho xã hội"
+        "text": "D. Sắp xếp một cách ngẫu nhiên."
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Là giai cấp trực tiếp hay gián tiếp vận hành máy móc có tính chất công nghiệp ngày càng hiện đại",
-      "B. Có số lượng đông nhất trong dân cư.",
-      "C. Giai cấp có tư liệu sản xuất nhiều nhất",
-      "D. Là giai cấp tạo ra của cải vật chất làm giàu cho xã hội"
+      "A. Chỉ cần lưu trữ các văn bản quan trọng.",
+      "B. Theo dõi và quản lý một cách có hệ thống và khoa học.",
+      "C. Không cần lưu trữ hồ sơ, tài liệu.",
+      "D. Sắp xếp một cách ngẫu nhiên."
     ],
     "correct_answers": [
-      0
+      1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 1",
     "q_num": 7,
     "body_index": 31,
-    "id": "word-c41143f3c5139fa3-p31"
+    "id": "word-1d55e841b9e15dba-p31"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 8: Xét trong quan hệ sản xuất tư bản chủ nghĩa giai cấp công nhân là:",
+    "question": "Câu 8: Khi nhận được yêu cầu tìm kiếm văn bản từ lãnh đạo, thư ký văn phòng cần phải làm gì?",
     "source_q_num": 8,
-    "source_title": "Câu 8: Xét trong quan hệ sản xuất tư bản chủ nghĩa giai cấp công nhân là:",
+    "source_title": "Câu 8: Khi nhận được yêu cầu tìm kiếm văn bản từ lãnh đạo, thư ký văn phòng cần phải làm gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 8,
         "body_index": 36
       }
     ],
     "source_content": [
       {
-        "text": "A. Giai cấp không có tư liệu sản xuất, đi làm thuê cho nhà tư bản, bị nhà tư bản bóc lột giá trị thặng dư"
+        "text": "A. Gửi yêu cầu tìm kiếm qua email cho tất cả các nhân viên."
       },
       {
-        "text": "B. Giai cấp nghèo khổ nhất"
+        "text": "B. Tìm kiếm trong hồ sơ cá nhân."
       },
       {
-        "text": "C. Giai cấp có số lượng đông trong dân cư"
+        "text": "C. Tra cứu trong sổ đăng ký văn bản, kiểm tra lưu trữ"
       },
       {
-        "text": "D. Giai cấp tạo ra của cải cho xã hội"
+        "text": "D. Yêu cầu các bộ phận khác tìm giúp."
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Giai cấp không có tư liệu sản xuất, đi làm thuê cho nhà tư bản, bị nhà tư bản bóc lột giá trị thặng dư",
-      "B. Giai cấp nghèo khổ nhất",
-      "C. Giai cấp có số lượng đông trong dân cư",
-      "D. Giai cấp tạo ra của cải cho xã hội"
+      "A. Gửi yêu cầu tìm kiếm qua email cho tất cả các nhân viên.",
+      "B. Tìm kiếm trong hồ sơ cá nhân.",
+      "C. Tra cứu trong sổ đăng ký văn bản, kiểm tra lưu trữ",
+      "D. Yêu cầu các bộ phận khác tìm giúp."
     ],
     "correct_answers": [
-      0
+      2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 1",
     "q_num": 8,
     "body_index": 36,
-    "id": "word-c41143f3c5139fa3-p36"
+    "id": "word-1d55e841b9e15dba-p36"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 9: Giai cấp công nhân Việt Nam ra đời vào thời gian nào?",
+    "question": "Câu 9: Trong quá trình thực hiện nhiệm vụ, thư ký văn phòng cần phải làm gì để đảm bảo công việc hiệu quả?",
     "source_q_num": 9,
-    "source_title": "Câu 9: Giai cấp công nhân Việt Nam ra đời vào thời gian nào?",
+    "source_title": "Câu 9: Trong quá trình thực hiện nhiệm vụ, thư ký văn phòng cần phải làm gì để đảm bảo công việc hiệu quả?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 9,
         "body_index": 41
       }
     ],
     "source_content": [
       {
-        "text": "A. Trong cuộc khai thác thuộc địa lần thứ nhất của thực dân Pháp"
+        "text": "A. Thường xuyên tổng kết những kết quả đã đạt được cũng như những vướng mắc tồn tại."
       },
       {
-        "text": "B. Trong cuộc khai thác thuộc địa lần thứ hai của thực dân Pháp"
+        "text": "B. Chỉ báo cáo khi có vấn đề phát sinh."
       },
       {
-        "text": "C. Những năm đầu thế kỷ 19."
+        "text": "C. Chỉ báo cáo khi lãnh đạo yêu cầu."
       },
       {
-        "text": "D. Trước khi thực dân Pháp xâm lược Việt Nam."
+        "text": "D. Không cần tổng kết, chỉ cần hoàn thành nhiệm vụ được giao."
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Trong cuộc khai thác thuộc địa lần thứ nhất của thực dân Pháp",
-      "B. Trong cuộc khai thác thuộc địa lần thứ hai của thực dân Pháp",
-      "C. Những năm đầu thế kỷ 19.",
-      "D. Trước khi thực dân Pháp xâm lược Việt Nam."
+      "A. Thường xuyên tổng kết những kết quả đã đạt được cũng như những vướng mắc tồn tại.",
+      "B. Chỉ báo cáo khi có vấn đề phát sinh.",
+      "C. Chỉ báo cáo khi lãnh đạo yêu cầu.",
+      "D. Không cần tổng kết, chỉ cần hoàn thành nhiệm vụ được giao."
     ],
     "correct_answers": [
       0
@@ -376,101 +376,82 @@ window.QUIZ_QUESTIONS = [
     "lesson": "Bài 1",
     "q_num": 9,
     "body_index": 41,
-    "id": "word-c41143f3c5139fa3-p41"
+    "id": "word-1d55e841b9e15dba-p41"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 10: Hạn chế cơ bản lớn nhất mà giai cấp công nhân Việt Nam hiện nay cần khắc phục là gì?",
+    "question": "Câu 10: Khi tổ chức và điều hành các hoạt động của cơ quan, thư ký điều hành cần phải làm gì để đảm bảo công việc hiệu quả?",
     "source_q_num": 10,
-    "source_title": "Câu 10: Hạn chế cơ bản lớn nhất mà giai cấp công nhân Việt Nam hiện nay cần khắc phục là gì?",
+    "source_title": "Câu 10: Khi tổ chức và điều hành các hoạt động của cơ quan, thư ký điều hành cần phải làm gì để đảm bảo công việc hiệu quả?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 10,
         "body_index": 46
       }
     ],
     "source_content": [
       {
-        "text": "A. Hiệu quả lao động thấp"
+        "text": "A. Tự quyết định mọi hoạt động mà không cần lên kế hoạch."
       },
       {
-        "text": "B. Trình độ khoa học kỹ thuật chưa cao"
+        "text": "B. Chỉ cần làm các công việc hành chính đơn giản."
       },
       {
-        "text": "C. Tâm lý tiểu nông"
+        "text": "C. Chỉ cần làm theo kế hoạch đã được duyệt."
       },
       {
-        "text": "D. Số lượng còn ít"
+        "text": "D. Lên kế hoạch, tổ chức, sắp xếp và điều hành các hoạt động sao cho nhịp nhàng và có hiệu quả cao."
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Hiệu quả lao động thấp",
-      "B. Trình độ khoa học kỹ thuật chưa cao",
-      "C. Tâm lý tiểu nông",
-      "D. Số lượng còn ít"
+      "A. Tự quyết định mọi hoạt động mà không cần lên kế hoạch.",
+      "B. Chỉ cần làm các công việc hành chính đơn giản.",
+      "C. Chỉ cần làm theo kế hoạch đã được duyệt.",
+      "D. Lên kế hoạch, tổ chức, sắp xếp và điều hành các hoạt động sao cho nhịp nhàng và có hiệu quả cao."
     ],
     "correct_answers": [
-      1
+      3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 1",
     "q_num": 10,
     "body_index": 46,
-    "id": "word-c41143f3c5139fa3-p46",
-    "answer_correction": {
-      "body_index": 46,
-      "source_title": "Câu 10: Hạn chế cơ bản lớn nhất mà giai cấp công nhân Việt Nam hiện nay cần khắc phục là gì?",
-      "options": [
-        "A. Hiệu quả lao động thấp",
-        "B. Trình độ khoa học kỹ thuật chưa cao",
-        "C. Tâm lý tiểu nông",
-        "D. Số lượng còn ít"
-      ],
-      "source_correct_answers": [
-        2
-      ],
-      "approved_correct_answers": [
-        1
-      ],
-      "approved_by": "user",
-      "approved_on": "2026-10-20",
-      "reason": "Người dùng duyệt đổi đáp án Bài 1 Câu 10 từ C sang B. Đây là hiệu đính theo phê duyệt, không phải đáp án tô đỏ trong Word gốc."
-    }
+    "id": "word-1d55e841b9e15dba-p46"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 11: Trong các nội dung sau đây thì nội dung nào thuộc về giải pháp xây dựng giai cấp công nhân Việt Nam hiện nay?",
+    "question": "Câu 11: Để giúp cơ quan và lãnh đạo trong các hoạt động liên lạc và giao dịch, thư ký văn phòng cần phải làm gì?",
     "source_q_num": 11,
-    "source_title": "Câu 11: Trong các nội dung sau đây thì nội dung nào thuộc về giải pháp xây dựng giai cấp công nhân Việt Nam hiện nay?",
+    "source_title": "Câu 11: Để giúp cơ quan và lãnh đạo trong các hoạt động liên lạc và giao dịch, thư ký văn phòng cần phải làm gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 11,
         "body_index": 51
       }
     ],
     "source_content": [
       {
-        "text": "A. Coi trọng và giữ vững bản chất giai cấp công nhân và nguyên tắc sinh hoạt Đảng"
+        "text": "A. Chỉ cần liên lạc khi có yêu cầu cụ thể."
       },
       {
-        "text": "B. Nâng cao nhận thức, kiên định quan điểm giai cấp công nhân là giai cấp lãnh đạo cách mạng thông qua đội tiên phong là Đảng Cộng sản Việt Nam"
+        "text": "B. Nắm vững các kỹ năng giao tiếp."
       },
       {
-        "text": "C. Xây dựng giai cấp công nhân tăng về số lượng và chất lượng"
+        "text": "C. Chỉ cần biết cách sử dụng điện thoại."
       },
       {
-        "text": "D. Xây dựng giai cấp công nhân lớn mạnh, có giác ngộ giai cấp và chính trị vững vàng"
+        "text": "D. Không cần biết về kỹ năng giao tiếp."
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Coi trọng và giữ vững bản chất giai cấp công nhân và nguyên tắc sinh hoạt Đảng",
-      "B. Nâng cao nhận thức, kiên định quan điểm giai cấp công nhân là giai cấp lãnh đạo cách mạng thông qua đội tiên phong là Đảng Cộng sản Việt Nam",
-      "C. Xây dựng giai cấp công nhân tăng về số lượng và chất lượng",
-      "D. Xây dựng giai cấp công nhân lớn mạnh, có giác ngộ giai cấp và chính trị vững vàng"
+      "A. Chỉ cần liên lạc khi có yêu cầu cụ thể.",
+      "B. Nắm vững các kỹ năng giao tiếp.",
+      "C. Chỉ cần biết cách sử dụng điện thoại.",
+      "D. Không cần biết về kỹ năng giao tiếp."
     ],
     "correct_answers": [
       1
@@ -479,295 +460,292 @@ window.QUIZ_QUESTIONS = [
     "lesson": "Bài 1",
     "q_num": 11,
     "body_index": 51,
-    "id": "word-c41143f3c5139fa3-p51"
+    "id": "word-1d55e841b9e15dba-p51"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 12: Theo Ph. Ăngghen: \"Thực hiện nhiệm vụ giải phóng thế giới ấy, đó là sứ mệnh lịch sử của.........\". Hãy chọn đáp án đúng điền vào chỗ trống?",
+    "question": "Câu 12: Để thực hiện tốt nhiệm vụ giao tiếp hành chính trong cơ quan, thư ký văn phòng cần phải làm gì?",
     "source_q_num": 12,
-    "source_title": "Câu 12: Theo Ph. Ăngghen: \"Thực hiện nhiệm vụ giải phóng thế giới ấy, đó là sứ mệnh lịch sử của.........\". Hãy chọn đáp án đúng điền vào chỗ trống?",
+    "source_title": "Câu 12: Để thực hiện tốt nhiệm vụ giao tiếp hành chính trong cơ quan, thư ký văn phòng cần phải làm gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 12,
         "body_index": 56
       }
     ],
     "source_content": [
       {
-        "text": "A. Giai cấp vô sản"
+        "text": "A. Không cần phối hợp với ai."
       },
       {
-        "text": "B. Giai cấp tiểu tư sản"
+        "text": "B. Chỉ cần làm việc với lãnh đạo."
       },
       {
-        "text": "C. Giai cấp tư sản"
+        "text": "C. Phối hợp công việc của mình với hoạt động của các bộ phận khác trong cơ quan."
       },
       {
-        "text": "D. Giai cấp nông dân"
+        "text": "D. Chỉ cần làm việc một cách độc lập."
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Giai cấp vô sản",
-      "B. Giai cấp tiểu tư sản",
-      "C. Giai cấp tư sản",
-      "D. Giai cấp nông dân"
+      "A. Không cần phối hợp với ai.",
+      "B. Chỉ cần làm việc với lãnh đạo.",
+      "C. Phối hợp công việc của mình với hoạt động của các bộ phận khác trong cơ quan.",
+      "D. Chỉ cần làm việc một cách độc lập."
     ],
     "correct_answers": [
-      0
+      2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 1",
     "q_num": 12,
     "body_index": 56,
-    "id": "word-c41143f3c5139fa3-p56"
+    "id": "word-1d55e841b9e15dba-p56"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 13: Đặc điểm nào sau đây thể hiện đúng bản chất của giai cấp công nhân? (Chọn 2 đáp án đúng)",
+    "question": "Câu 13: Khi nhận được văn bản từ cơ quan cấp trên, người thư ký văn phòng cần làm gì?",
     "source_q_num": 13,
-    "source_title": "Câu 13: Đặc điểm nào sau đây thể hiện đúng bản chất của giai cấp công nhân? (Chọn 2 đáp án đúng)",
+    "source_title": "Câu 13: Khi nhận được văn bản từ cơ quan cấp trên, người thư ký văn phòng cần làm gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 13,
         "body_index": 61
       }
     ],
     "source_content": [
       {
-        "text": "A. Luôn gắn bó với giai cấp địa chủ và tiểu thương"
+        "text": "A. Chia sẻ ngay với các bộ phận trong cơ quan."
       },
       {
-        "text": "B. Có tính tổ chức và kỷ luật cao trong lao động sản xuất"
+        "text": "B. Xác nhận và đăng ký vào sổ quản lý văn bản, chuyển giao cho các bộ phận liên quan theo ý kiến chỉ đạo của lãnh đạo."
       },
       {
-        "text": "C. Không sở hữu tư liệu sản xuất, sống bằng lao động làm thuê"
+        "text": "C. Lưu trữ ngay vào hồ sơ cá nhân."
       },
       {
-        "text": "D. Có trình độ học vấn thấp, chủ yếu làm việc tay chân"
+        "text": "D. Bỏ qua và không cần đọc, lưu trữ ngay vào hồ sơ."
       }
     ],
-    "type": "multiple_choice",
+    "type": "single_choice",
     "options": [
-      "A. Luôn gắn bó với giai cấp địa chủ và tiểu thương",
-      "B. Có tính tổ chức và kỷ luật cao trong lao động sản xuất",
-      "C. Không sở hữu tư liệu sản xuất, sống bằng lao động làm thuê",
-      "D. Có trình độ học vấn thấp, chủ yếu làm việc tay chân"
+      "A. Chia sẻ ngay với các bộ phận trong cơ quan.",
+      "B. Xác nhận và đăng ký vào sổ quản lý văn bản, chuyển giao cho các bộ phận liên quan theo ý kiến chỉ đạo của lãnh đạo.",
+      "C. Lưu trữ ngay vào hồ sơ cá nhân.",
+      "D. Bỏ qua và không cần đọc, lưu trữ ngay vào hồ sơ."
     ],
     "correct_answers": [
-      1,
-      2
+      1
     ],
-    "instruction": "Chọn 2 đáp án đúng",
+    "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 1",
     "q_num": 13,
     "body_index": 61,
-    "id": "word-c41143f3c5139fa3-p61"
+    "id": "word-1d55e841b9e15dba-p61"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 14: Giai cấp công nhân Việt Nam chủ yếu xuất thân từ tầng lớp nào? (Chọn 2 đáp án đúng)",
+    "question": "Câu 14: Để đảm nhận được các nhiệm vụ của mình, thư ký văn phòng cần phải làm gì?",
     "source_q_num": 14,
-    "source_title": "Câu 14: Giai cấp công nhân Việt Nam chủ yếu xuất thân từ tầng lớp nào? (Chọn 2 đáp án đúng)",
+    "source_title": "Câu 14: Để đảm nhận được các nhiệm vụ của mình, thư ký văn phòng cần phải làm gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 14,
         "body_index": 66
       }
     ],
     "source_content": [
       {
-        "text": "A. Giai cấp nông dân bị tước đoạt hết ruộng đất"
+        "text": "A. Chỉ cần làm việc độc lập."
       },
       {
-        "text": "B. Thợ thủ công bị phá sản"
+        "text": "B. Biết phối hợp với các thư ký khác và các bộ phận khác trong cơ quan."
       },
       {
-        "text": "C. Tầng lớp địa chủ phong kiến"
+        "text": "C. Không cần phối hợp với ai."
       },
       {
-        "text": "D. Tầng lớp tư sản dân tộc"
+        "text": "D. Chỉ cần làm việc với lãnh đạo"
       }
     ],
-    "type": "multiple_choice",
+    "type": "single_choice",
     "options": [
-      "A. Giai cấp nông dân bị tước đoạt hết ruộng đất",
-      "B. Thợ thủ công bị phá sản",
-      "C. Tầng lớp địa chủ phong kiến",
-      "D. Tầng lớp tư sản dân tộc"
+      "A. Chỉ cần làm việc độc lập.",
+      "B. Biết phối hợp với các thư ký khác và các bộ phận khác trong cơ quan.",
+      "C. Không cần phối hợp với ai.",
+      "D. Chỉ cần làm việc với lãnh đạo"
     ],
     "correct_answers": [
-      0,
       1
     ],
-    "instruction": "Chọn 2 đáp án đúng",
+    "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 1",
     "q_num": 14,
     "body_index": 66,
-    "id": "word-c41143f3c5139fa3-p66"
+    "id": "word-1d55e841b9e15dba-p66"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 15: Giai cấp công nhân Việt Nam có đặc điểm gì khác với giai cấp công nhân ở các nước tư bản? (Chọn 2 đáp án đúng)",
+    "question": "Câu 15: Để tổ chức và điều hành các hoạt động của cơ quan, thư ký điều hành cần phải làm gì?",
     "source_q_num": 15,
-    "source_title": "Câu 15: Giai cấp công nhân Việt Nam có đặc điểm gì khác với giai cấp công nhân ở các nước tư bản? (Chọn 2 đáp án đúng)",
+    "source_title": "Câu 15: Để tổ chức và điều hành các hoạt động của cơ quan, thư ký điều hành cần phải làm gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 15,
         "body_index": 71
       }
     ],
     "source_content": [
       {
-        "text": "A. Chịu sự bóc lột của thực dân và phong kiến"
+        "text": "A. Chỉ cần làm theo kế hoạch đã được duyệt."
       },
       {
-        "text": "B. Xuất thân từ nông dân là chủ yếu"
+        "text": "B. Chỉ cần làm các công việc hành chính đơn giản."
       },
       {
-        "text": "C. Sở hữu tư liệu sản xuất trong xã hội"
+        "text": "C. Lên kế hoạch, tổ chức, sắp xếp và điều hành các hoạt động sao cho nhịp nhàng và có hiệu quả cao."
       },
       {
-        "text": "D. Không có sự gắn kết với các giai cấp, tầng lớp khác"
-      }
-    ],
-    "type": "multiple_choice",
-    "options": [
-      "A. Chịu sự bóc lột của thực dân và phong kiến",
-      "B. Xuất thân từ nông dân là chủ yếu",
-      "C. Sở hữu tư liệu sản xuất trong xã hội",
-      "D. Không có sự gắn kết với các giai cấp, tầng lớp khác"
-    ],
-    "correct_answers": [
-      0,
-      1
-    ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bài 1",
-    "q_num": 15,
-    "body_index": 71,
-    "id": "word-c41143f3c5139fa3-p71"
-  },
-  {
-    "lesson_num": 1,
-    "question": "Câu 16: Đối tượng nghiên cứu của chủ nghĩa xã hội khoa học là gì?",
-    "source_q_num": 16,
-    "source_title": "Câu 16: Đối tượng nghiên cứu của chủ nghĩa xã hội khoa học là gì?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 16,
-        "body_index": 76
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Là những quy luật hình thành, phát triển và hoàn thiện của các hình thái kinh tế - xã hội."
-      },
-      {
-        "text": "B. Là những quy luật kinh tế"
-      },
-      {
-        "text": "C. Là những quy luật văn hoá - xã hội."
-      },
-      {
-        "text": "D. Là những quy luật và tính quy luật chính trị – xã hội của quá trình phát sinh, hình thành và phát triển của hình thái kinh tế - xã hội cộng sản chủ nghĩa."
+        "text": "D. Tự quyết định mọi hoạt động mà không cần lên kế hoạch."
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Là những quy luật hình thành, phát triển và hoàn thiện của các hình thái kinh tế - xã hội.",
-      "B. Là những quy luật kinh tế",
-      "C. Là những quy luật văn hoá - xã hội.",
-      "D. Là những quy luật và tính quy luật chính trị – xã hội của quá trình phát sinh, hình thành và phát triển của hình thái kinh tế - xã hội cộng sản chủ nghĩa."
+      "A. Chỉ cần làm theo kế hoạch đã được duyệt.",
+      "B. Chỉ cần làm các công việc hành chính đơn giản.",
+      "C. Lên kế hoạch, tổ chức, sắp xếp và điều hành các hoạt động sao cho nhịp nhàng và có hiệu quả cao.",
+      "D. Tự quyết định mọi hoạt động mà không cần lên kế hoạch."
     ],
     "correct_answers": [
-      3
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 1",
+    "q_num": 15,
+    "body_index": 71,
+    "id": "word-1d55e841b9e15dba-p71"
+  },
+  {
+    "lesson_num": 1,
+    "question": "Câu 16: Nhiệm vụ chính của một thư ký văn phòng là gì?",
+    "source_q_num": 16,
+    "source_title": "Câu 16: Nhiệm vụ chính của một thư ký văn phòng là gì?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 16,
+        "body_index": 77
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Ghi chép biên bản họp."
+      },
+      {
+        "text": "B. Tổ chức văn thư, đảm bảo thông tin liên lạc và cung cấp cơ sở vật chất."
+      },
+      {
+        "text": "C. Điều hành công việc hàng ngày của một tổ chức."
+      },
+      {
+        "text": "D. Soạn thảo văn bản quan trọng."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Ghi chép biên bản họp.",
+      "B. Tổ chức văn thư, đảm bảo thông tin liên lạc và cung cấp cơ sở vật chất.",
+      "C. Điều hành công việc hàng ngày của một tổ chức.",
+      "D. Soạn thảo văn bản quan trọng."
+    ],
+    "correct_answers": [
+      1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 1",
     "q_num": 16,
-    "body_index": 76,
-    "id": "word-c41143f3c5139fa3-p76"
+    "body_index": 77,
+    "id": "word-1d55e841b9e15dba-p77"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 17: Đâu là nhân tố chủ quan quan trọng nhất để giai cấp công nhân thực hiện thắng lợi sứ mệnh lịch sử của mình?",
+    "question": "Câu 17: Trường hợp tổ chức có quy mô nhỏ thì cần bố trí số lượng thư ký văn phòng như thế nào để đảm bảo công việc hiệu quả?",
     "source_q_num": 17,
-    "source_title": "Câu 17: Đâu là nhân tố chủ quan quan trọng nhất để giai cấp công nhân thực hiện thắng lợi sứ mệnh lịch sử của mình?",
+    "source_title": "Câu 17: Trường hợp tổ chức có quy mô nhỏ thì cần bố trí số lượng thư ký văn phòng như thế nào để đảm bảo công việc hiệu quả?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 17,
-        "body_index": 81
+        "body_index": 82
       }
     ],
     "source_content": [
       {
-        "text": "A. Sự phát triển của giai cấp công nhân về chất lượng"
+        "text": "A. Một nhóm thư ký văn phòng phụ trách văn thư, lưu trữ hồ sơ, sắp xếp lịch."
       },
       {
-        "text": "B. Liên minh giai cấp công nhân với giai cấp nông dân"
+        "text": "B. Một thư ký phụ trách toàn bộ công việc."
       },
       {
-        "text": "C. Sự phát triển của giai cấp công nhân về số lượng"
+        "text": "C. Nhiều thư ký văn phòng phụ trách công việc khác nhau."
       },
       {
-        "text": "D. Đảng Cộng sản"
+        "text": "D. Thư ký kế toán và thư ký phụ trách thông tin liên lạc."
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Sự phát triển của giai cấp công nhân về chất lượng",
-      "B. Liên minh giai cấp công nhân với giai cấp nông dân",
-      "C. Sự phát triển của giai cấp công nhân về số lượng",
-      "D. Đảng Cộng sản"
+      "A. Một nhóm thư ký văn phòng phụ trách văn thư, lưu trữ hồ sơ, sắp xếp lịch.",
+      "B. Một thư ký phụ trách toàn bộ công việc.",
+      "C. Nhiều thư ký văn phòng phụ trách công việc khác nhau.",
+      "D. Thư ký kế toán và thư ký phụ trách thông tin liên lạc."
     ],
     "correct_answers": [
-      3
+      1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 1",
     "q_num": 17,
-    "body_index": 81,
-    "id": "word-c41143f3c5139fa3-p81"
+    "body_index": 82,
+    "id": "word-1d55e841b9e15dba-p82"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 18: Tìm ý đúng để hoàn thiện luận điểm sau: Cùng với sự phát triển của khoa học và công nghệ ngày càng hiện đại, giai cấp công nhân:",
+    "question": "Câu 18: Khi tổ chức sắp xếp các hoạt động của cơ quan, thư ký văn phòng cần phải làm gì để đảm bảo hoạt động diễn ra theo kế hoạch?",
     "source_q_num": 18,
-    "source_title": "Câu 18: Tìm ý đúng để hoàn thiện luận điểm sau: Cùng với sự phát triển của khoa học và công nghệ ngày càng hiện đại, giai cấp công nhân:",
+    "source_title": "Câu 18: Khi tổ chức sắp xếp các hoạt động của cơ quan, thư ký văn phòng cần phải làm gì để đảm bảo hoạt động diễn ra theo kế hoạch?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 18,
-        "body_index": 86
+        "body_index": 87
       }
     ],
     "source_content": [
       {
-        "text": "A. Giảm về số lượng và nâng cao về chất lượng."
+        "text": "A. Giao lại công việc này cho nhân viên khác."
       },
       {
-        "text": "B. Tăng về số lượng và giảm về chất lượng."
+        "text": "B. Chỉ sắp xếp các hoạt động mà mình thích."
       },
       {
-        "text": "C. Tăng về số lượng và nâng cao về chất lượng."
+        "text": "C. Tổ chức, sắp xếp các hoạt động của cơ quan hoặc của người lãnh đạo theo kế hoạch."
       },
       {
-        "text": "D. Giảm về số lượng và có trình độ sản xuất ngày càng cao."
+        "text": "D. Tự quyết định các hoạt động mà không cần tham khảo ý kiến của lãnh đạo."
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Giảm về số lượng và nâng cao về chất lượng.",
-      "B. Tăng về số lượng và giảm về chất lượng.",
-      "C. Tăng về số lượng và nâng cao về chất lượng.",
-      "D. Giảm về số lượng và có trình độ sản xuất ngày càng cao."
+      "A. Giao lại công việc này cho nhân viên khác.",
+      "B. Chỉ sắp xếp các hoạt động mà mình thích.",
+      "C. Tổ chức, sắp xếp các hoạt động của cơ quan hoặc của người lãnh đạo theo kế hoạch.",
+      "D. Tự quyết định các hoạt động mà không cần tham khảo ý kiến của lãnh đạo."
     ],
     "correct_answers": [
       2
@@ -775,41 +753,41 @@ window.QUIZ_QUESTIONS = [
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 1",
     "q_num": 18,
-    "body_index": 86,
-    "id": "word-c41143f3c5139fa3-p86"
+    "body_index": 87,
+    "id": "word-1d55e841b9e15dba-p87"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 19: Điền từ còn thiếu vào chỗ trống: Giai cấp công nhân và nhân dân lao động là cơ sở..., cơ sở... của Đảng cộng sản, là nguồn bổ sung lực lượng phong phú cho Đảng.",
+    "question": "Câu 19: Khi phối hợp với các bộ phận khác trong cơ quan, người thư ký văn phòng cần phải làm gì để hoàn thành tốt các công việc được giao?",
     "source_q_num": 19,
-    "source_title": "Câu 19: Điền từ còn thiếu vào chỗ trống: Giai cấp công nhân và nhân dân lao động là cơ sở..., cơ sở... của Đảng cộng sản, là nguồn bổ sung lực lượng phong phú cho Đảng.",
+    "source_title": "Câu 19: Khi phối hợp với các bộ phận khác trong cơ quan, người thư ký văn phòng cần phải làm gì để hoàn thành tốt các công việc được giao?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 19,
-        "body_index": 91
+        "body_index": 92
       }
     ],
     "source_content": [
       {
-        "text": "A. Văn hoá - xã hội"
+        "text": "A. Không cần phối hợp nếu công việc của mình đã hoàn thành."
       },
       {
-        "text": "B. Kinh tế - xã hội"
+        "text": "B. Phối hợp với các bộ phận khi được yêu cầu."
       },
       {
-        "text": "C. Giai cấp - xã hội"
+        "text": "C. Chỉ cần phối hợp với bộ phận tài chính."
       },
       {
-        "text": "D. Chính trị - xã hội"
+        "text": "D. Phối hợp thường xuyên và chủ động để hoàn thành tốt các công việc được giao."
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Văn hoá - xã hội",
-      "B. Kinh tế - xã hội",
-      "C. Giai cấp - xã hội",
-      "D. Chính trị - xã hội"
+      "A. Không cần phối hợp nếu công việc của mình đã hoàn thành.",
+      "B. Phối hợp với các bộ phận khi được yêu cầu.",
+      "C. Chỉ cần phối hợp với bộ phận tài chính.",
+      "D. Phối hợp thường xuyên và chủ động để hoàn thành tốt các công việc được giao."
     ],
     "correct_answers": [
       3
@@ -817,41 +795,41 @@ window.QUIZ_QUESTIONS = [
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 1",
     "q_num": 19,
-    "body_index": 91,
-    "id": "word-c41143f3c5139fa3-p91"
+    "body_index": 92,
+    "id": "word-1d55e841b9e15dba-p92"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 20: Điền từ còn thiếu vào chỗ trống \"Giai cấp công nhân Việt Nam thực hiện lãnh đạo cách mạng thông qua đội tiên phong của nó là (...)\"",
+    "question": "Câu 20: Để thiết lập mối quan hệ với các đối tác bên ngoài, thư ký văn phòng cần phải làm gì?",
     "source_q_num": 20,
-    "source_title": "Câu 20 : Điền từ còn thiếu vào chỗ trống \"Giai cấp công nhân Việt Nam thực hiện lãnh đạo cách mạng thông qua đội tiên phong của nó là (...)\"",
+    "source_title": "Câu 20 : Để thiết lập mối quan hệ với các đối tác bên ngoài, thư ký văn phòng cần phải làm gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 20,
-        "body_index": 96
+        "body_index": 97
       }
     ],
     "source_content": [
       {
-        "text": "A. Đảng Cộng sản Việt Nam"
+        "text": "A. Chủ động thiết lập mối quan hệ để giúp cơ quan mở rộng quan hệ và nâng cao uy tín."
       },
       {
-        "text": "B. Tổng liên đoàn lao động Việt Nam"
+        "text": "B. Chỉ liên hệ khi có sự chỉ đạo của lãnh đạo."
       },
       {
-        "text": "C. Tổ chức công đoàn"
+        "text": "C. Không cần thiết phải liên hệ."
       },
       {
-        "text": "D. Mặt trận tổ quốc Việt Nam"
+        "text": "D. Tự ý liên hệ mà không cần báo cáo lãnh đạo."
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Đảng Cộng sản Việt Nam",
-      "B. Tổng liên đoàn lao động Việt Nam",
-      "C. Tổ chức công đoàn",
-      "D. Mặt trận tổ quốc Việt Nam"
+      "A. Chủ động thiết lập mối quan hệ để giúp cơ quan mở rộng quan hệ và nâng cao uy tín.",
+      "B. Chỉ liên hệ khi có sự chỉ đạo của lãnh đạo.",
+      "C. Không cần thiết phải liên hệ.",
+      "D. Tự ý liên hệ mà không cần báo cáo lãnh đạo."
     ],
     "correct_answers": [
       0
@@ -859,168 +837,167 @@ window.QUIZ_QUESTIONS = [
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 1",
     "q_num": 20,
-    "body_index": 96,
-    "id": "word-c41143f3c5139fa3-p96"
+    "body_index": 97,
+    "id": "word-1d55e841b9e15dba-p97"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 21: Điểm then chốt để giúp giai cấp công nhân Việt Nam hiện nay thực hiện thành công sứ mệnh lịch sử của mình là:",
+    "question": "Câu 21: Một trong những nhiệm vụ quan trọng của thư ký điều hành là gì?",
     "source_q_num": 21,
-    "source_title": "Câu 21: Điểm then chốt để giúp giai cấp công nhân Việt Nam hiện nay thực hiện thành công sứ mệnh lịch sử của mình là:",
+    "source_title": "Câu 21: Một trong những nhiệm vụ quan trọng của thư ký điều hành là gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 21,
-        "body_index": 101
+        "body_index": 102
       }
     ],
     "source_content": [
       {
-        "text": "A. Phát triển giai cấp công nhân cả về số lượng và chất lượng"
+        "text": "A. Thường xuyên báo cáo cho thư ký chuyên môn."
       },
       {
-        "text": "B. Xây dựng khối liên minh công – nông"
+        "text": "B. Nắm vững và có khả năng điều chỉnh hoạt động của nhóm thư ký văn phòng."
       },
       {
-        "text": "C. Coi trọng công tác xây dựng, chỉnh đốn Đảng"
+        "text": "C. Chỉ làm các công việc liên quan đến tài chính."
       },
       {
-        "text": "D. Trí thức hoá giai cấp công nhân"
+        "text": "D. Thực hiện các công việc hành chính đơn giản."
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Phát triển giai cấp công nhân cả về số lượng và chất lượng",
-      "B. Xây dựng khối liên minh công – nông",
-      "C. Coi trọng công tác xây dựng, chỉnh đốn Đảng",
-      "D. Trí thức hoá giai cấp công nhân"
+      "A. Thường xuyên báo cáo cho thư ký chuyên môn.",
+      "B. Nắm vững và có khả năng điều chỉnh hoạt động của nhóm thư ký văn phòng.",
+      "C. Chỉ làm các công việc liên quan đến tài chính.",
+      "D. Thực hiện các công việc hành chính đơn giản."
     ],
     "correct_answers": [
-      2
+      1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 1",
     "q_num": 21,
-    "body_index": 101,
-    "id": "word-c41143f3c5139fa3-p101"
+    "body_index": 102,
+    "id": "word-1d55e841b9e15dba-p102"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 22: Trong thời kỳ thuộc địa, giai cấp công nhân Việt Nam chủ yếu làm việc trong: (Chọn 2 đáp án đúng)",
+    "question": "Câu 22: Khi có thay đổi về quy định, quy chế làm việc của cơ quan, thư ký văn phòng cần phải làm gì?",
     "source_q_num": 22,
-    "source_title": "Câu 22: Trong thời kỳ thuộc địa, giai cấp công nhân Việt Nam chủ yếu làm việc trong: (Chọn 2 đáp án đúng)",
+    "source_title": "Câu 22: Khi có thay đổi về quy định, quy chế làm việc của cơ quan, thư ký văn phòng cần phải làm gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 22,
-        "body_index": 106
+        "body_index": 107
       }
     ],
     "source_content": [
       {
-        "text": "A. Nhà máy, hầm mỏ do thực dân Pháp xây dựng"
+        "text": "A. Giữ nguyên cách làm việc cũ."
       },
       {
-        "text": "B. Hợp tác xã nông nghiệp"
+        "text": "B. Kịp thời bổ sung kiến thức chuyên môn nghiệp vụ để đáp ứng các yêu cầu thay đổi đó."
       },
       {
-        "text": "C. Xí nghiệp thủ công truyền thống"
+        "text": "C. Tự ý sửa đổi quy chế của cơ quan."
       },
       {
-        "text": "D. Đồn điền cao su"
-      }
-    ],
-    "type": "multiple_choice",
-    "options": [
-      "A. Nhà máy, hầm mỏ do thực dân Pháp xây dựng",
-      "B. Hợp tác xã nông nghiệp",
-      "C. Xí nghiệp thủ công truyền thống",
-      "D. Đồn điền cao su"
-    ],
-    "correct_answers": [
-      0,
-      3
-    ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bài 1",
-    "q_num": 22,
-    "body_index": 106,
-    "id": "word-c41143f3c5139fa3-p106"
-  },
-  {
-    "lesson_num": 1,
-    "question": "Câu 23: Dấu hiệu đánh dấu sự trưởng thành vượt bậc của giai cấp công nhân với tư cách là giai cấp cách mạng là:",
-    "source_q_num": 23,
-    "source_title": "Câu 23 : Dấu hiệu đánh dấu sự trưởng thành vượt bậc của giai cấp công nhân với tư cách là giai cấp cách mạng là:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 23,
-        "body_index": 111
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Sự trưởng thành về trình độ kỹ thuật"
-      },
-      {
-        "text": "B. Sự trưởng thành về ý thức chính trị"
-      },
-      {
-        "text": "C. Sự trưởng thành về trình độ nhận thức"
-      },
-      {
-        "text": "D. Sự ra đời của Đảng Cộng sản"
+        "text": "D. Yêu cầu cơ quan không thay đổi quy định."
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Sự trưởng thành về trình độ kỹ thuật",
-      "B. Sự trưởng thành về ý thức chính trị",
-      "C. Sự trưởng thành về trình độ nhận thức",
-      "D. Sự ra đời của Đảng Cộng sản"
+      "A. Giữ nguyên cách làm việc cũ.",
+      "B. Kịp thời bổ sung kiến thức chuyên môn nghiệp vụ để đáp ứng các yêu cầu thay đổi đó.",
+      "C. Tự ý sửa đổi quy chế của cơ quan.",
+      "D. Yêu cầu cơ quan không thay đổi quy định."
     ],
     "correct_answers": [
-      3
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 1",
+    "q_num": 22,
+    "body_index": 107,
+    "id": "word-1d55e841b9e15dba-p107"
+  },
+  {
+    "lesson_num": 1,
+    "question": "Câu 23: Giải thích tại sao thư ký văn phòng cần thực hiện nghiệp vụ: chuẩn bị và cung cấp thông tin?",
+    "source_q_num": 23,
+    "source_title": "Câu 23: Giải thích tại sao thư ký văn phòng cần thực hiện nghiệp vụ: chuẩn bị và cung cấp thông tin?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 23,
+        "body_index": 112
+      }
+    ],
+    "source_content": [
+      {
+        "text": "Để hỗ trợ cho hoạt động của cơ quan và người lãnh đạo."
+      },
+      {
+        "text": "Để đảm bảo an toàn thông tin."
+      },
+      {
+        "text": "Để thực hiện các công việc không quan trọng."
+      },
+      {
+        "text": "Để giúp lãnh đạo có thời gian nghỉ ngơi."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Để hỗ trợ cho hoạt động của cơ quan và người lãnh đạo.",
+      "B. Để đảm bảo an toàn thông tin.",
+      "C. Để thực hiện các công việc không quan trọng.",
+      "D. Để giúp lãnh đạo có thời gian nghỉ ngơi."
+    ],
+    "correct_answers": [
+      0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 1",
     "q_num": 23,
-    "body_index": 111,
-    "id": "word-c41143f3c5139fa3-p111"
+    "body_index": 112,
+    "id": "word-1d55e841b9e15dba-p112"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 24: Nội dung trực tiếp về văn hoá tư tưởng thể hiện sứ mệnh lịch sử của giai cấp công nhân Việt Nam là:",
+    "question": "Câu 24: Vai trò của thư ký văn phòng trong các tổ chức hiện nay là gì?",
     "source_q_num": 24,
-    "source_title": "Câu 24: Nội dung trực tiếp về văn hoá tư tưởng thể hiện sứ mệnh lịch sử của giai cấp công nhân Việt Nam là:",
+    "source_title": "Câu 24: Vai trò của thư ký văn phòng trong các tổ chức hiện nay là gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 24,
         "body_index": 117
       }
     ],
     "source_content": [
       {
-        "text": "A. Xây dựng con người mới xã hội chủ nghĩa"
+        "text": "Ghi chép biên bản họp."
       },
       {
-        "text": "B. Xây dựng nền giáo dục hiện đại"
+        "text": "Đại diện cho tổ chức trong các cuộc họp."
       },
       {
-        "text": "C. Xây dựng nền văn hoá Việt Nam tiên tiến, đậm đà bản sắc dân tộc"
+        "text": "Đảm bảo các yêu cầu về thông tin liên lạc và tổ chức công việc của cơ quan."
       },
       {
-        "text": "D. Xây dựng hệ giá trị và con người Việt Nam"
+        "text": "Soạn thảo văn bản."
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Xây dựng con người mới xã hội chủ nghĩa",
-      "B. Xây dựng nền giáo dục hiện đại",
-      "C. Xây dựng nền văn hoá Việt Nam tiên tiến, đậm đà bản sắc dân tộc",
-      "D. Xây dựng hệ giá trị và con người Việt Nam"
+      "A. Ghi chép biên bản họp.",
+      "B. Đại diện cho tổ chức trong các cuộc họp.",
+      "C. Đảm bảo các yêu cầu về thông tin liên lạc và tổ chức công việc của cơ quan.",
+      "D. Soạn thảo văn bản."
     ],
     "correct_answers": [
       2
@@ -1029,1982 +1006,1357 @@ window.QUIZ_QUESTIONS = [
     "lesson": "Bài 1",
     "q_num": 24,
     "body_index": 117,
-    "id": "word-c41143f3c5139fa3-p117"
+    "id": "word-1d55e841b9e15dba-p117"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 25: Theo C.Mác và Ph.Ăngghen thì đặc điểm nổi bật của giai cấp công nhân là: (Chọn 2 đáp án đúng)",
+    "question": "Câu 25: Thư ký văn phòng cần phải làm gì khi gặp vấn đề về tài liệu không rõ ràng?",
     "source_q_num": 25,
-    "source_title": "Câu 25 : Theo C.Mác và Ph.Ăngghen thì đặc điểm nổi bật của giai cấp công nhân là: (Chọn 2 đáp án đúng)",
+    "source_title": "Câu 25: Thư ký văn phòng cần phải làm gì khi gặp vấn đề về tài liệu không rõ ràng?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 25,
-        "body_index": 123
+        "body_index": 122
       }
     ],
     "source_content": [
       {
-        "text": "A. Giai cấp cách mạng và có tinh thần cách mạng triệt để"
+        "text": "Giao lại cho người khác giải quyết."
       },
       {
-        "text": "B. Lao động bằng phương thức công nghiệp"
+        "text": "Chỉ ra sự không rõ ràng của tài liệu và yêu cầu bổ sung thêm thông tin nếu cần."
       },
       {
-        "text": "C. Làm việc trong nông nghiệp, sử dụng công cụ thủ công"
+        "text": "Tự ý sửa đổi tài liệu."
       },
       {
-        "text": "D. Có quyền sở hữu toàn bộ tư liệu sản xuất"
-      }
-    ],
-    "type": "multiple_choice",
-    "options": [
-      "A. Giai cấp cách mạng và có tinh thần cách mạng triệt để",
-      "B. Lao động bằng phương thức công nghiệp",
-      "C. Làm việc trong nông nghiệp, sử dụng công cụ thủ công",
-      "D. Có quyền sở hữu toàn bộ tư liệu sản xuất"
-    ],
-    "correct_answers": [
-      0,
-      1
-    ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bài 1",
-    "q_num": 25,
-    "body_index": 123,
-    "id": "word-c41143f3c5139fa3-p123"
-  },
-  {
-    "lesson_num": 1,
-    "question": "Câu 26: Trong các nội dung sau đây thì nội dung nào thuộc về giải pháp xây dựng giai cấp công nhân Việt Nam hiện nay?",
-    "source_q_num": 26,
-    "source_title": "Câu 26: Trong các nội dung sau đây thì nội dung nào thuộc về giải pháp xây dựng giai cấp công nhân Việt Nam hiện nay?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 26,
-        "body_index": 129
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Thực hiện chiến lược xây dựng giai cấp công nhân lớn mạnh, gắn kết chặt chẽ với chiến lược phát triển kinh tế - xã hội, công nghiệp hoá, hiện đại hoá đất nước, hội nhập quốc tế"
-      },
-      {
-        "text": "B. Thực hiện tốt chính sách và pháp luật đối với công nhân và người lao động."
-      },
-      {
-        "text": "C. Xây dựng giai cấp công nhân lớn mạnh, có giác ngộ giai cấp và chính trị vững vàng"
-      },
-      {
-        "text": "D. Coi trọng và giữ vững bản chất giai cấp công nhân và nguyên tắc sinh hoạt Đảng"
+        "text": "Bỏ qua tài liệu đó."
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Thực hiện chiến lược xây dựng giai cấp công nhân lớn mạnh, gắn kết chặt chẽ với chiến lược phát triển kinh tế - xã hội, công nghiệp hoá, hiện đại hoá đất nước, hội nhập quốc tế",
-      "B. Thực hiện tốt chính sách và pháp luật đối với công nhân và người lao động.",
-      "C. Xây dựng giai cấp công nhân lớn mạnh, có giác ngộ giai cấp và chính trị vững vàng",
-      "D. Coi trọng và giữ vững bản chất giai cấp công nhân và nguyên tắc sinh hoạt Đảng"
+      "A. Giao lại cho người khác giải quyết.",
+      "B. Chỉ ra sự không rõ ràng của tài liệu và yêu cầu bổ sung thêm thông tin nếu cần.",
+      "C. Tự ý sửa đổi tài liệu.",
+      "D. Bỏ qua tài liệu đó."
     ],
     "correct_answers": [
-      0
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 1",
+    "q_num": 25,
+    "body_index": 122,
+    "id": "word-1d55e841b9e15dba-p122"
+  },
+  {
+    "lesson_num": 1,
+    "question": "Câu 26: Trong công tác lưu trữ tài liệu, thư ký văn phòng cần hướng dẫn cho nhân viên mới về những nội dung nào?",
+    "source_q_num": 26,
+    "source_title": "Câu 26: Trong công tác lưu trữ tài liệu, thư ký văn phòng cần hướng dẫn cho nhân viên mới về những nội dung nào?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 26,
+        "body_index": 128
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Cách quản lý tài chính cá nhân."
+      },
+      {
+        "text": "B. Cách sử dụng phần mềm kế toán."
+      },
+      {
+        "text": "C. Cách phân loại, sắp xếp và bảo quản tài liệu."
+      },
+      {
+        "text": "D. Cách thực hiện công việc bảo vệ."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Cách quản lý tài chính cá nhân.",
+      "B. Cách sử dụng phần mềm kế toán.",
+      "C. Cách phân loại, sắp xếp và bảo quản tài liệu.",
+      "D. Cách thực hiện công việc bảo vệ."
+    ],
+    "correct_answers": [
+      2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 1",
     "q_num": 26,
-    "body_index": 129,
-    "id": "word-c41143f3c5139fa3-p129"
+    "body_index": 128,
+    "id": "word-1d55e841b9e15dba-p128"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 27: Điều kiện chủ quan để giai cấp công nhân thực hiện được sứ mệnh lịch sử của mình là: (Chọn 2 đáp án đúng)",
+    "question": "Câu 27: Người thư ký văn phòng cần phải làm gì để đảm bảo thông tin chính xác và hữu ích?",
     "source_q_num": 27,
-    "source_title": "Câu 27: Điều kiện chủ quan để giai cấp công nhân thực hiện được sứ mệnh lịch sử của mình là: (Chọn 2 đáp án đúng)",
+    "source_title": "Câu 27: Người thư ký văn phòng cần phải làm gì để đảm bảo thông tin chính xác và hữu ích?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 27,
-        "body_index": 134
+        "body_index": 133
       }
     ],
     "source_content": [
       {
-        "text": "A. Sự phát triển của bản thân giai cấp công nhân cả về số lượng và chất lượng"
+        "text": "A. Thu thập và xử lý các thông tin cần thiết để phục vụ cho yêu cầu của người lãnh đạo hoặc hoạt động quản lý của cơ quan."
       },
       {
-        "text": "B. Sở hữu toàn bộ tư liệu sản xuất trong xã hội"
+        "text": "B. Thu thập mọi thông tin có thể."
       },
       {
-        "text": "C. Đảng Cộng sản"
+        "text": "C. Chỉ thu thập các thông tin đã được chỉ định bởi lãnh đạo."
       },
       {
-        "text": "D. Không cần liên minh với các giai cấp, tầng lớp khác"
-      }
-    ],
-    "type": "multiple_choice",
-    "options": [
-      "A. Sự phát triển của bản thân giai cấp công nhân cả về số lượng và chất lượng",
-      "B. Sở hữu toàn bộ tư liệu sản xuất trong xã hội",
-      "C. Đảng Cộng sản",
-      "D. Không cần liên minh với các giai cấp, tầng lớp khác"
-    ],
-    "correct_answers": [
-      0,
-      2
-    ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bài 1",
-    "q_num": 27,
-    "body_index": 134,
-    "id": "word-c41143f3c5139fa3-p134"
-  },
-  {
-    "lesson_num": 1,
-    "question": "Câu 28: Đặc điểm sứ mệnh lịch sử của giai cấp công nhân là:",
-    "source_q_num": 28,
-    "source_title": "Câu 28: Đặc điểm sứ mệnh lịch sử của giai cấp công nhân là:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 28,
-        "body_index": 139
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Xóa bỏ triệt để chế độ tư hữu về tư liệu sản xuất"
-      },
-      {
-        "text": "B. Thay thế chế độ công hữu này bằng một chế độ công hữu khác"
-      },
-      {
-        "text": "C. Thay thế chế độ sở hữu tư nhân này bằng một chế độ sở hữu tư nhân khác"
-      },
-      {
-        "text": "D. Thay thế chế độ chiếm hữu nô lệ bằng chế độ xã hội chủ nghĩa"
+        "text": "D. Chỉ thu thập các thông tin liên quan đến lĩnh vực tài chính."
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Xóa bỏ triệt để chế độ tư hữu về tư liệu sản xuất",
-      "B. Thay thế chế độ công hữu này bằng một chế độ công hữu khác",
-      "C. Thay thế chế độ sở hữu tư nhân này bằng một chế độ sở hữu tư nhân khác",
-      "D. Thay thế chế độ chiếm hữu nô lệ bằng chế độ xã hội chủ nghĩa"
+      "A. Thu thập và xử lý các thông tin cần thiết để phục vụ cho yêu cầu của người lãnh đạo hoặc hoạt động quản lý của cơ quan.",
+      "B. Thu thập mọi thông tin có thể.",
+      "C. Chỉ thu thập các thông tin đã được chỉ định bởi lãnh đạo.",
+      "D. Chỉ thu thập các thông tin liên quan đến lĩnh vực tài chính."
     ],
     "correct_answers": [
       0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 1",
+    "q_num": 27,
+    "body_index": 133,
+    "id": "word-1d55e841b9e15dba-p133"
+  },
+  {
+    "lesson_num": 1,
+    "question": "Câu 28: Để đảm nhận được các nhiệm vụ, người thư ký văn phòng cần phải làm gì?",
+    "source_q_num": 28,
+    "source_title": "Câu 28 :Để đảm nhận được các nhiệm vụ, người thư ký văn phòng cần phải làm gì?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 28,
+        "body_index": 138
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Chỉ cần biết cách sử dụng máy tính."
+      },
+      {
+        "text": "B. Chỉ cần làm theo chỉ đạo của lãnh đạo mà không cần hiểu rõ về công việc."
+      },
+      {
+        "text": "C. Nắm vững chuyên môn nghiệp vụ và chức năng nhiệm vụ của cơ quan ."
+      },
+      {
+        "text": "D. Không cần biết về chuyên môn của cơ quan."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Chỉ cần biết cách sử dụng máy tính.",
+      "B. Chỉ cần làm theo chỉ đạo của lãnh đạo mà không cần hiểu rõ về công việc.",
+      "C. Nắm vững chuyên môn nghiệp vụ và chức năng nhiệm vụ của cơ quan .",
+      "D. Không cần biết về chuyên môn của cơ quan."
+    ],
+    "correct_answers": [
+      2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 1",
     "q_num": 28,
-    "body_index": 139,
-    "id": "word-c41143f3c5139fa3-p139"
+    "body_index": 138,
+    "id": "word-1d55e841b9e15dba-p138"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 29: Vấn đề nổi bật nhất đối với việc thực hiện sứ mệnh lịch sử của giai cấp công nhân Việt Nam hiện nay là gì?",
+    "question": "Câu 29: Để đảm bảo cung cấp thông tin kịp thời và chính xác, thư ký văn phòng cần thực hiện nghiệp vụ nào?",
     "source_q_num": 29,
-    "source_title": "Câu 29: Vấn đề nổi bật nhất đối với việc thực hiện sứ mệnh lịch sử của giai cấp công nhân Việt Nam hiện nay là gì?",
+    "source_title": "Câu 29: Để đảm bảo cung cấp thông tin kịp thời và chính xác, thư ký văn phòng cần thực hiện nghiệp vụ nào?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 29,
-        "body_index": 145
+        "body_index": 143
       }
     ],
     "source_content": [
       {
-        "text": "A. Phát huy vai trò và trách nhiệm của lực lượng đi đầu trong sự nghiệp đẩy mạnh công nghiệp hoá, hiện đại hoá đất nước"
+        "text": "A. Tự ý chỉnh sửa thông tin cho phù hợp với nhu cầu."
       },
       {
-        "text": "B. Lực lượng chủ đạo trong lao động"
+        "text": "B. Thu thập, xử lý và tổng hợp thông tin từ nhiều nguồn khác nhau."
       },
       {
-        "text": "C. Nắm vững khoa học và công nghệ"
+        "text": "C. Lưu trữ hồ sơ mà không cần cập nhật."
       },
       {
-        "text": "D. Tham gia xây dựng nền kinh tế thị trường định hướng xã hội chủ nghĩa"
+        "text": "D. Chỉ tập trung vào công văn đến và đi."
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Phát huy vai trò và trách nhiệm của lực lượng đi đầu trong sự nghiệp đẩy mạnh công nghiệp hoá, hiện đại hoá đất nước",
-      "B. Lực lượng chủ đạo trong lao động",
-      "C. Nắm vững khoa học và công nghệ",
-      "D. Tham gia xây dựng nền kinh tế thị trường định hướng xã hội chủ nghĩa"
+      "A. Tự ý chỉnh sửa thông tin cho phù hợp với nhu cầu.",
+      "B. Thu thập, xử lý và tổng hợp thông tin từ nhiều nguồn khác nhau.",
+      "C. Lưu trữ hồ sơ mà không cần cập nhật.",
+      "D. Chỉ tập trung vào công văn đến và đi."
     ],
     "correct_answers": [
-      0
+      1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 1",
     "q_num": 29,
-    "body_index": 145,
-    "id": "word-c41143f3c5139fa3-p145"
+    "body_index": 143,
+    "id": "word-1d55e841b9e15dba-p143"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 30: Chủ nghĩa xã hội khoa học ra đời dựa trên cơ sở của những tiền đề nào? (Chọn 2 đáp án đúng)",
+    "question": "Câu 30: Căn cứ vào trình độ chuyên môn, thư ký văn phòng được phân loại như thế nào?",
     "source_q_num": 30,
-    "source_title": "Câu 30: Chủ nghĩa xã hội khoa học ra đời dựa trên cơ sở của những tiền đề nào? (Chọn 2 đáp án đúng)",
+    "source_title": "Câu 30: Căn cứ vào trình độ chuyên môn, thư ký văn phòng được phân loại như thế nào?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 30,
-        "body_index": 150
+        "body_index": 148
       }
     ],
     "source_content": [
       {
-        "text": "A. Tiền đề khoa học xã hội,"
+        "text": "Thư ký kế toán; Thư ký phụ trách thông tin liên lạc (điện thoại, telex...); Thư ký phụ trách vật tư, thiết bị văn phòng."
       },
       {
-        "text": "B. Tiền đề tư tưởng lý luận,"
+        "text": "Thư ký điều hành; Thư ký chuyên môn."
       },
       {
-        "text": "C. Tiền đề khoa học lịch sử,"
+        "text": "Thư ký cao cấp; Thư ký trung cấp; Thư ký sơ cấp."
       },
       {
-        "text": "D. Tiền đề khoa học tự nhiên."
+        "text": "Thư ký phụ trách văn thư; Thư ký phụ trách việc tổng hợp thông tin và biên tập văn bản; Thư ký phụ trách về lưu trữ hồ sơ"
       }
     ],
-    "type": "multiple_choice",
+    "type": "single_choice",
     "options": [
-      "A. Tiền đề khoa học xã hội,",
-      "B. Tiền đề tư tưởng lý luận,",
-      "C. Tiền đề khoa học lịch sử,",
-      "D. Tiền đề khoa học tự nhiên."
+      "A. Thư ký kế toán; Thư ký phụ trách thông tin liên lạc (điện thoại, telex...); Thư ký phụ trách vật tư, thiết bị văn phòng.",
+      "B. Thư ký điều hành; Thư ký chuyên môn.",
+      "C. Thư ký cao cấp; Thư ký trung cấp; Thư ký sơ cấp.",
+      "D. Thư ký phụ trách văn thư; Thư ký phụ trách việc tổng hợp thông tin và biên tập văn bản; Thư ký phụ trách về lưu trữ hồ sơ"
     ],
     "correct_answers": [
-      1,
-      3
+      2
     ],
-    "instruction": "Chọn 2 đáp án đúng",
+    "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 1",
     "q_num": 30,
-    "body_index": 150,
-    "id": "word-c41143f3c5139fa3-p150"
+    "body_index": 148,
+    "id": "word-1d55e841b9e15dba-p148"
   },
   {
     "lesson_num": 1,
-    "question": "Câu 31: Chọn đáp án đúng hoặc sai với từng phát biểu sau.",
+    "question": "Câu 31: Để tổ chức, sắp xếp công việc của cơ quan một cách hiệu quả, thư ký văn phòng cần phải làm gì?",
     "source_q_num": 31,
-    "source_title": "Câu 31: Chọn đáp án đúng hoặc sai với từng phát biểu sau.",
+    "source_title": "Câu 31: Để tổ chức, sắp xếp công việc của cơ quan một cách hiệu quả, thư ký văn phòng cần phải làm gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 31,
-        "body_index": 156
+        "body_index": 153
       }
     ],
     "source_content": [
       {
-        "text": "1, Giai cấp công nhân Việt Nam hiện nay đã tăng cả về số lượng và chất lượng."
+        "text": "Chỉ cần làm công việc của mình mà không cần chú ý đến tổ chức, sắp xếp."
       },
       {
-        "text": "Đúng"
+        "text": "Lên kế hoạch tổ chức, sắp xếp công việc một cách khoa học và hợp lý ."
       },
       {
-        "text": "2, Giai cấp công nhân đại diện cho phương thức sản xuất tiên tiến và lực lượng sản xuất hiện đại."
+        "text": "Không cần lập kế hoạch, chỉ cần thực hiện theo chỉ đạo."
       },
       {
-        "text": "Đúng"
-      },
-      {
-        "text": "3, Sự trưởng thành của Đảng Cộng sản là nhân tố chính trị quan trọng của giai cấp công nhân"
-      },
-      {
-        "text": "Đúng"
-      },
-      {
-        "text": "4, Đảng Cộng sản là nhân tố quan trọng khách quan, quan trọng nhất để giai cấp nhân thực hiện thắng lợi sứ mệnh lịch sử của mình."
-      },
-      {
-        "text": "Sai"
+        "text": "Chỉ làm theo sự chỉ đạo của lãnh đạo."
       }
     ],
-    "type": "true_false",
-    "items": [
-      {
-        "statement": "1, Giai cấp công nhân Việt Nam hiện nay đã tăng cả về số lượng và chất lượng.",
-        "correct": true
-      },
-      {
-        "statement": "2, Giai cấp công nhân đại diện cho phương thức sản xuất tiên tiến và lực lượng sản xuất hiện đại.",
-        "correct": true
-      },
-      {
-        "statement": "3, Sự trưởng thành của Đảng Cộng sản là nhân tố chính trị quan trọng của giai cấp công nhân",
-        "correct": true
-      },
-      {
-        "statement": "4, Đảng Cộng sản là nhân tố quan trọng khách quan, quan trọng nhất để giai cấp nhân thực hiện thắng lợi sứ mệnh lịch sử của mình.",
-        "correct": false
-      }
+    "type": "single_choice",
+    "options": [
+      "A. Chỉ cần làm công việc của mình mà không cần chú ý đến tổ chức, sắp xếp.",
+      "B. Lên kế hoạch tổ chức, sắp xếp công việc một cách khoa học và hợp lý .",
+      "C. Không cần lập kế hoạch, chỉ cần thực hiện theo chỉ đạo.",
+      "D. Chỉ làm theo sự chỉ đạo của lãnh đạo."
     ],
-    "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 1",
     "q_num": 31,
-    "body_index": 156,
-    "id": "word-c41143f3c5139fa3-p156"
+    "body_index": 153,
+    "id": "word-1d55e841b9e15dba-p153"
   },
   {
-    "lesson_num": 1,
-    "question": "Câu 32: Chọn đáp án đúng hoặc sai với từng phát biểu sau.",
-    "source_q_num": 32,
-    "source_title": "Câu 32: Chọn đáp án đúng hoặc sai với từng phát biểu sau.",
+    "lesson_num": 2,
+    "question": "Câu 1: Một trong những nghiệp vụ chính của thư ký văn phòng là gì?",
+    "source_q_num": 1,
+    "source_title": "Câu 1. Một trong những nghiệp vụ chính của thư ký văn phòng là gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 32,
-        "body_index": 166
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 1,
+        "body_index": 159
       }
     ],
     "source_content": [
       {
-        "text": "1, Giai cấp công nhân Việt Nam không có sự liên kết với các lực lượng cách mạng khác."
+        "text": "A. Điều phối các cuộc họp."
       },
       {
-        "text": "Sai"
+        "text": "B. Quản lý tài liệu."
       },
       {
-        "text": "2, Giai cấp công nhân Việt Nam là tầng lớp giàu có, ít chịu áp bức, bóc lột."
+        "text": "C. Chuẩn bị và cung cấp thông tin."
       },
       {
-        "text": "Sai"
-      },
-      {
-        "text": "3, Giai cấp công nhân Việt Nam đến nay đã tăng nhanh về số lượng và chất lượng."
-      },
-      {
-        "text": "Đúng"
-      },
-      {
-        "text": "4, Giai cấp công nhân Việt Nam hiện nay đa dạng về cơ cấu nghề nghiệp, có mặt trong mọi thành phần kinh tế"
-      },
-      {
-        "text": "Đúng"
+        "text": "D. Lưu trữ hồ sơ."
       }
     ],
-    "type": "true_false",
-    "items": [
-      {
-        "statement": "1, Giai cấp công nhân Việt Nam không có sự liên kết với các lực lượng cách mạng khác.",
-        "correct": false
-      },
-      {
-        "statement": "2, Giai cấp công nhân Việt Nam là tầng lớp giàu có, ít chịu áp bức, bóc lột.",
-        "correct": false
-      },
-      {
-        "statement": "3, Giai cấp công nhân Việt Nam đến nay đã tăng nhanh về số lượng và chất lượng.",
-        "correct": true
-      },
-      {
-        "statement": "4, Giai cấp công nhân Việt Nam hiện nay đa dạng về cơ cấu nghề nghiệp, có mặt trong mọi thành phần kinh tế",
-        "correct": true
-      }
+    "type": "single_choice",
+    "options": [
+      "A. Điều phối các cuộc họp.",
+      "B. Quản lý tài liệu.",
+      "C. Chuẩn bị và cung cấp thông tin.",
+      "D. Lưu trữ hồ sơ."
     ],
-    "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "lesson": "Bài 1",
-    "q_num": 32,
-    "body_index": 166,
-    "id": "word-c41143f3c5139fa3-p166"
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 2",
+    "q_num": 1,
+    "body_index": 159,
+    "id": "word-1d55e841b9e15dba-p159"
   },
   {
-    "lesson_num": 1,
-    "question": "Câu 33: Hãy kéo thả các yếu tố sau đây vào cột tương ứng.",
-    "source_q_num": 33,
-    "source_title": "Câu 33: Hãy kéo thả các yếu tố sau đây vào cột tương ứng.",
+    "lesson_num": 2,
+    "question": "Câu 2: Sắp xếp các bước dưới đây trong quy trình cung cấp thông tin theo đúng trình tự?\n(1) Thu thập và xử lý thông tin\n(2) Xác định thông tin cần cung cấp\n(3) Xác định nguồn tin và phương pháp lấy tin\n(4) Cung cấp thông tin cho người lãnh đạo hoặc các bộ phận quản lý\n(5) Tìm cách hiểu một cách chính xác yêu cầu của người lãnh đạo hoặc bộ phận cần cung cấp tin",
+    "source_q_num": 2,
+    "source_title": "Câu 2. Sắp xếp các bước dưới đây trong quy trình cung cấp thông tin theo đúng trình tự?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 33,
-        "body_index": 175
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 2,
+        "body_index": 164
       }
     ],
     "source_content": [
       {
-        "table": [
-          [
-            "Điều kiện chủ quan để giai cấp công nhân thực hiện được sứ mệnh lịch sử",
-            "Điều kiện khách quan quy định sứ mệnh lịch sử của giai cấp công nhân."
-          ],
-          [
-            "Sự phát triển của bản thân giai cấp công nhân cả về số lượng và chất lượng",
-            "Địa vị kinh tế của giai cấp công nhân"
-          ],
-          [
-            "Đảng Cộng sản",
-            "Địa vị chính trị xã hội của giai cấp công nhân"
-          ]
-        ]
+        "text": "Thu thập và xử lý thông tin"
+      },
+      {
+        "text": "Xác định thông tin cần cung cấp"
+      },
+      {
+        "text": "Xác định nguồn tin và phương pháp lấy tin"
+      },
+      {
+        "text": "Cung cấp thông tin cho người lãnh đạo hoặc các bộ phận quản lý"
+      },
+      {
+        "text": "Tìm cách hiểu một cách chính xác yêu cầu của người lãnh đạo hoặc bộ phận cần cung cấp tin"
+      },
+      {
+        "text": "A. 4 - 1 - 3 - 2 - 5"
+      },
+      {
+        "text": "B. 5 - 2 - 3 - 1 - 4"
+      },
+      {
+        "text": "C. 1 - 3 - 5 - 2 - 4"
+      },
+      {
+        "text": "D. 2 - 5 - 3 - 1 - 4"
       }
     ],
-    "type": "drag_drop_categorize",
-    "categories": [
-      {
-        "title": "Điều kiện chủ quan để giai cấp công nhân thực hiện được sứ mệnh lịch sử",
-        "items": [
-          "Sự phát triển của bản thân giai cấp công nhân cả về số lượng và chất lượng",
-          "Đảng Cộng sản"
-        ]
-      },
-      {
-        "title": "Điều kiện khách quan quy định sứ mệnh lịch sử của giai cấp công nhân.",
-        "items": [
-          "Địa vị kinh tế của giai cấp công nhân",
-          "Địa vị chính trị xã hội của giai cấp công nhân"
-        ]
-      }
+    "type": "single_choice",
+    "options": [
+      "A. 4 - 1 - 3 - 2 - 5",
+      "B. 5 - 2 - 3 - 1 - 4",
+      "C. 1 - 3 - 5 - 2 - 4",
+      "D. 2 - 5 - 3 - 1 - 4"
     ],
-    "instruction": "Kéo hoặc chọn từng mục vào đúng cột tương ứng",
-    "all_items": [
-      {
-        "text": "Sự phát triển của bản thân giai cấp công nhân cả về số lượng và chất lượng",
-        "category": "Điều kiện chủ quan để giai cấp công nhân thực hiện được sứ mệnh lịch sử"
-      },
-      {
-        "text": "Đảng Cộng sản",
-        "category": "Điều kiện chủ quan để giai cấp công nhân thực hiện được sứ mệnh lịch sử"
-      },
-      {
-        "text": "Địa vị kinh tế của giai cấp công nhân",
-        "category": "Điều kiện khách quan quy định sứ mệnh lịch sử của giai cấp công nhân."
-      },
-      {
-        "text": "Địa vị chính trị xã hội của giai cấp công nhân",
-        "category": "Điều kiện khách quan quy định sứ mệnh lịch sử của giai cấp công nhân."
-      }
+    "correct_answers": [
+      1
     ],
-    "lesson": "Bài 1",
-    "q_num": 33,
-    "body_index": 175,
-    "id": "word-c41143f3c5139fa3-p175"
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 2",
+    "q_num": 2,
+    "body_index": 164,
+    "id": "word-1d55e841b9e15dba-p164"
   },
   {
-    "lesson_num": 1,
-    "question": "Câu 34: Kéo thả các đáp án khớp với các phát biểu từ 1 - 3 vế trái dưới đây:",
-    "source_q_num": 34,
-    "source_title": "Câu 34: Kéo thả các đáp án khớp với các phát biểu từ 1 - 3 vế trái dưới đây:",
+    "lesson_num": 2,
+    "question": "Câu 3: Thư ký văn phòng thu thập thông tin từ các văn bản nhằm mục đích gì?",
+    "source_q_num": 3,
+    "source_title": "Câu 3. Thư ký văn phòng thu thập thông tin từ các văn bản nhằm mục đích gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 34,
-        "body_index": 179
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 3,
+        "body_index": 174
       }
     ],
     "source_content": [
       {
-        "text": "Đảng Cộng Sản"
+        "text": "A. Để phân loại."
       },
       {
-        "text": "1, Giai cấp công nhân Việt Nam là lực lượng nòng cốt của tầng lớp nhân dân Việt Nam"
+        "text": "B. Để cung cấp cho hoạt động quản lý."
       },
       {
-        "text": "2, Giai cấp công nhân Việt Nam hiện nay gắn bó mật thiết với các giai cấp, tầng lớp trong xã hội"
+        "text": "C. Để lưu trữ."
       },
       {
-        "text": "3, Giai cấp công nhân Việt Nam có mối quan hệ mật thiết với giai cấp nông dân và tầng lớp trí thức trong xã hội"
+        "text": "D. Để sắp xếp."
       }
     ],
-    "type": "drag_drop_match",
-    "pairs": [
-      {
-        "left": "1, Giai cấp công nhân Việt Nam là lực lượng nòng cốt của ______ Việt Nam",
-        "right": "tầng lớp nhân dân"
-      },
-      {
-        "left": "2, Giai cấp công nhân Việt Nam hiện nay gắn bó mật thiết với các ______ trong xã hội",
-        "right": "giai cấp, tầng lớp"
-      },
-      {
-        "left": "3, Giai cấp công nhân Việt Nam có mối quan hệ mật thiết với giai cấp nông dân và ______ trong xã hội",
-        "right": "tầng lớp trí thức"
-      }
+    "type": "single_choice",
+    "options": [
+      "A. Để phân loại.",
+      "B. Để cung cấp cho hoạt động quản lý.",
+      "C. Để lưu trữ.",
+      "D. Để sắp xếp."
     ],
-    "options_pool": [
-      "Đảng Cộng Sản",
-      "tầng lớp nhân dân",
-      "giai cấp, tầng lớp",
-      "tầng lớp trí thức"
+    "correct_answers": [
+      1
     ],
-    "instruction": "Kéo hoặc chọn đáp án đúng ghép vào vế tương ứng",
-    "lesson": "Bài 1",
-    "q_num": 34,
-    "body_index": 179,
-    "id": "word-c41143f3c5139fa3-p179"
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 2",
+    "q_num": 3,
+    "body_index": 174,
+    "id": "word-1d55e841b9e15dba-p174"
   },
   {
-    "lesson_num": 1,
-    "question": "Câu 35: chọn đáp án ( đúng hoặc sai) với từng phát biểu sau",
-    "source_q_num": 35,
-    "source_title": "Câu 35: chọn đáp án ( đúng hoặc sai) với từng phát biểu sau",
+    "lesson_num": 2,
+    "question": "Câu 4: Thư ký văn phòng thu thập thông tin từ những nguồn nào?",
+    "source_q_num": 4,
+    "source_title": "Câu 4. Thư ký văn phòng thu thập thông tin từ những nguồn nào?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 35,
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 4,
+        "body_index": 180
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Báo chí."
+      },
+      {
+        "text": "B. Văn bản chỉ đạo từ cấp trên."
+      },
+      {
+        "text": "C. Các cuộc họp."
+      },
+      {
+        "text": "D. Tất cả các đáp án trên."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Báo chí.",
+      "B. Văn bản chỉ đạo từ cấp trên.",
+      "C. Các cuộc họp.",
+      "D. Tất cả các đáp án trên."
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 2",
+    "q_num": 4,
+    "body_index": 180,
+    "id": "word-1d55e841b9e15dba-p180"
+  },
+  {
+    "lesson_num": 2,
+    "question": "Câu 5: Loại báo cáo nào dưới đây mà thư ký văn phòng cần cung cấp định kỳ cho lãnh đạo?",
+    "source_q_num": 5,
+    "source_title": "Câu 5. Loại báo cáo nào dưới đây mà thư ký văn phòng cần cung cấp định kỳ cho lãnh đạo?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 5,
         "body_index": 185
       }
     ],
     "source_content": [
       {
-        "text": "1, Giai cấp công nhân là những người lao động trực tiếp hay gián tiếp vận hành các công cụ sản xuất có tính chất công nghiệp ngày càng hiện đại và xã hội hóa cao."
+        "text": "A. Báo cáo tuần."
       },
       {
-        "text": "Đúng"
+        "text": "B. Báo cáo tháng."
       },
       {
-        "text": "2: Giai cấp công nhân là chủ thể của quá trình sản xuất vật chất hiện đại."
+        "text": "C. Báo cáo quý."
       },
       {
-        "text": "Đúng"
-      },
-      {
-        "text": "3: Giai cấp công nhân là giai cấp cách mạng và có tinh thần cách mạng triệt để."
-      },
-      {
-        "text": "Đúng"
-      },
-      {
-        "text": "4: Đặc điểm nổi bật của giai cấp công nhân là lao động bằng phương thức nông nghiệp."
-      },
-      {
-        "text": "Sai"
+        "text": "D. Tất cả các đáp án trên."
       }
     ],
-    "type": "true_false",
-    "items": [
-      {
-        "statement": "1, Giai cấp công nhân là những người lao động trực tiếp hay gián tiếp vận hành các công cụ sản xuất có tính chất công nghiệp ngày càng hiện đại và xã hội hóa cao.",
-        "correct": true
-      },
-      {
-        "statement": "2: Giai cấp công nhân là chủ thể của quá trình sản xuất vật chất hiện đại.",
-        "correct": true
-      },
-      {
-        "statement": "3: Giai cấp công nhân là giai cấp cách mạng và có tinh thần cách mạng triệt để.",
-        "correct": true
-      },
-      {
-        "statement": "4: Đặc điểm nổi bật của giai cấp công nhân là lao động bằng phương thức nông nghiệp.",
-        "correct": false
-      }
+    "type": "single_choice",
+    "options": [
+      "A. Báo cáo tuần.",
+      "B. Báo cáo tháng.",
+      "C. Báo cáo quý.",
+      "D. Tất cả các đáp án trên."
     ],
-    "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "lesson": "Bài 1",
-    "q_num": 35,
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 2",
+    "q_num": 5,
     "body_index": 185,
-    "id": "word-c41143f3c5139fa3-p185"
+    "id": "word-1d55e841b9e15dba-p185"
   },
   {
-    "lesson_num": 1,
-    "question": "Câu 36: Nội dung sứ mệnh lịch sử của giai cấp công nhân Việt Nam hiện nay bao gồm: (Chọn 3 đáp án đúng)",
-    "source_q_num": 36,
-    "source_title": "Câu 36: Nội dung sứ mệnh lịch sử của giai cấp công nhân Việt Nam hiện nay bao gồm: (Chọn 3 đáp án đúng)",
+    "lesson_num": 2,
+    "question": "Câu 6: Thư ký văn phòng phải cung cấp thông tin đột xuất cho lãnh đạo khi nào?",
+    "source_q_num": 6,
+    "source_title": "Câu 6. Thư ký văn phòng phải cung cấp thông tin đột xuất cho lãnh đạo khi nào?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 36,
-        "body_index": 194
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 6,
+        "body_index": 190
       }
     ],
     "source_content": [
       {
-        "text": "A. Nội dung văn hóa, tư tưởng"
+        "text": "A. Sắp xếp tài liệu."
       },
       {
-        "text": "B. Nội dung lý luận"
+        "text": "B. Có cuộc họp định kỳ."
       },
       {
-        "text": "C. Nội dung kinh tế"
+        "text": "C. Lập báo cáo hàng tháng."
       },
       {
-        "text": "D. Nội dung chính trị - xã hội"
+        "text": "D. Lãnh đạo yêu cầu cung cấp thông tin."
       }
     ],
-    "type": "multiple_choice",
+    "type": "single_choice",
     "options": [
-      "A. Nội dung văn hóa, tư tưởng",
-      "B. Nội dung lý luận",
-      "C. Nội dung kinh tế",
-      "D. Nội dung chính trị - xã hội"
+      "A. Sắp xếp tài liệu.",
+      "B. Có cuộc họp định kỳ.",
+      "C. Lập báo cáo hàng tháng.",
+      "D. Lãnh đạo yêu cầu cung cấp thông tin."
     ],
     "correct_answers": [
-      0,
-      2,
       3
     ],
-    "instruction": "Chọn 3 đáp án đúng",
-    "lesson": "Bài 1",
-    "q_num": 36,
-    "body_index": 194,
-    "id": "word-c41143f3c5139fa3-p194"
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 2",
+    "q_num": 6,
+    "body_index": 190,
+    "id": "word-1d55e841b9e15dba-p190"
   },
   {
-    "lesson_num": 1,
-    "question": "Câu 37: Xã hội xã hội chủ nghĩa ở Việt Nam là xã hội:",
-    "source_q_num": 37,
-    "source_title": "Câu 37 : Xã hội xã hội chủ nghĩa ở Việt Nam là xã hội:",
+    "lesson_num": 2,
+    "question": "Câu 7: Là một thư ký, làm thế nào để lập kế hoạch chuẩn bị thông tin cho cuộc họp giao ban đầu tuần?",
+    "source_q_num": 7,
+    "source_title": "Câu 7. Là một thư ký, làm thế nào để lập kế hoạch chuẩn bị thông tin cho cuộc họp giao ban đầu tuần?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 37,
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 7,
+        "body_index": 195
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Thu thập các báo cáo tuần trước từ các bộ phận"
+      },
+      {
+        "text": "B. Tổng hợp các thông tin mới từ báo chí"
+      },
+      {
+        "text": "C. Ghi chú các yêu cầu đặc biệt từ lãnh đạo"
+      },
+      {
+        "text": "D. Tất cả các đáp án trên"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Thu thập các báo cáo tuần trước từ các bộ phận",
+      "B. Tổng hợp các thông tin mới từ báo chí",
+      "C. Ghi chú các yêu cầu đặc biệt từ lãnh đạo",
+      "D. Tất cả các đáp án trên"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 2",
+    "q_num": 7,
+    "body_index": 195,
+    "id": "word-1d55e841b9e15dba-p195"
+  },
+  {
+    "lesson_num": 2,
+    "question": "Câu 8: Là một thư ký văn phòng, làm thế nào để thông tin được cung cấp cho lãnh đạo là chính xác và kịp thời?",
+    "source_q_num": 8,
+    "source_title": "Câu 8. Là một thư ký văn phòng, làm thế nào để thông tin được cung cấp cho lãnh đạo là chính xác và kịp thời?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 8,
         "body_index": 200
       }
     ],
     "source_content": [
       {
-        "text": "A. Do giai cấp công nhân làm chủ"
+        "text": "A. Kiểm tra lại thông tin trước khi gửi"
       },
       {
-        "text": "B. Do nhân dân làm chủ"
+        "text": "B. Liên lạc với các nguồn tin để xác minh"
       },
       {
-        "text": "C. Do nhân dân lao động làm chủ"
+        "text": "C. Cập nhật thông tin thường xuyên"
       },
       {
-        "text": "D. Do giai cấp nông dân làm chủ"
+        "text": "D. Tất cả các đáp án trên"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Do giai cấp công nhân làm chủ",
-      "B. Do nhân dân làm chủ",
-      "C. Do nhân dân lao động làm chủ",
-      "D. Do giai cấp nông dân làm chủ"
+      "A. Kiểm tra lại thông tin trước khi gửi",
+      "B. Liên lạc với các nguồn tin để xác minh",
+      "C. Cập nhật thông tin thường xuyên",
+      "D. Tất cả các đáp án trên"
     ],
     "correct_answers": [
-      1
+      3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 1",
-    "q_num": 37,
+    "lesson": "Bài 2",
+    "q_num": 8,
     "body_index": 200,
-    "id": "word-c41143f3c5139fa3-p200"
+    "id": "word-1d55e841b9e15dba-p200"
   },
   {
-    "lesson_num": 1,
-    "question": "Câu 38: Vận dụng những kiến thức đã học, cho biết đâu là quan niệm đúng và đầy đủ về nhà nước xã hội chủ nghĩa ở Việt Nam?",
-    "source_q_num": 38,
-    "source_title": "Câu 38 : Vận dụng những kiến thức đã học, cho biết đâu là quan niệm đúng và đầy đủ về nhà nước xã hội chủ nghĩa ở Việt Nam?",
+    "lesson_num": 2,
+    "question": "Câu 9: Khi nhận được yêu cầu gấp từ lãnh đạo, thư ký văn phòng cần xử lý như thế nào?",
+    "source_q_num": 9,
+    "source_title": "Câu 9. Khi nhận được yêu cầu gấp từ lãnh đạo, thư ký văn phòng cần xử lý như thế nào?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 38,
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 9,
         "body_index": 205
       }
     ],
     "source_content": [
       {
-        "text": "A. Nhà nước xã hội chủ nghĩa ở Việt Nam là nhà nước được lãnh đạo bởi tầng lớp tư sản, nhằm thúc đẩy kinh tế thị trường và phát triển các doanh nghiệp tư nhân."
+        "text": "A. Giao lại cho người khác."
       },
       {
-        "text": "B. Nhà nước xã hội chủ nghĩa ở Việt Nam là nhà nước không có sự can thiệp của Đảng Cộng sản, với mục tiêu chỉ là phát triển kinh tế tư nhân và thu hút đầu tư nước ngoài."
+        "text": "B. Để đến ngày hôm sau."
       },
       {
-        "text": "C. Nhà nước xã hội chủ nghĩa ở Việt Nam là nhà nước quân chủ lập hiến, trong đó quyền lực tập trung vào tay một người đứng đầu nhà nước."
+        "text": "C. Xử lý ngay lập tức và thông báo tình hình cho lãnh đạo."
       },
       {
-        "text": "D. Nhà nước xã hội chủ nghĩa ở Việt Nam là nhà nước của nhân dân, do nhân dân và vì nhân dân, dưới sự lãnh đạo của Đảng Cộng sản Việt Nam, nhằm xây dựng xã hội công bằng, dân chủ, văn minh."
+        "text": "D. Chờ lãnh đạo chỉ đạo."
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Nhà nước xã hội chủ nghĩa ở Việt Nam là nhà nước được lãnh đạo bởi tầng lớp tư sản, nhằm thúc đẩy kinh tế thị trường và phát triển các doanh nghiệp tư nhân.",
-      "B. Nhà nước xã hội chủ nghĩa ở Việt Nam là nhà nước không có sự can thiệp của Đảng Cộng sản, với mục tiêu chỉ là phát triển kinh tế tư nhân và thu hút đầu tư nước ngoài.",
-      "C. Nhà nước xã hội chủ nghĩa ở Việt Nam là nhà nước quân chủ lập hiến, trong đó quyền lực tập trung vào tay một người đứng đầu nhà nước.",
-      "D. Nhà nước xã hội chủ nghĩa ở Việt Nam là nhà nước của nhân dân, do nhân dân và vì nhân dân, dưới sự lãnh đạo của Đảng Cộng sản Việt Nam, nhằm xây dựng xã hội công bằng, dân chủ, văn minh."
+      "A. Giao lại cho người khác.",
+      "B. Để đến ngày hôm sau.",
+      "C. Xử lý ngay lập tức và thông báo tình hình cho lãnh đạo.",
+      "D. Chờ lãnh đạo chỉ đạo."
     ],
     "correct_answers": [
-      3
+      2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 1",
-    "q_num": 38,
+    "lesson": "Bài 2",
+    "q_num": 9,
     "body_index": 205,
-    "id": "word-c41143f3c5139fa3-p205"
+    "id": "word-1d55e841b9e15dba-p205"
   },
   {
-    "lesson_num": 1,
-    "question": "Câu 39: Kéo thả các đáp án khớp với các phát biểu từ 1 – 3 về trái dưới đây:",
-    "source_q_num": 39,
-    "source_title": "Câu 39 : Kéo thả các đáp án khớp với các phát biểu từ 1 – 3 về trái dưới đây:",
+    "lesson_num": 2,
+    "question": "Câu 10: Giám đốc yêu cầu thư ký văn phòng chuẩn bị một bản tóm tắt về nội dung và quyết định của các cuộc họp diễn ra trong tuần trước, để ông có thể rà soát lại trước cuộc họp ban lãnh đạo vào chiều nay. Thư ký văn phòng sẽ làm gì để đáp ứng yêu cầu này một cách hiệu quả?",
+    "source_q_num": 10,
+    "source_title": "Câu 10. Giám đốc yêu cầu thư ký văn phòng chuẩn bị một bản tóm tắt về nội dung và quyết định của các cuộc họp diễn ra trong tuần trước, để ông có thể rà soát lại trước cuộc họp ban lãnh đạo vào chiều nay. Thư ký văn phòng sẽ làm gì để đáp ứng yêu cầu này một cách hiệu quả?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 39,
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 10,
         "body_index": 210
       }
     ],
     "source_content": [
       {
-        "table": [
-          [
-            "1. Hình thức ______ là hình thức dân chủ đại diện, được thực hiện do nhân dân \"ủy quyền\", giao quyền lực của mình cho tổ chức mà nhân dân trực tiếp bầu ra.",
-            "dân chủ gián tiếp"
-          ],
-          [
-            "2. Hình thức ______ là hình thức thông qua đó, nhân dân bằng hành động trực tiếp của mình thực hiện quyền làm chủ nhà nước và xã hội.",
-            "dân chủ trực tiếp"
-          ],
-          [
-            "3. Chế độ ______ ở nước ta được xác lập sau Cách mạng Tháng Tám năm 1945.",
-            "dân chủ nhân dân"
-          ]
-        ]
-      }
-    ],
-    "type": "drag_drop_match",
-    "pairs": [
-      {
-        "left": "1. Hình thức ______ là hình thức dân chủ đại diện, được thực hiện do nhân dân \"ủy quyền\", giao quyền lực của mình cho tổ chức mà nhân dân trực tiếp bầu ra.",
-        "right": "dân chủ gián tiếp"
+        "text": "A. Tìm kiếm và tổng hợp tất cả các biên bản cuộc họp từ tuần trước và gửi cho giám đốc."
       },
       {
-        "left": "2. Hình thức ______ là hình thức thông qua đó, nhân dân bằng hành động trực tiếp của mình thực hiện quyền làm chủ nhà nước và xã hội.",
-        "right": "dân chủ trực tiếp"
+        "text": "B. Thông báo với giám đốc rằng bạn cần thêm thời gian để chuẩn bị thông tin."
       },
       {
-        "left": "3. Chế độ ______ ở nước ta được xác lập sau Cách mạng Tháng Tám năm 1945.",
-        "right": "dân chủ nhân dân"
-      }
-    ],
-    "options_pool": [
-      "dân chủ gián tiếp",
-      "dân chủ trực tiếp",
-      "dân chủ nhân dân"
-    ],
-    "instruction": "Kéo hoặc chọn đáp án đúng ghép vào vế tương ứng",
-    "lesson": "Bài 1",
-    "q_num": 39,
-    "body_index": 210,
-    "id": "word-c41143f3c5139fa3-p210"
-  },
-  {
-    "lesson_num": 1,
-    "question": "Câu 40: Câu nói sau đây được viết trong tác phẩm nào: “Giai cấp tư sản, trong quá trình thống trị giai cấp chưa đầy một thế kỷ, đã tạo ra những lực lượng sản xuất nhiều hơn và đồ sộ hơn lực lượng sản xuất của tất cả các thế hệ trước gộp lại”",
-    "source_q_num": 22,
-    "source_title": "Câu 22 (Bài 1): Câu nói sau đây được viết trong tác phẩm nào: “Giai cấp tư sản, trong quá trình thống trị giai cấp chưa đầy một thế kỷ, đã tạo ra những lực lượng sản xuất nhiều hơn và đồ sộ hơn lực lượng sản xuất của tất cả các thế hệ trước gộp lại”",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 22,
-        "body_index": 1149
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Ba nguồn gốc và ba bộ phận cấu thành của chủ nghĩa Mác B. Chống Đuyrinh C. Bộ Tư bản D. Tuyên ngôn của Đảng Cộng sản"
+        "text": "C. Gửi toàn bộ biên bản cuộc họp mà không có tóm tắt."
       },
       {
-        "text": "Đáp án: D"
+        "text": "D. Sử dụng mẫu tóm tắt chuẩn để viết lại các điểm chính từ các biên bản cuộc họp."
       }
     ],
-    "is_thuong_xuyen": true,
-    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 1",
     "type": "single_choice",
     "options": [
-      "A. Ba nguồn gốc và ba bộ phận cấu thành của chủ nghĩa Mác",
-      "B. Chống Đuyrinh",
-      "C. Bộ Tư bản",
-      "D. Tuyên ngôn của Đảng Cộng sản"
+      "A. Tìm kiếm và tổng hợp tất cả các biên bản cuộc họp từ tuần trước và gửi cho giám đốc.",
+      "B. Thông báo với giám đốc rằng bạn cần thêm thời gian để chuẩn bị thông tin.",
+      "C. Gửi toàn bộ biên bản cuộc họp mà không có tóm tắt.",
+      "D. Sử dụng mẫu tóm tắt chuẩn để viết lại các điểm chính từ các biên bản cuộc họp."
     ],
     "correct_answers": [
       3
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 1",
-    "q_num": 40,
-    "body_index": 1149,
-    "id": "word-c41143f3c5139fa3-p1149"
-  },
-  {
-    "lesson_num": 1,
-    "question": "Câu 41: Kéo thả các đáp án khớp với các phát biểu từ 1 – 3 vế trái dưới đây:",
-    "source_q_num": 23,
-    "source_title": "Câu 23 (Bài 1 – Kéo thả): Kéo thả các đáp án khớp với các phát biểu từ 1 – 3 vế trái dưới đây:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 23,
-        "body_index": 1152
-      }
-    ],
-    "source_content": [
-      {
-        "text": "Thực hiện sự nghiệp giải phóng thế giới ấy, đó là sứ mệnh lịch sử của ______ hiện đại → giai cấp vô sản"
-      },
-      {
-        "text": "Sứ mệnh lịch sử của giai cấp công nhân là ______ khỏi áp bức, bất công, bóc lột → giải phóng con người"
-      },
-      {
-        "text": "Giai cấp công nhân là ______ và có tinh thần cách mạng triệt để → giai cấp cách mạng"
-      }
-    ],
-    "is_thuong_xuyen": true,
-    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 1",
-    "type": "drag_drop_match",
-    "pairs": [
-      {
-        "left": "Thực hiện sự nghiệp giải phóng thế giới ấy, đó là sứ mệnh lịch sử của ______ hiện đại",
-        "right": "giai cấp vô sản"
-      },
-      {
-        "left": "Sứ mệnh lịch sử của giai cấp công nhân là ______ khỏi áp bức, bất công, bóc lột",
-        "right": "giải phóng con người"
-      },
-      {
-        "left": "Giai cấp công nhân là ______ và có tinh thần cách mạng triệt để",
-        "right": "giai cấp cách mạng"
-      }
-    ],
-    "options_pool": [
-      "giai cấp vô sản",
-      "giải phóng con người",
-      "giai cấp cách mạng"
-    ],
-    "instruction": "Kéo hoặc chọn đáp án đúng ghép vào vế tương ứng",
-    "lesson": "Bài 1",
-    "q_num": 41,
-    "body_index": 1152,
-    "id": "word-c41143f3c5139fa3-p1152"
-  },
-  {
-    "lesson_num": 2,
-    "question": "Câu 1: Theo C.Mác và Phh.Ăngghen thì giai đoạn đầu của hình thái kinh tế - xã hội cộng sản chủ nghĩa là gì?",
-    "source_q_num": 1,
-    "source_title": "Câu 1 Theo C.Mác và Phh.Ăngghen thì giai đoạn đầu của hình thái kinh tế - xã hội cộng sản chủ nghĩa là gì?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 1,
-        "body_index": 217
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Cộng sản chủ nghĩa"
-      },
-      {
-        "text": "B. Chủ nghĩa cộng sản"
-      },
-      {
-        "text": "C. Chủ nghĩa xã hội"
-      },
-      {
-        "text": "D. Thời kỳ quá độ"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Cộng sản chủ nghĩa",
-      "B. Chủ nghĩa cộng sản",
-      "C. Chủ nghĩa xã hội",
-      "D. Thời kỳ quá độ"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 2",
-    "q_num": 1,
-    "body_index": 217,
-    "id": "word-c41143f3c5139fa3-p217"
-  },
-  {
-    "lesson_num": 2,
-    "question": "Câu 2: Câu \"Cần phải có thời kỳ quá độ khá lâu dài từ chủ nghĩa tư bản lên chủ nghĩa xã hội\" là của ai?",
-    "source_q_num": 2,
-    "source_title": "Câu 2 Câu \"Cần phải có thời kỳ quá độ khá lâu dài từ chủ nghĩa tư bản lên chủ nghĩa xã hội\" là của ai?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 2,
-        "body_index": 222
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Lênin"
-      },
-      {
-        "text": "B. Ăngghen"
-      },
-      {
-        "text": "C. Heghen"
-      },
-      {
-        "text": "D. C.Mác"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Lênin",
-      "B. Ăngghen",
-      "C. Heghen",
-      "D. C.Mác"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 2",
-    "q_num": 2,
-    "body_index": 222,
-    "id": "word-c41143f3c5139fa3-p222"
-  },
-  {
-    "lesson_num": 2,
-    "question": "Câu 3: Hình thái kinh tế - xã hội cộng sản chủ nghĩa bắt đầu và hoàn thiện khi nào?",
-    "source_q_num": 3,
-    "source_title": "Câu 3 Hình thái kinh tế - xã hội cộng sản chủ nghĩa bắt đầu và hoàn thiện khi nào?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 3,
-        "body_index": 227
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Bắt đầu từ thời kỳ quá độ và hoàn thiện ở giai đoạn thấp của xã hội cộng sản."
-      },
-      {
-        "text": "B. Bắt đầu từ giai đoạn thấp của xã hội cộng sản và hoàn thiện ở giai đoạn cao của xã hội cộng sản."
-      },
-      {
-        "text": "C. Bắt đầu từ khi Đảng cộng sản ra đời và xây dựng xong chủ nghĩa xã hội."
-      },
-      {
-        "text": "D. Bắt đầu từ thời kỳ quá độ cho đến khi xây dựng xong giai đoạn cao của xã hội cộng sản."
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Bắt đầu từ thời kỳ quá độ và hoàn thiện ở giai đoạn thấp của xã hội cộng sản.",
-      "B. Bắt đầu từ giai đoạn thấp của xã hội cộng sản và hoàn thiện ở giai đoạn cao của xã hội cộng sản.",
-      "C. Bắt đầu từ khi Đảng cộng sản ra đời và xây dựng xong chủ nghĩa xã hội.",
-      "D. Bắt đầu từ thời kỳ quá độ cho đến khi xây dựng xong giai đoạn cao của xã hội cộng sản."
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 2",
-    "q_num": 3,
-    "body_index": 227,
-    "id": "word-c41143f3c5139fa3-p227"
-  },
-  {
-    "lesson_num": 2,
-    "question": "Câu 4: Đặc trưng về kinh tế của chủ nghĩa xã hội là gì?",
-    "source_q_num": 4,
-    "source_title": "Câu 4 Đặc trưng về kinh tế của chủ nghĩa xã hội là gì?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 4,
-        "body_index": 232
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và chế độ tư hữu về tư liệu sản xuất"
-      },
-      {
-        "text": "B. Có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và chế độ công hữu về tư liệu sản xuất"
-      },
-      {
-        "text": "C. Có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại"
-      },
-      {
-        "text": "D. Có nền kinh tế phát triển cao"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và chế độ tư hữu về tư liệu sản xuất",
-      "B. Có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và chế độ công hữu về tư liệu sản xuất",
-      "C. Có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại",
-      "D. Có nền kinh tế phát triển cao"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 2",
-    "q_num": 4,
-    "body_index": 232,
-    "id": "word-c41143f3c5139fa3-p232"
-  },
-  {
-    "lesson_num": 2,
-    "question": "Câu 5: Nguyên nhân sâu xa dẫn đến sự thay thế hình thái kinh tế - xã hội tư bản chủ nghĩa bằng hình thái kinh tế - xã hội cộng sản chủ nghĩa là gì?",
-    "source_q_num": 5,
-    "source_title": "Câu 5 Nguyên nhân sâu xa dẫn đến sự thay thế hình thái kinh tế - xã hội tư bản chủ nghĩa bằng hình thái kinh tế - xã hội cộng sản chủ nghĩa là gì?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 5,
-        "body_index": 237
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Mâu thuẫn giữa các giai cấp, tầng lớp trong xã hội dựa trên chế độ chiếm hữu tư nhân tư bản chủ nghĩa về tư liệu sản xuất chủ yếu"
-      },
-      {
-        "text": "B. Mâu thuẫn giữa phương thức sản xuất tư bản chủ nghĩa và phương thức sản xuất xã hội chủ nghĩa dựa trên chế độ chiếm hữu tư nhân tư bản chủ nghĩa về tư liệu sản xuất chủ yếu"
-      },
-      {
-        "text": "C. Mâu thuẫn giữa lực lượng sản xuất và tư liệu sản xuất dựa trên chế độ chiếm hữu tư nhân tư bản chủ nghĩa"
-      },
-      {
-        "text": "D. Mâu thuẫn giữa lực lượng sản xuất mang tính xã hội hoá ngày càng cao với quan hệ sản xuất tư bản chủ nghĩa dựa trên chế độ chiếm hữu tư nhân tư bản chủ nghĩa về tư liệu sản xuất chủ yếu"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Mâu thuẫn giữa các giai cấp, tầng lớp trong xã hội dựa trên chế độ chiếm hữu tư nhân tư bản chủ nghĩa về tư liệu sản xuất chủ yếu",
-      "B. Mâu thuẫn giữa phương thức sản xuất tư bản chủ nghĩa và phương thức sản xuất xã hội chủ nghĩa dựa trên chế độ chiếm hữu tư nhân tư bản chủ nghĩa về tư liệu sản xuất chủ yếu",
-      "C. Mâu thuẫn giữa lực lượng sản xuất và tư liệu sản xuất dựa trên chế độ chiếm hữu tư nhân tư bản chủ nghĩa",
-      "D. Mâu thuẫn giữa lực lượng sản xuất mang tính xã hội hoá ngày càng cao với quan hệ sản xuất tư bản chủ nghĩa dựa trên chế độ chiếm hữu tư nhân tư bản chủ nghĩa về tư liệu sản xuất chủ yếu"
-    ],
-    "correct_answers": [
-      3
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 2",
-    "q_num": 5,
-    "body_index": 237,
-    "id": "word-c41143f3c5139fa3-p237"
-  },
-  {
-    "lesson_num": 2,
-    "question": "Câu 6: Theo quan điểm của chủ nghĩa Mác – Lênin mốc bắt đầu của thời kỳ quá độ lên chủ nghĩa xã hội từ khi nào?",
-    "source_q_num": 6,
-    "source_title": "Câu 6 Theo quan điểm của chủ nghĩa Mác – Lênin mốc bắt đầu của thời kỳ quá độ lên chủ nghĩa xã hội từ khi nào?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 6,
-        "body_index": 242
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Khi giai cấp công nhân và nhân dân lao động tiến hành cải tạo xã hội cũ"
-      },
-      {
-        "text": "B. Khi giai cấp công nhân tiến hành cải tạo xã hội cũ và xây dựng xã hội mới"
-      },
-      {
-        "text": "C. Khi giai cấp công nhân và nhân dân lao động giành được chính quyền"
-      },
-      {
-        "text": "D. Khi giai cấp công nhân đấu tranh giành chính quyền"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Khi giai cấp công nhân và nhân dân lao động tiến hành cải tạo xã hội cũ",
-      "B. Khi giai cấp công nhân tiến hành cải tạo xã hội cũ và xây dựng xã hội mới",
-      "C. Khi giai cấp công nhân và nhân dân lao động giành được chính quyền",
-      "D. Khi giai cấp công nhân đấu tranh giành chính quyền"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 2",
-    "q_num": 6,
-    "body_index": 242,
-    "id": "word-c41143f3c5139fa3-p242"
-  },
-  {
-    "lesson_num": 2,
-    "question": "Câu 7: Đặc điểm nổi bật của thời kỳ quá độ đó là:",
-    "source_q_num": 7,
-    "source_title": "Câu 7: Đặc điểm nổi bật của thời kỳ quá độ đó là:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 7,
-        "body_index": 247
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Những nhân tố của xã hội mới và những tàn tích của xã hội cũ tồn tại đan xen lẫn nhau, đấu tranh với nhau trên mọi lĩnh vực."
-      },
-      {
-        "text": "B. Những yếu tố của xã hội mới đã phát triển, xoá bỏ hoàn toàn yếu tố của xã hội cũ."
-      },
-      {
-        "text": "C. Toàn bộ các yếu tố của xã hội bị triệt tiêu."
-      },
-      {
-        "text": "D. Tàn dư của xã hội cũ còn tồn tại."
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Những nhân tố của xã hội mới và những tàn tích của xã hội cũ tồn tại đan xen lẫn nhau, đấu tranh với nhau trên mọi lĩnh vực.",
-      "B. Những yếu tố của xã hội mới đã phát triển, xoá bỏ hoàn toàn yếu tố của xã hội cũ.",
-      "C. Toàn bộ các yếu tố của xã hội bị triệt tiêu.",
-      "D. Tàn dư của xã hội cũ còn tồn tại."
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 2",
-    "q_num": 7,
-    "body_index": 247,
-    "id": "word-c41143f3c5139fa3-p247"
-  },
-  {
-    "lesson_num": 2,
-    "question": "Câu 8: Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa ở nước ta, được hiểu là:",
-    "source_q_num": 8,
-    "source_title": "Câu 8: Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa ở nước ta, được hiểu là:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 8,
-        "body_index": 252
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa, nhưng tiếp thu, kế thừa những thành tựu mà nhân loại đã đạt được dưới chế độ tư bản chủ nghĩa"
-      },
-      {
-        "text": "B. Bỏ qua việc xác lập vị trí thống trị của kiến trúc thượng tầng tư bản chủ nghĩa nhưng không kế thừa những thành tựu mà nhân loại đã đạt được dưới chế độ tư bản chủ nghĩa"
-      },
-      {
-        "text": "C. Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa nhưng không kế thừa những thành tựu mà nhân loại đã đạt được dưới chế độ tư bản chủ nghĩa"
-      },
-      {
-        "text": "D. Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất tư bản chủ nghĩa nhưng kế thừa những thành tựu mà nhân loại đã đạt được dưới chế độ tư bản chủ nghĩa"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa, nhưng tiếp thu, kế thừa những thành tựu mà nhân loại đã đạt được dưới chế độ tư bản chủ nghĩa",
-      "B. Bỏ qua việc xác lập vị trí thống trị của kiến trúc thượng tầng tư bản chủ nghĩa nhưng không kế thừa những thành tựu mà nhân loại đã đạt được dưới chế độ tư bản chủ nghĩa",
-      "C. Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa nhưng không kế thừa những thành tựu mà nhân loại đã đạt được dưới chế độ tư bản chủ nghĩa",
-      "D. Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất tư bản chủ nghĩa nhưng kế thừa những thành tựu mà nhân loại đã đạt được dưới chế độ tư bản chủ nghĩa"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 2",
-    "q_num": 8,
-    "body_index": 252,
-    "id": "word-c41143f3c5139fa3-p252"
-  },
-  {
-    "lesson_num": 2,
-    "question": "Câu 9: Chọn cụm từ còn thiếu điền vào dấu ...: \"Giữa xã hội tư bản chủ nghĩa và xã hội cộng sản chủ nghĩa là một thời kỳ....từ xã hội nọ sang xã hội kia\"(C.Mác)",
-    "source_q_num": 9,
-    "source_title": "Câu 9 :Chọn cụm từ còn thiếu điền vào dấu ...: \"Giữa xã hội tư bản chủ nghĩa và xã hội cộng sản chủ nghĩa là một thời kỳ....từ xã hội nọ sang xã hội kia\"(C.Mác)",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 9,
-        "body_index": 257
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Đột phá cách mạng"
-      },
-      {
-        "text": "B. Cải biến cách mạng"
-      },
-      {
-        "text": "C. Cách mạng"
-      },
-      {
-        "text": "D. Quá độ"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Đột phá cách mạng",
-      "B. Cải biến cách mạng",
-      "C. Cách mạng",
-      "D. Quá độ"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 2",
-    "q_num": 9,
-    "body_index": 257,
-    "id": "word-c41143f3c5139fa3-p257"
-  },
-  {
-    "lesson_num": 2,
-    "question": "Câu 10: Kiểu quá độ lên chủ nghĩa xã hội ở Việt Nam là kiểu quá độ nào?",
-    "source_q_num": 10,
-    "source_title": "Câu 10: Kiểu quá độ lên chủ nghĩa xã hội ở Việt Nam là kiểu quá độ nào?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 10,
-        "body_index": 262
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Quá độ chủ quan"
-      },
-      {
-        "text": "B. Quá độ khách quan"
-      },
-      {
-        "text": "C. Quá độ gián tiếp"
-      },
-      {
-        "text": "D. Quá độ trực tiếp"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Quá độ chủ quan",
-      "B. Quá độ khách quan",
-      "C. Quá độ gián tiếp",
-      "D. Quá độ trực tiếp"
-    ],
-    "correct_answers": [
-      2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 2",
     "q_num": 10,
-    "body_index": 262,
-    "id": "word-c41143f3c5139fa3-p262"
+    "body_index": 210,
+    "id": "word-1d55e841b9e15dba-p210"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 11: Chọn từ đúng điền vào chỗ trống để hoàn thành mục tiêu của Đảng xác định trong thời kỳ quá độ lên chủ nghĩa xã hội ở nước ta: Độc lập dân tộc gắn liền với chủ nghĩa xã hội; dân giàu, nước mạnh, dân chủ, ...., văn minh",
+    "question": "Câu 11: Thư ký của Giám đốc tài chính nhận được một báo cáo tài chính từ bộ phận kế toán để gửi cho Giám đốc. Trong báo cáo, có một số số liệu quan trọng về doanh thu và chi phí, nhưng không có các chú giải chi tiết về nguồn gốc của các con số này. Thư ký sẽ làm gì để đảm bảo báo cáo chính xác trước khi gửi cho Giám đốc?",
     "source_q_num": 11,
-    "source_title": "Câu 11: Chọn từ đúng điền vào chỗ trống để hoàn thành mục tiêu của Đảng xác định trong thời kỳ quá độ lên chủ nghĩa xã hội ở nước ta: Độc lập dân tộc gắn liền với chủ nghĩa xã hội; dân giàu, nước mạnh, dân chủ, ...., văn minh",
+    "source_title": "Câu 11. Thư ký của Giám đốc tài chính nhận được một báo cáo tài chính từ bộ phận kế toán để gửi cho Giám đốc. Trong báo cáo, có một số số liệu quan trọng về doanh thu và chi phí, nhưng không có các chú giải chi tiết về nguồn gốc của các con số này. Thư ký sẽ làm gì để đảm bảo báo cáo chính xác trước khi gửi cho Giám đốc?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 11,
-        "body_index": 267
+        "body_index": 215
       }
     ],
     "source_content": [
       {
-        "text": "A. Bình đẳng"
+        "text": "A. Kiểm tra các số liệu trong báo cáo với bộ phận kế toán để xác nhận tính chính xác và yêu cầu chú giải chi tiết"
       },
       {
-        "text": "B. Tiến bộ"
+        "text": "B. Sửa các số liệu trong báo cáo theo dự đoán của mình để khớp với các kỳ vọng của Giám đốc"
       },
       {
-        "text": "C. Công bằng"
+        "text": "C. Gửi báo cáo như đang có mà không kiểm tra thêm"
       },
       {
-        "text": "D. Phát triển"
+        "text": "D. Gửi báo cáo và yêu cầu bộ phận kế toán tự giải thích thêm nếu cần"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Bình đẳng",
-      "B. Tiến bộ",
-      "C. Công bằng",
-      "D. Phát triển"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 2",
-    "q_num": 11,
-    "body_index": 267,
-    "id": "word-c41143f3c5139fa3-p267"
-  },
-  {
-    "lesson_num": 2,
-    "question": "Câu 12: Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (Bổ sung và phát triển năm 2011) được Đảng ta thông qua ở đại hội lần thứ mấy?",
-    "source_q_num": 12,
-    "source_title": "Câu 12: Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (Bổ sung và phát triển năm 2011) được Đảng ta thông qua ở đại hội lần thứ mấy?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 12,
-        "body_index": 272
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Đại hội XI"
-      },
-      {
-        "text": "B. Đại hội X"
-      },
-      {
-        "text": "C. Đại hội IX"
-      },
-      {
-        "text": "D. Đại hội XII"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Đại hội XI",
-      "B. Đại hội X",
-      "C. Đại hội IX",
-      "D. Đại hội XII"
+      "A. Kiểm tra các số liệu trong báo cáo với bộ phận kế toán để xác nhận tính chính xác và yêu cầu chú giải chi tiết",
+      "B. Sửa các số liệu trong báo cáo theo dự đoán của mình để khớp với các kỳ vọng của Giám đốc",
+      "C. Gửi báo cáo như đang có mà không kiểm tra thêm",
+      "D. Gửi báo cáo và yêu cầu bộ phận kế toán tự giải thích thêm nếu cần"
     ],
     "correct_answers": [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 2",
-    "q_num": 12,
-    "body_index": 272,
-    "id": "word-c41143f3c5139fa3-p272"
+    "q_num": 11,
+    "body_index": 215,
+    "id": "word-1d55e841b9e15dba-p215"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 13: Thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là bước quá độ:",
-    "source_q_num": 13,
-    "source_title": "Câu 13 :Thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là bước quá độ:",
+    "question": "Câu 12: Trong trường hợp lãnh đạo yêu cầu thông tin khẩn cấp về một vấn đề, thư ký văn phòng cần phải làm gì?",
+    "source_q_num": 12,
+    "source_title": "Câu 12. Trong trường hợp lãnh đạo yêu cầu thông tin khẩn cấp về một vấn đề, thư ký văn phòng cần phải làm gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 13,
-        "body_index": 277
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 12,
+        "body_index": 220
       }
     ],
     "source_content": [
       {
-        "text": "A. Trực tiếp, từ chế độ tư bản chủ nghĩa lên chế độ xã hội chủ nghĩa"
+        "text": "A. Liên lạc với các nguồn tin để thu thập thông tin"
       },
       {
-        "text": "B. Gián tiếp, bỏ qua chế độ tư bản chủ nghĩa tiến lên chủ nghĩa xã hội"
+        "text": "B. Kiểm tra tính chính xác của thông tin"
       },
       {
-        "text": "C. Gián tiếp, bỏ qua chế độ phong kiến tiến lên chế độ xã hội chủ nghĩa"
+        "text": "C. Cung cấp thông tin kịp thời cho lãnh đạo"
       },
       {
-        "text": "D. Trực tiếp, từ chế độ phong kiến tiến lên chế độ xã hội chủ nghĩa."
+        "text": "D. Tất cả các đáp án trên"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Trực tiếp, từ chế độ tư bản chủ nghĩa lên chế độ xã hội chủ nghĩa",
-      "B. Gián tiếp, bỏ qua chế độ tư bản chủ nghĩa tiến lên chủ nghĩa xã hội",
-      "C. Gián tiếp, bỏ qua chế độ phong kiến tiến lên chế độ xã hội chủ nghĩa",
-      "D. Trực tiếp, từ chế độ phong kiến tiến lên chế độ xã hội chủ nghĩa."
+      "A. Liên lạc với các nguồn tin để thu thập thông tin",
+      "B. Kiểm tra tính chính xác của thông tin",
+      "C. Cung cấp thông tin kịp thời cho lãnh đạo",
+      "D. Tất cả các đáp án trên"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 2",
+    "q_num": 12,
+    "body_index": 220,
+    "id": "word-1d55e841b9e15dba-p220"
+  },
+  {
+    "lesson_num": 2,
+    "question": "Câu 13: Là thư ký văn phòng, cần phải làm gì để chuẩn bị một báo cáo tình hình tài chính của cơ quan?",
+    "source_q_num": 13,
+    "source_title": "Câu 13. Là thư ký văn phòng, cần phải làm gì để chuẩn bị một báo cáo tình hình tài chính của cơ quan?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 13,
+        "body_index": 225
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Thu thập thông tin từ phòng tài chính"
+      },
+      {
+        "text": "B. Tổng hợp và phân tích số liệu"
+      },
+      {
+        "text": "C. Viết báo cáo và trình bày cho lãnh đạo"
+      },
+      {
+        "text": "D. Tất cả các đáp án trên"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Thu thập thông tin từ phòng tài chính",
+      "B. Tổng hợp và phân tích số liệu",
+      "C. Viết báo cáo và trình bày cho lãnh đạo",
+      "D. Tất cả các đáp án trên"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 2",
+    "q_num": 13,
+    "body_index": 225,
+    "id": "word-1d55e841b9e15dba-p225"
+  },
+  {
+    "lesson_num": 2,
+    "question": "Câu 14: Thư ký của Giám đốc bán hàng cần gửi danh sách khách hàng tiềm năng cho Giám đốc trước cuộc họp quan trọng. Danh sách này bao gồm thông tin liên lạc và lịch sử giao dịch của các khách hàng, nhưng một số thông tin liên lạc có vẻ không đầy đủ hoặc lỗi thời. Thư ký sẽ xử lý tình huống này như thế nào để đảm bảo thông tin chính xác và đầy đủ?",
+    "source_q_num": 14,
+    "source_title": "Câu 14. Thư ký của Giám đốc bán hàng cần gửi danh sách khách hàng tiềm năng cho Giám đốc trước cuộc họp quan trọng. Danh sách này bao gồm thông tin liên lạc và lịch sử giao dịch của các khách hàng, nhưng một số thông tin liên lạc có vẻ không đầy đủ hoặc lỗi thời. Thư ký sẽ xử lý tình huống này như thế nào để đảm bảo thông tin chính xác và đầy đủ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 14,
+        "body_index": 230
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Kiểm tra và cập nhật thông tin liên lạc của khách hàng trước khi gửi danh sách cho Giám đốc."
+      },
+      {
+        "text": "B. Để Giám đốc tự cập nhật thông tin khách hàng nếu cần."
+      },
+      {
+        "text": "C. Gửi danh sách khách hàng mà không thay đổi gì."
+      },
+      {
+        "text": "D. Gửi danh sách và yêu cầu Giám đốc xác nhận lại thông tin liên lạc."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Kiểm tra và cập nhật thông tin liên lạc của khách hàng trước khi gửi danh sách cho Giám đốc.",
+      "B. Để Giám đốc tự cập nhật thông tin khách hàng nếu cần.",
+      "C. Gửi danh sách khách hàng mà không thay đổi gì.",
+      "D. Gửi danh sách và yêu cầu Giám đốc xác nhận lại thông tin liên lạc."
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 2",
+    "q_num": 14,
+    "body_index": 230,
+    "id": "word-1d55e841b9e15dba-p230"
+  },
+  {
+    "lesson_num": 2,
+    "question": "Câu 15: Thư ký văn phòng cần gửi cho Giám đốc một lịch trình chi tiết của các cuộc họp và sự kiện trong tuần tới. Thư ký nhận thấy rằng một số cuộc họp không có thông tin về địa điểm cụ thể hoặc thời gian bắt đầu và kết thúc rõ ràng. Thư ký văn phòng sẽ làm gì để đảm bảo lịch trình được cung cấp chính xác và đầy đủ?",
+    "source_q_num": 15,
+    "source_title": "Câu 15. Thư ký văn phòng cần gửi cho Giám đốc một lịch trình chi tiết của các cuộc họp và sự kiện trong tuần tới. Thư ký nhận thấy rằng một số cuộc họp không có thông tin về địa điểm cụ thể hoặc thời gian bắt đầu và kết thúc rõ ràng. Thư ký văn phòng sẽ làm gì để đảm bảo lịch trình được cung cấp chính xác và đầy đủ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 15,
+        "body_index": 235
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Để lịch trình không hoàn chỉnh và thông báo cho Giám đốc về các thông tin còn thiếu."
+      },
+      {
+        "text": "B. Liên hệ với các bộ phận liên quan để xác nhận và hoàn thiện thông tin về địa điểm và thời gian trước khi gửi cho Giám đốc."
+      },
+      {
+        "text": "C. Sửa thông tin theo dự đoán của mình để khớp với kế hoạch chung của tuần tới."
+      },
+      {
+        "text": "D. Gửi lịch trình với thông tin hiện tại và yêu cầu Giám đốc tự cập nhật các chi tiết còn thiếu."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Để lịch trình không hoàn chỉnh và thông báo cho Giám đốc về các thông tin còn thiếu.",
+      "B. Liên hệ với các bộ phận liên quan để xác nhận và hoàn thiện thông tin về địa điểm và thời gian trước khi gửi cho Giám đốc.",
+      "C. Sửa thông tin theo dự đoán của mình để khớp với kế hoạch chung của tuần tới.",
+      "D. Gửi lịch trình với thông tin hiện tại và yêu cầu Giám đốc tự cập nhật các chi tiết còn thiếu."
     ],
     "correct_answers": [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 2",
-    "q_num": 13,
-    "body_index": 277,
-    "id": "word-c41143f3c5139fa3-p277"
+    "q_num": 15,
+    "body_index": 235,
+    "id": "word-1d55e841b9e15dba-p235"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 14: Chọn phương án sai",
-    "source_q_num": 14,
-    "source_title": "Câu 14: Chọn phương án sai",
+    "question": "Câu 16: Nghiệp vụ nào liên quan đến việc chuẩn bị và cung cấp thông tin cho hoạt động quản lý và lãnh đạo?",
+    "source_q_num": 16,
+    "source_title": "Câu 16: Nghiệp vụ nào liên quan đến việc chuẩn bị và cung cấp thông tin cho hoạt động quản lý và lãnh đạo?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 14,
-        "body_index": 282
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 16,
+        "body_index": 240
       }
     ],
     "source_content": [
       {
-        "text": "A. Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa nhưng có sự tiếp thu, kế thừa toàn bộ các lĩnh vực đã tạo ra dưới chế độ tư bản chủ nghĩa"
+        "text": "A. Nghiệp vụ văn thư."
       },
       {
-        "text": "B. Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa tức là bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa"
+        "text": "B. Nghiệp vụ giao tiếp."
       },
       {
-        "text": "C. Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa là con đường cách mạng tất yếu chủ quan, con đường xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội"
+        "text": "C. Nghiệp vụ lưu trữ."
       },
       {
-        "text": "D. Con đường đi lên chủ nghĩa xã hội của nước ta là sự phát triển quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa"
+        "text": "D. Nghiệp vụ tổ chức sắp xếp."
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa nhưng có sự tiếp thu, kế thừa toàn bộ các lĩnh vực đã tạo ra dưới chế độ tư bản chủ nghĩa",
-      "B. Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa tức là bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa",
-      "C. Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa là con đường cách mạng tất yếu chủ quan, con đường xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội",
-      "D. Con đường đi lên chủ nghĩa xã hội của nước ta là sự phát triển quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa"
+      "A. Nghiệp vụ văn thư.",
+      "B. Nghiệp vụ giao tiếp.",
+      "C. Nghiệp vụ lưu trữ.",
+      "D. Nghiệp vụ tổ chức sắp xếp."
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 2",
+    "q_num": 16,
+    "body_index": 240,
+    "id": "word-1d55e841b9e15dba-p240"
+  },
+  {
+    "lesson_num": 2,
+    "question": "Câu 17: Tại sao việc thư ký văn phòng cung cấp thông tin kịp thời lại quan trọng đối với lãnh đạo của cơ quan?",
+    "source_q_num": 17,
+    "source_title": "Câu 17: Tại sao việc thư ký văn phòng cung cấp thông tin kịp thời lại quan trọng đối với lãnh đạo của cơ quan?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 17,
+        "body_index": 245
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Đảm bảo thông tin được lưu trữ an toàn."
+      },
+      {
+        "text": "B. Giúp lãnh đạo ban hành quyết định quản lý chính xác."
+      },
+      {
+        "text": "C. Tăng cường mối quan hệ với nhân viên."
+      },
+      {
+        "text": "D. Giúp tổ chức các cuộc họp hiệu quả."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Đảm bảo thông tin được lưu trữ an toàn.",
+      "B. Giúp lãnh đạo ban hành quyết định quản lý chính xác.",
+      "C. Tăng cường mối quan hệ với nhân viên.",
+      "D. Giúp tổ chức các cuộc họp hiệu quả."
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 2",
+    "q_num": 17,
+    "body_index": 245,
+    "id": "word-1d55e841b9e15dba-p245"
+  },
+  {
+    "lesson_num": 2,
+    "question": "Câu 18: Để chuẩn bị thông tin, người thư ký cần nắm vững điều gì?",
+    "source_q_num": 18,
+    "source_title": "Câu 18 : Để chuẩn bị thông tin, người thư ký cần nắm vững điều gì?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 18,
+        "body_index": 250
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Phương pháp giao tiếp với lãnh đạo."
+      },
+      {
+        "text": "B. Quy trình lưu trữ tài liệu."
+      },
+      {
+        "text": "C. Nhu cầu thông tin của lãnh đạo và các bộ phận quản lý."
+      },
+      {
+        "text": "D. Cách sử dụng các thiết bị văn phòng."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Phương pháp giao tiếp với lãnh đạo.",
+      "B. Quy trình lưu trữ tài liệu.",
+      "C. Nhu cầu thông tin của lãnh đạo và các bộ phận quản lý.",
+      "D. Cách sử dụng các thiết bị văn phòng."
     ],
     "correct_answers": [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 2",
-    "q_num": 14,
-    "body_index": 282,
-    "id": "word-c41143f3c5139fa3-p282"
+    "q_num": 18,
+    "body_index": 250,
+    "id": "word-1d55e841b9e15dba-p250"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 15: Kéo thả các đáp án khớp với các phát biểu từ 1 – 3:",
-    "source_q_num": 15,
-    "source_title": "Câu 15: Kéo thả các đáp án khớp với các phát biểu từ 1 – 3:",
+    "question": "Câu 19: Sắp xếp các bước dưới đây đúng theo quy trình chuẩn bị thông tin?",
+    "source_q_num": 19,
+    "source_title": "Câu 19: Sắp xếp các bước dưới đây đúng theo quy trình chuẩn bị thông tin?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 15,
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 19,
+        "body_index": 255
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Thu thập thông tin, báo cáo thông tin, phân tích thông tin"
+      },
+      {
+        "text": "B. Thu thập thông tin, phân tích thông tin, báo cáo thông tin"
+      },
+      {
+        "text": "C. Phân tích thông tin, thu thập thông tin, báo cáo thông tin"
+      },
+      {
+        "text": "D. Báo cáo thông tin, phân tích thông tin, thu thập thông tin"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Thu thập thông tin, báo cáo thông tin, phân tích thông tin",
+      "B. Thu thập thông tin, phân tích thông tin, báo cáo thông tin",
+      "C. Phân tích thông tin, thu thập thông tin, báo cáo thông tin",
+      "D. Báo cáo thông tin, phân tích thông tin, thu thập thông tin"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 2",
+    "q_num": 19,
+    "body_index": 255,
+    "id": "word-1d55e841b9e15dba-p255"
+  },
+  {
+    "lesson_num": 2,
+    "question": "Câu 20: Là một thư ký văn phòng, hãy chuẩn bị một báo cáo tổng hợp tình hình triển khai các quyết định quản lý trong thực tiễn?",
+    "source_q_num": 20,
+    "source_title": "Câu 20 : Là một thư ký văn phòng, hãy chuẩn bị một báo cáo tổng hợp tình hình triển khai các quyết định quản lý trong thực tiễn?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 20,
+        "body_index": 260
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Sắp xếp thông tin theo chủ đề"
+      },
+      {
+        "text": "B. Thu thập thông tin từ các báo cáo của cấp dưới"
+      },
+      {
+        "text": "C. Viết báo cáo và gửi cho lãnh đạo"
+      },
+      {
+        "text": "D. Phân loại thông tin theo chủ đề"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Sắp xếp thông tin theo chủ đề",
+      "B. Thu thập thông tin từ các báo cáo của cấp dưới",
+      "C. Viết báo cáo và gửi cho lãnh đạo",
+      "D. Phân loại thông tin theo chủ đề"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 2",
+    "q_num": 20,
+    "body_index": 260,
+    "id": "word-1d55e841b9e15dba-p260"
+  },
+  {
+    "lesson_num": 2,
+    "question": "Câu 21: Giám đốc yêu cầu thư ký văn phòng cung cấp một bản tổng hợp về tất cả các cuộc hẹn và sự kiện quan trọng trong tuần tới để lên kế hoạch cho các chuyến công tác. Thư ký văn phòng sẽ làm gì để đảm bảo thông tin được cung cấp đầy đủ và chính xác?",
+    "source_q_num": 21,
+    "source_title": "Câu 21: Giám đốc yêu cầu thư ký văn phòng cung cấp một bản tổng hợp về tất cả các cuộc hẹn và sự kiện quan trọng trong tuần tới để lên kế hoạch cho các chuyến công tác. Thư ký văn phòng sẽ làm gì để đảm bảo thông tin được cung cấp đầy đủ và chính xác?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 21,
+        "body_index": 265
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Tạo một danh sách các cuộc hẹn và sự kiện dựa trên lịch trình hiện tại và gửi cho Giám đốc."
+      },
+      {
+        "text": "B. Chỉ gửi lịch trình hiện tại mà không kiểm tra các sự kiện quan trọng."
+      },
+      {
+        "text": "C. Cập nhật lại lịch trình và kiểm tra với các bộ phận liên quan trước khi gửi thông tin cho Giám đốc."
+      },
+      {
+        "text": "D. Yêu cầu Giám đốc xác nhận các cuộc hẹn và sự kiện trước khi gửi thông tin."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Tạo một danh sách các cuộc hẹn và sự kiện dựa trên lịch trình hiện tại và gửi cho Giám đốc.",
+      "B. Chỉ gửi lịch trình hiện tại mà không kiểm tra các sự kiện quan trọng.",
+      "C. Cập nhật lại lịch trình và kiểm tra với các bộ phận liên quan trước khi gửi thông tin cho Giám đốc.",
+      "D. Yêu cầu Giám đốc xác nhận các cuộc hẹn và sự kiện trước khi gửi thông tin."
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 2",
+    "q_num": 21,
+    "body_index": 265,
+    "id": "word-1d55e841b9e15dba-p265"
+  },
+  {
+    "lesson_num": 2,
+    "question": "Câu 22: Khi nhận được yêu cầu gấp từ lãnh đạo, thư ký văn phòng cần xử lý như thế nào?",
+    "source_q_num": 22,
+    "source_title": "Câu 22: Khi nhận được yêu cầu gấp từ lãnh đạo, thư ký văn phòng cần xử lý như thế nào?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 22,
+        "body_index": 270
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Để đến ngày hôm sau."
+      },
+      {
+        "text": "B. Chờ lãnh đạo chỉ đạo."
+      },
+      {
+        "text": "C. Giao lại cho người khác."
+      },
+      {
+        "text": "D. Xử lý ngay lập tức và thông báo tình hình cho lãnh đạo."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Để đến ngày hôm sau.",
+      "B. Chờ lãnh đạo chỉ đạo.",
+      "C. Giao lại cho người khác.",
+      "D. Xử lý ngay lập tức và thông báo tình hình cho lãnh đạo."
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 2",
+    "q_num": 22,
+    "body_index": 270,
+    "id": "word-1d55e841b9e15dba-p270"
+  },
+  {
+    "lesson_num": 2,
+    "question": "Câu 23: Để cung cấp thông tin đầy đủ và chính xác, người thư ký văn phòng cần thực hiện nghiệp vụ gì?",
+    "source_q_num": 23,
+    "source_title": "Câu 23: Để cung cấp thông tin đầy đủ và chính xác, người thư ký văn phòng cần thực hiện nghiệp vụ gì?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 23,
+        "body_index": 276
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Xử lý và chọn lọc tin"
+      },
+      {
+        "text": "B. Tổ chức cuộc họp"
+      },
+      {
+        "text": "C. Quản lý tài liệu"
+      },
+      {
+        "text": "D. Ghi chép biên bản"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Xử lý và chọn lọc tin",
+      "B. Tổ chức cuộc họp",
+      "C. Quản lý tài liệu",
+      "D. Ghi chép biên bản"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 2",
+    "q_num": 23,
+    "body_index": 276,
+    "id": "word-1d55e841b9e15dba-p276"
+  },
+  {
+    "lesson_num": 2,
+    "question": "Câu 24: Là một thư ký văn phòng, làm thế nào để thu thập thông tin từ các văn bản chỉ đạo của cấp trên?",
+    "source_q_num": 24,
+    "source_title": "Câu 24: Là một thư ký văn phòng, làm thế nào để thu thập thông tin từ các văn bản chỉ đạo của cấp trên?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 24,
+        "body_index": 281
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Sử dụng email để yêu cầu thông tin"
+      },
+      {
+        "text": "B. Đặt mua báo và tạp chí có liên quan"
+      },
+      {
+        "text": "C. Sử dụng điện thoại để yêu cầu thông tin"
+      },
+      {
+        "text": "D. Sao chép văn bản từ các cơ quan cấp trên"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Sử dụng email để yêu cầu thông tin",
+      "B. Đặt mua báo và tạp chí có liên quan",
+      "C. Sử dụng điện thoại để yêu cầu thông tin",
+      "D. Sao chép văn bản từ các cơ quan cấp trên"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 2",
+    "q_num": 24,
+    "body_index": 281,
+    "id": "word-1d55e841b9e15dba-p281"
+  },
+  {
+    "lesson_num": 2,
+    "question": "Câu 25: Là một thư ký văn phòng, cần làm gì để chuẩn bị thông tin cho một hội nghị tổng kết cuối năm của cơ quan?",
+    "source_q_num": 25,
+    "source_title": "Câu 25 : Là một thư ký văn phòng, cần làm gì để chuẩn bị thông tin cho một hội nghị tổng kết cuối năm của cơ quan?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 25,
         "body_index": 287
       }
     ],
     "source_content": [
       {
-        "text": "[Quá độ trực tiếp] từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước đã trải qua chủ nghĩa tư bản phát triển."
+        "text": "A. Tìm kiếm các hồ sơ từ những năm trước"
       },
       {
-        "text": "[Quá độ gián tiếp] từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước chưa trải qua chủ nghĩa tư bản phát triển."
+        "text": "B. Thu thập dữ liệu từ các phòng ban"
       },
       {
-        "text": "Thực chất của [thời kỳ quá độ] lên chủ nghĩa xã hội là thời kỳ cải biến cách mạng từ xã hội tiền tư bản chủ nghĩa và tư bản chủ nghĩa sang xã hội xã hội chủ nghĩa"
-      }
-    ],
-    "type": "drag_drop_match",
-    "pairs": [
-      {
-        "left": "______ từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước đã trải qua chủ nghĩa tư bản phát triển.",
-        "right": "Quá độ trực tiếp"
+        "text": "C. Tổng hợp và trình bày thông tin trong báo cáo"
       },
       {
-        "left": "______ từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước chưa trải qua chủ nghĩa tư bản phát triển.",
-        "right": "Quá độ gián tiếp"
-      },
-      {
-        "left": "Thực chất của ______ lên chủ nghĩa xã hội là thời kỳ cải biến cách mạng từ xã hội tiền tư bản chủ nghĩa và tư bản chủ nghĩa sang xã hội xã hội chủ nghĩa",
-        "right": "thời kỳ quá độ"
-      }
-    ],
-    "options_pool": [
-      "Quá độ trực tiếp",
-      "Quá độ gián tiếp",
-      "thời kỳ quá độ"
-    ],
-    "instruction": "Kéo hoặc chọn đáp án đúng ghép vào vế tương ứng",
-    "lesson": "Bài 2",
-    "q_num": 15,
-    "body_index": 287,
-    "id": "word-c41143f3c5139fa3-p287"
-  },
-  {
-    "lesson_num": 2,
-    "question": "Câu 16: Chủ nghĩa xã hội có mấy đặc trưng cơ bản",
-    "source_q_num": 16,
-    "source_title": "Câu 16: Chủ nghĩa xã hội có mấy đặc trưng cơ bản",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 16,
-        "body_index": 291
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. 6"
-      },
-      {
-        "text": "B. 8"
-      },
-      {
-        "text": "C. 5"
-      },
-      {
-        "text": "D. 7"
+        "text": "D. Tất cả các đáp án trên"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. 6",
-      "B. 8",
-      "C. 5",
-      "D. 7"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 2",
-    "q_num": 16,
-    "body_index": 291,
-    "id": "word-c41143f3c5139fa3-p291"
-  },
-  {
-    "lesson_num": 2,
-    "question": "Câu 17: Về nội dung, thời kỳ quá độ lên chủ nghĩa xã hội là thời kỳ cải tạo cách mạng sâu sắc, triệt để xã hội tư bản chủ nghĩa trên các lĩnh vực:",
-    "source_q_num": 17,
-    "source_title": "Câu 17: Về nội dung, thời kỳ quá độ lên chủ nghĩa xã hội là thời kỳ cải tạo cách mạng sâu sắc, triệt để xã hội tư bản chủ nghĩa trên các lĩnh vực:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 17,
-        "body_index": 296
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Chủ yếu về chính trị"
-      },
-      {
-        "text": "B. Chủ yếu về văn hóa"
-      },
-      {
-        "text": "C. Chủ yếu là chính trị"
-      },
-      {
-        "text": "D. Kinh tế, chính trị, văn hóa, xã hội"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Chủ yếu về chính trị",
-      "B. Chủ yếu về văn hóa",
-      "C. Chủ yếu là chính trị",
-      "D. Kinh tế, chính trị, văn hóa, xã hội"
-    ],
-    "correct_answers": [
-      3
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 2",
-    "q_num": 17,
-    "body_index": 296,
-    "id": "word-c41143f3c5139fa3-p296"
-  },
-  {
-    "lesson_num": 2,
-    "question": "Câu 18: Phát triển bỏ qua chế độ tư bản chủ nghĩa ở Việt Nam được hiểu như thế nào?",
-    "source_q_num": 18,
-    "source_title": "Câu 18: Phát triển bỏ qua chế độ tư bản chủ nghĩa ở Việt Nam được hiểu như thế nào?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 18,
-        "body_index": 301
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa"
-      },
-      {
-        "text": "B. Bỏ qua sự phát triển của lực lượng sản xuất tư bản chủ nghĩa"
-      },
-      {
-        "text": "C. Không xây dựng quan hệ sản xuất tư bản chủ nghĩa"
-      },
-      {
-        "text": "D. Bỏ qua các yếu tố gắn với phương thức sản xuất tư bản chủ nghĩa"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa",
-      "B. Bỏ qua sự phát triển của lực lượng sản xuất tư bản chủ nghĩa",
-      "C. Không xây dựng quan hệ sản xuất tư bản chủ nghĩa",
-      "D. Bỏ qua các yếu tố gắn với phương thức sản xuất tư bản chủ nghĩa"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 2",
-    "q_num": 18,
-    "body_index": 301,
-    "id": "word-c41143f3c5139fa3-p301"
-  },
-  {
-    "lesson_num": 2,
-    "question": "Câu 19: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-    "source_q_num": 19,
-    "source_title": "Câu 19: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 19,
-        "body_index": 306
-      }
-    ],
-    "source_content": [
-      {
-        "text": "Trong thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội tồn tại chủ yếu là tư tưởng vô sản."
-      },
-      {
-        "text": "Sai"
-      },
-      {
-        "text": "Đặc điểm cơ bản của thời kỳ quá độ lên chủ nghĩa xã hội là thời kỳ cải tạo cách mạng sâu sắc, triệt để trên lĩnh vực kinh tế."
-      },
-      {
-        "text": "Sai"
-      },
-      {
-        "text": "Trong thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội tồn tại nền kinh tế nhiều thành phần."
-      },
-      {
-        "text": "Đúng"
-      },
-      {
-        "text": "Trong thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội tồn tại nhiều giai cấp, tầng lớp."
-      },
-      {
-        "text": "Đúng"
-      }
-    ],
-    "type": "true_false",
-    "items": [
-      {
-        "statement": "Trong thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội tồn tại chủ yếu là tư tưởng vô sản.",
-        "correct": false
-      },
-      {
-        "statement": "Đặc điểm cơ bản của thời kỳ quá độ lên chủ nghĩa xã hội là thời kỳ cải tạo cách mạng sâu sắc, triệt để trên lĩnh vực kinh tế.",
-        "correct": false
-      },
-      {
-        "statement": "Trong thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội tồn tại nền kinh tế nhiều thành phần.",
-        "correct": true
-      },
-      {
-        "statement": "Trong thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội tồn tại nhiều giai cấp, tầng lớp.",
-        "correct": true
-      }
-    ],
-    "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "lesson": "Bài 2",
-    "q_num": 19,
-    "body_index": 306,
-    "id": "word-c41143f3c5139fa3-p306"
-  },
-  {
-    "lesson_num": 2,
-    "question": "Câu 20: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-    "source_q_num": 20,
-    "source_title": "Câu 20: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 20,
-        "body_index": 315
-      }
-    ],
-    "source_content": [
-      {
-        "text": "Thời kỳ quá độ lên chủ nghĩa xã hội có sự tồn tại song song giữa các yếu tố cũ và yếu tố mới"
-      },
-      {
-        "text": "Đúng"
-      },
-      {
-        "text": "Trong thời kỳ quá độ lên chủ nghĩa xã hội kinh tế tư nhân bị xóa bỏ hoàn toàn"
-      },
-      {
-        "text": "Sai"
-      },
-      {
-        "text": "Trong thời kỳ quá độ lên chủ nghĩa xã hội tồn tại nhiều thành phần kinh tế"
-      },
-      {
-        "text": "Đúng"
-      },
-      {
-        "text": "Thời kỳ quá độ lên chủ nghĩa xã hội chỉ có kinh tế nhà nước tồn tại và phát triển"
-      },
-      {
-        "text": "Sai"
-      }
-    ],
-    "type": "true_false",
-    "items": [
-      {
-        "statement": "Thời kỳ quá độ lên chủ nghĩa xã hội có sự tồn tại song song giữa các yếu tố cũ và yếu tố mới",
-        "correct": true
-      },
-      {
-        "statement": "Trong thời kỳ quá độ lên chủ nghĩa xã hội kinh tế tư nhân bị xóa bỏ hoàn toàn",
-        "correct": false
-      },
-      {
-        "statement": "Trong thời kỳ quá độ lên chủ nghĩa xã hội tồn tại nhiều thành phần kinh tế",
-        "correct": true
-      },
-      {
-        "statement": "Thời kỳ quá độ lên chủ nghĩa xã hội chỉ có kinh tế nhà nước tồn tại và phát triển",
-        "correct": false
-      }
-    ],
-    "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "lesson": "Bài 2",
-    "q_num": 20,
-    "body_index": 315,
-    "id": "word-c41143f3c5139fa3-p315"
-  },
-  {
-    "lesson_num": 2,
-    "question": "Câu 21: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-    "source_q_num": 21,
-    "source_title": "Câu 21 :Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 21,
-        "body_index": 324
-      }
-    ],
-    "source_content": [
-      {
-        "text": "1) Học thuyết hình thái kinh tế- xã hội của chủ nghĩa Mác- Lênin đã chỉ rõ: Lịch sử xã hội đã trải qua 4 hình thái kinh tế- xã hôi"
-      },
-      {
-        "text": "Sai"
-      },
-      {
-        "text": "2) Quá độ gián tiếp từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước chưa trải qua chủ nghĩa tư bản phát triển"
-      },
-      {
-        "text": "Đúng"
-      },
-      {
-        "text": "3) Thực chất của thời kỳ quá độ lên chủ nghĩa xã hội là thời kỳ cải biến cách mạng từ xã hội tiền tư bản chủ nghĩa và tư bản chủ nghĩa sang xã hội xã hội chủ nghĩa"
-      },
-      {
-        "text": "Đúng"
-      },
-      {
-        "text": "4) Quá độ trực tiếp từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước đã trải qua chủ nghĩa tư bản phát triển"
-      },
-      {
-        "text": "Đúng"
-      }
-    ],
-    "type": "true_false",
-    "items": [
-      {
-        "statement": "1) Học thuyết hình thái kinh tế- xã hội của chủ nghĩa Mác- Lênin đã chỉ rõ: Lịch sử xã hội đã trải qua 4 hình thái kinh tế- xã hôi",
-        "correct": false
-      },
-      {
-        "statement": "2) Quá độ gián tiếp từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước chưa trải qua chủ nghĩa tư bản phát triển",
-        "correct": true
-      },
-      {
-        "statement": "3) Thực chất của thời kỳ quá độ lên chủ nghĩa xã hội là thời kỳ cải biến cách mạng từ xã hội tiền tư bản chủ nghĩa và tư bản chủ nghĩa sang xã hội xã hội chủ nghĩa",
-        "correct": true
-      },
-      {
-        "statement": "4) Quá độ trực tiếp từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước đã trải qua chủ nghĩa tư bản phát triển",
-        "correct": true
-      }
-    ],
-    "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "lesson": "Bài 2",
-    "q_num": 21,
-    "body_index": 324,
-    "id": "word-c41143f3c5139fa3-p324"
-  },
-  {
-    "lesson_num": 2,
-    "question": "Câu 22: Đặc điểm nổi bật của thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là gì? (Chọn 2 đáp án đúng)",
-    "source_q_num": 22,
-    "source_title": "Câu 22: Đặc điểm nổi bật của thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là gì? (Chọn 2 đáp án đúng)",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 22,
-        "body_index": 334
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Xây dựng nhà nước pháp quyền tư sản"
-      },
-      {
-        "text": "B. Phát triển chủ nghĩa tư bản trong thời gian ngắn để tích lũy"
-      },
-      {
-        "text": "C. Từ một nền sản xuất nhỏ tiến lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa"
-      },
-      {
-        "text": "D. Có sự lãnh đạo của Đảng Cộng sản Việt Nam"
-      }
-    ],
-    "type": "multiple_choice",
-    "options": [
-      "A. Xây dựng nhà nước pháp quyền tư sản",
-      "B. Phát triển chủ nghĩa tư bản trong thời gian ngắn để tích lũy",
-      "C. Từ một nền sản xuất nhỏ tiến lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa",
-      "D. Có sự lãnh đạo của Đảng Cộng sản Việt Nam"
-    ],
-    "correct_answers": [
-      2,
-      3
-    ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bài 2",
-    "q_num": 22,
-    "body_index": 334,
-    "id": "word-c41143f3c5139fa3-p334"
-  },
-  {
-    "lesson_num": 2,
-    "question": "Câu 23: Đặc điểm về chính trị trong thời kỳ quá độ được thể hiện ở điểm nào? (Chọn 2 đáp án đúng)",
-    "source_q_num": 23,
-    "source_title": "Câu 23: Đặc điểm về chính trị trong thời kỳ quá độ được thể hiện ở điểm nào? (Chọn 2 đáp án đúng)",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 23,
-        "body_index": 340
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Đa nguyên chính trị, đa đảng đối lập"
-      },
-      {
-        "text": "B. Thiết lập chuyên chính vô sản"
-      },
-      {
-        "text": "C. Xây dựng nền dân chủ xã hội chủ nghĩa"
-      },
-      {
-        "text": "D. Hoàn toàn không còn vai trò của nhà nước"
-      }
-    ],
-    "type": "multiple_choice",
-    "options": [
-      "A. Đa nguyên chính trị, đa đảng đối lập",
-      "B. Thiết lập chuyên chính vô sản",
-      "C. Xây dựng nền dân chủ xã hội chủ nghĩa",
-      "D. Hoàn toàn không còn vai trò của nhà nước"
-    ],
-    "correct_answers": [
-      1,
-      2
-    ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bài 2",
-    "q_num": 23,
-    "body_index": 340,
-    "id": "word-c41143f3c5139fa3-p340"
-  },
-  {
-    "lesson_num": 2,
-    "question": "Câu 24: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-    "source_q_num": 24,
-    "source_title": "Câu 24: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 24,
-        "body_index": 346
-      }
-    ],
-    "source_content": [
-      {
-        "text": "Chủ nghĩa xã hội ở Việt Nam không chấp nhận kinh tế tư nhân tồn tại song song với kinh tế nhà nước"
-      },
-      {
-        "text": "Sai"
-      },
-      {
-        "text": "Việc \"bỏ qua\" chế độ tư bản chủ nghĩa là không kế thừa bất kỳ yếu tố tích cực nào của chủ nghĩa tư bản"
-      },
-      {
-        "text": "Sai"
-      },
-      {
-        "text": "Việt Nam quá độ lên chủ nghĩa xã hội từ một nền sản xuất nhỏ, bỏ qua chế độ tư bản chủ nghĩa"
-      },
-      {
-        "text": "Đúng"
-      },
-      {
-        "text": "Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam là nhà nước của nhân dân, do nhân dân, vì nhân dân"
-      },
-      {
-        "text": "Đúng"
-      }
-    ],
-    "type": "true_false",
-    "items": [
-      {
-        "statement": "Chủ nghĩa xã hội ở Việt Nam không chấp nhận kinh tế tư nhân tồn tại song song với kinh tế nhà nước",
-        "correct": false
-      },
-      {
-        "statement": "Việc \"bỏ qua\" chế độ tư bản chủ nghĩa là không kế thừa bất kỳ yếu tố tích cực nào của chủ nghĩa tư bản",
-        "correct": false
-      },
-      {
-        "statement": "Việt Nam quá độ lên chủ nghĩa xã hội từ một nền sản xuất nhỏ, bỏ qua chế độ tư bản chủ nghĩa",
-        "correct": true
-      },
-      {
-        "statement": "Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam là nhà nước của nhân dân, do nhân dân, vì nhân dân",
-        "correct": true
-      }
-    ],
-    "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "lesson": "Bài 2",
-    "q_num": 24,
-    "body_index": 346,
-    "id": "word-c41143f3c5139fa3-p346"
-  },
-  {
-    "lesson_num": 2,
-    "question": "Câu 25: Hãy chỉ ra luận điểm không chính xác:",
-    "source_q_num": 25,
-    "source_title": "Câu 25: Hãy chỉ ra luận điểm không chính xác:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 25,
-        "body_index": 355
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Nhà nước trong thời kỳ quá độ lên chủ nghĩa xã hội là nền chuyên chính cách mạng của giai cấp công nhân"
-      },
-      {
-        "text": "B. Trong thời kỳ quá độ lên chủ nghĩa xã hội còn tồn tại nhiều tư tưởng – văn hoá cũ và mới đan xen, đấu tranh với nhau"
-      },
-      {
-        "text": "C. Giữa xã hội tư bản chủ nghĩa và xã hội xã hội chủ nghĩa là thời kỳ cải biến cách mạng lâu dài và phức tạp"
-      },
-      {
-        "text": "D. Trong thời kỳ quá độ lên chủ nghĩa xã hội có thể và cần phải thủ tiêu mọi tàn tích của chủ nghĩa tư bản"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Nhà nước trong thời kỳ quá độ lên chủ nghĩa xã hội là nền chuyên chính cách mạng của giai cấp công nhân",
-      "B. Trong thời kỳ quá độ lên chủ nghĩa xã hội còn tồn tại nhiều tư tưởng – văn hoá cũ và mới đan xen, đấu tranh với nhau",
-      "C. Giữa xã hội tư bản chủ nghĩa và xã hội xã hội chủ nghĩa là thời kỳ cải biến cách mạng lâu dài và phức tạp",
-      "D. Trong thời kỳ quá độ lên chủ nghĩa xã hội có thể và cần phải thủ tiêu mọi tàn tích của chủ nghĩa tư bản"
+      "A. Tìm kiếm các hồ sơ từ những năm trước",
+      "B. Thu thập dữ liệu từ các phòng ban",
+      "C. Tổng hợp và trình bày thông tin trong báo cáo",
+      "D. Tất cả các đáp án trên"
     ],
     "correct_answers": [
       3
@@ -3012,41 +2364,41 @@ window.QUIZ_QUESTIONS = [
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 2",
     "q_num": 25,
-    "body_index": 355,
-    "id": "word-c41143f3c5139fa3-p355"
+    "body_index": 287,
+    "id": "word-1d55e841b9e15dba-p287"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 26: Đặc điểm của thời kỳ quá độ lên chủ nghĩa xã hội trên lĩnh vực kinh tế là gì?",
+    "question": "Câu 26: Giám đốc tài chính yêu cầu thư ký cung cấp thông tin về tình hình tài chính của công ty trong quý vừa qua ngay lập tức. Thư ký có dữ liệu từ các báo cáo tài chính hàng tháng, nhưng chưa tổng hợp thành báo cáo tổng kết quý. Thư ký sẽ xử lý yêu cầu này như thế nào để đáp ứng kịp thời?",
     "source_q_num": 26,
-    "source_title": "Câu 26: Đặc điểm của thời kỳ quá độ lên chủ nghĩa xã hội trên lĩnh vực kinh tế là gì?",
+    "source_title": "Câu 26 : Giám đốc tài chính yêu cầu thư ký cung cấp thông tin về tình hình tài chính của công ty trong quý vừa qua ngay lập tức. Thư ký có dữ liệu từ các báo cáo tài chính hàng tháng, nhưng chưa tổng hợp thành báo cáo tổng kết quý. Thư ký sẽ xử lý yêu cầu này như thế nào để đáp ứng kịp thời?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 26,
-        "body_index": 360
+        "body_index": 293
       }
     ],
     "source_content": [
       {
-        "text": "A. Tồn tại giai cấp đối kháng"
+        "text": "A. Cung cấp các báo cáo hàng tháng và hẹn giờ sau để gửi báo cáo tổng kết"
       },
       {
-        "text": "B. Tồn tại nhiều thành phần kinh tế"
+        "text": "B. Ngừng các công việc khác và ngay lập tức tổng hợp dữ liệu để tạo báo cáo tổng kết quý"
       },
       {
-        "text": "C. Tồn tại đấu tranh giai cấp"
+        "text": "C. Thông báo với giám đốc rằng bạn cần thời gian để tổng hợp báo cáo và sẽ gửi sau vài giờ"
       },
       {
-        "text": "D. Tồn tại nhiều tàn dư văn hóa của chế độ cũ"
+        "text": "D. Gửi dữ liệu từ các báo cáo hàng tháng mà không tổng hợp"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Tồn tại giai cấp đối kháng",
-      "B. Tồn tại nhiều thành phần kinh tế",
-      "C. Tồn tại đấu tranh giai cấp",
-      "D. Tồn tại nhiều tàn dư văn hóa của chế độ cũ"
+      "A. Cung cấp các báo cáo hàng tháng và hẹn giờ sau để gửi báo cáo tổng kết",
+      "B. Ngừng các công việc khác và ngay lập tức tổng hợp dữ liệu để tạo báo cáo tổng kết quý",
+      "C. Thông báo với giám đốc rằng bạn cần thời gian để tổng hợp báo cáo và sẽ gửi sau vài giờ",
+      "D. Gửi dữ liệu từ các báo cáo hàng tháng mà không tổng hợp"
     ],
     "correct_answers": [
       1
@@ -3054,167 +2406,167 @@ window.QUIZ_QUESTIONS = [
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 2",
     "q_num": 26,
-    "body_index": 360,
-    "id": "word-c41143f3c5139fa3-p360"
+    "body_index": 293,
+    "id": "word-1d55e841b9e15dba-p293"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 27: Tìm đáp án sai. Đặc trưng bản chất của chủ nghĩa xã hội Việt Nam theo tinh thần của Đại hội XI",
+    "question": "Câu 27: Kỹ năng nào giúp thư ký văn phòng quản lý tài liệu một cách hiệu quả?",
     "source_q_num": 27,
-    "source_title": "Câu 27: Tìm đáp án sai. Đặc trưng bản chất của chủ nghĩa xã hội Việt Nam theo tinh thần của Đại hội XI",
+    "source_title": "Câu 27 Kỹ năng nào giúp thư ký văn phòng quản lý tài liệu một cách hiệu quả?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 27,
-        "body_index": 365
+        "body_index": 298
       }
     ],
     "source_content": [
       {
-        "text": "A. Quyền lực thuộc về giai cấp công nhân"
+        "text": "A. Kỹ năng bán hàng."
       },
       {
-        "text": "B. Có quan hệ hữu nghị và hợp tác với các nước trên thế giới"
+        "text": "B. Kỹ năng lãnh đạo."
       },
       {
-        "text": "C. Con người có cuộc sống ấm no, tự do, hạnh phúc, có điều kiện phát triển toàn diện"
+        "text": "C. Kỹ năng lưu trữ và tổ chức."
       },
       {
-        "text": "D. Có nền văn hóa tiên tiến đậm đà bản sắc dân tộc"
+        "text": "D. Kỹ năng sáng tạo."
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Quyền lực thuộc về giai cấp công nhân",
-      "B. Có quan hệ hữu nghị và hợp tác với các nước trên thế giới",
-      "C. Con người có cuộc sống ấm no, tự do, hạnh phúc, có điều kiện phát triển toàn diện",
-      "D. Có nền văn hóa tiên tiến đậm đà bản sắc dân tộc"
+      "A. Kỹ năng bán hàng.",
+      "B. Kỹ năng lãnh đạo.",
+      "C. Kỹ năng lưu trữ và tổ chức.",
+      "D. Kỹ năng sáng tạo."
     ],
     "correct_answers": [
-      0
+      2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 2",
     "q_num": 27,
-    "body_index": 365,
-    "id": "word-c41143f3c5139fa3-p365"
+    "body_index": 298,
+    "id": "word-1d55e841b9e15dba-p298"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 28: Trong cuốn sách \"Một số vấn đề lý luận và thực tiễn về chủ nghĩa xã hội và con đường đi lên chủ nghĩa xã hội ở Việt Nam\", Tổng Bí thư Nguyễn Phú Trọng khẳng định: đường lối cơ bản, xuyên suốt của cách mạng Việt Nam và cũng là điểm cốt yếu trong di sản tư tưởng của Chủ tịch Hồ Chí Minh là:",
+    "question": "Câu 28: Là một thư ký văn phòng, cần làm gì để chuẩn bị thông tin cho một hội nghị tổng kết cuối năm của cơ quan?",
     "source_q_num": 28,
-    "source_title": "Câu 28:Trong cuốn sách \"Một số vấn đề lý luận và thực tiễn về chủ nghĩa xã hội và con đường đi lên chủ nghĩa xã hội ở Việt Nam\", Tổng Bí thư Nguyễn Phú Trọng khẳng định: đường lối cơ bản, xuyên suốt của cách mạng Việt Nam và cũng là điểm cốt yếu trong di sản tư tưởng của Chủ tịch Hồ Chí Minh là:",
+    "source_title": "Câu 28 Là một thư ký văn phòng, cần làm gì để chuẩn bị thông tin cho một hội nghị tổng kết cuối năm của cơ quan?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 28,
-        "body_index": 370
+        "body_index": 303
       }
     ],
     "source_content": [
       {
-        "text": "A. Độc lập dân tộc gắn liền với chủ nghĩa xã hội"
+        "text": "A. Tìm kiếm các hồ sơ từ những năm trước"
       },
       {
-        "text": "B. Chủ nghĩa xã hội và giải phóng giai cấp vô sản"
+        "text": "B. Thu thập dữ liệu từ các phòng ban"
       },
       {
-        "text": "C. Phát triển kinh tế thị trường định hướng xã hội chủ nghĩa"
+        "text": "C. Tổng hợp và trình bày thông tin trong báo cáo"
       },
       {
-        "text": "D. Độc lập dân tộc gắn liền với hội nhập kinh tế quốc tế"
+        "text": "D. Tất cả các đáp án trên"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Độc lập dân tộc gắn liền với chủ nghĩa xã hội",
-      "B. Chủ nghĩa xã hội và giải phóng giai cấp vô sản",
-      "C. Phát triển kinh tế thị trường định hướng xã hội chủ nghĩa",
-      "D. Độc lập dân tộc gắn liền với hội nhập kinh tế quốc tế"
+      "A. Tìm kiếm các hồ sơ từ những năm trước",
+      "B. Thu thập dữ liệu từ các phòng ban",
+      "C. Tổng hợp và trình bày thông tin trong báo cáo",
+      "D. Tất cả các đáp án trên"
     ],
     "correct_answers": [
-      0
+      3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 2",
     "q_num": 28,
-    "body_index": 370,
-    "id": "word-c41143f3c5139fa3-p370"
+    "body_index": 303,
+    "id": "word-1d55e841b9e15dba-p303"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 29: Tại sao cho rằng con đường cách mạng Việt Nam là quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa là một tất yếu?",
+    "question": "Câu 29: Giám đốc dự án yêu cầu thư ký văn phòng cung cấp thông tin chi tiết về tiến độ hiện tại của một dự án quan trọng, bao gồm các mốc thời gian, tình trạng hoàn thành và các vấn đề còn tồn tại. Thông tin này cần được trình bày trong một cuộc họp vào cuối ngày. Thư ký văn phòng sẽ xử lý yêu cầu này như thế nào?",
     "source_q_num": 29,
-    "source_title": "Câu 29: Tại sao cho rằng con đường cách mạng Việt Nam là quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa là một tất yếu?",
+    "source_title": "Câu 29 Giám đốc dự án yêu cầu thư ký văn phòng cung cấp thông tin chi tiết về tiến độ hiện tại của một dự án quan trọng, bao gồm các mốc thời gian, tình trạng hoàn thành và các vấn đề còn tồn tại. Thông tin này cần được trình bày trong một cuộc họp vào cuối ngày. Thư ký văn phòng sẽ xử lý yêu cầu này như thế nào?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 29,
-        "body_index": 375
+        "body_index": 308
       }
     ],
     "source_content": [
       {
-        "text": "A. Vì nó phù hợp với đặc điểm của đất nước và xu thế phát triển của thời đại"
+        "text": "A. Cung cấp thông tin dựa trên báo cáo hiện tại mà không cập nhật tình trạng hiện tại"
       },
       {
-        "text": "B. Vì không cần tiếp thu thành tựu khoa học, kỹ thuật dưới chế độ tư bản chủ nghĩa"
+        "text": "B. Hỏi nhóm dự án về tình trạng cập nhật và tổng hợp thông tin từ nhiều nguồn để cung cấp báo cáo chi tiết"
       },
       {
-        "text": "C. Vì không cần tạo ra sự biến đổi về chất trên tất cả các lĩnh vực"
+        "text": "C. Gửi thông tin chung về dự án mà không đi sâu vào chi tiết"
       },
       {
-        "text": "D. Vì sự phát triển của lực lượng sản xuất ngày càng cao"
+        "text": "D. Đợi cho đến gần thời điểm họp để xem nếu có thêm thông tin mới"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Vì nó phù hợp với đặc điểm của đất nước và xu thế phát triển của thời đại",
-      "B. Vì không cần tiếp thu thành tựu khoa học, kỹ thuật dưới chế độ tư bản chủ nghĩa",
-      "C. Vì không cần tạo ra sự biến đổi về chất trên tất cả các lĩnh vực",
-      "D. Vì sự phát triển của lực lượng sản xuất ngày càng cao"
+      "A. Cung cấp thông tin dựa trên báo cáo hiện tại mà không cập nhật tình trạng hiện tại",
+      "B. Hỏi nhóm dự án về tình trạng cập nhật và tổng hợp thông tin từ nhiều nguồn để cung cấp báo cáo chi tiết",
+      "C. Gửi thông tin chung về dự án mà không đi sâu vào chi tiết",
+      "D. Đợi cho đến gần thời điểm họp để xem nếu có thêm thông tin mới"
     ],
     "correct_answers": [
-      0
+      1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 2",
     "q_num": 29,
-    "body_index": 375,
-    "id": "word-c41143f3c5139fa3-p375"
+    "body_index": 308,
+    "id": "word-1d55e841b9e15dba-p308"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 30: Căn cứ vào giáo trình Chủ nghĩa xã hội khoa học, hãy xác định khái niệm dùng để chỉ một chế độ xã hội tốt đẹp, giai đoạn đầu của hình thái kinh tế - xã hội cộng sản chủ nghĩa",
+    "question": "Câu 30: Trong tình huống lãnh đạo yêu cầu tìm một văn bản của cấp trên vừa mới ban hành, thư ký văn phòng sẽ phải làm gì?",
     "source_q_num": 30,
-    "source_title": "Câu 30 :Căn cứ vào giáo trình Chủ nghĩa xã hội khoa học, hãy xác định khái niệm dùng để chỉ một chế độ xã hội tốt đẹp, giai đoạn đầu của hình thái kinh tế - xã hội cộng sản chủ nghĩa",
+    "source_title": "Câu 30: Trong tình huống lãnh đạo yêu cầu tìm một văn bản của cấp trên vừa mới ban hành, thư ký văn phòng sẽ phải làm gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 30,
-        "body_index": 380
+        "body_index": 313
       }
     ],
     "source_content": [
       {
-        "text": "A. Chủ nghĩa cộng sản"
+        "text": "A. Liên hệ trực tiếp với cấp trên để yêu cầu văn bản"
       },
       {
-        "text": "B. Thời kỳ quá độ lên chủ nghĩa xã hội"
+        "text": "B. Liên hệ với các bộ phận trong cơ quan"
       },
       {
-        "text": "C. Thời kỳ quá độ"
+        "text": "C. Sử dụng các tài liệu đã lưu trữ"
       },
       {
-        "text": "D. Chủ nghĩa xã hội"
+        "text": "D. Tra cứu trong hệ thống văn bản của cơ quan"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Chủ nghĩa cộng sản",
-      "B. Thời kỳ quá độ lên chủ nghĩa xã hội",
-      "C. Thời kỳ quá độ",
-      "D. Chủ nghĩa xã hội"
+      "A. Liên hệ trực tiếp với cấp trên để yêu cầu văn bản",
+      "B. Liên hệ với các bộ phận trong cơ quan",
+      "C. Sử dụng các tài liệu đã lưu trữ",
+      "D. Tra cứu trong hệ thống văn bản của cơ quan"
     ],
     "correct_answers": [
       3
@@ -3222,41 +2574,41 @@ window.QUIZ_QUESTIONS = [
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 2",
     "q_num": 30,
-    "body_index": 380,
-    "id": "word-c41143f3c5139fa3-p380"
+    "body_index": 313,
+    "id": "word-1d55e841b9e15dba-p313"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 31: Theo chủ nghĩa Mác – Lênin có mấy hình thức quá độ lên chủ nghĩa xã hội?",
+    "question": "Câu 31: Là thư ký văn phòng, cần phải làm gì để chuẩn bị tài liệu cho một cuộc họp quốc tế?",
     "source_q_num": 31,
-    "source_title": "Câu 31: Theo chủ nghĩa Mác – Lênin có mấy hình thức quá độ lên chủ nghĩa xã hội?",
+    "source_title": "Câu 31: Là thư ký văn phòng, cần phải làm gì để chuẩn bị tài liệu cho một cuộc họp quốc tế?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 31,
-        "body_index": 385
+        "body_index": 318
       }
     ],
     "source_content": [
       {
-        "text": "A. 1"
+        "text": "A. Thu thập tài liệu từ các cơ quan liên quan"
       },
       {
-        "text": "B. 4"
+        "text": "B. Dịch các tài liệu cần thiết"
       },
       {
-        "text": "C. 3"
+        "text": "C. Chuẩn bị báo cáo và bài thuyết trình"
       },
       {
-        "text": "D. 2"
+        "text": "D. Tất cả các đáp án trên"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. 1",
-      "B. 4",
-      "C. 3",
-      "D. 2"
+      "A. Thu thập tài liệu từ các cơ quan liên quan",
+      "B. Dịch các tài liệu cần thiết",
+      "C. Chuẩn bị báo cáo và bài thuyết trình",
+      "D. Tất cả các đáp án trên"
     ],
     "correct_answers": [
       3
@@ -3264,1596 +2616,1064 @@ window.QUIZ_QUESTIONS = [
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 2",
     "q_num": 31,
-    "body_index": 385,
-    "id": "word-c41143f3c5139fa3-p385"
+    "body_index": 318,
+    "id": "word-1d55e841b9e15dba-p318"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 32: Đặc điểm về kinh tế của thời kỳ quá độ lên chủ nghĩa xã hội gồm: (Chọn 2 đáp án đúng)",
+    "question": "Câu 32: Là thư ký văn phòng, cần làm gì để quản lý hiệu quả thông tin từ các văn bản?",
     "source_q_num": 32,
-    "source_title": "Câu 32: Đặc điểm về kinh tế của thời kỳ quá độ lên chủ nghĩa xã hội gồm: (Chọn 2 đáp án đúng)",
+    "source_title": "Câu 32: Là thư ký văn phòng, cần làm gì để quản lý hiệu quả thông tin từ các văn bản?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 32,
-        "body_index": 390
+        "body_index": 323
       }
     ],
     "source_content": [
       {
-        "text": "A. Chỉ có kinh tế nhà nước tồn tại và phát triển."
+        "text": "A. Sắp xếp theo thứ tự thời gian"
       },
       {
-        "text": "B. Tồn tại nền kinh tế nhiều thành phần."
+        "text": "B. Lưu trữ theo chủ đề"
       },
       {
-        "text": "C. Hoàn toàn không còn kinh tế tư nhân."
+        "text": "C. Kiểm tra và cập nhật thông tin thường xuyên"
       },
       {
-        "text": "D. Có những thành phần kinh tế đối lập nhau."
+        "text": "D. Tất cả các đáp án trên"
       }
     ],
-    "type": "multiple_choice",
+    "type": "single_choice",
     "options": [
-      "A. Chỉ có kinh tế nhà nước tồn tại và phát triển.",
-      "B. Tồn tại nền kinh tế nhiều thành phần.",
-      "C. Hoàn toàn không còn kinh tế tư nhân.",
-      "D. Có những thành phần kinh tế đối lập nhau."
+      "A. Sắp xếp theo thứ tự thời gian",
+      "B. Lưu trữ theo chủ đề",
+      "C. Kiểm tra và cập nhật thông tin thường xuyên",
+      "D. Tất cả các đáp án trên"
     ],
     "correct_answers": [
-      1,
       3
     ],
-    "instruction": "Chọn 2 đáp án đúng",
+    "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 2",
     "q_num": 32,
-    "body_index": 390,
-    "id": "word-c41143f3c5139fa3-p390"
+    "body_index": 323,
+    "id": "word-1d55e841b9e15dba-p323"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 33: Việc \"bỏ qua chế độ tư bản chủ nghĩa\" ở Việt Nam có nghĩa là: (Chọn 2 đáp án đúng)",
+    "question": "Câu 33: Việc thực hiện các hoạt động nghiệp vụ nào dưới đây KHÔNG thuộc nhiệm vụ thu thập, xử lý thông tin của thư ký văn phòng?",
     "source_q_num": 33,
-    "source_title": "Câu 33: Việc \"bỏ qua chế độ tư bản chủ nghĩa\" ở Việt Nam có nghĩa là: (Chọn 2 đáp án đúng)",
+    "source_title": "Câu 33: Việc thực hiện các hoạt động nghiệp vụ nào dưới đây KHÔNG thuộc nhiệm vụ thu thập, xử lý thông tin của thư ký văn phòng?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 33,
-        "body_index": 395
+        "body_index": 328
       }
     ],
     "source_content": [
       {
-        "text": "A. Tiếp thu, kế thừa những thành tựu nhân loại đã đạt được dưới chủ nghĩa tư bản"
+        "text": "Nghiệp vụ lưu trữ."
       },
       {
-        "text": "B. Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa"
+        "text": "Nghiệp vụ văn thư."
       },
       {
-        "text": "C. Loại bỏ hoàn toàn tất cả các yếu tố tư bản trong nền kinh tế"
+        "text": "Nghiệp vụ kế toán."
       },
       {
-        "text": "D. Tăng cường sở hữu tư nhân để phát triển lực lượng sản xuất"
+        "text": "Nghiệp vụ hành chính."
       }
     ],
-    "type": "multiple_choice",
+    "type": "single_choice",
     "options": [
-      "A. Tiếp thu, kế thừa những thành tựu nhân loại đã đạt được dưới chủ nghĩa tư bản",
-      "B. Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa",
-      "C. Loại bỏ hoàn toàn tất cả các yếu tố tư bản trong nền kinh tế",
-      "D. Tăng cường sở hữu tư nhân để phát triển lực lượng sản xuất"
+      "A. Nghiệp vụ lưu trữ.",
+      "B. Nghiệp vụ văn thư.",
+      "C. Nghiệp vụ kế toán.",
+      "D. Nghiệp vụ hành chính."
     ],
     "correct_answers": [
-      0,
-      1
+      2
     ],
-    "instruction": "Chọn 2 đáp án đúng",
+    "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 2",
     "q_num": 33,
-    "body_index": 395,
-    "id": "word-c41143f3c5139fa3-p395"
+    "body_index": 328,
+    "id": "word-1d55e841b9e15dba-p328"
   },
   {
     "lesson_num": 2,
-    "question": "Câu 34: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+    "question": "Câu 34: Hãy sắp xếp lại các bước theo đúng quy trình thu thập thông tin của người thư ký văn phòng?\n(1) Lựa chọn phương pháp thu thập\n(2) Xác định thông tin cần thu thập\n(3) Tiến hành thu thập\n(4) Đánh giá và phân loại thông tin thu thập\n(5) Xác định mục đích thu thập",
     "source_q_num": 34,
-    "source_title": "Câu 34: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+    "source_title": "Câu 34: Hãy sắp xếp lại các bước theo đúng quy trình thu thập thông tin của người thư ký văn phòng?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 34,
-        "body_index": 400
+        "body_index": 333
       }
     ],
     "source_content": [
       {
-        "text": "1) Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa là một trong những phương hướng xây dựng chủ nghĩa xã hội ở Việt Nam"
+        "text": "(1) Lựa chọn phương pháp thu thập"
       },
       {
-        "text": "Đúng"
+        "text": "(2) Xác định thông tin cần thu thập"
       },
       {
-        "text": "2) Việt Nam thực hiện quá độ trực tiếp đi lên chủ nghĩa xã hội"
+        "text": "(3) Tiến hành thu thập"
       },
       {
-        "text": "Sai"
+        "text": "(4) Đánh giá và phân loại thông tin thu thập"
       },
       {
-        "text": "3) Chủ nghĩa xã hội ở Việt Nam không bao gồm việc xây dựng nền kinh tế thị trường"
+        "text": "(5) Xác định mục đích thu thập"
       },
       {
-        "text": "Sai"
+        "text": "5 - 2 - 3 - 1 - 4"
       },
       {
-        "text": "4) Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa là sự lựa chọn duy nhất đúng, khoa học, phản ánh đúng quy luật phát triển khách quan của cách mạng Việt Nam trong thời đại ngày nay Đúng"
+        "text": "5 - 2 - 1 - 3 - 4"
+      },
+      {
+        "text": "2 - 5 - 1 - 3 - 4"
+      },
+      {
+        "text": "1 - 2 - 3 - 4 - 5"
       }
     ],
-    "type": "true_false",
-    "items": [
-      {
-        "statement": "1) Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa là một trong những phương hướng xây dựng chủ nghĩa xã hội ở Việt Nam",
-        "correct": true
-      },
-      {
-        "statement": "2) Việt Nam thực hiện quá độ trực tiếp đi lên chủ nghĩa xã hội",
-        "correct": false
-      },
-      {
-        "statement": "3) Chủ nghĩa xã hội ở Việt Nam không bao gồm việc xây dựng nền kinh tế thị trường",
-        "correct": false
-      },
-      {
-        "statement": "4) Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa là sự lựa chọn duy nhất đúng, khoa học, phản ánh đúng quy luật phát triển khách quan của cách mạng Việt Nam trong thời đại ngày nay",
-        "correct": true
-      }
+    "type": "single_choice",
+    "options": [
+      "A. 5 - 2 - 3 - 1 - 4",
+      "B. 5 - 2 - 1 - 3 - 4",
+      "C. 2 - 5 - 1 - 3 - 4",
+      "D. 1 - 2 - 3 - 4 - 5"
     ],
-    "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 2",
     "q_num": 34,
-    "body_index": 400,
-    "id": "word-c41143f3c5139fa3-p400"
+    "body_index": 333,
+    "id": "word-1d55e841b9e15dba-p333"
   },
   {
-    "lesson_num": 2,
-    "question": "Câu 35: Kéo thả các đáp án khớp với các phát biểu từ 1 - 3 vế trái dưới đây:",
-    "source_q_num": 35,
-    "source_title": "Câu 35: Kéo thả các đáp án khớp với các phát biểu từ 1 - 3 vế trái dưới đây:",
+    "lesson_num": 3,
+    "question": "Câu 1: Để xây dựng lịch làm việc, thư ký cần nắm vững nguyên tắc nào?",
+    "source_q_num": 1,
+    "source_title": "Câu 1: Để xây dựng lịch làm việc, thư ký cần nắm vững nguyên tắc nào?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 35,
-        "body_index": 408
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 1,
+        "body_index": 344
       }
     ],
     "source_content": [
       {
-        "table": [
-          [
-            "1.Việt Nam xây dựng nền_______có sự điều tiết của nhà nước.",
-            "kinh tế thị trường"
-          ],
-          [
-            "2. Một đặc trưng chính trị của chủ nghĩa xã hội ________ xã hội chủ nghĩa của nhân dân, do nhân dân, vì nhân dân.",
-            "nhà nước pháp quyền"
-          ],
-          [
-            "3. Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam tôn trọng, bảo vệ và bảo đảm _______ .",
-            "quyền con người."
-          ]
-        ]
-      }
-    ],
-    "type": "drag_drop_match",
-    "pairs": [
-      {
-        "left": "1.Việt Nam xây dựng nền_______có sự điều tiết của nhà nước.",
-        "right": "kinh tế thị trường"
+        "text": "Nguyên tắc không trùng lặp"
       },
       {
-        "left": "2. Một đặc trưng chính trị của chủ nghĩa xã hội ________ xã hội chủ nghĩa của nhân dân, do nhân dân, vì nhân dân.",
-        "right": "nhà nước pháp quyền"
+        "text": "Nguyên tắc ưu tiên"
       },
       {
-        "left": "3. Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam tôn trọng, bảo vệ và bảo đảm _______ .",
-        "right": "quyền con người."
+        "text": "Nguyên tắc dự phòng"
+      },
+      {
+        "text": "Tất cả các nguyên tắc trên"
       }
     ],
-    "options_pool": [
-      "kinh tế thị trường",
-      "nhà nước pháp quyền",
-      "quyền con người."
+    "type": "single_choice",
+    "options": [
+      "A. Nguyên tắc không trùng lặp",
+      "B. Nguyên tắc ưu tiên",
+      "C. Nguyên tắc dự phòng",
+      "D. Tất cả các nguyên tắc trên"
     ],
-    "instruction": "Kéo hoặc chọn đáp án đúng ghép vào vế tương ứng",
-    "lesson": "Bài 2",
-    "q_num": 35,
-    "body_index": 408,
-    "id": "word-c41143f3c5139fa3-p408"
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 3",
+    "q_num": 1,
+    "body_index": 344,
+    "id": "word-1d55e841b9e15dba-p344"
   },
   {
-    "lesson_num": 2,
-    "question": "Câu 36: Đặc điểm cơ bản của thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là gì? (Chọn 2 đáp án đúng)",
-    "source_q_num": 36,
-    "source_title": "Câu 36 : Đặc điểm cơ bản của thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là gì? (Chọn 2 đáp án đúng)",
+    "lesson_num": 3,
+    "question": "Câu 2: Tại sao việc xây dựng lịch làm việc hàng năm là quan trọng đối với các cơ quan?",
+    "source_q_num": 2,
+    "source_title": "Câu 2: Tại sao việc xây dựng lịch làm việc hàng năm là quan trọng đối với các cơ quan?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 36,
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 2,
+        "body_index": 350
+      }
+    ],
+    "source_content": [
+      {
+        "text": "Để giảm thiểu chi phí hoạt động"
+      },
+      {
+        "text": "Để đảm bảo mọi hoạt động được thực hiện một cách có kế hoạch"
+      },
+      {
+        "text": "Để theo dõi tiến độ công việc"
+      },
+      {
+        "text": "Để tăng cường quan hệ với khách hàng"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Để giảm thiểu chi phí hoạt động",
+      "B. Để đảm bảo mọi hoạt động được thực hiện một cách có kế hoạch",
+      "C. Để theo dõi tiến độ công việc",
+      "D. Để tăng cường quan hệ với khách hàng"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 3",
+    "q_num": 2,
+    "body_index": 350,
+    "id": "word-1d55e841b9e15dba-p350"
+  },
+  {
+    "lesson_num": 3,
+    "question": "Câu 3: Vì sao nguyên tắc ưu tiên là quan trọng khi sắp xếp lịch làm việc?",
+    "source_q_num": 3,
+    "source_title": "Câu 3: Vì sao nguyên tắc ưu tiên là quan trọng khi sắp xếp lịch làm việc?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 3,
+        "body_index": 357
+      }
+    ],
+    "source_content": [
+      {
+        "text": "Để tạo ra môi trường làm việc thân thiện"
+      },
+      {
+        "text": "Để tránh lãng phí nguồn lực"
+      },
+      {
+        "text": "Để đảm bảo các hoạt động quan trọng không bị trì hoãn"
+      },
+      {
+        "text": "Để đảm bảo sự linh hoạt trong công việc"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Để tạo ra môi trường làm việc thân thiện",
+      "B. Để tránh lãng phí nguồn lực",
+      "C. Để đảm bảo các hoạt động quan trọng không bị trì hoãn",
+      "D. Để đảm bảo sự linh hoạt trong công việc"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 3",
+    "q_num": 3,
+    "body_index": 357,
+    "id": "word-1d55e841b9e15dba-p357"
+  },
+  {
+    "lesson_num": 3,
+    "question": "Câu 4: Những yếu tố nào sau đây cần được xem xét khi xây dựng lịch làm việc?",
+    "source_q_num": 4,
+    "source_title": "Câu 4: Những yếu tố nào sau đây cần được xem xét khi xây dựng lịch làm việc?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 4,
+        "body_index": 362
+      }
+    ],
+    "source_content": [
+      {
+        "text": "Thời gian, tài chính, kế hoạch"
+      },
+      {
+        "text": "Thời gian, địa điểm, nhân sự"
+      },
+      {
+        "text": "Tài chính, trang thiết bị, nhân sự"
+      },
+      {
+        "text": "Địa điểm, trang thiết bị, kế hoạch"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Thời gian, tài chính, kế hoạch",
+      "B. Thời gian, địa điểm, nhân sự",
+      "C. Tài chính, trang thiết bị, nhân sự",
+      "D. Địa điểm, trang thiết bị, kế hoạch"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 3",
+    "q_num": 4,
+    "body_index": 362,
+    "id": "word-1d55e841b9e15dba-p362"
+  },
+  {
+    "lesson_num": 3,
+    "question": "Câu 5: Giải thích tại sao cần có phương án dự phòng khi xây dựng lịch làm việc?",
+    "source_q_num": 5,
+    "source_title": "Câu 5: Giải thích tại sao cần có phương án dự phòng khi xây dựng lịch làm việc?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 5,
+        "body_index": 369
+      }
+    ],
+    "source_content": [
+      {
+        "text": "Để xử lý tình huống đột xuất"
+      },
+      {
+        "text": "Để tránh chi phí phát sinh"
+      },
+      {
+        "text": "Để đảm bảo sự hài lòng của nhân viên"
+      },
+      {
+        "text": "Để tối ưu hóa sử dụng tài nguyên"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Để xử lý tình huống đột xuất",
+      "B. Để tránh chi phí phát sinh",
+      "C. Để đảm bảo sự hài lòng của nhân viên",
+      "D. Để tối ưu hóa sử dụng tài nguyên"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 3",
+    "q_num": 5,
+    "body_index": 369,
+    "id": "word-1d55e841b9e15dba-p369"
+  },
+  {
+    "lesson_num": 3,
+    "question": "Câu 6: Phân loại các yếu tố mà thư ký văn phòng cần xem xét khi lập lịch làm việc cho lãnh đạo?",
+    "source_q_num": 6,
+    "source_title": "Câu 6: Phân loại các yếu tố mà thư ký văn phòng cần xem xét khi lập lịch làm việc cho lãnh đạo?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 6,
+        "body_index": 376
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Nhân sự, ngân sách, thiết bị."
+      },
+      {
+        "text": "B. Thời gian, địa điểm, ngân sách."
+      },
+      {
+        "text": "C. Thời gian, địa điểm, nhân sự."
+      },
+      {
+        "text": "D. Ngân sách, thiết bị, thời gian."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Nhân sự, ngân sách, thiết bị.",
+      "B. Thời gian, địa điểm, ngân sách.",
+      "C. Thời gian, địa điểm, nhân sự.",
+      "D. Ngân sách, thiết bị, thời gian."
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 3",
+    "q_num": 6,
+    "body_index": 376,
+    "id": "word-1d55e841b9e15dba-p376"
+  },
+  {
+    "lesson_num": 3,
+    "question": "Câu 7: Thư ký văn phòng sẽ áp dụng nguyên tắc dự phòng nào để đảm bảo các nhiệm vụ được hoàn thành đúng hạn?",
+    "source_q_num": 7,
+    "source_title": "Câu 7: Thư ký văn phòng sẽ áp dụng nguyên tắc dự phòng nào để đảm bảo các nhiệm vụ được hoàn thành đúng hạn?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 7,
+        "body_index": 382
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Không lập lịch dự phòng và chỉ cố gắng hoàn thành các nhiệm vụ theo kế hoạch"
+      },
+      {
+        "text": "B. Chờ đến khi gặp vấn đề mới tìm cách xử lý"
+      },
+      {
+        "text": "C. Chia nhỏ các nhiệm vụ và phân chia lại cho các thành viên trong nhóm mà không thay đổi lịch trình"
+      },
+      {
+        "text": "D. Thêm vào lịch làm việc một khoảng thời gian dự phòng để xử lý các nhiệm vụ mất nhiều thời gian hơn dự kiến"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Không lập lịch dự phòng và chỉ cố gắng hoàn thành các nhiệm vụ theo kế hoạch",
+      "B. Chờ đến khi gặp vấn đề mới tìm cách xử lý",
+      "C. Chia nhỏ các nhiệm vụ và phân chia lại cho các thành viên trong nhóm mà không thay đổi lịch trình",
+      "D. Thêm vào lịch làm việc một khoảng thời gian dự phòng để xử lý các nhiệm vụ mất nhiều thời gian hơn dự kiến"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 3",
+    "q_num": 7,
+    "body_index": 382,
+    "id": "word-1d55e841b9e15dba-p382"
+  },
+  {
+    "lesson_num": 3,
+    "question": "Câu 8: Thư ký văn phòng sẽ áp dụng nguyên tắc không trùng lặp về địa điểm như thế nào để đảm bảo Giám đốc có đủ thời gian di chuyển giữa các cuộc họp?",
+    "source_q_num": 8,
+    "source_title": "Câu 8: Thư ký văn phòng sẽ áp dụng nguyên tắc không trùng lặp về địa điểm như thế nào để đảm bảo Giám đốc có đủ thời gian di chuyển giữa các cuộc họp?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 8,
+        "body_index": 388
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Giữ nguyên lịch trình và để giám đốc tự sắp xếp thời gian di chuyển"
+      },
+      {
+        "text": "B. Chuyển cuộc họp của phòng Marketing xuống tầng 3 để thuận tiện hơn"
+      },
+      {
+        "text": "C. Dành một khoảng thời gian dự phòng giữa các cuộc họp để giám đốc có thời gian di chuyển"
+      },
+      {
+        "text": "D. Sắp xếp các cuộc họp ngay sát nhau để tiết kiệm thời gian"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Giữ nguyên lịch trình và để giám đốc tự sắp xếp thời gian di chuyển",
+      "B. Chuyển cuộc họp của phòng Marketing xuống tầng 3 để thuận tiện hơn",
+      "C. Dành một khoảng thời gian dự phòng giữa các cuộc họp để giám đốc có thời gian di chuyển",
+      "D. Sắp xếp các cuộc họp ngay sát nhau để tiết kiệm thời gian"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 3",
+    "q_num": 8,
+    "body_index": 388,
+    "id": "word-1d55e841b9e15dba-p388"
+  },
+  {
+    "lesson_num": 3,
+    "question": "Câu 9: Thư ký văn phòng sẽ áp dụng nguyên tắc không trùng lặp về địa điểm như thế nào để đảm bảo lịch trình diễn ra suôn sẻ?",
+    "source_q_num": 9,
+    "source_title": "Câu 9: Thư ký văn phòng sẽ áp dụng nguyên tắc không trùng lặp về địa điểm như thế nào để đảm bảo lịch trình diễn ra suôn sẻ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 9,
+        "body_index": 393
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Yêu cầu đối tác đến gặp giám đốc tại khách sạn X ngay sau hội thảo."
+      },
+      {
+        "text": "B. Sắp xếp cuộc gặp đối tác ngay sau hội thảo mà không cần xem xét địa điểm."
+      },
+      {
+        "text": "C. Đặt cuộc gặp đối tác vào buổi chiều với thời gian đủ để giám đốc di chuyển từ khách sạn X về văn phòng."
+      },
+      {
+        "text": "D. Hủy cuộc gặp đối tác để giám đốc có thời gian nghỉ ngơi sau hội thảo."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Yêu cầu đối tác đến gặp giám đốc tại khách sạn X ngay sau hội thảo.",
+      "B. Sắp xếp cuộc gặp đối tác ngay sau hội thảo mà không cần xem xét địa điểm.",
+      "C. Đặt cuộc gặp đối tác vào buổi chiều với thời gian đủ để giám đốc di chuyển từ khách sạn X về văn phòng.",
+      "D. Hủy cuộc gặp đối tác để giám đốc có thời gian nghỉ ngơi sau hội thảo."
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 3",
+    "q_num": 9,
+    "body_index": 393,
+    "id": "word-1d55e841b9e15dba-p393"
+  },
+  {
+    "lesson_num": 3,
+    "question": "Câu 10: Bạn sẽ điều chỉnh lịch họp như thế nào để đảm bảo không có sự trùng lặp về địa điểm và giám đốc có đủ thời gian di chuyển?",
+    "source_q_num": 10,
+    "source_title": "Câu 10: Bạn sẽ điều chỉnh lịch họp như thế nào để đảm bảo không có sự trùng lặp về địa điểm và giám đốc có đủ thời gian di chuyển?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 10,
+        "body_index": 398
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Sắp xếp tất cả các cuộc họp liên tiếp nhau mà không thay đổi địa điểm."
+      },
+      {
+        "text": "B. Yêu cầu giám đốc tự điều chỉnh lịch trình của mình."
+      },
+      {
+        "text": "C. Đặt một khoảng thời gian nghỉ giữa các cuộc họp để giám đốc có thể di chuyển thoải mái."
+      },
+      {
+        "text": "D. Chuyển tất cả các cuộc họp về cùng một tầng để tiết kiệm thời gian."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Sắp xếp tất cả các cuộc họp liên tiếp nhau mà không thay đổi địa điểm.",
+      "B. Yêu cầu giám đốc tự điều chỉnh lịch trình của mình.",
+      "C. Đặt một khoảng thời gian nghỉ giữa các cuộc họp để giám đốc có thể di chuyển thoải mái.",
+      "D. Chuyển tất cả các cuộc họp về cùng một tầng để tiết kiệm thời gian."
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 3",
+    "q_num": 10,
+    "body_index": 398,
+    "id": "word-1d55e841b9e15dba-p398"
+  },
+  {
+    "lesson_num": 3,
+    "question": "Câu 11: Thư ký văn phòng sẽ lập lịch cho nhóm như thế nào để tránh sự trùng lặp và tối ưu hóa thời gian của các cuộc họp trực tuyến và trực tiếp?",
+    "source_q_num": 11,
+    "source_title": "Câu 11: Thư ký văn phòng sẽ lập lịch cho nhóm như thế nào để tránh sự trùng lặp và tối ưu hóa thời gian của các cuộc họp trực tuyến và trực tiếp?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 11,
+        "body_index": 404
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Đặt tất cả các cuộc họp vào cùng một ngày mà không tính đến thời gian di chuyển"
+      },
+      {
+        "text": "B. Đặt tất cả các cuộc họp vào buổi sáng để có thời gian tự do vào buổi chiều"
+      },
+      {
+        "text": "C. Chia nhỏ nhóm ra làm hai để tổ chức các cuộc họp khác nhau cùng một lúc"
+      },
+      {
+        "text": "D. Sắp xếp các cuộc họp theo thứ tự cuộc họp trực tiếp trước sau đó là cuộc họp trực tuyến"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Đặt tất cả các cuộc họp vào cùng một ngày mà không tính đến thời gian di chuyển",
+      "B. Đặt tất cả các cuộc họp vào buổi sáng để có thời gian tự do vào buổi chiều",
+      "C. Chia nhỏ nhóm ra làm hai để tổ chức các cuộc họp khác nhau cùng một lúc",
+      "D. Sắp xếp các cuộc họp theo thứ tự cuộc họp trực tiếp trước sau đó là cuộc họp trực tuyến"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 3",
+    "q_num": 11,
+    "body_index": 404,
+    "id": "word-1d55e841b9e15dba-p404"
+  },
+  {
+    "lesson_num": 3,
+    "question": "Câu 12: Giám đốc phải tham dự buổi đào tạo nhân viên mới kéo dài từ 9 giờ sáng đến 11 giờ sáng, đồng thời cũng phải tham dự một cuộc họp với đối tác từ 10 giờ sáng đến 12 giờ trưa. Thư ký văn phòng cần lập kế hoạch như thế nào để không bị trùng lặp thời gian?",
+    "source_q_num": 12,
+    "source_title": "Câu 12: Giám đốc phải tham dự buổi đào tạo nhân viên mới kéo dài từ 9 giờ sáng đến 11 giờ sáng, đồng thời cũng phải tham dự một cuộc họp với đối tác từ 10 giờ sáng đến 12 giờ trưa. Thư ký văn phòng cần lập kế hoạch như thế nào để không bị trùng lặp thời gian?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 12,
         "body_index": 411
       }
     ],
     "source_content": [
       {
-        "text": "A. Chuyển thẳng từ chế độ phong kiến lên chủ nghĩa xã hội"
+        "text": "A. Đặt buổi đào tạo và cuộc họp cùng thời gian"
       },
       {
-        "text": "B. Bỏ qua chế độ phong kiến"
+        "text": "B. Đổi thời gian buổi đào tạo hoặc cuộc họp"
       },
       {
-        "text": "C. Bỏ qua chế độ tư bản chủ nghĩa"
+        "text": "C. Chia buổi đào tạo thành hai phần và nghỉ giữa giờ để Giám đốc có thể tham gia cuộc họp"
       },
       {
-        "text": "D. Xây dựng nền kinh tế thị trường định hướng xã hội chủ nghĩa"
+        "text": "D. Giao buổi đào tạo cho một đồng nghiệp khác để bạn có thể tham gia cuộc họp"
       }
     ],
-    "type": "multiple_choice",
+    "type": "single_choice",
     "options": [
-      "A. Chuyển thẳng từ chế độ phong kiến lên chủ nghĩa xã hội",
-      "B. Bỏ qua chế độ phong kiến",
-      "C. Bỏ qua chế độ tư bản chủ nghĩa",
-      "D. Xây dựng nền kinh tế thị trường định hướng xã hội chủ nghĩa"
+      "A. Đặt buổi đào tạo và cuộc họp cùng thời gian",
+      "B. Đổi thời gian buổi đào tạo hoặc cuộc họp",
+      "C. Chia buổi đào tạo thành hai phần và nghỉ giữa giờ để Giám đốc có thể tham gia cuộc họp",
+      "D. Giao buổi đào tạo cho một đồng nghiệp khác để bạn có thể tham gia cuộc họp"
     ],
     "correct_answers": [
-      2,
-      3
+      1
     ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bài 2",
-    "q_num": 36,
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 3",
+    "q_num": 12,
     "body_index": 411,
-    "id": "word-c41143f3c5139fa3-p411"
+    "id": "word-1d55e841b9e15dba-p411"
   },
   {
-    "lesson_num": 2,
-    "question": "Câu 37: Việc \"bỏ qua chế độ tư bản chủ nghĩa\" ở Việt Nam có nghĩa là: (Chọn 2 đáp án đúng)",
-    "source_q_num": 37,
-    "source_title": "Câu 37 : Việc \"bỏ qua chế độ tư bản chủ nghĩa\" ở Việt Nam có nghĩa là: (Chọn 2 đáp án đúng)",
+    "lesson_num": 3,
+    "question": "Câu 13: Giám đốc yêu cầu lập kế hoạch cho một dự án mới, thư ký văn phòng sẽ phải làm gì?",
+    "source_q_num": 13,
+    "source_title": "Câu 13: Giám đốc yêu cầu lập kế hoạch cho một dự án mới, thư ký văn phòng sẽ phải làm gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 37,
-        "body_index": 417
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 13,
+        "body_index": 418
       }
     ],
     "source_content": [
       {
-        "text": "A. Loại bỏ hoàn toàn tất cả các yếu tố tư bản trong nền kinh tế"
+        "text": "A. Thu thập thông tin và xác định mục tiêu của dự án"
       },
       {
-        "text": "B. Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa"
+        "text": "B. Lập kế hoạch chi tiết và phân công nhiệm vụ"
       },
       {
-        "text": "C. Tiếp thu, kế thừa những thành tựu nhân loại đã đạt được dưới chủ nghĩa tư bản"
+        "text": "C. Theo dõi tiến độ và báo cáo kết quả"
       },
       {
-        "text": "D. Tăng cường sở hữu tư nhân để phát triển lực lượng sản xuất"
+        "text": "D. Tất cả các đáp án trên"
       }
     ],
-    "type": "multiple_choice",
+    "type": "single_choice",
     "options": [
-      "A. Loại bỏ hoàn toàn tất cả các yếu tố tư bản trong nền kinh tế",
-      "B. Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa",
-      "C. Tiếp thu, kế thừa những thành tựu nhân loại đã đạt được dưới chủ nghĩa tư bản",
-      "D. Tăng cường sở hữu tư nhân để phát triển lực lượng sản xuất"
+      "A. Thu thập thông tin và xác định mục tiêu của dự án",
+      "B. Lập kế hoạch chi tiết và phân công nhiệm vụ",
+      "C. Theo dõi tiến độ và báo cáo kết quả",
+      "D. Tất cả các đáp án trên"
     ],
     "correct_answers": [
-      1,
-      2
+      3
     ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bài 2",
-    "q_num": 37,
-    "body_index": 417,
-    "id": "word-c41143f3c5139fa3-p417"
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 3",
+    "q_num": 13,
+    "body_index": 418,
+    "id": "word-1d55e841b9e15dba-p418"
   },
   {
-    "lesson_num": 2,
-    "question": "Câu 38: Thời kỳ quá độ lên chủ nghĩa xã hội có những mâu thuẫn nào cần giải quyết? (Chọn 2 đáp án đúng)",
-    "source_q_num": 38,
-    "source_title": "Câu 38: Thời kỳ quá độ lên chủ nghĩa xã hội có những mâu thuẫn nào cần giải quyết? (Chọn 2 đáp án đúng)",
+    "lesson_num": 3,
+    "question": "Câu 14: Khi có yêu cầu cần lập kế hoạch làm việc hàng ngày cho Giám đốc, thư ký văn phòng sẽ phải làm gì?",
+    "source_q_num": 14,
+    "source_title": "Câu 14: Khi có yêu cầu cần lập kế hoạch làm việc hàng ngày cho Giám đốc, thư ký văn phòng sẽ phải làm gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 38,
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 14,
         "body_index": 423
       }
     ],
     "source_content": [
       {
-        "text": "A. Mâu thuẫn giữa năng suất lao động và nhu cầu phát triển xã hội."
+        "text": "A. Xác định các cuộc họp và nhiệm vụ quan trọng"
       },
       {
-        "text": "B. Mâu thuẫn giữa cái cũ và cái mới trong xã hội."
+        "text": "B. Sắp xếp thời gian nghỉ ngơi hợp lý"
       },
       {
-        "text": "C. Mâu thuẫn giữa các tầng lớp lao động và tư sản hoàn toàn biến mất."
+        "text": "C. Thông báo lịch làm việc cho giám đốc"
       },
       {
-        "text": "D. Mâu thuẫn giữa các thành phần kinh tế khác nhau trong xã hội."
+        "text": "D. Tất cả các đáp án trên"
       }
     ],
-    "type": "multiple_choice",
+    "type": "single_choice",
     "options": [
-      "A. Mâu thuẫn giữa năng suất lao động và nhu cầu phát triển xã hội.",
-      "B. Mâu thuẫn giữa cái cũ và cái mới trong xã hội.",
-      "C. Mâu thuẫn giữa các tầng lớp lao động và tư sản hoàn toàn biến mất.",
-      "D. Mâu thuẫn giữa các thành phần kinh tế khác nhau trong xã hội."
+      "A. Xác định các cuộc họp và nhiệm vụ quan trọng",
+      "B. Sắp xếp thời gian nghỉ ngơi hợp lý",
+      "C. Thông báo lịch làm việc cho giám đốc",
+      "D. Tất cả các đáp án trên"
     ],
     "correct_answers": [
-      1,
       3
     ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bài 2",
-    "q_num": 38,
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 3",
+    "q_num": 14,
     "body_index": 423,
-    "id": "word-c41143f3c5139fa3-p423"
+    "id": "word-1d55e841b9e15dba-p423"
   },
   {
-    "lesson_num": 2,
-    "question": "Câu 39: Hai loại quá độ từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đó là: (Chọn 2 đáp án)",
-    "source_q_num": 39,
-    "source_title": "Câu 39 : Hai loại quá độ từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đó là: (Chọn 2 đáp án)",
+    "lesson_num": 3,
+    "question": "Câu 15: Khi có yêu cầu xây dựng lịch làm việc hàng tuần cho toàn bộ cơ quan, thư ký văn phòng cần phải làm gì để đảm bảo lịch không bị trùng lặp?",
+    "source_q_num": 15,
+    "source_title": "Câu 15: Khi có yêu cầu xây dựng lịch làm việc hàng tuần cho toàn bộ cơ quan, thư ký văn phòng cần phải làm gì để đảm bảo lịch không bị trùng lặp?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 39,
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 15,
         "body_index": 428
       }
     ],
     "source_content": [
       {
-        "text": "A. Quá độ gián tiếp"
+        "text": "A. Thông báo miệng cho từng nhân viên"
       },
       {
-        "text": "B. Quá độ cơ bản"
+        "text": "B. Gửi email nhắc nhở cho tất cả cả nhân viên"
       },
       {
-        "text": "C. Quá độ không cơ bản"
+        "text": "C. Đặt lịch trên giấy"
       },
       {
-        "text": "D. Quá độ trực tiếp"
+        "text": "D. Sử dụng phần mềm quản lý lịch"
       }
     ],
-    "type": "multiple_choice",
+    "type": "single_choice",
     "options": [
-      "A. Quá độ gián tiếp",
-      "B. Quá độ cơ bản",
-      "C. Quá độ không cơ bản",
-      "D. Quá độ trực tiếp"
+      "A. Thông báo miệng cho từng nhân viên",
+      "B. Gửi email nhắc nhở cho tất cả cả nhân viên",
+      "C. Đặt lịch trên giấy",
+      "D. Sử dụng phần mềm quản lý lịch"
     ],
     "correct_answers": [
-      0,
       3
     ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bài 2",
-    "q_num": 39,
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 3",
+    "q_num": 15,
     "body_index": 428,
-    "id": "word-c41143f3c5139fa3-p428"
+    "id": "word-1d55e841b9e15dba-p428"
   },
   {
-    "lesson_num": 2,
-    "question": "Câu 40: Cuộc cách mạng của giai cấp công nhân và nhân dân lao động dưới sự lãnh đạo của Đảng cộng sản chống lại giai cấp tư sản, là cuộc cách mạng:",
-    "source_q_num": 40,
-    "source_title": "Câu 40 : Cuộc cách mạng của giai cấp công nhân và nhân dân lao động dưới sự lãnh đạo của Đảng cộng sản chống lại giai cấp tư sản, là cuộc cách mạng:",
+    "lesson_num": 3,
+    "question": "Câu 16: Tại sao việc xây dựng kế hoạch hoạt động theo quý là cần thiết?",
+    "source_q_num": 16,
+    "source_title": "Câu 16: Tại sao việc xây dựng kế hoạch hoạt động theo quý là cần thiết?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 40,
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 16,
         "body_index": 433
       }
     ],
     "source_content": [
       {
-        "text": "A. Cách mạng tư sản"
+        "text": "A. Để các đơn vị có thể liên kết và phối hợp với nhau."
       },
       {
-        "text": "B. Cách mạng dân chủ tư sản"
+        "text": "B. Để dễ dàng quản lý nhân sự."
       },
       {
-        "text": "C. Cách mạng xã hội"
+        "text": "C. Để tiết kiệm chi phí."
       },
       {
-        "text": "D. Cách mạng vô sản"
+        "text": "D. Để đảm bảo các hoạt động không bị trùng lặp."
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Cách mạng tư sản",
-      "B. Cách mạng dân chủ tư sản",
-      "C. Cách mạng xã hội",
-      "D. Cách mạng vô sản"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 2",
-    "q_num": 40,
-    "body_index": 433,
-    "id": "word-c41143f3c5139fa3-p433"
-  },
-  {
-    "lesson_num": 2,
-    "question": "Câu 41: Kéo thả các đáp án khớp với các phát biểu từ 1 - 3 vế trái dưới đây:",
-    "source_q_num": 41,
-    "source_title": "Câu 41: Kéo thả các đáp án khớp với các phát biểu từ 1 - 3 vế trái dưới đây:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 41,
-        "body_index": 440
-      }
-    ],
-    "source_content": [
-      {
-        "table": [
-          [
-            "Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa là con đường cách mạng_____",
-            "tất yếu khách quan."
-          ],
-          [
-            "Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa, tức là bỏ qua việc xác lập _____ của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa.",
-            "vị trí thống trị"
-          ],
-          [
-            "Việt Nam thực hiện _____ đi lên chủ nghĩa xã hội.",
-            "quá độ gián tiếp"
-          ]
-        ]
-      }
-    ],
-    "type": "drag_drop_match",
-    "pairs": [
-      {
-        "left": "Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa là con đường cách mạng_____",
-        "right": "tất yếu khách quan."
-      },
-      {
-        "left": "Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa, tức là bỏ qua việc xác lập _____ của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa.",
-        "right": "vị trí thống trị"
-      },
-      {
-        "left": "Việt Nam thực hiện _____ đi lên chủ nghĩa xã hội.",
-        "right": "quá độ gián tiếp"
-      }
-    ],
-    "options_pool": [
-      "tất yếu khách quan.",
-      "vị trí thống trị",
-      "quá độ gián tiếp"
-    ],
-    "instruction": "Kéo hoặc chọn đáp án đúng ghép vào vế tương ứng",
-    "lesson": "Bài 2",
-    "q_num": 41,
-    "body_index": 440,
-    "id": "word-c41143f3c5139fa3-p440"
-  },
-  {
-    "lesson_num": 2,
-    "question": "Câu 42: Kéo thả các đáp án khớp với các phát biểu từ 1 – 3 về trái dưới đây:",
-    "source_q_num": 42,
-    "source_title": "Câu 42 : Kéo thả các đáp án khớp với các phát biểu từ 1 – 3 về trái dưới đây:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 42,
-        "body_index": 443
-      }
-    ],
-    "source_content": [
-      {
-        "table": [
-          [
-            "_______từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước đã trải qua chủ nghĩa tư bản phát triển.",
-            "Quá độ trực tiếp"
-          ],
-          [
-            "Thực chất của _______lên chủ nghĩa xã hội là thời kỳ cải biến cách mạng từ xã hội tiền tư bản chủ nghĩa và tư bản chủ nghĩa sang xã hội xã hội chủ nghĩa.",
-            "Thời kỳ quá độ"
-          ],
-          [
-            "_______từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước chưa trải qua chủ nghĩa tư bản phát triển.",
-            "Quá độ gián tiếp"
-          ]
-        ]
-      }
-    ],
-    "type": "drag_drop_match",
-    "pairs": [
-      {
-        "left": "_______từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước đã trải qua chủ nghĩa tư bản phát triển.",
-        "right": "Quá độ trực tiếp"
-      },
-      {
-        "left": "Thực chất của _______lên chủ nghĩa xã hội là thời kỳ cải biến cách mạng từ xã hội tiền tư bản chủ nghĩa và tư bản chủ nghĩa sang xã hội xã hội chủ nghĩa.",
-        "right": "Thời kỳ quá độ"
-      },
-      {
-        "left": "_______từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước chưa trải qua chủ nghĩa tư bản phát triển.",
-        "right": "Quá độ gián tiếp"
-      }
-    ],
-    "options_pool": [
-      "Quá độ trực tiếp",
-      "Thời kỳ quá độ",
-      "Quá độ gián tiếp"
-    ],
-    "instruction": "Kéo hoặc chọn đáp án đúng ghép vào vế tương ứng",
-    "lesson": "Bài 2",
-    "q_num": 42,
-    "body_index": 443,
-    "id": "word-c41143f3c5139fa3-p443"
-  },
-  {
-    "lesson_num": 2,
-    "question": "Câu 43: Kéo thả các đáp án khớp với các phát biểu từ 1 – 4 về trái dưới đây:",
-    "source_q_num": 43,
-    "source_title": "Câu 43 : Kéo thả các đáp án khớp với các phát biểu từ 1 – 4 về trái dưới đây:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 43,
-        "body_index": 447
-      }
-    ],
-    "source_content": [
-      {
-        "table": [
-          [
-            "1. Mỗi kiểu dân chủ trong lịch sử đều mang ______ nhất định",
-            "bản chất giai cấp"
-          ],
-          [
-            "2. ______ là hình thức dân chủ ra đời từ cách mạng tư sản",
-            "dân chủ tư sản"
-          ],
-          [
-            "3. ______ là nền dân chủ cao hơn về chất so với nền dân chủ có trong lịch sử nhân loại",
-            "dân chủ xã hội chủ nghĩa"
-          ],
-          [
-            "4. Nền dân chủ chủ nô, gắn với chế độ ______.",
-            "chiếm hữu nô lệ"
-          ]
-        ]
-      }
-    ],
-    "type": "drag_drop_match",
-    "pairs": [
-      {
-        "left": "1. Mỗi kiểu dân chủ trong lịch sử đều mang ______ nhất định",
-        "right": "bản chất giai cấp"
-      },
-      {
-        "left": "2. ______ là hình thức dân chủ ra đời từ cách mạng tư sản",
-        "right": "dân chủ tư sản"
-      },
-      {
-        "left": "3. ______ là nền dân chủ cao hơn về chất so với nền dân chủ có trong lịch sử nhân loại",
-        "right": "dân chủ xã hội chủ nghĩa"
-      },
-      {
-        "left": "4. Nền dân chủ chủ nô, gắn với chế độ ______.",
-        "right": "chiếm hữu nô lệ"
-      }
-    ],
-    "options_pool": [
-      "bản chất giai cấp",
-      "dân chủ tư sản",
-      "dân chủ xã hội chủ nghĩa",
-      "chiếm hữu nô lệ"
-    ],
-    "instruction": "Kéo hoặc chọn đáp án đúng ghép vào vế tương ứng",
-    "lesson": "Bài 2",
-    "q_num": 43,
-    "body_index": 447,
-    "id": "word-c41143f3c5139fa3-p447"
-  },
-  {
-    "lesson_num": 2,
-    "question": "Câu 44: Những đặc điểm nổi bật trong thời kỳ quá độ lên chủ nghĩa xã hội gồm:",
-    "source_q_num": 26,
-    "source_title": "Câu 26 (Bài 2 – Chọn 2 đáp án đúng): Những đặc điểm nổi bật trong thời kỳ quá độ lên chủ nghĩa xã hội gồm:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 26,
-        "body_index": 1156
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Sự tồn tại song song của các yếu tố cũ và yếu tố mới B. Không còn mâu thuẫn xã hội nào C. Xã hội hoàn toàn không còn giai cấp D. Tồn tại nhiều thành phần kinh tế khác nhau"
-      },
-      {
-        "text": "Đáp án: A và D"
-      }
-    ],
-    "is_thuong_xuyen": true,
-    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 1",
-    "type": "multiple_choice",
-    "options": [
-      "A. Sự tồn tại song song của các yếu tố cũ và yếu tố mới",
-      "B. Không còn mâu thuẫn xã hội nào",
-      "C. Xã hội hoàn toàn không còn giai cấp",
-      "D. Tồn tại nhiều thành phần kinh tế khác nhau"
-    ],
-    "correct_answers": [
-      0,
-      3
-    ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bài 2",
-    "q_num": 44,
-    "body_index": 1156,
-    "id": "word-c41143f3c5139fa3-p1156"
-  },
-  {
-    "lesson_num": 2,
-    "question": "Câu 45: So sánh sự khác nhau giữa giai đoạn thấp và giai đoạn cao của hình thái kinh tế - xã hội cộng sản chủ nghĩa?",
-    "source_q_num": 27,
-    "source_title": "Câu 27 (Bài 2): So sánh sự khác nhau giữa giai đoạn thấp và giai đoạn cao của hình thái kinh tế - xã hội cộng sản chủ nghĩa?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 27,
-        "body_index": 1159
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Giai đoạn thấp thực hiện phân phối theo lao động, giai đoạn cao thực hiện phân phối theo nhu cầu B. Giai đoạn thấp không có sự phân chia giai cấp C. Giai đoạn thấp sử dụng pháp quyền tư sản D. Giai đoạn thấp thực hiện phân phối theo nhu cầu, giai đoạn cao thực hiện phân phối theo lao động"
-      },
-      {
-        "text": "Đáp án: A"
-      }
-    ],
-    "is_thuong_xuyen": true,
-    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 1",
-    "type": "single_choice",
-    "options": [
-      "A. Giai đoạn thấp thực hiện phân phối theo lao động, giai đoạn cao thực hiện phân phối theo nhu cầu",
-      "B. Giai đoạn thấp không có sự phân chia giai cấp",
-      "C. Giai đoạn thấp sử dụng pháp quyền tư sản",
-      "D. Giai đoạn thấp thực hiện phân phối theo nhu cầu, giai đoạn cao thực hiện phân phối theo lao động"
+      "A. Để các đơn vị có thể liên kết và phối hợp với nhau.",
+      "B. Để dễ dàng quản lý nhân sự.",
+      "C. Để tiết kiệm chi phí.",
+      "D. Để đảm bảo các hoạt động không bị trùng lặp."
     ],
     "correct_answers": [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 2",
-    "q_num": 45,
-    "body_index": 1159,
-    "id": "word-c41143f3c5139fa3-p1159"
+    "lesson": "Bài 3",
+    "q_num": 16,
+    "body_index": 433,
+    "id": "word-1d55e841b9e15dba-p433"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 1: Theo nguyên nghĩa tiếng Hy Lạp thì \"Dân chủ\" là gì?",
-    "source_q_num": 1,
-    "source_title": "Câu 1: Theo nguyên nghĩa tiếng Hy Lạp thì \"Dân chủ\" là gì?",
+    "question": "Câu 17: Khi lập lịch làm việc, nguyên tắc nào giúp tránh xung đột về thời gian và địa điểm?",
+    "source_q_num": 17,
+    "source_title": "Câu 17: Khi lập lịch làm việc, nguyên tắc nào giúp tránh xung đột về thời gian và địa điểm?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 1,
-        "body_index": 452
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 17,
+        "body_index": 439
       }
     ],
     "source_content": [
       {
-        "text": "A. Là quyền của con người"
+        "text": "A. Nguyên tắc không trùng lặp"
       },
       {
-        "text": "B. Là quyền lực thuộc về nhân dân"
+        "text": "B. Nguyên tắc dự phòng"
       },
       {
-        "text": "C. Là trật tự xã hội"
+        "text": "C. Nguyên tắc minh bạch"
       },
       {
-        "text": "D. Là quyền tự do của mỗi người"
+        "text": "D. Nguyên tắc ưu tiên"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Là quyền của con người",
-      "B. Là quyền lực thuộc về nhân dân",
-      "C. Là trật tự xã hội",
-      "D. Là quyền tự do của mỗi người"
+      "A. Nguyên tắc không trùng lặp",
+      "B. Nguyên tắc dự phòng",
+      "C. Nguyên tắc minh bạch",
+      "D. Nguyên tắc ưu tiên"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 3",
+    "q_num": 17,
+    "body_index": 439,
+    "id": "word-1d55e841b9e15dba-p439"
+  },
+  {
+    "lesson_num": 3,
+    "question": "Câu 18: Nhận diện yếu tố nào sau đây không thuộc nguyên tắc khi xây dựng lịch làm việc?",
+    "source_q_num": 18,
+    "source_title": "Câu 18: Nhận diện yếu tố nào sau đây không thuộc nguyên tắc khi xây dựng lịch làm việc?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 18,
+        "body_index": 445
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Nhân sự"
+      },
+      {
+        "text": "B. Ngân sách"
+      },
+      {
+        "text": "C. Địa điểm"
+      },
+      {
+        "text": "D. Thời gian"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Nhân sự",
+      "B. Ngân sách",
+      "C. Địa điểm",
+      "D. Thời gian"
     ],
     "correct_answers": [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 3",
-    "q_num": 1,
-    "body_index": 452,
-    "id": "word-c41143f3c5139fa3-p452"
+    "q_num": 18,
+    "body_index": 445,
+    "id": "word-1d55e841b9e15dba-p445"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 2: Dân chủ xã hội chủ nghĩa mang tính nhất nguyên về chính trị, được hiểu là:",
-    "source_q_num": 2,
-    "source_title": "Câu 2: Dân chủ xã hội chủ nghĩa mang tính nhất nguyên về chính trị, được hiểu là:",
+    "question": "Câu 19: Phân loại các hoạt động của cơ quan theo mức độ ưu tiên khi xây dựng lịch làm việc là nhiệm vụ của ai?",
+    "source_q_num": 19,
+    "source_title": "Câu 19: Phân loại các hoạt động của cơ quan theo mức độ ưu tiên khi xây dựng lịch làm việc là nhiệm vụ của ai?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 2,
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 19,
+        "body_index": 451
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Giám đốc"
+      },
+      {
+        "text": "B. Thư ký văn phòng"
+      },
+      {
+        "text": "C. Nhân viên nhân sự"
+      },
+      {
+        "text": "D. Nhân viên tài chính"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Giám đốc",
+      "B. Thư ký văn phòng",
+      "C. Nhân viên nhân sự",
+      "D. Nhân viên tài chính"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 3",
+    "q_num": 19,
+    "body_index": 451,
+    "id": "word-1d55e841b9e15dba-p451"
+  },
+  {
+    "lesson_num": 3,
+    "question": "Câu 20: Thư ký văn phòng sẽ áp dụng nguyên tắc dự phòng nào để xử lý tình huống này một cách hiệu quả?",
+    "source_q_num": 20,
+    "source_title": "Câu 20: Thư ký văn phòng sẽ áp dụng nguyên tắc dự phòng nào để xử lý tình huống này một cách hiệu quả?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 20,
         "body_index": 457
       }
     ],
     "source_content": [
       {
-        "text": "A. Nền dân chủ xã hội chủ nghĩa đại biểu cho trí tuệ, lợi ích của riêng giai cấp công nhân và giai cấp nông dân"
+        "text": "A. Hủy toàn bộ lịch trình đã lên kế hoạch và bắt đầu lập lại từ đầu."
       },
       {
-        "text": "B. Nền dân chủ xã hội chủ nghĩa do Đảng Cộng sản lãnh đạo – đại biểu cho trí tuệ, lợi ích của giai cấp công nhân, nhân dân lao động và toàn dân tộc"
+        "text": "B. Dành thời gian dự phòng trong lịch trình để có thể thay đổi thời gian họp mà không ảnh hưởng đến các cuộc họp khác."
       },
       {
-        "text": "C. Nền dân chủ xã hội chủ nghĩa đại biểu cho trí tuệ, lợi ích của riêng giai cấp công nhân và nhân dân lao động"
+        "text": "C. Chỉ thay đổi thời gian họp mà không cân nhắc đến các công việc khác."
       },
       {
-        "text": "D. Nền dân chủ xã hội chủ nghĩa đại biểu cho trí tuệ, lợi ích của riêng giai cấp công nhân và tầng lớp trí thức"
+        "text": "D. Từ chối yêu cầu thay đổi của đối tác và giữ nguyên lịch trình."
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Nền dân chủ xã hội chủ nghĩa đại biểu cho trí tuệ, lợi ích của riêng giai cấp công nhân và giai cấp nông dân",
-      "B. Nền dân chủ xã hội chủ nghĩa do Đảng Cộng sản lãnh đạo – đại biểu cho trí tuệ, lợi ích của giai cấp công nhân, nhân dân lao động và toàn dân tộc",
-      "C. Nền dân chủ xã hội chủ nghĩa đại biểu cho trí tuệ, lợi ích của riêng giai cấp công nhân và nhân dân lao động",
-      "D. Nền dân chủ xã hội chủ nghĩa đại biểu cho trí tuệ, lợi ích của riêng giai cấp công nhân và tầng lớp trí thức"
+      "A. Hủy toàn bộ lịch trình đã lên kế hoạch và bắt đầu lập lại từ đầu.",
+      "B. Dành thời gian dự phòng trong lịch trình để có thể thay đổi thời gian họp mà không ảnh hưởng đến các cuộc họp khác.",
+      "C. Chỉ thay đổi thời gian họp mà không cân nhắc đến các công việc khác.",
+      "D. Từ chối yêu cầu thay đổi của đối tác và giữ nguyên lịch trình."
     ],
     "correct_answers": [
       1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 3",
-    "q_num": 2,
-    "body_index": 457,
-    "id": "word-c41143f3c5139fa3-p457"
-  },
-  {
-    "lesson_num": 3,
-    "question": "Câu 3: Lịch sử loài người đã từng xuất hiện các nền dân chủ nào?",
-    "source_q_num": 3,
-    "source_title": "Câu 3: Lịch sử loài người đã từng xuất hiện các nền dân chủ nào?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 3,
-        "body_index": 462
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Nền dân chủ chủ nô, nền dân chủ phong kiến, nền dân chủ tư sản."
-      },
-      {
-        "text": "B. Nền dân chủ nguyên thủy, nền dân chủ chủ nô, nền dân chủ phong kiến, nền dân chủ tư sản, nền dân chủ vô sản."
-      },
-      {
-        "text": "C. Nền dân chủ chủ nô, nền dân chủ phong kiến, nền dân chủ tư sản, nền dân chủ vô sản."
-      },
-      {
-        "text": "D. Nền dân chủ chủ nô, nền dân chủ tư sản, nền dân chủ xã hội chủ nghĩa."
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Nền dân chủ chủ nô, nền dân chủ phong kiến, nền dân chủ tư sản.",
-      "B. Nền dân chủ nguyên thủy, nền dân chủ chủ nô, nền dân chủ phong kiến, nền dân chủ tư sản, nền dân chủ vô sản.",
-      "C. Nền dân chủ chủ nô, nền dân chủ phong kiến, nền dân chủ tư sản, nền dân chủ vô sản.",
-      "D. Nền dân chủ chủ nô, nền dân chủ tư sản, nền dân chủ xã hội chủ nghĩa."
-    ],
-    "correct_answers": [
-      3
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 3",
-    "q_num": 3,
-    "body_index": 462,
-    "id": "word-c41143f3c5139fa3-p462"
-  },
-  {
-    "lesson_num": 3,
-    "question": "Câu 4: Bản chất chính trị của nền dân chủ xã hội chủ nghĩa thể hiện như thế nào?",
-    "source_q_num": 4,
-    "source_title": "Câu 4: Bản chất chính trị của nền dân chủ xã hội chủ nghĩa thể hiện như thế nào?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 4,
-        "body_index": 467
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Quyền lực và lợi ích thuộc về toàn thể nhân dân lao động, trong đó có giai cấp công nhân, dưới sự lãnh đạo của Đảng Cộng sản"
-      },
-      {
-        "text": "B. Quyền lực thuộc về một cá nhân duy nhất, không có sự tham gia của quần chúng nhân dân."
-      },
-      {
-        "text": "C. Nhà nước chủ yếu thực hiện các quyết định chính trị mà không cần sự đồng thuận hoặc tham gia của người dân."
-      },
-      {
-        "text": "D. Nền dân chủ tập trung vào phát triển kinh tế tư nhân và bảo vệ lợi ích của tầng lớp giàu có."
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Quyền lực và lợi ích thuộc về toàn thể nhân dân lao động, trong đó có giai cấp công nhân, dưới sự lãnh đạo của Đảng Cộng sản",
-      "B. Quyền lực thuộc về một cá nhân duy nhất, không có sự tham gia của quần chúng nhân dân.",
-      "C. Nhà nước chủ yếu thực hiện các quyết định chính trị mà không cần sự đồng thuận hoặc tham gia của người dân.",
-      "D. Nền dân chủ tập trung vào phát triển kinh tế tư nhân và bảo vệ lợi ích của tầng lớp giàu có."
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 3",
-    "q_num": 4,
-    "body_index": 467,
-    "id": "word-c41143f3c5139fa3-p467"
-  },
-  {
-    "lesson_num": 3,
-    "question": "Câu 5: Bản chất tư tưởng - văn hoá - xã hội của nền dân chủ xã hội chủ nghĩa được thể hiện ở nội dung nào?",
-    "source_q_num": 5,
-    "source_title": "Câu 5: Bản chất tư tưởng - văn hoá - xã hội của nền dân chủ xã hội chủ nghĩa được thể hiện ở nội dung nào?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 5,
-        "body_index": 472
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Lấy hệ tư tưởng của giai cấp tư sản làm chủ đạo"
-      },
-      {
-        "text": "B. Lấy hệ tư tưởng của giai cấp tiểu tư sản làm chủ đạo"
-      },
-      {
-        "text": "C. Lấy hệ tư tưởng của giai cấp nông dân làm chủ đạo"
-      },
-      {
-        "text": "D. Lấy hệ tư tưởng Mác - Lênin - hệ tư tưởng của giai cấp công nhân làm chủ đạo"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Lấy hệ tư tưởng của giai cấp tư sản làm chủ đạo",
-      "B. Lấy hệ tư tưởng của giai cấp tiểu tư sản làm chủ đạo",
-      "C. Lấy hệ tư tưởng của giai cấp nông dân làm chủ đạo",
-      "D. Lấy hệ tư tưởng Mác - Lênin - hệ tư tưởng của giai cấp công nhân làm chủ đạo"
-    ],
-    "correct_answers": [
-      3
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 3",
-    "q_num": 5,
-    "body_index": 472,
-    "id": "word-c41143f3c5139fa3-p472"
-  },
-  {
-    "lesson_num": 3,
-    "question": "Câu 6: Đặc điểm của nhà nước pháp quyền xã hội chủ nghĩa là gì?",
-    "source_q_num": 6,
-    "source_title": "Câu 6: Đặc điểm của nhà nước pháp quyền xã hội chủ nghĩa là gì?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 6,
-        "body_index": 477
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Quản lý xã hội bằng pháp luật"
-      },
-      {
-        "text": "B. Quản lý xã hội bằng niềm tin"
-      },
-      {
-        "text": "C. Quản lý xã hội bằng mệnh lệnh hành chính"
-      },
-      {
-        "text": "D. Quản lý xã hội bằng dư luận"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Quản lý xã hội bằng pháp luật",
-      "B. Quản lý xã hội bằng niềm tin",
-      "C. Quản lý xã hội bằng mệnh lệnh hành chính",
-      "D. Quản lý xã hội bằng dư luận"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 3",
-    "q_num": 6,
-    "body_index": 477,
-    "id": "word-c41143f3c5139fa3-p477"
-  },
-  {
-    "lesson_num": 3,
-    "question": "Câu 7: Kiểu nhà nước nào sau đây được V.I. Lênin gọi là nhà nước \"nửa nhà nước\"?",
-    "source_q_num": 7,
-    "source_title": "Câu 7: Kiểu nhà nước nào sau đây được V.I. Lênin gọi là nhà nước \"nửa nhà nước\"?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 7,
-        "body_index": 482
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Nhà nước phong kiến"
-      },
-      {
-        "text": "B. Nhà nước tư sản"
-      },
-      {
-        "text": "C. Nhà nước xã hội chủ nghĩa"
-      },
-      {
-        "text": "D. Nhà nước chủ nô"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Nhà nước phong kiến",
-      "B. Nhà nước tư sản",
-      "C. Nhà nước xã hội chủ nghĩa",
-      "D. Nhà nước chủ nô"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 3",
-    "q_num": 7,
-    "body_index": 482,
-    "id": "word-c41143f3c5139fa3-p482"
-  },
-  {
-    "lesson_num": 3,
-    "question": "Câu 8: Căn cứ vào phạm vi tác động của quyền lực nhà nước, chức năng của nhà nước được chia thành:",
-    "source_q_num": 8,
-    "source_title": "Câu 8: Căn cứ vào phạm vi tác động của quyền lực nhà nước, chức năng của nhà nước được chia thành:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 8,
-        "body_index": 487
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Chức năng đối nội và chức năng đối ngoại"
-      },
-      {
-        "text": "B. Chức năng giai cấp, xã hội"
-      },
-      {
-        "text": "C. Chức năng trấn áp và chức năng tổ chức, xây dựng"
-      },
-      {
-        "text": "D. Chức năng chính trị, kinh tế, văn hóa, xã hội"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Chức năng đối nội và chức năng đối ngoại",
-      "B. Chức năng giai cấp, xã hội",
-      "C. Chức năng trấn áp và chức năng tổ chức, xây dựng",
-      "D. Chức năng chính trị, kinh tế, văn hóa, xã hội"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 3",
-    "q_num": 8,
-    "body_index": 487,
-    "id": "word-c41143f3c5139fa3-p487"
-  },
-  {
-    "lesson_num": 3,
-    "question": "Câu 9: Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam ở Việt Nam được thực hiện thông qua:",
-    "source_q_num": 9,
-    "source_title": "Câu 9: Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam ở Việt Nam được thực hiện thông qua:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 9,
-        "body_index": 492
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Các hình thức dân chủ không tự nguyện"
-      },
-      {
-        "text": "B. Các hình thức dân chủ cơ bản và không cơ bản"
-      },
-      {
-        "text": "C. Các hình thức dân chủ gián tiếp và trực tiếp"
-      },
-      {
-        "text": "D. Các hình thức dân chủ tự nguyện"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Các hình thức dân chủ không tự nguyện",
-      "B. Các hình thức dân chủ cơ bản và không cơ bản",
-      "C. Các hình thức dân chủ gián tiếp và trực tiếp",
-      "D. Các hình thức dân chủ tự nguyện"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 3",
-    "q_num": 9,
-    "body_index": 492,
-    "id": "word-c41143f3c5139fa3-p492"
-  },
-  {
-    "lesson_num": 3,
-    "question": "Câu 10: So với các mô hình nhà nước khác trong lịch sử thì nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam có sự khác biệt về chất như thế nào?",
-    "source_q_num": 10,
-    "source_title": "Câu 10: So với các mô hình nhà nước khác trong lịch sử thì nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam có sự khác biệt về chất như thế nào?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 10,
-        "body_index": 497
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Vừa mang bản chất của giai cấp công nhân và nhân dân lao động"
-      },
-      {
-        "text": "B. Mang bản chất của đa số nhân dân lao động"
-      },
-      {
-        "text": "C. Mang bản chất của giai cấp công nhân, tính nhân dân rộng rãi và tính dân tộc sâu sắc"
-      },
-      {
-        "text": "D. Mang bản chất của giai cấp công nhân"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Vừa mang bản chất của giai cấp công nhân và nhân dân lao động",
-      "B. Mang bản chất của đa số nhân dân lao động",
-      "C. Mang bản chất của giai cấp công nhân, tính nhân dân rộng rãi và tính dân tộc sâu sắc",
-      "D. Mang bản chất của giai cấp công nhân"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 3",
-    "q_num": 10,
-    "body_index": 497,
-    "id": "word-c41143f3c5139fa3-p497"
-  },
-  {
-    "lesson_num": 3,
-    "question": "Câu 11: Nền dân chủ xã hội chủ nghĩa ở Việt Nam có điểm khác biệt cơ bản nào so với các nền dân chủ trước đây?",
-    "source_q_num": 11,
-    "source_title": "Câu 11: Nền dân chủ xã hội chủ nghĩa ở Việt Nam có điểm khác biệt cơ bản nào so với các nền dân chủ trước đây?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 11,
-        "body_index": 502
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Là nền dân chủ phi lịch sử"
-      },
-      {
-        "text": "B. Là nền dân chủ thuần tuý"
-      },
-      {
-        "text": "C. Là nền dân chủ rộng rãi cho giai cấp công nhân và nhân dân lao động"
-      },
-      {
-        "text": "D. Còn mang tính giai"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Là nền dân chủ phi lịch sử",
-      "B. Là nền dân chủ thuần tuý",
-      "C. Là nền dân chủ rộng rãi cho giai cấp công nhân và nhân dân lao động",
-      "D. Còn mang tính giai"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 3",
-    "q_num": 11,
-    "body_index": 502,
-    "id": "word-c41143f3c5139fa3-p502"
-  },
-  {
-    "lesson_num": 3,
-    "question": "Câu 12: Hãy xác định mục tiêu chính của việc xây dựng Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam.",
-    "source_q_num": 12,
-    "source_title": "Câu 12: Hãy xác định mục tiêu chính của việc xây dựng Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam.",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 12,
-        "body_index": 507
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Tăng cường sự kiểm soát của nhà nước"
-      },
-      {
-        "text": "B. Phục vụ lợi ích của giai cấp công nhân và nhân dân lao động"
-      },
-      {
-        "text": "C. Phát triển kinh tế thị trường tự do"
-      },
-      {
-        "text": "D. Giảm thiểu sự can thiệp của nhà nước"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Tăng cường sự kiểm soát của nhà nước",
-      "B. Phục vụ lợi ích của giai cấp công nhân và nhân dân lao động",
-      "C. Phát triển kinh tế thị trường tự do",
-      "D. Giảm thiểu sự can thiệp của nhà nước"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 3",
-    "q_num": 12,
-    "body_index": 507,
-    "id": "word-c41143f3c5139fa3-p507"
-  },
-  {
-    "lesson_num": 3,
-    "question": "Câu 13: Bản chất của nền dân chủ xã hội chủ nghĩa là: (Chọn 2 đáp án đúng)",
-    "source_q_num": 13,
-    "source_title": "Câu 13: Bản chất của nền dân chủ xã hội chủ nghĩa là: (Chọn 2 đáp án đúng)",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 13,
-        "body_index": 512
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Nền dân chủ của đa số nhân dân lao động"
-      },
-      {
-        "text": "B. Nền dân chủ của giai cấp tư sản"
-      },
-      {
-        "text": "C. Nền dân chủ mang tính cá nhân"
-      },
-      {
-        "text": "D. Nền dân chủ mang tính tập thể"
-      }
-    ],
-    "type": "multiple_choice",
-    "options": [
-      "A. Nền dân chủ của đa số nhân dân lao động",
-      "B. Nền dân chủ của giai cấp tư sản",
-      "C. Nền dân chủ mang tính cá nhân",
-      "D. Nền dân chủ mang tính tập thể"
-    ],
-    "correct_answers": [
-      0,
-      3
-    ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bài 3",
-    "q_num": 13,
-    "body_index": 512,
-    "id": "word-c41143f3c5139fa3-p512"
-  },
-  {
-    "lesson_num": 3,
-    "question": "Câu 14: Đặc điểm nổi bật của nền dân chủ xã hội chủ nghĩa là gì? (Chọn 2 đáp án đúng)",
-    "source_q_num": 14,
-    "source_title": "Câu 14: Đặc điểm nổi bật của nền dân chủ xã hội chủ nghĩa là gì? (Chọn 2 đáp án đúng)",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 14,
-        "body_index": 517
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Đặt quyền lợi của nhân dân lao động lên hàng đầu"
-      },
-      {
-        "text": "B. Tôn trọng quyền sở hữu tư nhân tuyệt đối"
-      },
-      {
-        "text": "C. Phân biệt rõ ràng giữa các tầng lớp xã hội"
-      },
-      {
-        "text": "D. Thực hiện quyền làm chủ tập thể của nhân dân"
-      }
-    ],
-    "type": "multiple_choice",
-    "options": [
-      "A. Đặt quyền lợi của nhân dân lao động lên hàng đầu",
-      "B. Tôn trọng quyền sở hữu tư nhân tuyệt đối",
-      "C. Phân biệt rõ ràng giữa các tầng lớp xã hội",
-      "D. Thực hiện quyền làm chủ tập thể của nhân dân"
-    ],
-    "correct_answers": [
-      0,
-      3
-    ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bài 3",
-    "q_num": 14,
-    "body_index": 517,
-    "id": "word-c41143f3c5139fa3-p517"
-  },
-  {
-    "lesson_num": 3,
-    "question": "Câu 15: Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam được xây dựng dựa trên những nguyên tắc nào sau đây? (Chọn 2 đáp án đúng)",
-    "source_q_num": 15,
-    "source_title": "Câu 15: Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam được xây dựng dựa trên những nguyên tắc nào sau đây? (Chọn 2 đáp án đúng)",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 15,
-        "body_index": 522
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Nhà nước quản lý xã hội bằng hiến pháp, pháp luật"
-      },
-      {
-        "text": "B. Đảng lãnh đạo nhà nước theo phương thức mệnh lệnh"
-      },
-      {
-        "text": "C. Quyền lực nhà nước là tối cao, không cần kiểm soát"
-      },
-      {
-        "text": "D. Quyền lực nhà nước thống nhất, có phân công, phối hợp và kiểm soát"
-      }
-    ],
-    "type": "multiple_choice",
-    "options": [
-      "A. Nhà nước quản lý xã hội bằng hiến pháp, pháp luật",
-      "B. Đảng lãnh đạo nhà nước theo phương thức mệnh lệnh",
-      "C. Quyền lực nhà nước là tối cao, không cần kiểm soát",
-      "D. Quyền lực nhà nước thống nhất, có phân công, phối hợp và kiểm soát"
-    ],
-    "correct_answers": [
-      0,
-      3
-    ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bài 3",
-    "q_num": 15,
-    "body_index": 522,
-    "id": "word-c41143f3c5139fa3-p522"
-  },
-  {
-    "lesson_num": 3,
-    "question": "Câu 16: Chế độ dân chủ nhân dân ở Việt Nam được xác lập từ khi nào?",
-    "source_q_num": 16,
-    "source_title": "Câu 16: Chế độ dân chủ nhân dân ở Việt Nam được xác lập từ khi nào?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 16,
-        "body_index": 527
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Sau khi Đảng Cộng sản ra đời"
-      },
-      {
-        "text": "B. Sau cách mạng tháng Tám năm 1945"
-      },
-      {
-        "text": "C. Sau kháng chiến chống thực dân Pháp năm 1954"
-      },
-      {
-        "text": "D. Sau kháng chiến chống đế quốc Mỹ năm 1975"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Sau khi Đảng Cộng sản ra đời",
-      "B. Sau cách mạng tháng Tám năm 1945",
-      "C. Sau kháng chiến chống thực dân Pháp năm 1954",
-      "D. Sau kháng chiến chống đế quốc Mỹ năm 1975"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 3",
-    "q_num": 16,
-    "body_index": 527,
-    "id": "word-c41143f3c5139fa3-p527"
-  },
-  {
-    "lesson_num": 3,
-    "question": "Câu 17: Chọn ý không đúng về điểm khác biệt của nền dân chủ xã hội chủ nghĩa so với nền dân chủ tư sản:",
-    "source_q_num": 17,
-    "source_title": "Câu 17 : Chọn ý không đúng về điểm khác biệt của nền dân chủ xã hội chủ nghĩa so với nền dân chủ tư sản:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 17,
-        "body_index": 532
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Mang tính nhất nguyên về chính trị"
-      },
-      {
-        "text": "B. Trước hết và chủ yếu được thực hiện bằng Nhà nước pháp quyền xã hội chủ nghĩa"
-      },
-      {
-        "text": "C. Dựa trên chế độ sở hữu xã hội về những tư liệu sản xuất chủ yếu của toàn xã hội"
-      },
-      {
-        "text": "D. Không mang tính giai cấp"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Mang tính nhất nguyên về chính trị",
-      "B. Trước hết và chủ yếu được thực hiện bằng Nhà nước pháp quyền xã hội chủ nghĩa",
-      "C. Dựa trên chế độ sở hữu xã hội về những tư liệu sản xuất chủ yếu của toàn xã hội",
-      "D. Không mang tính giai cấp"
-    ],
-    "correct_answers": [
-      3
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 3",
-    "q_num": 17,
-    "body_index": 532,
-    "id": "word-c41143f3c5139fa3-p532"
-  },
-  {
-    "lesson_num": 3,
-    "question": "Câu 18: Sự ra đời của nhà nước xã hội chủ nghĩa gắn với sự kiện nào?",
-    "source_q_num": 18,
-    "source_title": "Câu 18: Sự ra đời của nhà nước xã hội chủ nghĩa gắn với sự kiện nào?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 18,
-        "body_index": 537
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Giai cấp công nhân đấu tranh phản đối tình trạng áp bức bóc lột của giai cấp tư sản"
-      },
-      {
-        "text": "B. Giai cấp công nhân xây dựng xong CNXH"
-      },
-      {
-        "text": "C. Giai cấp công nhân đấu tranh đòi tăng lương, giảm giờ làm, cải thiện điều kiện lao động"
-      },
-      {
-        "text": "D. Giai cấp công nhân lật đổ nhà nước của giai cấp bóc lột, giành được chính quyền"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Giai cấp công nhân đấu tranh phản đối tình trạng áp bức bóc lột của giai cấp tư sản",
-      "B. Giai cấp công nhân xây dựng xong CNXH",
-      "C. Giai cấp công nhân đấu tranh đòi tăng lương, giảm giờ làm, cải thiện điều kiện lao động",
-      "D. Giai cấp công nhân lật đổ nhà nước của giai cấp bóc lột, giành được chính quyền"
-    ],
-    "correct_answers": [
-      3
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 3",
-    "q_num": 18,
-    "body_index": 537,
-    "id": "word-c41143f3c5139fa3-p537"
-  },
-  {
-    "lesson_num": 3,
-    "question": "Câu 19: Hãy xác định biện pháp để nâng cao hiệu quả hoạt động của Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam.",
-    "source_q_num": 19,
-    "source_title": "Câu 19: Hãy xác định biện pháp để nâng cao hiệu quả hoạt động của Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam.",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 19,
-        "body_index": 542
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Tăng cường sự kiểm soát của nhà nước"
-      },
-      {
-        "text": "B. Giảm thiểu sự phát triển của khu vực tư nhân"
-      },
-      {
-        "text": "C. Giảm thiểu sự can thiệp của các tổ chức xã hội"
-      },
-      {
-        "text": "D. Xây dựng và từng bước hoàn thiện hệ thống giám sát, phản biện xã hội"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Tăng cường sự kiểm soát của nhà nước",
-      "B. Giảm thiểu sự phát triển của khu vực tư nhân",
-      "C. Giảm thiểu sự can thiệp của các tổ chức xã hội",
-      "D. Xây dựng và từng bước hoàn thiện hệ thống giám sát, phản biện xã hội"
-    ],
-    "correct_answers": [
-      3
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 3",
-    "q_num": 19,
-    "body_index": 542,
-    "id": "word-c41143f3c5139fa3-p542"
-  },
-  {
-    "lesson_num": 3,
-    "question": "Câu 20: Bằng hiểu biết của bản thân, hãy cho biết đâu là hình thức dân chủ gián tiếp?",
-    "source_q_num": 20,
-    "source_title": "Câu 20 : Bằng hiểu biết của bản thân, hãy cho biết đâu là hình thức dân chủ gián tiếp?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 20,
-        "body_index": 547
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Người dân trực tiếp tham gia bỏ phiếu để quyết định các vấn đề quan trọng của đất nước."
-      },
-      {
-        "text": "B. Người dân tự tổ chức các phong trào xã hội để yêu cầu các quyền lợi mà không thông qua bất kỳ đại diện nào."
-      },
-      {
-        "text": "C. Người dân tham gia trực tiếp vào các cuộc trưng cầu dân ý về các chính sách hoặc luật pháp cụ thể."
-      },
-      {
-        "text": "D. Người dân bầu ra đại diện của mình để thay mặt họ quyết định các vấn đề quan trọng trong quốc hội hoặc cơ quan lập pháp."
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Người dân trực tiếp tham gia bỏ phiếu để quyết định các vấn đề quan trọng của đất nước.",
-      "B. Người dân tự tổ chức các phong trào xã hội để yêu cầu các quyền lợi mà không thông qua bất kỳ đại diện nào.",
-      "C. Người dân tham gia trực tiếp vào các cuộc trưng cầu dân ý về các chính sách hoặc luật pháp cụ thể.",
-      "D. Người dân bầu ra đại diện của mình để thay mặt họ quyết định các vấn đề quan trọng trong quốc hội hoặc cơ quan lập pháp."
-    ],
-    "correct_answers": [
-      3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 3",
     "q_num": 20,
-    "body_index": 547,
-    "id": "word-c41143f3c5139fa3-p547"
+    "body_index": 457,
+    "id": "word-1d55e841b9e15dba-p457"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 21: So với các nền dân chủ trước đây, dân chủ xã hội chủ nghĩa có điểm khác biệt cơ bản nào?",
+    "question": "Câu 21: Khi có yêu cầu cần lập kế hoạch cho một dự án nghiên cứu thị trường mới, thư ký văn phòng sẽ phải làm gì?",
     "source_q_num": 21,
-    "source_title": "Câu 21: So với các nền dân chủ trước đây, dân chủ xã hội chủ nghĩa có điểm khác biệt cơ bản nào?",
+    "source_title": "Câu 21: Khi có yêu cầu cần lập kế hoạch cho một dự án nghiên cứu thị trường mới, thư ký văn phòng sẽ phải làm gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 21,
-        "body_index": 552
+        "body_index": 463
       }
     ],
     "source_content": [
       {
-        "text": "A. Là nền dân chủ rộng rãi cho giai cấp công nhân và nhân dân lao động"
+        "text": "A. Thu thập thông tin và xác định mục tiêu"
       },
       {
-        "text": "B. Là nền dân chủ phi lịch sử"
+        "text": "B. Lập kế hoạch chi tiết và phân công nhiệm vụ"
       },
       {
-        "text": "C. Không còn mang tính giai cấp"
+        "text": "C. Theo dõi tiến độ và báo cáo kết quả"
       },
       {
-        "text": "D. Là nền dân chủ thuần túy"
+        "text": "D. Tất cả các đáp án trên"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Là nền dân chủ rộng rãi cho giai cấp công nhân và nhân dân lao động",
-      "B. Là nền dân chủ phi lịch sử",
-      "C. Không còn mang tính giai cấp",
-      "D. Là nền dân chủ thuần túy"
+      "A. Thu thập thông tin và xác định mục tiêu",
+      "B. Lập kế hoạch chi tiết và phân công nhiệm vụ",
+      "C. Theo dõi tiến độ và báo cáo kết quả",
+      "D. Tất cả các đáp án trên"
     ],
     "correct_answers": [
-      0
+      3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 3",
     "q_num": 21,
-    "body_index": 552,
-    "id": "word-c41143f3c5139fa3-p552"
+    "body_index": 463,
+    "id": "word-1d55e841b9e15dba-p463"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 22: Đâu là định nghĩa đúng và đầy đủ về dân chủ?",
+    "question": "Câu 22: Giám đốc yêu cầu xây dựng lịch làm việc chi tiết cho tháng tới, thư ký văn phòng sẽ phải làm gì?",
     "source_q_num": 22,
-    "source_title": "Câu 22: Đâu là định nghĩa đúng và đầy đủ về dân chủ?",
+    "source_title": "Câu 22: Giám đốc yêu cầu xây dựng lịch làm việc chi tiết cho tháng tới, thư ký văn phòng sẽ phải làm gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 22,
-        "body_index": 557
+        "body_index": 469
       }
     ],
     "source_content": [
       {
-        "text": "A. Dân chủ là giá trị phản ánh quyền cơ bản của con người; là kết quả của sự nghiệp đấu tranh của con người vì lợi ích của con người"
+        "text": "A. Đặt lịch làm việc cá nhân của giám đốc"
       },
       {
-        "text": "B. Dân chủ là một giá trị phản ánh những quyền cơ bản của con người; là một hình thức tổ chức nhà nước của giai cấp cầm quyền; có quá trình ra đời, phát triển cùng với lịch sử xã hội loài người"
+        "text": "B. Xác định các cuộc họp quan trọng và sắp xếp thời gian hợp lý"
       },
       {
-        "text": "C. Dân chủ là một giá trị phản ánh những quyền tối thiểu của con người; là một thái tổ chức nhà nước thừa nhận quyền làm chủ của nhân dân; là một giá trị xã hội phản ánh sự nghiệp đấu tranh của con người"
+        "text": "C. Sắp xếp thời gian nghỉ ngơi hợp lý cho giám đốc"
       },
       {
-        "text": "D. Dân chủ là một giá trị xã hội phản ánh sự nghiệp đấu tranh của con người vì sự phát triển tiến bộ xã hội"
+        "text": "D. Gửi email nhắc nhở lịch làm việc hàng ngày"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Dân chủ là giá trị phản ánh quyền cơ bản của con người; là kết quả của sự nghiệp đấu tranh của con người vì lợi ích của con người",
-      "B. Dân chủ là một giá trị phản ánh những quyền cơ bản của con người; là một hình thức tổ chức nhà nước của giai cấp cầm quyền; có quá trình ra đời, phát triển cùng với lịch sử xã hội loài người",
-      "C. Dân chủ là một giá trị phản ánh những quyền tối thiểu của con người; là một thái tổ chức nhà nước thừa nhận quyền làm chủ của nhân dân; là một giá trị xã hội phản ánh sự nghiệp đấu tranh của con người",
-      "D. Dân chủ là một giá trị xã hội phản ánh sự nghiệp đấu tranh của con người vì sự phát triển tiến bộ xã hội"
+      "A. Đặt lịch làm việc cá nhân của giám đốc",
+      "B. Xác định các cuộc họp quan trọng và sắp xếp thời gian hợp lý",
+      "C. Sắp xếp thời gian nghỉ ngơi hợp lý cho giám đốc",
+      "D. Gửi email nhắc nhở lịch làm việc hàng ngày"
     ],
     "correct_answers": [
       1
@@ -4861,83 +3681,83 @@ window.QUIZ_QUESTIONS = [
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 3",
     "q_num": 22,
-    "body_index": 557,
-    "id": "word-c41143f3c5139fa3-p557"
+    "body_index": 469,
+    "id": "word-1d55e841b9e15dba-p469"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 23: Nhà nước pháp quyền XHCN quản lý mọi mặt của đời sống xã hội chủ yếu bằng gì?",
+    "question": "Câu 23: Giải thích tại sao cần có nguyên tắc không trùng lặp thời gian khi xây dựng lịch làm việc?",
     "source_q_num": 23,
-    "source_title": "Câu 23: Nhà nước pháp quyền XHCN quản lý mọi mặt của đời sống xã hội chủ yếu bằng gì?",
+    "source_title": "Câu 23: Giải thích tại sao cần có nguyên tắc không trùng lặp thời gian khi xây dựng lịch làm việc?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 23,
-        "body_index": 562
+        "body_index": 474
       }
     ],
     "source_content": [
       {
-        "text": "A. Đường lối, chính sách"
+        "text": "A. Để tiết kiệm thời gian cho nhân viên."
       },
       {
-        "text": "B. Hiến pháp, pháp luật"
+        "text": "B. Để tăng hiệu suất công việc."
       },
       {
-        "text": "C. Giáo dục"
+        "text": "C. Để tránh xung đột về nguồn lực."
       },
       {
-        "text": "D. Tuyên truyền"
+        "text": "D. Để giảm chi phí tổ chức."
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Đường lối, chính sách",
-      "B. Hiến pháp, pháp luật",
-      "C. Giáo dục",
-      "D. Tuyên truyền"
+      "A. Để tiết kiệm thời gian cho nhân viên.",
+      "B. Để tăng hiệu suất công việc.",
+      "C. Để tránh xung đột về nguồn lực.",
+      "D. Để giảm chi phí tổ chức."
     ],
     "correct_answers": [
-      1
+      2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 3",
     "q_num": 23,
-    "body_index": 562,
-    "id": "word-c41143f3c5139fa3-p562"
+    "body_index": 474,
+    "id": "word-1d55e841b9e15dba-p474"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 24: Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam có đặc điểm như thế nào?",
+    "question": "Câu 24: Thư ký văn phòng phải áp dụng nguyên tắc ưu tiên nào khi lập lịch cho giám đốc?",
     "source_q_num": 24,
-    "source_title": "Câu 24: Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam có đặc điểm như thế nào?",
+    "source_title": "Câu 24: Thư ký văn phòng phải áp dụng nguyên tắc ưu tiên nào khi lập lịch cho giám đốc?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 24,
-        "body_index": 567
+        "body_index": 479
       }
     ],
     "source_content": [
       {
-        "text": "A. Nhà nước hình thành là kết quả của cách mạng xã hội chủ nghĩa"
+        "text": "A. Lập lịch theo thứ tự nhận nhiệm vụ mà không phân biệt mức độ quan trọng."
       },
       {
-        "text": "B. Nhà nước hoạt động trên nền tảng của khối liên minh công – nông – trí thức"
+        "text": "B. Sắp xếp các cuộc họp nội bộ và thời gian phê duyệt tài liệu vào cuối ngày."
       },
       {
-        "text": "C. Nhà nước được tổ chức và hoạt động trên cơ sở Hiến pháp và pháp luật"
+        "text": "C. Đầu tiên lập lịch cho buổi thuyết trình tại hội nghị vì nó có ảnh hưởng lớn đến danh tiếng công ty."
       },
       {
-        "text": "D. Nhà nước đặt dưới sự lãnh đạo của Đảng cộng sản"
+        "text": "D. Sắp xếp các cuộc họp với đối tác trước vì đó là cơ hội kinh doanh quan trọng."
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Nhà nước hình thành là kết quả của cách mạng xã hội chủ nghĩa",
-      "B. Nhà nước hoạt động trên nền tảng của khối liên minh công – nông – trí thức",
-      "C. Nhà nước được tổ chức và hoạt động trên cơ sở Hiến pháp và pháp luật",
-      "D. Nhà nước đặt dưới sự lãnh đạo của Đảng cộng sản"
+      "A. Lập lịch theo thứ tự nhận nhiệm vụ mà không phân biệt mức độ quan trọng.",
+      "B. Sắp xếp các cuộc họp nội bộ và thời gian phê duyệt tài liệu vào cuối ngày.",
+      "C. Đầu tiên lập lịch cho buổi thuyết trình tại hội nghị vì nó có ảnh hưởng lớn đến danh tiếng công ty.",
+      "D. Sắp xếp các cuộc họp với đối tác trước vì đó là cơ hội kinh doanh quan trọng."
     ],
     "correct_answers": [
       2
@@ -4945,211 +3765,209 @@ window.QUIZ_QUESTIONS = [
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 3",
     "q_num": 24,
-    "body_index": 567,
-    "id": "word-c41143f3c5139fa3-p567"
+    "body_index": 479,
+    "id": "word-1d55e841b9e15dba-p479"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 25: Dân chủ trong xã hội nguyên thủy được thể hiện như thế nào? (Chọn 2 đáp án đúng)",
+    "question": "Câu 25: Thư ký văn phòng sẽ áp dụng nguyên tắc không trùng lặp về địa điểm như thế nào để tối ưu hóa thời gian di chuyển và đảm bảo các cuộc gặp diễn ra đúng giờ?",
     "source_q_num": 25,
-    "source_title": "Câu 25: Dân chủ trong xã hội nguyên thủy được thể hiện như thế nào? (Chọn 2 đáp án đúng)",
+    "source_title": "Câu 25: Thư ký văn phòng sẽ áp dụng nguyên tắc không trùng lặp về địa điểm như thế nào để tối ưu hóa thời gian di chuyển và đảm bảo các cuộc gặp diễn ra đúng giờ?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 25,
-        "body_index": 572
+        "body_index": 484
       }
     ],
     "source_content": [
       {
-        "text": "A. Mọi người đều bình đẳng trong quyết định các vấn đề chung"
+        "text": "A. Lập lịch các cuộc hẹn theo thứ tự địa lý gần nhất để giảm thời gian di chuyển"
       },
       {
-        "text": "B. Quyền lực tập trung vào một số cá nhân"
+        "text": "B. Đặt các cuộc hẹn vào buổi sáng để còn thời gian di chuyển trong ngày"
       },
       {
-        "text": "C. Không có sự phân chia giai cấp và quyền lực"
+        "text": "C. Hủy bớt một cuộc hẹn để giảm bớt việc di chuyển"
       },
       {
-        "text": "D. Hình thành tổ chức chính trị phức tạp"
-      }
-    ],
-    "type": "multiple_choice",
-    "options": [
-      "A. Mọi người đều bình đẳng trong quyết định các vấn đề chung",
-      "B. Quyền lực tập trung vào một số cá nhân",
-      "C. Không có sự phân chia giai cấp và quyền lực",
-      "D. Hình thành tổ chức chính trị phức tạp"
-    ],
-    "correct_answers": [
-      0,
-      2
-    ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bài 3",
-    "q_num": 25,
-    "body_index": 572,
-    "id": "word-c41143f3c5139fa3-p572"
-  },
-  {
-    "lesson_num": 3,
-    "question": "Câu 26: Dân chủ xã hội chủ nghĩa ở Việt Nam là: (Chọn 2 đáp án đúng)",
-    "source_q_num": 26,
-    "source_title": "Câu 26: Dân chủ xã hội chủ nghĩa ở Việt Nam là: (Chọn 2 đáp án đúng)",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 26,
-        "body_index": 577
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Chế độ dân chủ tư sản mở rộng"
-      },
-      {
-        "text": "B. Nền dân chủ gắn liền với sự lãnh đạo của Đảng Cộng sản Việt Nam"
-      },
-      {
-        "text": "C. Nền dân chủ bảo đảm quyền lực thuộc về nhân dân"
-      },
-      {
-        "text": "D. Chế độ dân chủ không phụ thuộc vào nhà nước"
-      }
-    ],
-    "type": "multiple_choice",
-    "options": [
-      "A. Chế độ dân chủ tư sản mở rộng",
-      "B. Nền dân chủ gắn liền với sự lãnh đạo của Đảng Cộng sản Việt Nam",
-      "C. Nền dân chủ bảo đảm quyền lực thuộc về nhân dân",
-      "D. Chế độ dân chủ không phụ thuộc vào nhà nước"
-    ],
-    "correct_answers": [
-      1,
-      2
-    ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bài 3",
-    "q_num": 26,
-    "body_index": 577,
-    "id": "word-c41143f3c5139fa3-p577"
-  },
-  {
-    "lesson_num": 3,
-    "question": "Câu 27: Bản chất kinh tế của nền dân chủ xã hội chủ nghĩa là:",
-    "source_q_num": 27,
-    "source_title": "Câu 27: Bản chất kinh tế của nền dân chủ xã hội chủ nghĩa là:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 27,
-        "body_index": 582
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Thực hiện chế độ tư hữu về công cụ sản xuất chủ yếu"
-      },
-      {
-        "text": "B. Thực hiện chế độ công hữu về tư liệu sản xuất chủ yếu và thực hiện chế độ phân phối lợi ích theo kết quả lao động là chủ yếu"
-      },
-      {
-        "text": "C. Thực hiện chế độ tư hữu về tư liệu sản xuất"
-      },
-      {
-        "text": "D. Thực hiện chế độ phân phối \"Làm theo năng lực, hưởng theo nhu cầu\""
+        "text": "D. Sắp xếp các cuộc hẹn theo thứ tự ngẫu nhiên"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Thực hiện chế độ tư hữu về công cụ sản xuất chủ yếu",
-      "B. Thực hiện chế độ công hữu về tư liệu sản xuất chủ yếu và thực hiện chế độ phân phối lợi ích theo kết quả lao động là chủ yếu",
-      "C. Thực hiện chế độ tư hữu về tư liệu sản xuất",
-      "D. Thực hiện chế độ phân phối \"Làm theo năng lực, hưởng theo nhu cầu\""
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 3",
-    "q_num": 27,
-    "body_index": 582,
-    "id": "word-c41143f3c5139fa3-p582"
-  },
-  {
-    "lesson_num": 3,
-    "question": "Câu 28: Bản chất kinh tế của nền dân chủ xã hội chủ nghĩa là:",
-    "source_q_num": 28,
-    "source_title": "Câu 28 : Bản chất kinh tế của nền dân chủ xã hội chủ nghĩa là:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 28,
-        "body_index": 587
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Thực hiện chế độ công hữu về tư liệu sản xuất chủ yếu và thực hiện chế độ phân phối lợi ích theo kết quả lao động là chủ yếu"
-      },
-      {
-        "text": "B. Thực hiện chế độ tư hữu về công cụ sản xuất chủ yếu"
-      },
-      {
-        "text": "C. Thực hiện chế độ tư hữu về tư liệu sản xuất"
-      },
-      {
-        "text": "D. Thực hiện chế độ phân phối \"Làm theo năng lực, hưởng theo nhu cầu\""
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Thực hiện chế độ công hữu về tư liệu sản xuất chủ yếu và thực hiện chế độ phân phối lợi ích theo kết quả lao động là chủ yếu",
-      "B. Thực hiện chế độ tư hữu về công cụ sản xuất chủ yếu",
-      "C. Thực hiện chế độ tư hữu về tư liệu sản xuất",
-      "D. Thực hiện chế độ phân phối \"Làm theo năng lực, hưởng theo nhu cầu\""
+      "A. Lập lịch các cuộc hẹn theo thứ tự địa lý gần nhất để giảm thời gian di chuyển",
+      "B. Đặt các cuộc hẹn vào buổi sáng để còn thời gian di chuyển trong ngày",
+      "C. Hủy bớt một cuộc hẹn để giảm bớt việc di chuyển",
+      "D. Sắp xếp các cuộc hẹn theo thứ tự ngẫu nhiên"
     ],
     "correct_answers": [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 3",
-    "q_num": 28,
-    "body_index": 587,
-    "id": "word-c41143f3c5139fa3-p587"
+    "q_num": 25,
+    "body_index": 484,
+    "id": "word-1d55e841b9e15dba-p484"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 29: Tại sao quyền lực nhà nước ở Việt Nam được tổ chức theo nguyên tắc thống nhất?",
-    "source_q_num": 29,
-    "source_title": "Câu 29 : Tại sao quyền lực nhà nước ở Việt Nam được tổ chức theo nguyên tắc thống nhất?",
+    "question": "Câu 26: Thư ký văn phòng sẽ lập lịch như thế nào để tránh việc Giám đốc phải di chuyển liên tục giữa hai địa điểm khác nhau?",
+    "source_q_num": 26,
+    "source_title": "Câu 26 : Thư ký văn phòng sẽ lập lịch như thế nào để tránh việc Giám đốc phải di chuyển liên tục giữa hai địa điểm khác nhau?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 29,
-        "body_index": 592
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 26,
+        "body_index": 489
       }
     ],
     "source_content": [
       {
-        "text": "A. Để giảm thiểu vai trò của các tổ chức phi chính phủ"
+        "text": "A. Sắp xếp cuộc họp vào buổi chiều trước hội thảo để giám đốc có thời gian di chuyển"
       },
       {
-        "text": "B. Để đảm bảo sự phối hợp và kiểm soát giữa các cơ quan lập pháp, hành pháp và tư pháp"
+        "text": "B. Để giám đốc tham dự cuộc họp tại địa điểm hội thảo để tiết kiệm thời gian di chuyển"
       },
       {
-        "text": "C. Để tăng cường sự kiểm soát của nhà nước"
+        "text": "C. Đặt cuộc họp vào buổi sáng, nhưng không lo lắng về thời gian di chuyển"
       },
       {
-        "text": "D. Để kiểm soát chặt chẽ các hoạt động kinh tế"
+        "text": "D. Đặt thời gian nghỉ giữa cuộc họp và hội thảo để giám đốc có thể di chuyển thoải mái"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Để giảm thiểu vai trò của các tổ chức phi chính phủ",
-      "B. Để đảm bảo sự phối hợp và kiểm soát giữa các cơ quan lập pháp, hành pháp và tư pháp",
-      "C. Để tăng cường sự kiểm soát của nhà nước",
-      "D. Để kiểm soát chặt chẽ các hoạt động kinh tế"
+      "A. Sắp xếp cuộc họp vào buổi chiều trước hội thảo để giám đốc có thời gian di chuyển",
+      "B. Để giám đốc tham dự cuộc họp tại địa điểm hội thảo để tiết kiệm thời gian di chuyển",
+      "C. Đặt cuộc họp vào buổi sáng, nhưng không lo lắng về thời gian di chuyển",
+      "D. Đặt thời gian nghỉ giữa cuộc họp và hội thảo để giám đốc có thể di chuyển thoải mái"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 3",
+    "q_num": 26,
+    "body_index": 489,
+    "id": "word-1d55e841b9e15dba-p489"
+  },
+  {
+    "lesson_num": 3,
+    "question": "Câu 27: Khi có yêu cầu cần lập kế hoạch làm việc hàng tháng cho toàn bộ cơ quan, thư ký văn phòng sẽ làm gì để đảm bảo tất cả các phòng ban phối hợp hiệu quả?",
+    "source_q_num": 27,
+    "source_title": "Câu 27: Khi có yêu cầu cần lập kế hoạch làm việc hàng tháng cho toàn bộ cơ quan, thư ký văn phòng sẽ làm gì để đảm bảo tất cả các phòng ban phối hợp hiệu quả?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 27,
+        "body_index": 494
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Xác định các nhiệm vụ quan trọng của từng phòng ban"
+      },
+      {
+        "text": "B. Lên kế hoạch chi tiết và phân công nhiệm vụ cụ thể"
+      },
+      {
+        "text": "C. Theo dõi tiến độ và điều chỉnh lịch làm việc khi cần thiết"
+      },
+      {
+        "text": "D. Tất cả các đáp án trên"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Xác định các nhiệm vụ quan trọng của từng phòng ban",
+      "B. Lên kế hoạch chi tiết và phân công nhiệm vụ cụ thể",
+      "C. Theo dõi tiến độ và điều chỉnh lịch làm việc khi cần thiết",
+      "D. Tất cả các đáp án trên"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 3",
+    "q_num": 27,
+    "body_index": 494,
+    "id": "word-1d55e841b9e15dba-p494"
+  },
+  {
+    "lesson_num": 3,
+    "question": "Câu 28: Một trong những nhiệm vụ chính của thư ký văn phòng là gì?",
+    "source_q_num": 28,
+    "source_title": "Câu 28: Một trong những nhiệm vụ chính của thư ký văn phòng là gì?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 28,
+        "body_index": 499
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Quản lý nhân sự, xây dựng chiến lược marketing"
+      },
+      {
+        "text": "B. Xây dựng chương trình kế hoạch, tổ chức họp"
+      },
+      {
+        "text": "C. Kế toán, kiểm toán"
+      },
+      {
+        "text": "D. Xử lý tài liệu, chăm sóc khách hàng"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Quản lý nhân sự, xây dựng chiến lược marketing",
+      "B. Xây dựng chương trình kế hoạch, tổ chức họp",
+      "C. Kế toán, kiểm toán",
+      "D. Xử lý tài liệu, chăm sóc khách hàng"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 3",
+    "q_num": 28,
+    "body_index": 499,
+    "id": "word-1d55e841b9e15dba-p499"
+  },
+  {
+    "lesson_num": 3,
+    "question": "Câu 29: Thư ký văn phòng sẽ lập kế hoạch ưu tiên như thế nào để đảm bảo các dự án hoàn thành đúng hạn và chất lượng?",
+    "source_q_num": 29,
+    "source_title": "Câu 29: Thư ký văn phòng sẽ lập kế hoạch ưu tiên như thế nào để đảm bảo các dự án hoàn thành đúng hạn và chất lượng?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 29,
+        "body_index": 504
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Chia đều thời gian cho tất cả các dự án mà không phân biệt mức độ ưu tiên."
+      },
+      {
+        "text": "B. Ưu tiên các dự án có deadline gần trước để tránh bị trễ hạn."
+      },
+      {
+        "text": "C. Tập trung vào các dự án mà bạn thích làm nhất trước."
+      },
+      {
+        "text": "D. Bắt đầu với các dự án lớn và phức tạp hơn trước vì chúng yêu cầu nhiều thời gian hơn."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Chia đều thời gian cho tất cả các dự án mà không phân biệt mức độ ưu tiên.",
+      "B. Ưu tiên các dự án có deadline gần trước để tránh bị trễ hạn.",
+      "C. Tập trung vào các dự án mà bạn thích làm nhất trước.",
+      "D. Bắt đầu với các dự án lớn và phức tạp hơn trước vì chúng yêu cầu nhiều thời gian hơn."
     ],
     "correct_answers": [
       1
@@ -5157,3214 +3975,1973 @@ window.QUIZ_QUESTIONS = [
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 3",
     "q_num": 29,
-    "body_index": 592,
-    "id": "word-c41143f3c5139fa3-p592"
+    "body_index": 504,
+    "id": "word-1d55e841b9e15dba-p504"
   },
   {
     "lesson_num": 3,
-    "question": "Câu 30: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+    "question": "Câu 30: Thư ký văn phòng sẽ sắp xếp lịch làm việc của mình như thế nào để đảm bảo hoàn thành tất cả các nhiệm vụ một cách hiệu quả?",
     "source_q_num": 30,
-    "source_title": "Câu 30: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+    "source_title": "Câu 30: Thư ký văn phòng sẽ sắp xếp lịch làm việc của mình như thế nào để đảm bảo hoàn thành tất cả các nhiệm vụ một cách hiệu quả?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 30,
-        "body_index": 597
+        "body_index": 509
       }
     ],
     "source_content": [
       {
-        "text": "1Nền dân chủ chủ nô, gắn với chế độ chiếm hữu nô lệ."
+        "text": "A. Dừng tất cả các công việc hiện tại và tập trung vào yêu cầu khẩn cấp từ giám đốc"
       },
       {
-        "text": "Đúng"
+        "text": "B. Tiếp tục làm các công việc đã lên kế hoạch và để yêu cầu khẩn cấp sang một bên"
       },
       {
-        "text": "2) Dân chủ xã hội chủ nghĩa là công cụ để giai cấp công nhân thực hiện chuyên chính với các giai cấp khác"
+        "text": "C. Phân bổ lại thời gian, hoàn thành nhanh các công việc ít quan trọng và sau đó tập trung vào yêu cầu khẩn cấp"
       },
       {
-        "text": "Sai"
-      },
-      {
-        "text": "3) Dân chủ tư sản là hình thức dân chủ gắn với quyền lực chính trị của giai cấp tư sản"
-      },
-      {
-        "text": "Đúng"
-      },
-      {
-        "text": "4) Với tư cách là một hình thái nhà nước, một chế độ chính trị thì trong lịch sử nhân loại, cho đến nay có năm nền (chế độ) dân chủ"
-      },
-      {
-        "text": "Sai"
+        "text": "D. Nhờ đồng nghiệp giúp đỡ với các công việc đã lên kế hoạch để bạn có thể tập trung vào yêu cầu khẩn cấp"
       }
     ],
-    "type": "true_false",
-    "items": [
-      {
-        "statement": "1Nền dân chủ chủ nô, gắn với chế độ chiếm hữu nô lệ.",
-        "correct": true
-      },
-      {
-        "statement": "2) Dân chủ xã hội chủ nghĩa là công cụ để giai cấp công nhân thực hiện chuyên chính với các giai cấp khác",
-        "correct": false
-      },
-      {
-        "statement": "3) Dân chủ tư sản là hình thức dân chủ gắn với quyền lực chính trị của giai cấp tư sản",
-        "correct": true
-      },
-      {
-        "statement": "4) Với tư cách là một hình thái nhà nước, một chế độ chính trị thì trong lịch sử nhân loại, cho đến nay có năm nền (chế độ) dân chủ",
-        "correct": false
-      }
+    "type": "single_choice",
+    "options": [
+      "A. Dừng tất cả các công việc hiện tại và tập trung vào yêu cầu khẩn cấp từ giám đốc",
+      "B. Tiếp tục làm các công việc đã lên kế hoạch và để yêu cầu khẩn cấp sang một bên",
+      "C. Phân bổ lại thời gian, hoàn thành nhanh các công việc ít quan trọng và sau đó tập trung vào yêu cầu khẩn cấp",
+      "D. Nhờ đồng nghiệp giúp đỡ với các công việc đã lên kế hoạch để bạn có thể tập trung vào yêu cầu khẩn cấp"
     ],
-    "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 3",
     "q_num": 30,
-    "body_index": 597,
-    "id": "word-c41143f3c5139fa3-p597"
+    "body_index": 509,
+    "id": "word-1d55e841b9e15dba-p509"
   },
   {
-    "lesson_num": 3,
-    "question": "Câu 31: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-    "source_q_num": 31,
-    "source_title": "Câu 31 :Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+    "lesson_num": 4,
+    "question": "Câu 1: Thư ký văn phòng cần kiểm tra những yếu tố nào trước giờ khai mạc cuộc họp?",
+    "source_q_num": 1,
+    "source_title": "Câu 1: Thư ký văn phòng cần kiểm tra những yếu tố nào trước giờ khai mạc cuộc họp?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 31,
-        "body_index": 606
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 1,
+        "body_index": 515
       }
     ],
     "source_content": [
       {
-        "text": "1) Dân chủ xã hội chủ nghĩa là sự phủ định sạch trơn những thành tựu dân chủ trước đó"
+        "text": "A. Tài liệu về kết quả của cuộc họp"
       },
       {
-        "text": "Sai"
+        "text": "B. Địa điểm họp, ánh sáng, âm thanh, trang thiết bị"
       },
       {
-        "text": "2) Trong xã hội tư bản, dân chủ thực chất thuộc về giai cấp tư sản"
+        "text": "C. Danh sách khách mời và quà tặng"
       },
       {
-        "text": "Đúng"
-      },
-      {
-        "text": "3) Dân chủ là một phạm trù mang tính lịch sử, gắn với sự xuất hiện và phát triển của nhà nước"
-      },
-      {
-        "text": "Đúng"
-      },
-      {
-        "text": "4) Dân chủ xã hội chủ nghĩa là nền dân chủ cao hơn về chất so với nền dân chủ tư sản"
-      },
-      {
-        "text": "Đúng"
+        "text": "D. Thời gian và địa điểm tổ chức cuộc họp"
       }
     ],
-    "type": "true_false",
-    "items": [
-      {
-        "statement": "1) Dân chủ xã hội chủ nghĩa là sự phủ định sạch trơn những thành tựu dân chủ trước đó",
-        "correct": false
-      },
-      {
-        "statement": "2) Trong xã hội tư bản, dân chủ thực chất thuộc về giai cấp tư sản",
-        "correct": true
-      },
-      {
-        "statement": "3) Dân chủ là một phạm trù mang tính lịch sử, gắn với sự xuất hiện và phát triển của nhà nước",
-        "correct": true
-      },
-      {
-        "statement": "4) Dân chủ xã hội chủ nghĩa là nền dân chủ cao hơn về chất so với nền dân chủ tư sản",
-        "correct": true
-      }
+    "type": "single_choice",
+    "options": [
+      "A. Tài liệu về kết quả của cuộc họp",
+      "B. Địa điểm họp, ánh sáng, âm thanh, trang thiết bị",
+      "C. Danh sách khách mời và quà tặng",
+      "D. Thời gian và địa điểm tổ chức cuộc họp"
     ],
-    "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "lesson": "Bài 3",
-    "q_num": 31,
-    "body_index": 606,
-    "id": "word-c41143f3c5139fa3-p606"
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 4",
+    "q_num": 1,
+    "body_index": 515,
+    "id": "word-1d55e841b9e15dba-p515"
   },
   {
-    "lesson_num": 3,
-    "question": "Câu 32: Căn cứ vào tính chất của quyền lực nhà nước, chức năng của nhà nước được chia thành:",
-    "source_q_num": 32,
-    "source_title": "Câu 32: Căn cứ vào tính chất của quyền lực nhà nước, chức năng của nhà nước được chia thành:",
+    "lesson_num": 4,
+    "question": "Câu 2: Tại sao việc tìm hiểu mục đích của cuộc họp, hội nghị, lễ hội là quan trọng đối với một thư ký văn phòng?",
+    "source_q_num": 2,
+    "source_title": "Câu 2: Tại sao việc tìm hiểu mục đích của cuộc họp, hội nghị, lễ hội là quan trọng đối với một thư ký văn phòng?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 32,
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 2,
+        "body_index": 520
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Để có thể thông báo và gửi giấy mời đến tất cả các đại biểu"
+      },
+      {
+        "text": "B. Để có thể bố trí địa điểm và trang thiết bị phù hợp."
+      },
+      {
+        "text": "C. Để xác định số lượng người tham dự."
+      },
+      {
+        "text": "D. Để lập kế hoạch tổ chức và chuẩn bị tài liệu một cách hợp lý"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Để có thể thông báo và gửi giấy mời đến tất cả các đại biểu",
+      "B. Để có thể bố trí địa điểm và trang thiết bị phù hợp.",
+      "C. Để xác định số lượng người tham dự.",
+      "D. Để lập kế hoạch tổ chức và chuẩn bị tài liệu một cách hợp lý"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 4",
+    "q_num": 2,
+    "body_index": 520,
+    "id": "word-1d55e841b9e15dba-p520"
+  },
+  {
+    "lesson_num": 4,
+    "question": "Câu 3: Trong quá trình chuẩn bị cho một cuộc họp quan trọng, một thư ký văn phòng nên làm gì để đảm bảo tất cả các hoạt động diễn ra suôn sẻ?",
+    "source_q_num": 3,
+    "source_title": "Câu 3: Trong quá trình chuẩn bị cho một cuộc họp quan trọng, một thư ký văn phòng nên làm gì để đảm bảo tất cả các hoạt động diễn ra suôn sẻ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 3,
+        "body_index": 525
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Chuẩn bị các tài liệu và văn bản liên quan"
+      },
+      {
+        "text": "B. Phối hợp với các bộ phận khác để chuẩn bị cơ sở vật chất"
+      },
+      {
+        "text": "C. Xác định và thông báo địa điểm họp"
+      },
+      {
+        "text": "D. Tất cả các phương án trên"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Chuẩn bị các tài liệu và văn bản liên quan",
+      "B. Phối hợp với các bộ phận khác để chuẩn bị cơ sở vật chất",
+      "C. Xác định và thông báo địa điểm họp",
+      "D. Tất cả các phương án trên"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 4",
+    "q_num": 3,
+    "body_index": 525,
+    "id": "word-1d55e841b9e15dba-p525"
+  },
+  {
+    "lesson_num": 4,
+    "question": "Câu 4: Khi điều hành chương trình cuộc họp, thư ký văn phòng cần làm gì để đảm bảo các đại biểu phát biểu không quá thời gian quy định của cuộc họp?",
+    "source_q_num": 4,
+    "source_title": "Câu 4: Khi điều hành chương trình cuộc họp, thư ký văn phòng cần làm gì để đảm bảo các đại biểu phát biểu không quá thời gian quy định của cuộc họp?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 4,
+        "body_index": 530
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Đưa đại biểu tài liệu liên quan đến cuộc họp"
+      },
+      {
+        "text": "B. Yêu cầu đại biểu chuẩn bị ý kiến trước khi cuộc họp bắt đầu"
+      },
+      {
+        "text": "C. Đưa ra một danh sách các vấn đề cần thảo luận"
+      },
+      {
+        "text": "D. Lưu ý thời gian và nhắc nhở đại biểu nếu cần thiết"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Đưa đại biểu tài liệu liên quan đến cuộc họp",
+      "B. Yêu cầu đại biểu chuẩn bị ý kiến trước khi cuộc họp bắt đầu",
+      "C. Đưa ra một danh sách các vấn đề cần thảo luận",
+      "D. Lưu ý thời gian và nhắc nhở đại biểu nếu cần thiết"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 4",
+    "q_num": 4,
+    "body_index": 530,
+    "id": "word-1d55e841b9e15dba-p530"
+  },
+  {
+    "lesson_num": 4,
+    "question": "Câu 5: Thông tin nào là cần thiết nhất để thư ký văn phòng ghi vào biên bản cuộc họp nhằm đảm bảo tính đầy đủ và chính xác?",
+    "source_q_num": 5,
+    "source_title": "Câu 5: Thông tin nào là cần thiết nhất để thư ký văn phòng ghi vào biên bản cuộc họp nhằm đảm bảo tính đầy đủ và chính xác?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 5,
+        "body_index": 535
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Các chi tiết về địa điểm và ánh sáng"
+      },
+      {
+        "text": "B. Danh sách tất cả các khách mời và quà tặng"
+      },
+      {
+        "text": "C. Thời gian bắt đầu và kết thúc, thành phần tham dự, nội dung cuộc họp"
+      },
+      {
+        "text": "D. Các phương án giải quyết các vấn đề trong cuộc họp"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Các chi tiết về địa điểm và ánh sáng",
+      "B. Danh sách tất cả các khách mời và quà tặng",
+      "C. Thời gian bắt đầu và kết thúc, thành phần tham dự, nội dung cuộc họp",
+      "D. Các phương án giải quyết các vấn đề trong cuộc họp"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 4",
+    "q_num": 5,
+    "body_index": 535,
+    "id": "word-1d55e841b9e15dba-p535"
+  },
+  {
+    "lesson_num": 4,
+    "question": "Câu 6: Thư ký văn phòng cần làm gì khi thu thập hóa đơn và chứng từ liên quan đến chi phí của cuộc họp?",
+    "source_q_num": 6,
+    "source_title": "Câu 6: Thư ký văn phòng cần làm gì khi thu thập hóa đơn và chứng từ liên quan đến chi phí của cuộc họp?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 6,
+        "body_index": 540
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Chỉ thu thập hóa đơn và chuyển cho bộ phận tài vụ"
+      },
+      {
+        "text": "B. Không làm gì vì đó là trách nhiệm của bộ phận tài vụ"
+      },
+      {
+        "text": "C. Lập bảng kê chi phí và sắp xếp chứng từ theo từng mục"
+      },
+      {
+        "text": "D. Đợi đến khi có đủ chứng từ để lập dự toán"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Chỉ thu thập hóa đơn và chuyển cho bộ phận tài vụ",
+      "B. Không làm gì vì đó là trách nhiệm của bộ phận tài vụ",
+      "C. Lập bảng kê chi phí và sắp xếp chứng từ theo từng mục",
+      "D. Đợi đến khi có đủ chứng từ để lập dự toán"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 4",
+    "q_num": 6,
+    "body_index": 540,
+    "id": "word-1d55e841b9e15dba-p540"
+  },
+  {
+    "lesson_num": 4,
+    "question": "Câu 7: Thư ký văn phòng được giao nhiệm vụ chuẩn bị cuộc họp hàng tuần của phòng ban. Có một số người tham dự cuộc họp từ các phòng ban khác nhau. Thư ký văn phòng cần làm gì để đảm bảo rằng mọi người đều nắm rõ thời gian và địa điểm cuộc họp?",
+    "source_q_num": 7,
+    "source_title": "Câu 7: Thư ký văn phòng được giao nhiệm vụ chuẩn bị cuộc họp hàng tuần của phòng ban. Có một số người tham dự cuộc họp từ các phòng ban khác nhau. Thư ký văn phòng cần làm gì để đảm bảo rằng mọi người đều nắm rõ thời gian và địa điểm cuộc họp?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 7,
+        "body_index": 545
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Gọi điện trực tiếp cho từng người để thông báo."
+      },
+      {
+        "text": "B. Chỉ thông báo miệng cho những người liên quan."
+      },
+      {
+        "text": "C. Gửi email thông báo cho tất cả người tham dự và nhắc lại vào ngày họp"
+      },
+      {
+        "text": "D. Đăng thông báo trên bảng tin công ty và không làm thêm gì nữa."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Gọi điện trực tiếp cho từng người để thông báo.",
+      "B. Chỉ thông báo miệng cho những người liên quan.",
+      "C. Gửi email thông báo cho tất cả người tham dự và nhắc lại vào ngày họp",
+      "D. Đăng thông báo trên bảng tin công ty và không làm thêm gì nữa."
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 4",
+    "q_num": 7,
+    "body_index": 545,
+    "id": "word-1d55e841b9e15dba-p545"
+  },
+  {
+    "lesson_num": 4,
+    "question": "Câu 8: Thư ký văn phòng cần chuẩn bị tài liệu cho cuộc họp quan trọng với đối tác. Các tài liệu này cần phải có sẵn trước cuộc họp ít nhất 2 ngày. Thư ký văn phòng nên làm gì để đảm bảo tài liệu được chuẩn bị đúng hạn?",
+    "source_q_num": 8,
+    "source_title": "Câu 8: Thư ký văn phòng cần chuẩn bị tài liệu cho cuộc họp quan trọng với đối tác. Các tài liệu này cần phải có sẵn trước cuộc họp ít nhất 2 ngày. Thư ký văn phòng nên làm gì để đảm bảo tài liệu được chuẩn bị đúng hạn?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 8,
+        "body_index": 550
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Chuẩn bị tài liệu một mình để đảm bảo không ai can thiệp vào nội dung."
+      },
+      {
+        "text": "B. Để sếp trực tiếp chuẩn bị tài liệu."
+      },
+      {
+        "text": "C. Phân công cho từng người trong nhóm chuẩn bị từng phần tài liệu và tổng hợp lại."
+      },
+      {
+        "text": "D. Đợi đến ngày họp mới bắt đầu chuẩn bị tài liệu."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Chuẩn bị tài liệu một mình để đảm bảo không ai can thiệp vào nội dung.",
+      "B. Để sếp trực tiếp chuẩn bị tài liệu.",
+      "C. Phân công cho từng người trong nhóm chuẩn bị từng phần tài liệu và tổng hợp lại.",
+      "D. Đợi đến ngày họp mới bắt đầu chuẩn bị tài liệu."
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 4",
+    "q_num": 8,
+    "body_index": 550,
+    "id": "word-1d55e841b9e15dba-p550"
+  },
+  {
+    "lesson_num": 4,
+    "question": "Câu 9: Thư ký văn phòng phát hiện ra phòng họp dự kiến sử dụng bị đặt chồng chéo với một cuộc họp khác. Thư ký văn phòng cần làm gì để giải quyết vấn đề này?",
+    "source_q_num": 9,
+    "source_title": "Câu 9: Thư ký văn phòng phát hiện ra phòng họp dự kiến sử dụng bị đặt chồng chéo với một cuộc họp khác. Thư ký văn phòng cần làm gì để giải quyết vấn đề này?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 9,
+        "body_index": 555
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Báo cáo ngay với người tổ chức cuộc họp và tìm phòng họp thay thế."
+      },
+      {
+        "text": "B. Hủy bỏ cuộc họp vì không có phòng trống."
+      },
+      {
+        "text": "C. Chuyển cuộc họp sang thời gian khác mà không thông báo cho ai."
+      },
+      {
+        "text": "D. Chờ đến ngày họp rồi tìm phòng họp khác."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Báo cáo ngay với người tổ chức cuộc họp và tìm phòng họp thay thế.",
+      "B. Hủy bỏ cuộc họp vì không có phòng trống.",
+      "C. Chuyển cuộc họp sang thời gian khác mà không thông báo cho ai.",
+      "D. Chờ đến ngày họp rồi tìm phòng họp khác."
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 4",
+    "q_num": 9,
+    "body_index": 555,
+    "id": "word-1d55e841b9e15dba-p555"
+  },
+  {
+    "lesson_num": 4,
+    "question": "Câu 10: Trước cuộc họp, Thư ký văn phòng cần đảm bảo tất cả các thiết bị kỹ thuật (máy chiếu, micro, loa...) đều hoạt động bình thường. Thư ký văn phòng nên làm gì?",
+    "source_q_num": 10,
+    "source_title": "Câu 10: Trước cuộc họp, Thư ký văn phòng cần đảm bảo tất cả các thiết bị kỹ thuật (máy chiếu, micro, loa...) đều hoạt động bình thường. Thư ký văn phòng nên làm gì?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 10,
+        "body_index": 560
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Yêu cầu đội kỹ thuật kiểm tra thiết bị ít nhất 1 ngày trước cuộc họp."
+      },
+      {
+        "text": "B. Kiểm tra tất cả các thiết bị ngay trước khi cuộc họp bắt đầu."
+      },
+      {
+        "text": "C. Để người khác lo việc kiểm tra thiết bị mà không cần giám sát."
+      },
+      {
+        "text": "D. Không kiểm tra vì tin tưởng rằng thiết bị luôn sẵn sàng."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Yêu cầu đội kỹ thuật kiểm tra thiết bị ít nhất 1 ngày trước cuộc họp.",
+      "B. Kiểm tra tất cả các thiết bị ngay trước khi cuộc họp bắt đầu.",
+      "C. Để người khác lo việc kiểm tra thiết bị mà không cần giám sát.",
+      "D. Không kiểm tra vì tin tưởng rằng thiết bị luôn sẵn sàng."
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 4",
+    "q_num": 10,
+    "body_index": 560,
+    "id": "word-1d55e841b9e15dba-p560"
+  },
+  {
+    "lesson_num": 4,
+    "question": "Câu 11: Thư ký văn phòng cần đảm bảo rằng mọi người tham gia cuộc họp đều được cung cấp thông tin chính xác về nội dung cuộc họp. Thư ký văn phòng nên làm gì để đảm bảo mọi người đều có cùng thông tin?",
+    "source_q_num": 11,
+    "source_title": "Câu 11: Thư ký văn phòng cần đảm bảo rằng mọi người tham gia cuộc họp đều được cung cấp thông tin chính xác về nội dung cuộc họp. Thư ký văn phòng nên làm gì để đảm bảo mọi người đều có cùng thông tin?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 11,
+        "body_index": 565
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Chỉ cung cấp thông tin khi mọi người đã ngồi vào chỗ trong cuộc họp."
+      },
+      {
+        "text": "B. Không gửi thông tin mà để mọi người tự tìm hiểu khi đến họp."
+      },
+      {
+        "text": "C. Gửi thông tin bằng văn bản và không cần xác nhận từ người nhận."
+      },
+      {
+        "text": "D. Gửi email với tất cả thông tin cần thiết trước cuộc họp và yêu cầu xác nhận từ người nhận."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Chỉ cung cấp thông tin khi mọi người đã ngồi vào chỗ trong cuộc họp.",
+      "B. Không gửi thông tin mà để mọi người tự tìm hiểu khi đến họp.",
+      "C. Gửi thông tin bằng văn bản và không cần xác nhận từ người nhận.",
+      "D. Gửi email với tất cả thông tin cần thiết trước cuộc họp và yêu cầu xác nhận từ người nhận."
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 4",
+    "q_num": 11,
+    "body_index": 565,
+    "id": "word-1d55e841b9e15dba-p565"
+  },
+  {
+    "lesson_num": 4,
+    "question": "Câu 12: Trong cuộc họp, một thành viên yêu cầu thư ký ghi lại chi tiết một quyết định quan trọng vừa được thông qua. Thư ký cần làm gì để đảm bảo ghi chép chính xác?",
+    "source_q_num": 12,
+    "source_title": "Câu 12: Trong cuộc họp, một thành viên yêu cầu thư ký ghi lại chi tiết một quyết định quan trọng vừa được thông qua. Thư ký cần làm gì để đảm bảo ghi chép chính xác?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 12,
+        "body_index": 570
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Bỏ qua yêu cầu nếu cho rằng quyết định không quan trọng."
+      },
+      {
+        "text": "B. Yêu cầu người đưa ra quyết định nhắc lại để đảm bảo ghi chép chính xác."
+      },
+      {
+        "text": "C. Ghi chép sau khi cuộc họp kết thúc để không làm gián đoạn."
+      },
+      {
+        "text": "D. Ghi lại quyết định theo cách hiểu cá nhân mà không cần xin xác nhận."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Bỏ qua yêu cầu nếu cho rằng quyết định không quan trọng.",
+      "B. Yêu cầu người đưa ra quyết định nhắc lại để đảm bảo ghi chép chính xác.",
+      "C. Ghi chép sau khi cuộc họp kết thúc để không làm gián đoạn.",
+      "D. Ghi lại quyết định theo cách hiểu cá nhân mà không cần xin xác nhận."
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 4",
+    "q_num": 12,
+    "body_index": 570,
+    "id": "word-1d55e841b9e15dba-p570"
+  },
+  {
+    "lesson_num": 4,
+    "question": "Câu 13: Trong cuộc họp, có một cuộc tranh luận nảy lửa về một vấn đề quan trọng. Thư ký nên làm gì để quản lý tình huống này?",
+    "source_q_num": 13,
+    "source_title": "Câu 13: Trong cuộc họp, có một cuộc tranh luận nảy lửa về một vấn đề quan trọng. Thư ký nên làm gì để quản lý tình huống này?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 13,
+        "body_index": 575
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Ngừng ghi chép vì khó theo dõi nội dung cuộc tranh luận."
+      },
+      {
+        "text": "B. Chờ đến khi cuộc tranh luận kết thúc rồi mới ghi chép lại kết quả."
+      },
+      {
+        "text": "C. Ghi chép lại các quan điểm chính và kết quả của cuộc tranh luận."
+      },
+      {
+        "text": "D. Đề nghị dừng cuộc họp để ổn định trật tự."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Ngừng ghi chép vì khó theo dõi nội dung cuộc tranh luận.",
+      "B. Chờ đến khi cuộc tranh luận kết thúc rồi mới ghi chép lại kết quả.",
+      "C. Ghi chép lại các quan điểm chính và kết quả của cuộc tranh luận.",
+      "D. Đề nghị dừng cuộc họp để ổn định trật tự."
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 4",
+    "q_num": 13,
+    "body_index": 575,
+    "id": "word-1d55e841b9e15dba-p575"
+  },
+  {
+    "lesson_num": 4,
+    "question": "Câu 14: Một trong những nhiệm vụ sau cuộc họp là gửi thông tin nhắc nhở các thành viên về các công việc cần thực hiện. Thư ký nên làm gì?",
+    "source_q_num": 14,
+    "source_title": "Câu 14: Một trong những nhiệm vụ sau cuộc họp là gửi thông tin nhắc nhở các thành viên về các công việc cần thực hiện. Thư ký nên làm gì?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 14,
+        "body_index": 580
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Gửi thông tin qua email cá nhân của từng thành viên"
+      },
+      {
+        "text": "B. Gửi thông tin nhắc nhở qua hệ thống quản lý công việc"
+      },
+      {
+        "text": "C. Đăng thông báo tin nhắc nhỏ lên bảng thông báo"
+      },
+      {
+        "text": "D. Gọi điện trực tiếp từng thành viên để nhắc nhở"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Gửi thông tin qua email cá nhân của từng thành viên",
+      "B. Gửi thông tin nhắc nhở qua hệ thống quản lý công việc",
+      "C. Đăng thông báo tin nhắc nhỏ lên bảng thông báo",
+      "D. Gọi điện trực tiếp từng thành viên để nhắc nhở"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 4",
+    "q_num": 14,
+    "body_index": 580,
+    "id": "word-1d55e841b9e15dba-p580"
+  },
+  {
+    "lesson_num": 4,
+    "question": "Câu 15: Sau khi cuộc họp kết thúc, thư ký nhận được phản hồi về một số quyết định. Thư ký sẽ làm gì?",
+    "source_q_num": 15,
+    "source_title": "Câu 15: Sau khi cuộc họp kết thúc, thư ký nhận được phản hồi về một số quyết định. Thư ký sẽ làm gì?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 15,
+        "body_index": 585
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Báo cáo phản hồi này cho quản lý để xem xét"
+      },
+      {
+        "text": "B. Bỏ qua phản hồi vì cuộc họp đã kết thúc"
+      },
+      {
+        "text": "C. Lập tức sửa đổi biên bản cuộc họp"
+      },
+      {
+        "text": "D. Gửi phản hồi cho toàn bộ các thành viên đã tham dự"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Báo cáo phản hồi này cho quản lý để xem xét",
+      "B. Bỏ qua phản hồi vì cuộc họp đã kết thúc",
+      "C. Lập tức sửa đổi biên bản cuộc họp",
+      "D. Gửi phản hồi cho toàn bộ các thành viên đã tham dự"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 4",
+    "q_num": 15,
+    "body_index": 585,
+    "id": "word-1d55e841b9e15dba-p585"
+  },
+  {
+    "lesson_num": 4,
+    "question": "Câu 16: Khi đón tiếp đại biểu tại một cuộc họp, thư ký văn phòng cần làm gì để đảm bảo hiệu quả?",
+    "source_q_num": 16,
+    "source_title": "Câu 16 : Khi đón tiếp đại biểu tại một cuộc họp, thư ký văn phòng cần làm gì để đảm bảo hiệu quả?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 16,
+        "body_index": 590
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Đảm bảo có một bàn đón tiếp với bảng ghi rõ \"Bàn đón tiếp\""
+      },
+      {
+        "text": "B. Tạo một khu vực giải trí với TV hoặc sách báo"
+      },
+      {
+        "text": "C. Phân phát tài liệu trước khi đại biểu đến"
+      },
+      {
+        "text": "D. Thực hiện báo cáo kết quả cuộc họp ngay khi đại biểu đến"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Đảm bảo có một bàn đón tiếp với bảng ghi rõ \"Bàn đón tiếp\"",
+      "B. Tạo một khu vực giải trí với TV hoặc sách báo",
+      "C. Phân phát tài liệu trước khi đại biểu đến",
+      "D. Thực hiện báo cáo kết quả cuộc họp ngay khi đại biểu đến"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 4",
+    "q_num": 16,
+    "body_index": 590,
+    "id": "word-1d55e841b9e15dba-p590"
+  },
+  {
+    "lesson_num": 4,
+    "question": "Câu 17: Trong cuộc họp, một quyết định cần được đưa ra nhưng có một thành viên quan trọng vắng mặt. Thư ký cần làm gì trong tình huống này?",
+    "source_q_num": 17,
+    "source_title": "Câu 17: Trong cuộc họp, một quyết định cần được đưa ra nhưng có một thành viên quan trọng vắng mặt. Thư ký cần làm gì trong tình huống này?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 17,
+        "body_index": 595
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Ghi chép lại lý do vắng mặt và đề xuất hoãn quyết định cho đến khi người này có mặt"
+      },
+      {
+        "text": "B. Bỏ qua sự vắng mặt và đưa ra quyết định ngay lập tức."
+      },
+      {
+        "text": "C. Tiếp tục cuộc họp mà không cần người vắng mặt."
+      },
+      {
+        "text": "D. Không ghi chép lại gì về sự vắng mặt."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Ghi chép lại lý do vắng mặt và đề xuất hoãn quyết định cho đến khi người này có mặt",
+      "B. Bỏ qua sự vắng mặt và đưa ra quyết định ngay lập tức.",
+      "C. Tiếp tục cuộc họp mà không cần người vắng mặt.",
+      "D. Không ghi chép lại gì về sự vắng mặt."
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 4",
+    "q_num": 17,
+    "body_index": 595,
+    "id": "word-1d55e841b9e15dba-p595"
+  },
+  {
+    "lesson_num": 4,
+    "question": "Câu 18: Sau khi cuộc họp kết thúc, thư ký cần tổng hợp lại nội dung chính để gửi cho cấp trên. Thư ký sẽ bắt đầu từ đâu?",
+    "source_q_num": 18,
+    "source_title": "Câu 18: Sau khi cuộc họp kết thúc, thư ký cần tổng hợp lại nội dung chính để gửi cho cấp trên. Thư ký sẽ bắt đầu từ đâu?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 18,
+        "body_index": 600
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Ghi lại toàn bộ cuộc họp dưới dạng video"
+      },
+      {
+        "text": "B. Đính kèm tài liệu gốc của cuộc họp vào email"
+      },
+      {
+        "text": "C. Tóm tắt các quyết định chính và hành động tiếp theo"
+      },
+      {
+        "text": "D. Viết lại toàn bộ các ý kiến được thảo luận"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Ghi lại toàn bộ cuộc họp dưới dạng video",
+      "B. Đính kèm tài liệu gốc của cuộc họp vào email",
+      "C. Tóm tắt các quyết định chính và hành động tiếp theo",
+      "D. Viết lại toàn bộ các ý kiến được thảo luận"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 4",
+    "q_num": 18,
+    "body_index": 600,
+    "id": "word-1d55e841b9e15dba-p600"
+  },
+  {
+    "lesson_num": 4,
+    "question": "Câu 19: Thư ký đã hoàn tất biên bản cuộc họp. Việc tiếp theo cần làm là gì?",
+    "source_q_num": 19,
+    "source_title": "Câu 19: Thư ký đã hoàn tất biên bản cuộc họp. Việc tiếp theo cần làm là gì?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 19,
+        "body_index": 605
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Lưu vào thư mục công khai trên máy tính cá nhân"
+      },
+      {
+        "text": "B. Gửi ngay cho tất cả cá nhân viên trong công ty"
+      },
+      {
+        "text": "C. Để trên bàn làm việc để quản lý xem xét sau"
+      },
+      {
+        "text": "D. Lưu vào hệ thống quản lý tài liệu của công ty"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Lưu vào thư mục công khai trên máy tính cá nhân",
+      "B. Gửi ngay cho tất cả cá nhân viên trong công ty",
+      "C. Để trên bàn làm việc để quản lý xem xét sau",
+      "D. Lưu vào hệ thống quản lý tài liệu của công ty"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 4",
+    "q_num": 19,
+    "body_index": 605,
+    "id": "word-1d55e841b9e15dba-p605"
+  },
+  {
+    "lesson_num": 4,
+    "question": "Câu 20: Thư ký văn phòng cần ghi những thông tin cơ bản nào vào biên bản cuộc họp?",
+    "source_q_num": 20,
+    "source_title": "Câu 20 : Thư ký văn phòng cần ghi những thông tin cơ bản nào vào biên bản cuộc họp?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 20,
+        "body_index": 610
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Danh sách tất cả các khách mời và quà tặng"
+      },
+      {
+        "text": "B. Các phương án giải quyết các vấn đề trong cuộc họp"
+      },
+      {
+        "text": "C. Thời gian bắt đầu và kết thúc, thành phần tham dự, nội dung cuộc họp"
+      },
+      {
+        "text": "D. Các chi tiết về địa điểm và ánh sáng"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Danh sách tất cả các khách mời và quà tặng",
+      "B. Các phương án giải quyết các vấn đề trong cuộc họp",
+      "C. Thời gian bắt đầu và kết thúc, thành phần tham dự, nội dung cuộc họp",
+      "D. Các chi tiết về địa điểm và ánh sáng"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 4",
+    "q_num": 20,
+    "body_index": 610,
+    "id": "word-1d55e841b9e15dba-p610"
+  },
+  {
+    "lesson_num": 4,
+    "question": "Câu 21: Vì sao thư ký văn phòng cần chuẩn bị máy móc phục vụ phiên dịch khi có thành viên nước ngoài tham dự cuộc họp?",
+    "source_q_num": 21,
+    "source_title": "Câu 21 : Vì sao thư ký văn phòng cần chuẩn bị máy móc phục vụ phiên dịch khi có thành viên nước ngoài tham dự cuộc họp?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 21,
         "body_index": 615
       }
     ],
     "source_content": [
       {
-        "text": "A. Chức năng giai cấp (trấn áp) và chức năng xã hội (tổ chức và xây dựng)"
+        "text": "A. Để đảm bảo rằng mọi người đều hiểu rõ nội dung cuộc họp"
       },
       {
-        "text": "B. Chức năng chính trị, kinh tế, văn hóa, xã hội"
+        "text": "B. Để tăng tính chuyên nghiệp cho cuộc họp"
       },
       {
-        "text": "C. Chức năng giai cấp và chức năng đối ngoại"
+        "text": "C. Để tránh sai sót trong quá trình giao tiếp"
+      },
+      {
+        "text": "D. Để tuân thủ quy định của tổ chức"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Chức năng giai cấp (trấn áp) và chức năng xã hội (tổ chức và xây dựng)",
-      "B. Chức năng chính trị, kinh tế, văn hóa, xã hội",
-      "C. Chức năng giai cấp và chức năng đối ngoại"
+      "A. Để đảm bảo rằng mọi người đều hiểu rõ nội dung cuộc họp",
+      "B. Để tăng tính chuyên nghiệp cho cuộc họp",
+      "C. Để tránh sai sót trong quá trình giao tiếp",
+      "D. Để tuân thủ quy định của tổ chức"
     ],
     "correct_answers": [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 3",
-    "q_num": 32,
+    "lesson": "Bài 4",
+    "q_num": 21,
     "body_index": 615,
-    "id": "word-c41143f3c5139fa3-p615"
+    "id": "word-1d55e841b9e15dba-p615"
   },
   {
-    "lesson_num": 3,
-    "question": "Câu 33: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-    "source_q_num": 33,
-    "source_title": "Câu 33: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+    "lesson_num": 4,
+    "question": "Câu 22: Tại sao thư ký văn phòng cần phối hợp với bộ phận lễ tân để chuẩn bị đồ ăn và giải khát cho các cuộc họp quan trọng và kéo dài?",
+    "source_q_num": 22,
+    "source_title": "Câu 22: Tại sao thư ký văn phòng cần phối hợp với bộ phận lễ tân để chuẩn bị đồ ăn và giải khát cho các cuộc họp quan trọng và kéo dài?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 33,
-        "body_index": 619
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 22,
+        "body_index": 620
       }
     ],
     "source_content": [
       {
-        "text": "1) Trong hoạt động của nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam, các cơ quan của nhà nước không được phân quyền rõ ràn"
+        "text": "A. Để tạo không khí thân thiện và gần gũi"
       },
       {
-        "text": "Sai"
+        "text": "B. Để tăng hiệu quả làm việc trong suốt cuộc họp"
       },
       {
-        "text": "2) Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam được thực hiện thông qua các thức dân chủ gián tiếp và dân chủ trực tiếp"
+        "text": "C. Để tránh phải tổ chức thêm các cuộc họp ngắn khác"
       },
       {
-        "text": "Đúng"
-      },
-      {
-        "text": "3) Đảng ta khẳng định một trong những đặc trưng của chủ nghĩa xã hội Việt Nam là do nhân dân làm chủ"
-      },
-      {
-        "text": "Đúng"
-      },
-      {
-        "text": "4) Quốc hội là cơ quan quyền lực nhà nước cao nhất hoạt động theo nhiệm kỳ 3 năm"
-      },
-      {
-        "text": "Sai"
-      }
-    ],
-    "type": "true_false",
-    "items": [
-      {
-        "statement": "1) Trong hoạt động của nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam, các cơ quan của nhà nước không được phân quyền rõ ràn",
-        "correct": false
-      },
-      {
-        "statement": "2) Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam được thực hiện thông qua các thức dân chủ gián tiếp và dân chủ trực tiếp",
-        "correct": true
-      },
-      {
-        "statement": "3) Đảng ta khẳng định một trong những đặc trưng của chủ nghĩa xã hội Việt Nam là do nhân dân làm chủ",
-        "correct": true
-      },
-      {
-        "statement": "4) Quốc hội là cơ quan quyền lực nhà nước cao nhất hoạt động theo nhiệm kỳ 3 năm",
-        "correct": false
-      }
-    ],
-    "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "lesson": "Bài 3",
-    "q_num": 33,
-    "body_index": 619,
-    "id": "word-c41143f3c5139fa3-p619"
-  },
-  {
-    "lesson_num": 3,
-    "question": "Câu 34: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-    "source_q_num": 34,
-    "source_title": "Câu 34 : Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 34,
-        "body_index": 628
-      }
-    ],
-    "source_content": [
-      {
-        "text": "1) Chế độ dân chủ nhân dân ở nước ta được xác lập sau Cách mạng Tháng Tám năm 1945"
-      },
-      {
-        "text": "Đúng"
-      },
-      {
-        "text": "2) Hình thức dân chủ trực tiếp là hình thức dân chủ đại diện, được thực hiện do nhân dân \"ủy quyền\", giao quyền lực của mình cho tổ chức mà nhân dân trực tiếp bầu ra"
-      },
-      {
-        "text": "Sai"
-      },
-      {
-        "text": "3)Năm 1976, tên nước được đổi thành Cộng hòa xã hội chủ nghĩa Việt Nam"
-      },
-      {
-        "text": "Đúng"
-      },
-      {
-        "text": "4) Hình thức dân chủ gián tiếp là hình thức thông qua đó, nhân dân bằng hành động trực tiếp của mình thực hiện quyền làm chủ nhà nước và xã hội"
-      },
-      {
-        "text": "Sai"
-      }
-    ],
-    "type": "true_false",
-    "items": [
-      {
-        "statement": "1) Chế độ dân chủ nhân dân ở nước ta được xác lập sau Cách mạng Tháng Tám năm 1945",
-        "correct": true
-      },
-      {
-        "statement": "2) Hình thức dân chủ trực tiếp là hình thức dân chủ đại diện, được thực hiện do nhân dân \"ủy quyền\", giao quyền lực của mình cho tổ chức mà nhân dân trực tiếp bầu ra",
-        "correct": false
-      },
-      {
-        "statement": "3)Năm 1976, tên nước được đổi thành Cộng hòa xã hội chủ nghĩa Việt Nam",
-        "correct": true
-      },
-      {
-        "statement": "4) Hình thức dân chủ gián tiếp là hình thức thông qua đó, nhân dân bằng hành động trực tiếp của mình thực hiện quyền làm chủ nhà nước và xã hội",
-        "correct": false
-      }
-    ],
-    "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "lesson": "Bài 3",
-    "q_num": 34,
-    "body_index": 628,
-    "id": "word-c41143f3c5139fa3-p628"
-  },
-  {
-    "lesson_num": 3,
-    "question": "Câu 35: Vận dụng những kiến thức đã học hãy chỉ ra luận điểm không chính xác:",
-    "source_q_num": 35,
-    "source_title": "Câu 35: Vận dụng những kiến thức đã học hãy chỉ ra luận điểm không chính xác:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 35,
-        "body_index": 637
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Công cuộc xây dựng chủ nghĩa xã hội là một công việc mới mẻ, khó khăn và phức tạp phải có thời gian để giai cấp công nhân từng bước làm quen với những công việc đó."
-      },
-      {
-        "text": "B. Thời kỳ quá độ là cần thiết để xây dựng cơ sở vật chất – kỹ thuật cho chủ nghĩa xã hội."
-      },
-      {
-        "text": "C. Chủ nghĩa xã hội và chủ nghĩa tư bản khác nhau về chất, cần có một thời kỳ lịch sử nhất định để chuyển đổi."
-      },
-      {
-        "text": "D. Tất cả các quan hệ xã hội của chủ nghĩa xã hội tự nảy sinh trong lòng chủ nghĩa tư bản"
+        "text": "D. Để đảm bảo sức khỏe và tinh thần cho người tham dự"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Công cuộc xây dựng chủ nghĩa xã hội là một công việc mới mẻ, khó khăn và phức tạp phải có thời gian để giai cấp công nhân từng bước làm quen với những công việc đó.",
-      "B. Thời kỳ quá độ là cần thiết để xây dựng cơ sở vật chất – kỹ thuật cho chủ nghĩa xã hội.",
-      "C. Chủ nghĩa xã hội và chủ nghĩa tư bản khác nhau về chất, cần có một thời kỳ lịch sử nhất định để chuyển đổi.",
-      "D. Tất cả các quan hệ xã hội của chủ nghĩa xã hội tự nảy sinh trong lòng chủ nghĩa tư bản"
+      "A. Để tạo không khí thân thiện và gần gũi",
+      "B. Để tăng hiệu quả làm việc trong suốt cuộc họp",
+      "C. Để tránh phải tổ chức thêm các cuộc họp ngắn khác",
+      "D. Để đảm bảo sức khỏe và tinh thần cho người tham dự"
     ],
     "correct_answers": [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 3",
-    "q_num": 35,
-    "body_index": 637,
-    "id": "word-c41143f3c5139fa3-p637"
+    "lesson": "Bài 4",
+    "q_num": 22,
+    "body_index": 620,
+    "id": "word-1d55e841b9e15dba-p620"
   },
   {
-    "lesson_num": 3,
-    "question": "Câu 36: Những điều kiện khách quan quy định sứ mệnh lịch sử của giai cấp công nhân bao gồm: (Chọn 2 đáp án)",
-    "source_q_num": 36,
-    "source_title": "Câu 36 : Những điều kiện khách quan quy định sứ mệnh lịch sử của giai cấp công nhân bao gồm: (Chọn 2 đáp án)",
+    "lesson_num": 4,
+    "question": "Câu 23: Thư ký văn phòng cần thu thập những tài liệu nào sau cuộc họp để hoàn thành hồ sơ cuộc họp?",
+    "source_q_num": 23,
+    "source_title": "Câu 23: Thư ký văn phòng cần thu thập những tài liệu nào sau cuộc họp để hoàn thành hồ sơ cuộc họp?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 36,
-        "body_index": 642
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 23,
+        "body_index": 625
       }
     ],
     "source_content": [
       {
-        "text": "A. Giai cấp có lực lượng đông đảo"
+        "text": "A. Danh sách đại biểu và lịch trình cuộc họp"
       },
       {
-        "text": "B. Địa vị kinh tế - xã hội"
+        "text": "B. Chương trình, báo cáo tổng kết, bản tham luận"
       },
       {
-        "text": "C. Do sự phát triển của lực lượng sản xuất hiện đại"
+        "text": "C. Các bản sao của tài liệu phát hành"
       },
       {
-        "text": "D. Đặc điểm chính trị - xã hội"
-      }
-    ],
-    "type": "multiple_choice",
-    "options": [
-      "A. Giai cấp có lực lượng đông đảo",
-      "B. Địa vị kinh tế - xã hội",
-      "C. Do sự phát triển của lực lượng sản xuất hiện đại",
-      "D. Đặc điểm chính trị - xã hội"
-    ],
-    "correct_answers": [
-      1,
-      3
-    ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bài 3",
-    "q_num": 36,
-    "body_index": 642,
-    "id": "word-c41143f3c5139fa3-p642"
-  },
-  {
-    "lesson_num": 3,
-    "question": "Câu 37: So với các giai cấp khác thì sứ mệnh lịch sử của giai cấp công nhân có gì khác biệt?",
-    "source_q_num": 37,
-    "source_title": "Câu 37 : So với các giai cấp khác thì sứ mệnh lịch sử của giai cấp công nhân có gì khác biệt?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 37,
-        "body_index": 647
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Thay thế chế độ tư hữu này bằng một chế độ tư hữu khác"
-      },
-      {
-        "text": "B. Xóa bỏ triệt để chế độ tư hữu về tư liệu sản xuất"
-      },
-      {
-        "text": "C. Không có gì khác biệt"
-      },
-      {
-        "text": "D. Duy trì chế độ tư hữu về tư liệu sản xuất"
+        "text": "D. Thông báo mời họp và biên bản họp"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Thay thế chế độ tư hữu này bằng một chế độ tư hữu khác",
-      "B. Xóa bỏ triệt để chế độ tư hữu về tư liệu sản xuất",
-      "C. Không có gì khác biệt",
-      "D. Duy trì chế độ tư hữu về tư liệu sản xuất"
+      "A. Danh sách đại biểu và lịch trình cuộc họp",
+      "B. Chương trình, báo cáo tổng kết, bản tham luận",
+      "C. Các bản sao của tài liệu phát hành",
+      "D. Thông báo mời họp và biên bản họp"
     ],
     "correct_answers": [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 3",
-    "q_num": 37,
-    "body_index": 647,
-    "id": "word-c41143f3c5139fa3-p647"
+    "lesson": "Bài 4",
+    "q_num": 23,
+    "body_index": 625,
+    "id": "word-1d55e841b9e15dba-p625"
   },
   {
-    "lesson_num": 3,
-    "question": "Câu 38: Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam được thực hiện thông qua các hình thức dân chủ nào? (Chọn 2 đáp án đúng)",
-    "source_q_num": 38,
-    "source_title": "Câu 38: Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam được thực hiện thông qua các hình thức dân chủ nào? (Chọn 2 đáp án đúng)",
+    "lesson_num": 4,
+    "question": "Câu 24: Một trong các diễn giả không thể tham dự cuộc họp vào phút chót. Thư ký văn phòng sẽ làm gì để đảm bảo cuộc họp diễn ra suôn sẻ?",
+    "source_q_num": 24,
+    "source_title": "Câu 24: Một trong các diễn giả không thể tham dự cuộc họp vào phút chót. Thư ký văn phòng sẽ làm gì để đảm bảo cuộc họp diễn ra suôn sẻ?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 38,
-        "body_index": 653
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 24,
+        "body_index": 630
       }
     ],
     "source_content": [
       {
-        "text": "A. Dân chủ chuyên chế"
+        "text": "A. Thông báo với người tham dự về việc thiếu diễn giả và lùi cuộc họp lại."
       },
       {
-        "text": "B. Dân chủ trực tiếp"
+        "text": "B. Tìm một diễn giả thay thế có thể trình bày cùng chủ đề."
       },
       {
-        "text": "C. Dân chủ tuyệt đối"
+        "text": "C. Hủy bỏ cuộc họp và lên lịch lại khi diễn giả có thể tham gia."
       },
       {
-        "text": "D. Dân chủ gián tiếp"
+        "text": "D. Tiếp tục cuộc họp mà không có diễn giả và bỏ qua phần thuyết trình của họ."
       }
     ],
-    "type": "multiple_choice",
+    "type": "single_choice",
     "options": [
-      "A. Dân chủ chuyên chế",
-      "B. Dân chủ trực tiếp",
-      "C. Dân chủ tuyệt đối",
-      "D. Dân chủ gián tiếp"
+      "A. Thông báo với người tham dự về việc thiếu diễn giả và lùi cuộc họp lại.",
+      "B. Tìm một diễn giả thay thế có thể trình bày cùng chủ đề.",
+      "C. Hủy bỏ cuộc họp và lên lịch lại khi diễn giả có thể tham gia.",
+      "D. Tiếp tục cuộc họp mà không có diễn giả và bỏ qua phần thuyết trình của họ."
     ],
     "correct_answers": [
-      1,
-      3
+      1
     ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bài 3",
-    "q_num": 38,
-    "body_index": 653,
-    "id": "word-c41143f3c5139fa3-p653"
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 4",
+    "q_num": 24,
+    "body_index": 630,
+    "id": "word-1d55e841b9e15dba-p630"
   },
   {
-    "lesson_num": 3,
-    "question": "Câu 39: Vận dụng những kiến thức đã học hãy chọn phương án đúng về mối quan hệ giữa dân chủ xã hội chủ nghĩa và nhà nước xã hội chủ nghĩa?",
+    "lesson_num": 4,
+    "question": "Câu 25: Trước cuộc họp, Thư ký văn phòng cần đảm bảo rằng tất cả thiết bị kỹ thuật (máy chiếu, micro, loa...) đều hoạt động bình thường. Thư ký văn phòng nên làm gì?",
+    "source_q_num": 25,
+    "source_title": "Câu 25: Trước cuộc họp, Thư ký văn phòng cần đảm bảo rằng tất cả thiết bị kỹ thuật (máy chiếu, micro, loa...) đều hoạt động bình thường. Thư ký văn phòng nên làm gì?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 25,
+        "body_index": 635
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Kiểm tra tất cả các thiết bị ngay trước khi cuộc họp bắt đầu."
+      },
+      {
+        "text": "B. Để người khác lo việc kiểm tra thiết bị mà không cần giám sát."
+      },
+      {
+        "text": "C. Yêu cầu đội kỹ thuật kiểm tra thiết bị ít nhất 1 ngày trước cuộc họp."
+      },
+      {
+        "text": "D. Không kiểm tra vì tin tưởng rằng thiết bị luôn sẵn sàng."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Kiểm tra tất cả các thiết bị ngay trước khi cuộc họp bắt đầu.",
+      "B. Để người khác lo việc kiểm tra thiết bị mà không cần giám sát.",
+      "C. Yêu cầu đội kỹ thuật kiểm tra thiết bị ít nhất 1 ngày trước cuộc họp.",
+      "D. Không kiểm tra vì tin tưởng rằng thiết bị luôn sẵn sàng."
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 4",
+    "q_num": 25,
+    "body_index": 635,
+    "id": "word-1d55e841b9e15dba-p635"
+  },
+  {
+    "lesson_num": 4,
+    "question": "Câu 26: Một người tham gia cuộc họp yêu cầu thư ký cung cấp thông tin về cuộc họp trước đó. Thư ký cần làm gì để đáp ứng yêu cầu này?",
+    "source_q_num": 26,
+    "source_title": "Câu 26: Một người tham gia cuộc họp yêu cầu thư ký cung cấp thông tin về cuộc họp trước đó. Thư ký cần làm gì để đáp ứng yêu cầu này?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 26,
+        "body_index": 640
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Hẹn sau cuộc họp sẽ cung cấp thông tin."
+      },
+      {
+        "text": "B. Tra cứu thông tin từ biên bản cuộc họp trước và cung cấp ngay lập tức."
+      },
+      {
+        "text": "C. Yêu cầu người tham gia tự tra cứu thông tin sau cuộc họp."
+      },
+      {
+        "text": "D. Từ chối cung cấp thông tin vì không chuẩn bị trước."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Hẹn sau cuộc họp sẽ cung cấp thông tin.",
+      "B. Tra cứu thông tin từ biên bản cuộc họp trước và cung cấp ngay lập tức.",
+      "C. Yêu cầu người tham gia tự tra cứu thông tin sau cuộc họp.",
+      "D. Từ chối cung cấp thông tin vì không chuẩn bị trước."
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 4",
+    "q_num": 26,
+    "body_index": 640,
+    "id": "word-1d55e841b9e15dba-p640"
+  },
+  {
+    "lesson_num": 4,
+    "question": "Câu 27: Trong cuộc họp, có sự thay đổi đột ngột về chương trình nghị sự. Thư ký cần làm gì?",
+    "source_q_num": 27,
+    "source_title": "Câu 27: Trong cuộc họp, có sự thay đổi đột ngột về chương trình nghị sự. Thư ký cần làm gì?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 27,
+        "body_index": 645
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Ghi chép lại cả chương trình nghị sự ban đầu và những thay đổi mới."
+      },
+      {
+        "text": "B. Thông báo với người điều hành cuộc họp rằng không thể ghi chép hết các thay đổi."
+      },
+      {
+        "text": "C. Không ghi chép gì thêm về chương trình nghị sự."
+      },
+      {
+        "text": "D. Ghi chép lại chương trình nghị sự ban đầu mà không quan tâm đến thay đổi."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Ghi chép lại cả chương trình nghị sự ban đầu và những thay đổi mới.",
+      "B. Thông báo với người điều hành cuộc họp rằng không thể ghi chép hết các thay đổi.",
+      "C. Không ghi chép gì thêm về chương trình nghị sự.",
+      "D. Ghi chép lại chương trình nghị sự ban đầu mà không quan tâm đến thay đổi."
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 4",
+    "q_num": 27,
+    "body_index": 645,
+    "id": "word-1d55e841b9e15dba-p645"
+  },
+  {
+    "lesson_num": 4,
+    "question": "Câu 28: Một số người tham gia cuộc họp không nghe rõ nội dung thảo luận do vấn đề âm thanh. Thư ký cần làm gì trong tình huống này?",
+    "source_q_num": 28,
+    "source_title": "Câu 28 : Một số người tham gia cuộc họp không nghe rõ nội dung thảo luận do vấn đề âm thanh. Thư ký cần làm gì trong tình huống này?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 28,
+        "body_index": 650
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Ghi chú lại vấn đề âm thanh trong biên bản cuộc họp và tiếp tục theo dõi cuộc thảo luận."
+      },
+      {
+        "text": "B. Yêu cầu mọi người phát biểu lớn hơn mà không cần điều chỉnh âm thanh."
+      },
+      {
+        "text": "C. Dừng ghi chép và yêu cầu kiểm tra lại hệ thống âm thanh."
+      },
+      {
+        "text": "D. Tiếp tục ghi chép mà không quan tâm đến vấn đề âm thanh."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Ghi chú lại vấn đề âm thanh trong biên bản cuộc họp và tiếp tục theo dõi cuộc thảo luận.",
+      "B. Yêu cầu mọi người phát biểu lớn hơn mà không cần điều chỉnh âm thanh.",
+      "C. Dừng ghi chép và yêu cầu kiểm tra lại hệ thống âm thanh.",
+      "D. Tiếp tục ghi chép mà không quan tâm đến vấn đề âm thanh."
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 4",
+    "q_num": 28,
+    "body_index": 650,
+    "id": "word-1d55e841b9e15dba-p650"
+  },
+  {
+    "lesson_num": 4,
+    "question": "Câu 29: Trong quá trình ghi chép, thư ký nhận thấy có một số ý kiến lặp lại nhưng được diễn đạt theo cách khác nhau. Thư ký nên làm gì?",
+    "source_q_num": 29,
+    "source_title": "Câu 29: Trong quá trình ghi chép, thư ký nhận thấy có một số ý kiến lặp lại nhưng được diễn đạt theo cách khác nhau. Thư ký nên làm gì?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 29,
+        "body_index": 655
+      }
+    ],
+    "source_content": [
+      {
+        "text": "Ghi lại tất cả các ý kiến dù chúng có lặp lại."
+      },
+      {
+        "text": "Chỉ ghi chép một lần đối với các ý kiến lặp lại để tránh làm dài biên bản."
+      },
+      {
+        "text": "Bỏ qua các ý kiến lặp lại hoàn toàn."
+      },
+      {
+        "text": "Yêu cầu người phát biểu dừng lại nếu ý kiến của họ đã được nêu trước đó."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Ghi lại tất cả các ý kiến dù chúng có lặp lại.",
+      "B. Chỉ ghi chép một lần đối với các ý kiến lặp lại để tránh làm dài biên bản.",
+      "C. Bỏ qua các ý kiến lặp lại hoàn toàn.",
+      "D. Yêu cầu người phát biểu dừng lại nếu ý kiến của họ đã được nêu trước đó."
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 4",
+    "q_num": 29,
+    "body_index": 655,
+    "id": "word-1d55e841b9e15dba-p655"
+  },
+  {
+    "lesson_num": 4,
+    "question": "Câu 30: Khi điều hành thảo luận trong cuộc họp, thư ký cần chú ý điều gì để đảm bảo sự đóng góp ý kiến từ tất cả đại biểu?",
     "source_q_num": 30,
-    "source_title": "Câu 30 (Bài 3): Vận dụng những kiến thức đã học hãy chọn phương án đúng về mối quan hệ giữa dân chủ xã hội chủ nghĩa và nhà nước xã hội chủ nghĩa?",
+    "source_title": "Câu 30 : Khi điều hành thảo luận trong cuộc họp, thư ký cần chú ý điều gì để đảm bảo sự đóng góp ý kiến từ tất cả đại biểu?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 30,
-        "body_index": 1162
+        "body_index": 661
       }
     ],
     "source_content": [
       {
-        "text": "A. Dân chủ xã hội chủ nghĩa là mục đích cho việc xây dựng và hoạt động của nhà nước xã hội chủ nghĩa còn nhà nước xã hội chủ nghĩa quyết định bản chất của dân chủ B. Dân chủ xã hội chủ nghĩa là mục tiêu cho việc xây dựng và hoạt động của nhà nước xã hội chủ nghĩa còn nhà nước xã hội chủ nghĩa là công cụ quan trọng cho việc thực thi quyền làm chủ của người dân C. Dân chủ xã hội chủ nghĩa là cơ sở, nền tảng cho việc xây dựng và hoạt động của nhà nước xã hội chủ nghĩa còn nhà nước xã hội chủ nghĩa là công cụ quan trọng cho việc thực thi quyền làm chủ của người dân D. Dân chủ xã hội chủ nghĩa là mục đích cho việc xây dựng và hoạt động của nhà nước xã hội chủ nghĩa còn nhà nước xã hội chủ nghĩa là điều kiện cho sự ra đời của dân chủ xã hội chủ nghĩa"
+        "text": "Chỉ ghi nhận ý kiến của các đại biểu cấp cao"
       },
       {
-        "text": "Đáp án: C"
+        "text": "Đưa ra quyết định ngay sau khi kết thúc thảo luận"
+      },
+      {
+        "text": "Nêu rõ các vấn đề cần thảo luận và ghi nhận ý kiến từ mọi người"
+      },
+      {
+        "text": "Đảm bảo không có tranh luận xảy ra"
       }
     ],
-    "is_thuong_xuyen": true,
-    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 1",
     "type": "single_choice",
     "options": [
-      "A. Dân chủ xã hội chủ nghĩa là mục đích cho việc xây dựng và hoạt động của nhà nước xã hội chủ nghĩa còn nhà nước xã hội chủ nghĩa quyết định bản chất của dân chủ",
-      "B. Dân chủ xã hội chủ nghĩa là mục tiêu cho việc xây dựng và hoạt động của nhà nước xã hội chủ nghĩa còn nhà nước xã hội chủ nghĩa là công cụ quan trọng cho việc thực thi quyền làm chủ của người dân",
-      "C. Dân chủ xã hội chủ nghĩa là cơ sở, nền tảng cho việc xây dựng và hoạt động của nhà nước xã hội chủ nghĩa còn nhà nước xã hội chủ nghĩa là công cụ quan trọng cho việc thực thi quyền làm chủ của người dân",
-      "D. Dân chủ xã hội chủ nghĩa là mục đích cho việc xây dựng và hoạt động của nhà nước xã hội chủ nghĩa còn nhà nước xã hội chủ nghĩa là điều kiện cho sự ra đời của dân chủ xã hội chủ nghĩa"
+      "A. Chỉ ghi nhận ý kiến của các đại biểu cấp cao",
+      "B. Đưa ra quyết định ngay sau khi kết thúc thảo luận",
+      "C. Nêu rõ các vấn đề cần thảo luận và ghi nhận ý kiến từ mọi người",
+      "D. Đảm bảo không có tranh luận xảy ra"
     ],
     "correct_answers": [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 3",
-    "q_num": 39,
-    "body_index": 1162,
-    "id": "word-c41143f3c5139fa3-p1162"
+    "lesson": "Bài 4",
+    "q_num": 30,
+    "body_index": 661,
+    "id": "word-1d55e841b9e15dba-p661"
   },
   {
     "lesson_num": 4,
-    "question": "Câu 1: Trong cơ cấu xã hội – giai cấp của thời kỳ quá độ lên chủ nghĩa xã hội, lực lượng tiêu biểu cho phương thức sản xuất mới giữ vai trò chủ đạo, tiên phong trong quá trình công nghiệp hoá, hiện đại hoá đất nước là:",
+    "question": "Câu 31: có một số tài liệu quan trọng cần in và phân pháp cho tất cả người tham dự trước khi cuộc họp bắt đầu. Thư ký văn phòng cần lên kế hoạch như thế nào để hoàn thành việc in ấn và phân phát tài liệu?",
+    "source_q_num": 31,
+    "source_title": "Câu 31: có một số tài liệu quan trọng cần in và phân pháp cho tất cả người tham dự trước khi cuộc họp bắt đầu. Thư ký văn phòng cần lên kế hoạch như thế nào để hoàn thành việc in ấn và phân phát tài liệu?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 31,
+        "body_index": 667
+      }
+    ],
+    "source_content": [
+      {
+        "text": "Chuẩn bị tài liệu sẵn sàng và phân phát trước ngày họp"
+      },
+      {
+        "text": "Yêu cầu người khác in và phân phát tài liệu, không cần kiểm tra lại"
+      },
+      {
+        "text": "In tài liệu vào ngày họp và phân phát ngay khi mọi người đến"
+      },
+      {
+        "text": "Chờ đến khi mọi người đến mới bắt đầu in tài liệu."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Chuẩn bị tài liệu sẵn sàng và phân phát trước ngày họp",
+      "B. Yêu cầu người khác in và phân phát tài liệu, không cần kiểm tra lại",
+      "C. In tài liệu vào ngày họp và phân phát ngay khi mọi người đến",
+      "D. Chờ đến khi mọi người đến mới bắt đầu in tài liệu."
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 4",
+    "q_num": 31,
+    "body_index": 667,
+    "id": "word-1d55e841b9e15dba-p667"
+  },
+  {
+    "lesson_num": 4,
+    "question": "Câu 32: Khi điều hành chương trình cuộc họp, thư ký văn phòng cần làm gì để đảm bảo các đại biểu phát biểu bị quá thời gian quy định của cuộc họp?",
+    "source_q_num": 32,
+    "source_title": "Câu 32: Khi điều hành chương trình cuộc họp, thư ký văn phòng cần làm gì để đảm bảo các đại biểu phát biểu bị quá thời gian quy định của cuộc họp?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 32,
+        "body_index": 672
+      }
+    ],
+    "source_content": [
+      {
+        "text": "Yêu cầu đại biểu chuẩn bị ý kiến trước khi cuộc họp bắt đầu"
+      },
+      {
+        "text": "Đưa đại biểu tài liệu liên quan đến cuộc họp"
+      },
+      {
+        "text": "Lưu ý thời gian và nhắc nhở đại biểu nếu cần thiết"
+      },
+      {
+        "text": "Đưa ra một danh sách các vấn đề cần thảo luận"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Yêu cầu đại biểu chuẩn bị ý kiến trước khi cuộc họp bắt đầu",
+      "B. Đưa đại biểu tài liệu liên quan đến cuộc họp",
+      "C. Lưu ý thời gian và nhắc nhở đại biểu nếu cần thiết",
+      "D. Đưa ra một danh sách các vấn đề cần thảo luận"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 4",
+    "q_num": 32,
+    "body_index": 672,
+    "id": "word-1d55e841b9e15dba-p672"
+  },
+  {
+    "lesson_num": 4,
+    "question": "Câu 33: Có một số tài liệu quan trọng cần in và phân phát cho tất cả người tham dự trước khi cuộc họp bắt đầu. Thư ký văn phòng cần lên kế hoạch như thế nào để hoàn thành việc in ấn và phân phát tài liệu?",
+    "source_q_num": 33,
+    "source_title": "Câu 33 : Có một số tài liệu quan trọng cần in và phân phát cho tất cả người tham dự trước khi cuộc họp bắt đầu. Thư ký văn phòng cần lên kế hoạch như thế nào để hoàn thành việc in ấn và phân phát tài liệu?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 33,
+        "body_index": 677
+      }
+    ],
+    "source_content": [
+      {
+        "text": "Yêu cầu người khác in và phân phát tài liệu, không cần kiểm tra lại."
+      },
+      {
+        "text": "Chờ đến khi mọi người đến mới bắt đầu in tài liệu."
+      },
+      {
+        "text": "Chuẩn bị tài liệu sẵn sàng và phân phát trước ngày họp."
+      },
+      {
+        "text": "In tài liệu vào ngày họp và phân phát ngay khi mọi người đến."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Yêu cầu người khác in và phân phát tài liệu, không cần kiểm tra lại.",
+      "B. Chờ đến khi mọi người đến mới bắt đầu in tài liệu.",
+      "C. Chuẩn bị tài liệu sẵn sàng và phân phát trước ngày họp.",
+      "D. In tài liệu vào ngày họp và phân phát ngay khi mọi người đến."
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 4",
+    "q_num": 33,
+    "body_index": 677,
+    "id": "word-1d55e841b9e15dba-p677"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 1: Khi tổ chức các chuyến đi công tác, thư ký văn phòng xếp lịch dựa trên tiêu chí nào sau đây?",
     "source_q_num": 1,
-    "source_title": "Câu 1: Trong cơ cấu xã hội – giai cấp của thời kỳ quá độ lên chủ nghĩa xã hội, lực lượng tiêu biểu cho phương thức sản xuất mới giữ vai trò chủ đạo, tiên phong trong quá trình công nghiệp hoá, hiện đại hoá đất nước là:",
+    "source_title": "Câu 1: Khi tổ chức các chuyến đi công tác, thư ký văn phòng xếp lịch dựa trên tiêu chí nào sau đây?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 1,
-        "body_index": 659
+        "body_index": 685
       }
     ],
     "source_content": [
       {
-        "text": "Giai cấp công nhân"
+        "text": "A. Vị trí địa lý của điểm đến"
       },
       {
-        "text": "Giai cấp nông dân"
+        "text": "B. Thời gian và chi phí"
       },
       {
-        "text": "Đội ngũ doanh nhân"
+        "text": "C. Nhu cầu của các cán bộ và lãnh đạo"
       },
       {
-        "text": "Tầng lớp trí thức"
+        "text": "D. Số lượng nhân viên tham gia"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Giai cấp công nhân",
-      "B. Giai cấp nông dân",
-      "C. Đội ngũ doanh nhân",
-      "D. Tầng lớp trí thức"
+      "A. Vị trí địa lý của điểm đến",
+      "B. Thời gian và chi phí",
+      "C. Nhu cầu của các cán bộ và lãnh đạo",
+      "D. Số lượng nhân viên tham gia"
     ],
     "correct_answers": [
-      0
+      2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 4",
+    "lesson": "Bài 5",
     "q_num": 1,
-    "body_index": 659,
-    "id": "word-c41143f3c5139fa3-p659"
+    "body_index": 685,
+    "id": "word-1d55e841b9e15dba-p685"
   },
   {
-    "lesson_num": 4,
-    "question": "Câu 2: Xét về mặt kinh tế, trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội – giai cấp biến đổi phức tạp, đa dạng, làm xuất hiện các tầng lớp mới là do:",
+    "lesson_num": 5,
+    "question": "Câu 2: Tại sao các thông tin lịch trình và yêu cầu về phương tiện di chuyển lại quan trọng trong tổ chức chuyến đi công tác?",
     "source_q_num": 2,
-    "source_title": "Câu 2: Xét về mặt kinh tế, trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội – giai cấp biến đổi phức tạp, đa dạng, làm xuất hiện các tầng lớp mới là do:",
+    "source_title": "Câu 2: Tại sao các thông tin lịch trình và yêu cầu về phương tiện di chuyển lại quan trọng trong tổ chức chuyến đi công tác?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 2,
-        "body_index": 664
+        "body_index": 690
       }
     ],
     "source_content": [
       {
-        "text": "A. Cơ cấu kinh tế đa dạng, phức tạp"
+        "text": "A. Để giảm chi phí cho mỗi chuyến đi"
       },
       {
-        "text": "B. Các giai cấp có nhiều tư liệu sản xuất quyết định"
+        "text": "B. Để các chuyến đi diễn ra nhanh chóng"
       },
       {
-        "text": "C. Kinh tế chậm phát triển"
+        "text": "C. Để đảm bảo mọi thành viên tham gia đều biết các yêu cầu cơ bản và chuẩn bị đầy đủ"
       },
       {
-        "text": "D. Tồn tại nhiều giai cấp, tầng lớp"
+        "text": "D. Để tăng số lượng hoạt động trong chuyến đi"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Cơ cấu kinh tế đa dạng, phức tạp",
-      "B. Các giai cấp có nhiều tư liệu sản xuất quyết định",
-      "C. Kinh tế chậm phát triển",
-      "D. Tồn tại nhiều giai cấp, tầng lớp"
+      "A. Để giảm chi phí cho mỗi chuyến đi",
+      "B. Để các chuyến đi diễn ra nhanh chóng",
+      "C. Để đảm bảo mọi thành viên tham gia đều biết các yêu cầu cơ bản và chuẩn bị đầy đủ",
+      "D. Để tăng số lượng hoạt động trong chuyến đi"
     ],
     "correct_answers": [
-      0
+      2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 4",
+    "lesson": "Bài 5",
     "q_num": 2,
-    "body_index": 664,
-    "id": "word-c41143f3c5139fa3-p664"
+    "body_index": 690,
+    "id": "word-1d55e841b9e15dba-p690"
   },
   {
-    "lesson_num": 4,
-    "question": "Câu 3: Vì sao cơ cấu xã hội giai cấp có vị trí quan trọng hàng đầu, chi phối các loại hình cơ cấu xã hội khác? (Chọn 2 đáp án)",
+    "lesson_num": 5,
+    "question": "Câu 3: Nếu một chuyến đi công tác có nhiều mục đích khác nhau, thư ký văn phòng cần chú ý điều gì khi sắp xếp lịch trình?",
     "source_q_num": 3,
-    "source_title": "Câu 3: Vì sao cơ cấu xã hội giai cấp có vị trí quan trọng hàng đầu, chi phối các loại hình cơ cấu xã hội khác? (Chọn 2 đáp án)",
+    "source_title": "Câu 3: Nếu một chuyến đi công tác có nhiều mục đích khác nhau, thư ký văn phòng cần chú ý điều gì khi sắp xếp lịch trình?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 3,
-        "body_index": 669
+        "body_index": 695
       }
     ],
     "source_content": [
       {
-        "text": "A. Vì cơ cấu xã hội – giai cấp liên quan đến quản lý tổ chức lao động, vấn đề phân phối thu nhập"
+        "text": "A. Đảm bảo các mục đích đều được thực hiện một cách đồng thời"
       },
       {
-        "text": "B. Vì cơ cấu xã hội – giai cấp liên quan đến các tổ chức tà đạo, các băng nhóm xã hội đen lớn trong xã hội"
+        "text": "B. Tăng số lượng thành viên tham gia để đáp ứng tất cả các mục đích"
       },
       {
-        "text": "C. Vì cơ cấu xã hội – giai cấp liên quan đến các đảng phái chính trị và nhà nước; đến quyền sở hữu tư liệu sản xuất"
+        "text": "C. Kết hợp các mục đích để tiết kiệm thời gian và chi phí"
       },
       {
-        "text": "D. Vì cơ cấu xã hội – giai cấp liên quan đến nhiều giai cấp giàu có trong xã hội"
+        "text": "D. Chia nhỏ các mục đích và thực hiện riêng biệt"
       }
     ],
-    "type": "multiple_choice",
+    "type": "single_choice",
     "options": [
-      "A. Vì cơ cấu xã hội – giai cấp liên quan đến quản lý tổ chức lao động, vấn đề phân phối thu nhập",
-      "B. Vì cơ cấu xã hội – giai cấp liên quan đến các tổ chức tà đạo, các băng nhóm xã hội đen lớn trong xã hội",
-      "C. Vì cơ cấu xã hội – giai cấp liên quan đến các đảng phái chính trị và nhà nước; đến quyền sở hữu tư liệu sản xuất",
-      "D. Vì cơ cấu xã hội – giai cấp liên quan đến nhiều giai cấp giàu có trong xã hội"
+      "A. Đảm bảo các mục đích đều được thực hiện một cách đồng thời",
+      "B. Tăng số lượng thành viên tham gia để đáp ứng tất cả các mục đích",
+      "C. Kết hợp các mục đích để tiết kiệm thời gian và chi phí",
+      "D. Chia nhỏ các mục đích và thực hiện riêng biệt"
     ],
     "correct_answers": [
-      0,
       2
     ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bài 4",
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 5",
     "q_num": 3,
-    "body_index": 669,
-    "id": "word-c41143f3c5139fa3-p669"
+    "body_index": 695,
+    "id": "word-1d55e841b9e15dba-p695"
   },
   {
-    "lesson_num": 4,
-    "question": "Câu 4: Theo C.Mác và Ph.Ăngghen, nhiều cuộc đấu tranh của giai cấp công nhân ở châu Âu, nhất là ở nước Anh và Pháp từ giữa thế kỷ XIX thất bại là do:",
+    "lesson_num": 5,
+    "question": "Câu 4: Thư ký văn phòng liên hệ với nơi đoàn đến để chuẩn bị điều kiện ăn nghỉ và làm việc có tác dụng gì?",
     "source_q_num": 4,
-    "source_title": "Câu 4: Theo C.Mác và Ph.Ăngghen, nhiều cuộc đấu tranh của giai cấp công nhân ở châu Âu, nhất là ở nước Anh và Pháp từ giữa thế kỷ XIX thất bại là do:",
+    "source_title": "Câu 4: Thư ký văn phòng liên hệ với nơi đoàn đến để chuẩn bị điều kiện ăn nghỉ và làm việc có tác dụng gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 4,
-        "body_index": 674
+        "body_index": 700
       }
     ],
     "source_content": [
       {
-        "text": "A. Không tổ chức liên minh với giai cấp nông dân"
+        "text": "A. Để đảm bảo tất cả các thành viên tham gia đều hài lòng"
       },
       {
-        "text": "B. Không tổ chức liên minh với tầng lớp trí thức"
+        "text": "B. Để giảm chi phí cho nơi đến"
       },
       {
-        "text": "C. Không tổ chức liên minh với giai cấp tư sản"
+        "text": "C. Đảm bảo nơi ăn nghỉ và làm việc được sắp xếp chu đáo và theo yêu cầu"
       },
       {
-        "text": "D. Không tổ chức liên minh với tầng lớp tiểu chủ"
+        "text": "D. Để thay đổi mục đích chuyến đi"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Không tổ chức liên minh với giai cấp nông dân",
-      "B. Không tổ chức liên minh với tầng lớp trí thức",
-      "C. Không tổ chức liên minh với giai cấp tư sản",
-      "D. Không tổ chức liên minh với tầng lớp tiểu chủ"
+      "A. Để đảm bảo tất cả các thành viên tham gia đều hài lòng",
+      "B. Để giảm chi phí cho nơi đến",
+      "C. Đảm bảo nơi ăn nghỉ và làm việc được sắp xếp chu đáo và theo yêu cầu",
+      "D. Để thay đổi mục đích chuyến đi"
     ],
     "correct_answers": [
-      0
+      2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 4",
+    "lesson": "Bài 5",
     "q_num": 4,
-    "body_index": 674,
-    "id": "word-c41143f3c5139fa3-p674"
+    "body_index": 700,
+    "id": "word-1d55e841b9e15dba-p700"
   },
   {
-    "lesson_num": 4,
-    "question": "Câu 5: Yếu tố quyết định sự liên minh giữa giai cấp công nhân, giai cấp nông dân và tầng lớp trí thức là:",
+    "lesson_num": 5,
+    "question": "Câu 5: Để tránh chồng chéo khi tổ chức các chuyến đi công tác cho nhiều cán bộ, thư ký văn phòng phải lưu ý điều gì?",
     "source_q_num": 5,
-    "source_title": "Câu 5: Yếu tố quyết định sự liên minh giữa giai cấp công nhân, giai cấp nông dân và tầng lớp trí thức là:",
+    "source_title": "Câu 5: Để tránh chồng chéo khi tổ chức các chuyến đi công tác cho nhiều cán bộ, thư ký văn phòng phải lưu ý điều gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 5,
-        "body_index": 679
+        "body_index": 705
       }
     ],
     "source_content": [
       {
-        "text": "A. Do có cùng một kẻ thù là giai cấp tư sản"
+        "text": "A. Lên kế hoạch chi tiết cho từng chuyến đi và thông báo cho các bộ phận liên quan"
       },
       {
-        "text": "B. Do giai cấp công nhân mong muốn"
+        "text": "B. Cử thêm người để hỗ trợ trong việc tổ chức chuyến đi"
       },
       {
-        "text": "C. Do giai cấp công nhân muốn trở thành giai cấp thống trị"
+        "text": "C. Tăng cường số lượng chuyến đi trong cùng một thời gian"
       },
       {
-        "text": "D. Do có những lợi ích cơ bản thống nhất với nhau"
+        "text": "D. Đảm bảo tất cả các chuyến đi đều diễn ra vào cùng một thời điểm"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Do có cùng một kẻ thù là giai cấp tư sản",
-      "B. Do giai cấp công nhân mong muốn",
-      "C. Do giai cấp công nhân muốn trở thành giai cấp thống trị",
-      "D. Do có những lợi ích cơ bản thống nhất với nhau"
+      "A. Lên kế hoạch chi tiết cho từng chuyến đi và thông báo cho các bộ phận liên quan",
+      "B. Cử thêm người để hỗ trợ trong việc tổ chức chuyến đi",
+      "C. Tăng cường số lượng chuyến đi trong cùng một thời gian",
+      "D. Đảm bảo tất cả các chuyến đi đều diễn ra vào cùng một thời điểm"
     ],
     "correct_answers": [
-      3
+      0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 4",
+    "lesson": "Bài 5",
     "q_num": 5,
-    "body_index": 679,
-    "id": "word-c41143f3c5139fa3-p679"
+    "body_index": 705,
+    "id": "word-1d55e841b9e15dba-p705"
   },
   {
-    "lesson_num": 4,
-    "question": "Câu 6: Theo quan điểm của chủ nghĩa Mác – Lênin, trong thời kỳ quá độ lên chủ nghĩa xã hội, giai cấp công nhân, giai cấp nông dân và tầng lớp lao động khác được coi là:",
+    "lesson_num": 5,
+    "question": "Câu 6: Trong trường hợp thư ký văn phòng cùng đi với đoàn công tác, việc thu thập giấy tờ và lập hồ sơ sau khi trở về có ý nghĩa gì?",
     "source_q_num": 6,
-    "source_title": "Câu 6: Theo quan điểm của chủ nghĩa Mác – Lênin, trong thời kỳ quá độ lên chủ nghĩa xã hội, giai cấp công nhân, giai cấp nông dân và tầng lớp lao động khác được coi là:",
+    "source_title": "Câu 6: Trong trường hợp thư ký văn phòng cùng đi với đoàn công tác, việc thu thập giấy tờ và lập hồ sơ sau khi trở về có ý nghĩa gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 6,
-        "body_index": 684
+        "body_index": 710
       }
     ],
     "source_content": [
       {
-        "text": "A. Lực lượng ngoại giao to lớn"
+        "text": "A. Để phân tích kết quả chuyến công tác và đưa ra những cải tiến"
       },
       {
-        "text": "B. Lực lượng sản xuất cơ bản, lực lượng chính trị - xã hội to lớn"
+        "text": "B. Để đảm bảo tất cả các tài liệu và chứng từ đầy đủ và được sắp xếp, lưu trữ đúng cách"
       },
       {
-        "text": "C. Lực lượng vũ trang cơ bản"
+        "text": "C. Để chuẩn bị báo cáo kết quả chuyến công tác"
       },
       {
-        "text": "D. Lực lượng kém phát triển"
+        "text": "D. Để hoàn tất các thủ tục thanh toán với cơ quan tài chính"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Lực lượng ngoại giao to lớn",
-      "B. Lực lượng sản xuất cơ bản, lực lượng chính trị - xã hội to lớn",
-      "C. Lực lượng vũ trang cơ bản",
-      "D. Lực lượng kém phát triển"
+      "A. Để phân tích kết quả chuyến công tác và đưa ra những cải tiến",
+      "B. Để đảm bảo tất cả các tài liệu và chứng từ đầy đủ và được sắp xếp, lưu trữ đúng cách",
+      "C. Để chuẩn bị báo cáo kết quả chuyến công tác",
+      "D. Để hoàn tất các thủ tục thanh toán với cơ quan tài chính"
     ],
     "correct_answers": [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 4",
+    "lesson": "Bài 5",
     "q_num": 6,
-    "body_index": 684,
-    "id": "word-c41143f3c5139fa3-p684"
+    "body_index": 710,
+    "id": "word-1d55e841b9e15dba-p710"
   },
   {
-    "lesson_num": 4,
-    "question": "Câu 7: Chọn phương án trả lời đúng nhất để điền vào chỗ trống cho câu sau: \"Trước sự liên minh của các đại biểu khoa học, ..., giới kỹ thuật không một thế lực đen tối nào đứng vững được\"",
+    "lesson_num": 5,
+    "question": "Câu 7: Trong khi lãnh đạo đang đi công tác, thư ký cần quản lý các cuộc họp từ xa. Thư ký nên làm gì?",
     "source_q_num": 7,
-    "source_title": "Câu 7: Chọn phương án trả lời đúng nhất để điền vào chỗ trống cho câu sau: \"Trước sự liên minh của các đại biểu khoa học, ..., giới kỹ thuật không một thế lực đen tối nào đứng vững được\"",
+    "source_title": "Câu 7: Trong khi lãnh đạo đang đi công tác, thư ký cần quản lý các cuộc họp từ xa. Thư ký nên làm gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 7,
-        "body_index": 689
+        "body_index": 715
       }
     ],
     "source_content": [
       {
-        "text": "A. Giai cấp tiểu tư sản"
+        "text": "A. Để các cuộc họp tự tổ chức mà không cần giám sát"
       },
       {
-        "text": "B. Giai cấp nông dân"
+        "text": "B. Chỉ thông báo lịch họp cho lãnh đạo sau khi họ quay lại"
       },
       {
-        "text": "C. Giai cấp vô sản"
+        "text": "C. Để lãnh đạo tự quản lý các cuộc họp từ xa"
       },
       {
-        "text": "D. Giai cấp tư sản"
+        "text": "D. Sắp xếp và xác nhận các cuộc họp với các bên liên quan qua email hoặc hệ thống quản lý cuộc họp"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Giai cấp tiểu tư sản",
-      "B. Giai cấp nông dân",
-      "C. Giai cấp vô sản",
-      "D. Giai cấp tư sản"
+      "A. Để các cuộc họp tự tổ chức mà không cần giám sát",
+      "B. Chỉ thông báo lịch họp cho lãnh đạo sau khi họ quay lại",
+      "C. Để lãnh đạo tự quản lý các cuộc họp từ xa",
+      "D. Sắp xếp và xác nhận các cuộc họp với các bên liên quan qua email hoặc hệ thống quản lý cuộc họp"
     ],
     "correct_answers": [
-      2
+      3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 4",
+    "lesson": "Bài 5",
     "q_num": 7,
-    "body_index": 689,
-    "id": "word-c41143f3c5139fa3-p689"
+    "body_index": 715,
+    "id": "word-1d55e841b9e15dba-p715"
   },
   {
-    "lesson_num": 4,
-    "question": "Câu 8: Theo V.I. Lênin, đâu là vấn đề mang tính nguyên tắc để đảm bảo cho thắng lợi của cuộc cách mạng xã hội chủ nghĩa tháng Mười Nga năm 1917?",
+    "lesson_num": 5,
+    "question": "Câu 8: Trong khi lãnh đạo đi công tác, thư ký cần xử lý các tài liệu và báo cáo quan trọng. Công việc đầu tiên của thư ký là gì?",
     "source_q_num": 8,
-    "source_title": "Câu 8: Theo V.I. Lênin, đâu là vấn đề mang tính nguyên tắc để đảm bảo cho thắng lợi của cuộc cách mạng xã hội chủ nghĩa tháng Mười Nga năm 1917?",
+    "source_title": "Câu 8: Trong khi lãnh đạo đi công tác, thư ký cần xử lý các tài liệu và báo cáo quan trọng. Công việc đầu tiên của thư ký là gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 8,
-        "body_index": 694
+        "body_index": 720
       }
     ],
     "source_content": [
       {
-        "text": "A. Liên minh công, nông và trí thức"
+        "text": "A. Để tài liệu lại cho lãnh đạo xử lý khi trở về"
       },
       {
-        "text": "B. Liên minh giữa giai cấp công nhân, tầng lớp tiểu tư sản"
+        "text": "B. Để tài liệu cho các đồng nghiệp xử lý thay thư ký"
       },
       {
-        "text": "C. Liên minh giữa giai cấp vô sản và nông dân"
+        "text": "C. Sắp xếp và xử lý tài liệu theo yêu cầu và thời hạn"
       },
       {
-        "text": "D. Liên minh giữa giai cấp công nhân, tầng lớp tư sản tiến bộ"
+        "text": "D. Gửi tất cả tài liệu cho lãnh đạo qua email mà không kiểm tra"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Liên minh công, nông và trí thức",
-      "B. Liên minh giữa giai cấp công nhân, tầng lớp tiểu tư sản",
-      "C. Liên minh giữa giai cấp vô sản và nông dân",
-      "D. Liên minh giữa giai cấp công nhân, tầng lớp tư sản tiến bộ"
+      "A. Để tài liệu lại cho lãnh đạo xử lý khi trở về",
+      "B. Để tài liệu cho các đồng nghiệp xử lý thay thư ký",
+      "C. Sắp xếp và xử lý tài liệu theo yêu cầu và thời hạn",
+      "D. Gửi tất cả tài liệu cho lãnh đạo qua email mà không kiểm tra"
     ],
     "correct_answers": [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 4",
+    "lesson": "Bài 5",
     "q_num": 8,
-    "body_index": 694,
-    "id": "word-c41143f3c5139fa3-p694"
+    "body_index": 720,
+    "id": "word-1d55e841b9e15dba-p720"
   },
   {
-    "lesson_num": 4,
-    "question": "Câu 9: Vì sao giai cấp công nhân, nông dân và đội ngũ trí thức cần liên minh với nhau trong thời kỳ quá độ lên chủ nghĩa xã hội? (Chọn 2 đáp án)",
+    "lesson_num": 5,
+    "question": "Câu 9: Trong khi lãnh đạo đang đi công tác, thư ký cần cập nhật thông tin mới cho họ. Thư ký sẽ làm gì?",
     "source_q_num": 9,
-    "source_title": "Câu 9: Vì sao giai cấp công nhân, nông dân và đội ngũ trí thức cần liên minh với nhau trong thời kỳ quá độ lên chủ nghĩa xã hội? (Chọn 2 đáp án)",
+    "source_title": "Câu 9: Trong khi lãnh đạo đang đi công tác, thư ký cần cập nhật thông tin mới cho họ. Thư ký sẽ làm gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 9,
-        "body_index": 699
+        "body_index": 725
       }
     ],
     "source_content": [
       {
-        "text": "A. Vì xuất phát từ yêu cầu khách quan của quá trình đẩy mạnh công nghiệp hoá, hiện đại hoá và chuyển dịch cơ cấu kinh tế từ một nền sản xuất nhỏ, nông nghiệp là chủ yếu sang sản xuất hàng hoá lớn"
+        "text": "A. Ghi chú lại thông tin và đưa cho lãnh đạo sau chuyến đi"
       },
       {
-        "text": "B. Vì các giai cấp, tầng lớp muốn có đồng lực lượng để tổ chức các hoạt động văn hoá, xã hội"
+        "text": "B. Đợi lãnh đạo tự tìm hiểu thông tin khi trở về"
       },
       {
-        "text": "C. Vì giai cấp công nhân với giai cấp nông dân và đội ngũ trí thức có sự thống nhất chung về lợi ích"
+        "text": "C. Gửi các bản cập nhật quan trọng qua email hoặc tin nhắn"
       },
       {
-        "text": "D. Vì giai cấp công nhân bắt buộc các giai cấp nông dân, tầng lớp trí thức liên minh với mình"
+        "text": "D. Để các đồng nghiệp xử lý thông tin mới"
       }
     ],
-    "type": "multiple_choice",
+    "type": "single_choice",
     "options": [
-      "A. Vì xuất phát từ yêu cầu khách quan của quá trình đẩy mạnh công nghiệp hoá, hiện đại hoá và chuyển dịch cơ cấu kinh tế từ một nền sản xuất nhỏ, nông nghiệp là chủ yếu sang sản xuất hàng hoá lớn",
-      "B. Vì các giai cấp, tầng lớp muốn có đồng lực lượng để tổ chức các hoạt động văn hoá, xã hội",
-      "C. Vì giai cấp công nhân với giai cấp nông dân và đội ngũ trí thức có sự thống nhất chung về lợi ích",
-      "D. Vì giai cấp công nhân bắt buộc các giai cấp nông dân, tầng lớp trí thức liên minh với mình"
+      "A. Ghi chú lại thông tin và đưa cho lãnh đạo sau chuyến đi",
+      "B. Đợi lãnh đạo tự tìm hiểu thông tin khi trở về",
+      "C. Gửi các bản cập nhật quan trọng qua email hoặc tin nhắn",
+      "D. Để các đồng nghiệp xử lý thông tin mới"
     ],
     "correct_answers": [
-      0,
       2
     ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bài 4",
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 5",
     "q_num": 9,
-    "body_index": 699,
-    "id": "word-c41143f3c5139fa3-p699"
+    "body_index": 725,
+    "id": "word-1d55e841b9e15dba-p725"
   },
   {
-    "lesson_num": 4,
-    "question": "Câu 10: Hiện nay ở Việt Nam, lực lượng xã hội đặc biệt được Đảng ta chủ trương xây dựng thành một đội ngũ vững mạnh là:",
+    "lesson_num": 5,
+    "question": "Câu 10: Sau khi lãnh đạo trở về, thư ký cần đối chiếu các cuộc họp đã diễn ra trong thời gian họ đi công tác. Thư ký nên làm gì?",
     "source_q_num": 10,
-    "source_title": "Câu 10: Hiện nay ở Việt Nam, lực lượng xã hội đặc biệt được Đảng ta chủ trương xây dựng thành một đội ngũ vững mạnh là:",
+    "source_title": "Câu 10: Sau khi lãnh đạo trở về, thư ký cần đối chiếu các cuộc họp đã diễn ra trong thời gian họ đi công tác. Thư ký nên làm gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 10,
-        "body_index": 704
+        "body_index": 730
       }
     ],
     "source_content": [
       {
-        "text": "A. Trí thức"
+        "text": "A. Xem lại lịch trình và các ghi chú từ các cuộc họp đã diễn ra"
       },
       {
-        "text": "B. Công nhân"
+        "text": "B. Xóa các cuộc họp khỏi hệ thống vì lãnh đạo đã quay lại"
       },
       {
-        "text": "C. Thanh niên"
+        "text": "C. Đợi lãnh đạo tự xem xét các cuộc họp"
       },
       {
-        "text": "D. Doanh nhân"
+        "text": "D. Gửi danh sách các cuộc họp cho lãnh đạo mà không có thêm thông tin"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Trí thức",
-      "B. Công nhân",
-      "C. Thanh niên",
-      "D. Doanh nhân"
+      "A. Xem lại lịch trình và các ghi chú từ các cuộc họp đã diễn ra",
+      "B. Xóa các cuộc họp khỏi hệ thống vì lãnh đạo đã quay lại",
+      "C. Đợi lãnh đạo tự xem xét các cuộc họp",
+      "D. Gửi danh sách các cuộc họp cho lãnh đạo mà không có thêm thông tin"
     ],
     "correct_answers": [
-      3
+      0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 4",
+    "lesson": "Bài 5",
     "q_num": 10,
-    "body_index": 704,
-    "id": "word-c41143f3c5139fa3-p704"
+    "body_index": 730,
+    "id": "word-1d55e841b9e15dba-p730"
   },
   {
-    "lesson_num": 4,
-    "question": "Câu 11: Lực lượng nào là lực lượng lao động sáng tạo đặc biệt quan trọng trong tiến trình đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước và hội nhập quốc tế, xây dựng kinh tế tri thức, phát triển nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc?",
+    "lesson_num": 5,
+    "question": "Câu 11: Sau khi lãnh đạo trở về, thư ký cần cập nhật các thông tin và tài liệu mới. Công việc đầu tiên của thư ký là gì?",
     "source_q_num": 11,
-    "source_title": "Câu 11: Lực lượng nào là lực lượng lao động sáng tạo đặc biệt quan trọng trong tiến trình đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước và hội nhập quốc tế, xây dựng kinh tế tri thức, phát triển nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc?",
+    "source_title": "Câu 11: Sau khi lãnh đạo trở về, thư ký cần cập nhật các thông tin và tài liệu mới. Công việc đầu tiên của thư ký là gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 11,
-        "body_index": 709
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Trí thức"
-      },
-      {
-        "text": "B. Thanh niên"
-      },
-      {
-        "text": "C. Công nhân"
-      },
-      {
-        "text": "D. Nông dân"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Trí thức",
-      "B. Thanh niên",
-      "C. Công nhân",
-      "D. Nông dân"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 4",
-    "q_num": 11,
-    "body_index": 709,
-    "id": "word-c41143f3c5139fa3-p709"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 12: Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, giai cấp nào là lực lượng đi đầu thực hiện nhiệm vụ trung tâm phát triển kinh tế, tiến hành công nghiệp hoá, hiện đại hoá đất nước?",
-    "source_q_num": 12,
-    "source_title": "Câu 12: Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, giai cấp nào là lực lượng đi đầu thực hiện nhiệm vụ trung tâm phát triển kinh tế, tiến hành công nghiệp hoá, hiện đại hoá đất nước?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 12,
-        "body_index": 714
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Giai cấp công nhân"
-      },
-      {
-        "text": "B. Đội ngũ trí thức"
-      },
-      {
-        "text": "C. Giai cấp nông dân"
-      },
-      {
-        "text": "D. Đội ngũ doanh nhân"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Giai cấp công nhân",
-      "B. Đội ngũ trí thức",
-      "C. Giai cấp nông dân",
-      "D. Đội ngũ doanh nhân"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 4",
-    "q_num": 12,
-    "body_index": 714,
-    "id": "word-c41143f3c5139fa3-p714"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 13: Nội dung cơ bản quyết định nhất, là cơ sở vật chất – kỹ thuật của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là nội dung nào?",
-    "source_q_num": 13,
-    "source_title": "Câu 13: Nội dung cơ bản quyết định nhất, là cơ sở vật chất – kỹ thuật của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là nội dung nào?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 13,
-        "body_index": 719
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Nội dung kinh tế của liên minh"
-      },
-      {
-        "text": "B. Nội dung chính trị của liên minh"
-      },
-      {
-        "text": "C. Nội dung văn hoá của liên minh"
-      },
-      {
-        "text": "D. Nội dung xã hội của liên minh"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Nội dung kinh tế của liên minh",
-      "B. Nội dung chính trị của liên minh",
-      "C. Nội dung văn hoá của liên minh",
-      "D. Nội dung xã hội của liên minh"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 4",
-    "q_num": 13,
-    "body_index": 719,
-    "id": "word-c41143f3c5139fa3-p719"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 14: Nội dung chính trị của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam thể hiện việc giữ vững lập trường chính trị - tư tưởng của giai cấp, tầng lớp nào?",
-    "source_q_num": 14,
-    "source_title": "Câu 14: Nội dung chính trị của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam thể hiện việc giữ vững lập trường chính trị - tư tưởng của giai cấp, tầng lớp nào?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 14,
-        "body_index": 724
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Giai cấp nông dân"
-      },
-      {
-        "text": "B. Giai cấp tư sản"
-      },
-      {
-        "text": "C. Tầng lớp trí thức"
-      },
-      {
-        "text": "D. Giai cấp công nhân"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Giai cấp nông dân",
-      "B. Giai cấp tư sản",
-      "C. Tầng lớp trí thức",
-      "D. Giai cấp công nhân"
-    ],
-    "correct_answers": [
-      3
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 4",
-    "q_num": 14,
-    "body_index": 724,
-    "id": "word-c41143f3c5139fa3-p724"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 15: Vận dụng kiến thức về vai trò của thế hệ trẻ, hãy xác định mục tiêu chính của việc giáo dục chính trị, tư tưởng cho thanh niên trong giai đoạn hiện nay ở Việt Nam là gì?",
-    "source_q_num": 15,
-    "source_title": "Câu 15: Vận dụng kiến thức về vai trò của thế hệ trẻ, hãy xác định mục tiêu chính của việc giáo dục chính trị, tư tưởng cho thanh niên trong giai đoạn hiện nay ở Việt Nam là gì?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 15,
-        "body_index": 729
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Để kiểm soát các hoạt động kinh tế của thanh niên"
-      },
-      {
-        "text": "B. Để hình thành thế hệ thanh niên có phẩm chất tốt đẹp, có khí phách và quyết tâm hành động"
-      },
-      {
-        "text": "C. Để giảm thiểu sự tham gia của thanh niên vào các hoạt động xã hội"
-      },
-      {
-        "text": "D. Để tăng cường quyền lực của nhà nước"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Để kiểm soát các hoạt động kinh tế của thanh niên",
-      "B. Để hình thành thế hệ thanh niên có phẩm chất tốt đẹp, có khí phách và quyết tâm hành động",
-      "C. Để giảm thiểu sự tham gia của thanh niên vào các hoạt động xã hội",
-      "D. Để tăng cường quyền lực của nhà nước"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 4",
-    "q_num": 15,
-    "body_index": 729,
-    "id": "word-c41143f3c5139fa3-p729"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 16: V.I. Lênin đã xem liên minh giữa giai cấp, tầng lớp nào là một hình thức \"liên minh đặc biệt\" trong giai đoạn giành chính quyền và xây dựng chủ nghĩa xã hội?",
-    "source_q_num": 16,
-    "source_title": "Câu 16: V.I. Lênin đã xem liên minh giữa giai cấp, tầng lớp nào là một hình thức \"liên minh đặc biệt\" trong giai đoạn giành chính quyền và xây dựng chủ nghĩa xã hội?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 16,
         "body_index": 735
       }
     ],
     "source_content": [
       {
-        "text": "A. Giai cấp công nhân với giai cấp nông dân và các tầng lớp xã hội khác"
+        "text": "A. Chỉ ghi lại thông tin trong sổ tay và chờ chỉ thị tiếp theo"
       },
       {
-        "text": "B. Giai cấp công nhân với giai cấp nông dân và tầng lớp trí thức"
+        "text": "B. Cập nhật các tài liệu và thông tin mới vào hệ thống quản lý tài liệu"
       },
       {
-        "text": "C. Giai cấp công nhân với giai cấp nông dân và tầng lớp tiểu tư sản"
+        "text": "C. Hủy các tài liệu không còn cần thiết"
       },
       {
-        "text": "D. Giai cấp công nhân với tầng lớp trí thức và doanh nhân"
+        "text": "D. Đợi lãnh đạo cung cấp thông tin trước khi cập nhật"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Giai cấp công nhân với giai cấp nông dân và các tầng lớp xã hội khác",
-      "B. Giai cấp công nhân với giai cấp nông dân và tầng lớp trí thức",
-      "C. Giai cấp công nhân với giai cấp nông dân và tầng lớp tiểu tư sản",
-      "D. Giai cấp công nhân với tầng lớp trí thức và doanh nhân"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 4",
-    "q_num": 16,
-    "body_index": 735,
-    "id": "word-c41143f3c5139fa3-p735"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 17: Trong cách mạng xã hội chủ nghĩa, dưới sự lãnh đạo của Đảng Cộng sản, giai cấp công nhân phải liên minh với giai cấp, tầng lớp nào?",
-    "source_q_num": 17,
-    "source_title": "Câu 17: Trong cách mạng xã hội chủ nghĩa, dưới sự lãnh đạo của Đảng Cộng sản, giai cấp công nhân phải liên minh với giai cấp, tầng lớp nào?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 17,
-        "body_index": 741
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Giai cấp nông dân và các tầng lớp nhân dân lao động"
-      },
-      {
-        "text": "B. Giai cấp tư sản"
-      },
-      {
-        "text": "C. Giai cấp vô sản đại công nghiệp"
-      },
-      {
-        "text": "D. Giai cấp vô sản"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Giai cấp nông dân và các tầng lớp nhân dân lao động",
-      "B. Giai cấp tư sản",
-      "C. Giai cấp vô sản đại công nghiệp",
-      "D. Giai cấp vô sản"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 4",
-    "q_num": 17,
-    "body_index": 741,
-    "id": "word-c41143f3c5139fa3-p741"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 18: Xét dưới góc độ chính trị, trong cuộc đấu tranh giai cấp của các giai cấp có lợi ích đối lập nhau đặt ra nhu cầu tất yếu khách quan mỗi giai cấp đứng ở vị trí trung tâm đều phải:",
-    "source_q_num": 18,
-    "source_title": "Câu 18: Xét dưới góc độ chính trị, trong cuộc đấu tranh giai cấp của các giai cấp có lợi ích đối lập nhau đặt ra nhu cầu tất yếu khách quan mỗi giai cấp đứng ở vị trí trung tâm đều phải:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 18,
-        "body_index": 747
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Liên minh với các giai cấp, tầng lớp xã hội khác có tiềm lực kinh tế lớn hơn mình"
-      },
-      {
-        "text": "B. Liên minh với các giai cấp, tầng lớp xã hội khác có những lợi ích phù hợp với mình"
-      },
-      {
-        "text": "C. Liên minh với các giai cấp, tầng lớp xã hội khác mà giai cấp đứng ở vị trí trung tâm được lợi nhiều hơn"
-      },
-      {
-        "text": "D. Liên minh với các giai cấp, tầng lớp xã hội khác có những lợi ích đối lập với mình"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Liên minh với các giai cấp, tầng lớp xã hội khác có tiềm lực kinh tế lớn hơn mình",
-      "B. Liên minh với các giai cấp, tầng lớp xã hội khác có những lợi ích phù hợp với mình",
-      "C. Liên minh với các giai cấp, tầng lớp xã hội khác mà giai cấp đứng ở vị trí trung tâm được lợi nhiều hơn",
-      "D. Liên minh với các giai cấp, tầng lớp xã hội khác có những lợi ích đối lập với mình"
+      "A. Chỉ ghi lại thông tin trong sổ tay và chờ chỉ thị tiếp theo",
+      "B. Cập nhật các tài liệu và thông tin mới vào hệ thống quản lý tài liệu",
+      "C. Hủy các tài liệu không còn cần thiết",
+      "D. Đợi lãnh đạo cung cấp thông tin trước khi cập nhật"
     ],
     "correct_answers": [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 4",
-    "q_num": 18,
-    "body_index": 747,
-    "id": "word-c41143f3c5139fa3-p747"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 19: Cơ cấu xã hội – giai cấp ở Việt Nam thời kỳ quá độ lên chủ nghĩa xã hội bao gồm mấy giai cấp, tầng lớp?",
-    "source_q_num": 19,
-    "source_title": "Câu 19: Cơ cấu xã hội – giai cấp ở Việt Nam thời kỳ quá độ lên chủ nghĩa xã hội bao gồm mấy giai cấp, tầng lớp?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 19,
-        "body_index": 753
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. 3"
-      },
-      {
-        "text": "B. 6"
-      },
-      {
-        "text": "C. 4"
-      },
-      {
-        "text": "D. 5"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. 3",
-      "B. 6",
-      "C. 4",
-      "D. 5"
-    ],
-    "correct_answers": [
-      3
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 4",
-    "q_num": 19,
-    "body_index": 753,
-    "id": "word-c41143f3c5139fa3-p753"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 20: Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, sự biến đổi của cơ cấu xã hội – giai cấp bị chi phối bởi biến đổi của cơ cấu nào",
-    "source_q_num": 20,
-    "source_title": "Câu 20: Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, sự biến đổi của cơ cấu xã hội – giai cấp bị chi phối bởi biến đổi của cơ cấu nào",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 20,
-        "body_index": 759
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Cơ cấu xã hội - tôn giáo"
-      },
-      {
-        "text": "B. Cơ cấu kinh tế"
-      },
-      {
-        "text": "C. Cơ cấu xã hội - dân tộc"
-      },
-      {
-        "text": "D. Cơ cấu xã hội - dân cư"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Cơ cấu xã hội - tôn giáo",
-      "B. Cơ cấu kinh tế",
-      "C. Cơ cấu xã hội - dân tộc",
-      "D. Cơ cấu xã hội - dân cư"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 4",
-    "q_num": 20,
-    "body_index": 759,
-    "id": "word-c41143f3c5139fa3-p759"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 21: Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội – giai cấp gồm mấy giai cấp, tầng lớp cơ bản?",
-    "source_q_num": 21,
-    "source_title": "Câu 21: Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội – giai cấp gồm mấy giai cấp, tầng lớp cơ bản?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 21,
-        "body_index": 765
-      }
-    ],
-    "source_content": [
-      {
-        "text": "4"
-      },
-      {
-        "text": "3"
-      },
-      {
-        "text": "6"
-      },
-      {
-        "text": "5"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. 4",
-      "B. 3",
-      "C. 6",
-      "D. 5"
-    ],
-    "correct_answers": [
-      3
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 4",
-    "q_num": 21,
-    "body_index": 765,
-    "id": "word-c41143f3c5139fa3-p765"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 22: Dưới góc độ chính trị - xã hội, môn Chủ nghĩa xã hội khoa học tập trung nghiên cứu cơ cấu xã hội nào?",
-    "source_q_num": 22,
-    "source_title": "Câu 22 :Dưới góc độ chính trị - xã hội, môn Chủ nghĩa xã hội khoa học tập trung nghiên cứu cơ cấu xã hội nào?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 22,
-        "body_index": 770
-      }
-    ],
-    "source_content": [
-      {
-        "text": "Cơ cấu xã hội – nghề nghiệp"
-      },
-      {
-        "text": "Cơ cấu xã hội – dân cư"
-      },
-      {
-        "text": "Cơ cấu xã hội – dân tộc"
-      },
-      {
-        "text": "Cơ cấu xã hội – giai cấp"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Cơ cấu xã hội – nghề nghiệp",
-      "B. Cơ cấu xã hội – dân cư",
-      "C. Cơ cấu xã hội – dân tộc",
-      "D. Cơ cấu xã hội – giai cấp"
-    ],
-    "correct_answers": [
-      3
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 4",
-    "q_num": 22,
-    "body_index": 770,
-    "id": "word-c41143f3c5139fa3-p770"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 23: Theo C. Mác – Ph. Ăngghen, \"người bạn đồng minh tự nhiên\" của giai cấp công nhân là ai?",
-    "source_q_num": 23,
-    "source_title": "Câu 23: Theo C. Mác – Ph. Ăngghen, \"người bạn đồng minh tự nhiên\" của giai cấp công nhân là ai?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 23,
-        "body_index": 775
-      }
-    ],
-    "source_content": [
-      {
-        "text": "Tầng lớp trí thức"
-      },
-      {
-        "text": "Đội ngũ doanh nhân"
-      },
-      {
-        "text": "Giai cấp nông dân"
-      },
-      {
-        "text": "Nhân dân lao động"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Tầng lớp trí thức",
-      "B. Đội ngũ doanh nhân",
-      "C. Giai cấp nông dân",
-      "D. Nhân dân lao động"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 4",
-    "q_num": 23,
-    "body_index": 775,
-    "id": "word-c41143f3c5139fa3-p775"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 24: Nội dung kinh tế của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là gì?",
-    "source_q_num": 24,
-    "source_title": "Câu 24 : Nội dung kinh tế của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là gì?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 24,
-        "body_index": 780
-      }
-    ],
-    "source_content": [
-      {
-        "text": "Đẩy mạnh công nghiệp hoá, hiện đại hoá đất nước gắn với phát triển kinh tế tri thức, phát triển bền vững"
-      },
-      {
-        "text": "Giữ vững lập trường tư tưởng của giai cấp công nhân, giữ vững vai trò lãnh đạo của Đảng"
-      },
-      {
-        "text": "Tăng cường phát triển kinh tế kết hợp với phát triển quân sự gắn với phát triển ngoại giao"
-      },
-      {
-        "text": "Xây dựng nền văn hoá tiên tiến, đậm đà bản sắc dân tộc, đồng thời tiếp thu những tinh hoa giá trị văn hoá của nhân loại và thời đại"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Đẩy mạnh công nghiệp hoá, hiện đại hoá đất nước gắn với phát triển kinh tế tri thức, phát triển bền vững",
-      "B. Giữ vững lập trường tư tưởng của giai cấp công nhân, giữ vững vai trò lãnh đạo của Đảng",
-      "C. Tăng cường phát triển kinh tế kết hợp với phát triển quân sự gắn với phát triển ngoại giao",
-      "D. Xây dựng nền văn hoá tiên tiến, đậm đà bản sắc dân tộc, đồng thời tiếp thu những tinh hoa giá trị văn hoá của nhân loại và thời đại"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 4",
-    "q_num": 24,
-    "body_index": 780,
-    "id": "word-c41143f3c5139fa3-p780"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 25: Chọn ý sai về nội dung kinh tế của liên minh giữa giai cấp công nhân với giai cấp nông dân và các tầng lớp lao động khác trong cách mạng xã hội chủ nghĩa:",
-    "source_q_num": 25,
-    "source_title": "Câu 25 : Chọn ý sai về nội dung kinh tế của liên minh giữa giai cấp công nhân với giai cấp nông dân và các tầng lớp lao động khác trong cách mạng xã hội chủ nghĩa:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 25,
-        "body_index": 785
-      }
-    ],
-    "source_content": [
-      {
-        "text": "Thực hiện hợp đồng kinh tế giữa doanh nghiệp nhà nước và nông dân."
-      },
-      {
-        "text": "Xây dựng hệ thống chính sách phát triển nông nghiệp, nông dân, nông thôn."
-      },
-      {
-        "text": "Xây dựng hệ thống chính sách an sinh xã hội."
-      },
-      {
-        "text": "Ứng dụng khoa học kỹ thuật vào sản xuất nông nghiệp."
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Thực hiện hợp đồng kinh tế giữa doanh nghiệp nhà nước và nông dân.",
-      "B. Xây dựng hệ thống chính sách phát triển nông nghiệp, nông dân, nông thôn.",
-      "C. Xây dựng hệ thống chính sách an sinh xã hội.",
-      "D. Ứng dụng khoa học kỹ thuật vào sản xuất nông nghiệp."
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 4",
-    "q_num": 25,
-    "body_index": 785,
-    "id": "word-c41143f3c5139fa3-p785"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 26: Chọn cụm từ thích hợp điền vào chỗ trống của câu: “Cơ cấu xã hội là những... cùng toàn bộ những mối quan hệ xã hội do sự tác động lẫn nhau của các cộng đồng ấy tạo nên”.",
-    "source_q_num": 26,
-    "source_title": "Câu 26: Chọn cụm từ thích hợp điền vào chỗ trống của câu: “Cơ cấu xã hội là những... cùng toàn bộ những mối quan hệ xã hội do sự tác động lẫn nhau của các cộng đồng ấy tạo nên”.",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 26,
-        "body_index": 790
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Cộng đồng nghề nghiệp"
-      },
-      {
-        "text": "B. Cộng đồng người"
-      },
-      {
-        "text": "C. Cộng đồng dân tộc"
-      },
-      {
-        "text": "D. Cộng đồng dân cư"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Cộng đồng nghề nghiệp",
-      "B. Cộng đồng người",
-      "C. Cộng đồng dân tộc",
-      "D. Cộng đồng dân cư"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 4",
-    "q_num": 26,
-    "body_index": 790,
-    "id": "word-c41143f3c5139fa3-p790"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 27: Chọn đáp án đúng điền vào chỗ trống cho câu sau: \"Cơ cấu xã hội – giai cấp là hệ thống các ......... tồn tại khách quan trong một chế độ xã hội nhất định,...\"",
-    "source_q_num": 27,
-    "source_title": "Câu 27: Chọn đáp án đúng điền vào chỗ trống cho câu sau: \"Cơ cấu xã hội – giai cấp là hệ thống các ......... tồn tại khách quan trong một chế độ xã hội nhất định,...\"",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 27,
-        "body_index": 795
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Cá nhân / tập thể"
-      },
-      {
-        "text": "B. Giai cấp / tầng lớp"
-      },
-      {
-        "text": "C. Đội ngũ / tầng lớp"
-      },
-      {
-        "text": "D. Tập đoàn / lực lượng sản xuất"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Cá nhân / tập thể",
-      "B. Giai cấp / tầng lớp",
-      "C. Đội ngũ / tầng lớp",
-      "D. Tập đoàn / lực lượng sản xuất"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 4",
-    "q_num": 27,
-    "body_index": 795,
-    "id": "word-c41143f3c5139fa3-p795"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 28: Vận dụng kiến thức về vai trò của thế hệ trẻ, hãy xác định mục tiêu chính của việc giáo dục chính trị, tư tưởng cho thanh niên trong giai đoạn hiện nay ở Việt Nam là gì?",
-    "source_q_num": 28,
-    "source_title": "Câu 28: Vận dụng kiến thức về vai trò của thế hệ trẻ, hãy xác định mục tiêu chính của việc giáo dục chính trị, tư tưởng cho thanh niên trong giai đoạn hiện nay ở Việt Nam là gì?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 28,
-        "body_index": 800
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Để hình thành thế hệ thanh niên có phẩm chất tốt đẹp, có khí phách và quyết tâm hành động"
-      },
-      {
-        "text": "B. Để giảm thiểu sự tham gia của thanh niên vào các hoạt động xã hội"
-      },
-      {
-        "text": "C. Để tăng cường quyền lực của nhà nước"
-      },
-      {
-        "text": "D. Để kiểm soát các hoạt động kinh tế của thanh niên"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Để hình thành thế hệ thanh niên có phẩm chất tốt đẹp, có khí phách và quyết tâm hành động",
-      "B. Để giảm thiểu sự tham gia của thanh niên vào các hoạt động xã hội",
-      "C. Để tăng cường quyền lực của nhà nước",
-      "D. Để kiểm soát các hoạt động kinh tế của thanh niên"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 4",
-    "q_num": 28,
-    "body_index": 800,
-    "id": "word-c41143f3c5139fa3-p800"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 29: Kéo thả các đáp án khớp với các phát biểu từ 1 - 3 về trái dưới đây:",
-    "source_q_num": 29,
-    "source_title": "Câu 29: Kéo thả các đáp án khớp với các phát biểu từ 1 - 3 về trái dưới đây:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 29,
-        "body_index": 806
-      }
-    ],
-    "source_content": [
-      {
-        "table": [
-          [
-            "Nền dân chủ xã hội chủ nghĩa là nền dân chủ mang bản chất của ______",
-            "giai cấp công nhân"
-          ],
-          [
-            "Dân chủ xã hội chủ nghĩa là sự kết hợp giữa hình thức dân chủ đại diện và ______",
-            "dân chủ trực tiếp"
-          ],
-          [
-            "Dân chủ xã hội chủ nghĩa bảo đảm phát huy đầy đủ ______ của nhân dân trên tất cả các lĩnh vực",
-            "quyền làm chủ"
-          ]
-        ]
-      }
-    ],
-    "type": "drag_drop_match",
-    "pairs": [
-      {
-        "left": "Nền dân chủ xã hội chủ nghĩa là nền dân chủ mang bản chất của ______",
-        "right": "giai cấp công nhân"
-      },
-      {
-        "left": "Dân chủ xã hội chủ nghĩa là sự kết hợp giữa hình thức dân chủ đại diện và ______",
-        "right": "dân chủ trực tiếp"
-      },
-      {
-        "left": "Dân chủ xã hội chủ nghĩa bảo đảm phát huy đầy đủ ______ của nhân dân trên tất cả các lĩnh vực",
-        "right": "quyền làm chủ"
-      }
-    ],
-    "options_pool": [
-      "giai cấp công nhân",
-      "dân chủ trực tiếp",
-      "quyền làm chủ"
-    ],
-    "instruction": "Kéo hoặc chọn đáp án đúng ghép vào vế tương ứng",
-    "lesson": "Bài 4",
-    "q_num": 29,
-    "body_index": 806,
-    "id": "word-c41143f3c5139fa3-p806"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 30: Kéo thả các đáp án khớp với các phát biểu từ 1 - 4 về trái dưới đây:",
-    "source_q_num": 30,
-    "source_title": "Câu 30: Kéo thả các đáp án khớp với các phát biểu từ 1 - 4 về trái dưới đây:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 30,
-        "body_index": 809
-      }
-    ],
-    "source_content": [
-      {
-        "table": [
-          [
-            "Dân chủ đại diện được thể hiện qua việc ______",
-            "bầu cử Quốc hội"
-          ],
-          [
-            "Hình thức dân chủ gián tiếp là hình thức ______",
-            "dân chủ đại diện"
-          ],
-          [
-            "Nhân dân là ______ tối cao trong Nhà nước pháp quyền",
-            "chủ thể quyền lực"
-          ],
-          [
-            "Một nguyên tắc cốt lõi của nhà nước pháp quyền là ______",
-            "thượng tôn pháp luật"
-          ]
-        ]
-      }
-    ],
-    "type": "drag_drop_match",
-    "pairs": [
-      {
-        "left": "Dân chủ đại diện được thể hiện qua việc ______",
-        "right": "bầu cử Quốc hội"
-      },
-      {
-        "left": "Hình thức dân chủ gián tiếp là hình thức ______",
-        "right": "dân chủ đại diện"
-      },
-      {
-        "left": "Nhân dân là ______ tối cao trong Nhà nước pháp quyền",
-        "right": "chủ thể quyền lực"
-      },
-      {
-        "left": "Một nguyên tắc cốt lõi của nhà nước pháp quyền là ______",
-        "right": "thượng tôn pháp luật"
-      }
-    ],
-    "options_pool": [
-      "bầu cử Quốc hội",
-      "dân chủ đại diện",
-      "chủ thể quyền lực",
-      "thượng tôn pháp luật"
-    ],
-    "instruction": "Kéo hoặc chọn đáp án đúng ghép vào vế tương ứng",
-    "lesson": "Bài 4",
-    "q_num": 30,
-    "body_index": 809,
-    "id": "word-c41143f3c5139fa3-p809"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 31: Kéo thả các khái niệm khớp với các phát biểu về cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội dưới đây:",
-    "source_q_num": 31,
-    "source_title": "Câu 31 : Kéo thả các khái niệm khớp với các phát biểu về cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội dưới đây:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 31,
-        "body_index": 813
-      }
-    ],
-    "source_content": [
-      {
-        "table": [
-          [
-            "Lực lượng quan trọng troChính sách an sinh xã hộing cơ cấu xã hội - giai cấp",
-            "Đội ngũ trí thức"
-          ],
-          [
-            "Lực lượng mới trong cơ cấu xã hội - giai cấp",
-            "Đội ngũ doanh nhân"
-          ],
-          [
-            "Chính sách hỗ trợ cơ cấu xã hội - giai cấp",
-            "Chính sách an sinh xã hội"
-          ],
-          [
-            "Giai cấp trung tâm trong cơ cấu xã hội - giai cấp",
-            "Giai cấp công nhân"
-          ]
-        ]
-      }
-    ],
-    "type": "drag_drop_match",
-    "pairs": [
-      {
-        "left": "Lực lượng quan trọng troChính sách an sinh xã hộing cơ cấu xã hội - giai cấp",
-        "right": "Đội ngũ trí thức"
-      },
-      {
-        "left": "Lực lượng mới trong cơ cấu xã hội - giai cấp",
-        "right": "Đội ngũ doanh nhân"
-      },
-      {
-        "left": "Chính sách hỗ trợ cơ cấu xã hội - giai cấp",
-        "right": "Chính sách an sinh xã hội"
-      },
-      {
-        "left": "Giai cấp trung tâm trong cơ cấu xã hội - giai cấp",
-        "right": "Giai cấp công nhân"
-      }
-    ],
-    "options_pool": [
-      "Đội ngũ trí thức",
-      "Đội ngũ doanh nhân",
-      "Chính sách an sinh xã hội",
-      "Giai cấp công nhân"
-    ],
-    "instruction": "Kéo hoặc chọn đáp án đúng ghép vào vế tương ứng",
-    "lesson": "Bài 4",
-    "q_num": 31,
-    "body_index": 813,
-    "id": "word-c41143f3c5139fa3-p813"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 32: Những lực lượng nào sau đây là trung tâm trong cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội?",
-    "source_q_num": 32,
-    "source_title": "Câu 32 : Những lực lượng nào sau đây là trung tâm trong cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 32,
-        "body_index": 816
-      }
-    ],
-    "source_content": [
-      {
-        "text": "(Sinh viên chọn 2 phương án đúng nhất)"
-      },
-      {
-        "text": "A. Nhóm người cao tuổi"
-      },
-      {
-        "text": "B. Nhóm tín đồ tôn giáo"
-      },
-      {
-        "text": "C. Giai cấp công nhân"
-      },
-      {
-        "text": "D. Giai cấp nông dân"
-      }
-    ],
-    "source_instruction": "(Sinh viên chọn 2 phương án đúng nhất)",
-    "type": "multiple_choice",
-    "options": [
-      "A. Nhóm người cao tuổi",
-      "B. Nhóm tín đồ tôn giáo",
-      "C. Giai cấp công nhân",
-      "D. Giai cấp nông dân"
-    ],
-    "correct_answers": [
-      2,
-      3
-    ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bài 4",
-    "q_num": 32,
-    "body_index": 816,
-    "id": "word-c41143f3c5139fa3-p816"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 33: Những tầng lớp nào sau đây tham gia cơ cấu xã hội - giai cấp ở Việt Nam? (Chọn 2 đáp án đúng)",
-    "source_q_num": 33,
-    "source_title": "Câu 33 : Những tầng lớp nào sau đây tham gia cơ cấu xã hội - giai cấp ở Việt Nam? (Chọn 2 đáp án đúng)",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 33,
-        "body_index": 822
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Nhóm học sinh"
-      },
-      {
-        "text": "B. Thanh niên"
-      },
-      {
-        "text": "C. Phụ nữ"
-      },
-      {
-        "text": "D. Tín đồ tôn giáo"
-      }
-    ],
-    "type": "multiple_choice",
-    "options": [
-      "A. Nhóm học sinh",
-      "B. Thanh niên",
-      "C. Phụ nữ",
-      "D. Tín đồ tôn giáo"
-    ],
-    "correct_answers": [
-      1,
-      2
-    ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bài 4",
-    "q_num": 33,
-    "body_index": 822,
-    "id": "word-c41143f3c5139fa3-p822"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 34: Những phương hướng nào sau đây nhằm phát triển cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội? (Chọn 2 đáp án đúng)",
-    "source_q_num": 34,
-    "source_title": "Câu 34 : Những phương hướng nào sau đây nhằm phát triển cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội? (Chọn 2 đáp án đúng)",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 34,
-        "body_index": 827
-      }
-    ],
-    "source_content": [
-      {
-        "text": "Xây dựng và hoàn thiện chính sách xã hội tổng thể"
-      },
-      {
-        "text": "Giảm giáo dục ở những vùng không có điều kiện kinh tế"
-      },
-      {
-        "text": "Tăng dân số ở khu công nghiệp"
-      },
-      {
-        "text": "Đẩy mạnh công nghiệp hoá, hiện đại hoá"
-      }
-    ],
-    "type": "multiple_choice",
-    "options": [
-      "A. Xây dựng và hoàn thiện chính sách xã hội tổng thể",
-      "B. Giảm giáo dục ở những vùng không có điều kiện kinh tế",
-      "C. Tăng dân số ở khu công nghiệp",
-      "D. Đẩy mạnh công nghiệp hoá, hiện đại hoá"
-    ],
-    "correct_answers": [
-      0,
-      3
-    ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bài 4",
-    "q_num": 34,
-    "body_index": 827,
-    "id": "word-c41143f3c5139fa3-p827"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 35: Những phương hướng nào sau đây củng cố liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội? (Chọn 2 đáp án đúng)",
-    "source_q_num": 35,
-    "source_title": "Câu 35 : Những phương hướng nào sau đây củng cố liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội? (Chọn 2 đáp án đúng)",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 35,
-        "body_index": 832
-      }
-    ],
-    "source_content": [
-      {
-        "text": "Giảm vai trò kinh tế trong xã hội"
-      },
-      {
-        "text": "Tạo sự đồng thuận giữa các lực lượng"
-      },
-      {
-        "text": "Tăng vai trò tôn giáo đối với các giai cấp, tầng lớp"
-      },
-      {
-        "text": "Phát huy tinh thần đoàn kết"
-      }
-    ],
-    "type": "multiple_choice",
-    "options": [
-      "A. Giảm vai trò kinh tế trong xã hội",
-      "B. Tạo sự đồng thuận giữa các lực lượng",
-      "C. Tăng vai trò tôn giáo đối với các giai cấp, tầng lớp",
-      "D. Phát huy tinh thần đoàn kết"
-    ],
-    "correct_answers": [
-      1,
-      3
-    ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bài 4",
-    "q_num": 35,
-    "body_index": 832,
-    "id": "word-c41143f3c5139fa3-p832"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 36: Những phương hướng nào sau đây củng cố liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội? (Chọn 2 đáp án đúng)",
-    "source_q_num": 36,
-    "source_title": "Câu 36 : Những phương hướng nào sau đây củng cố liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội? (Chọn 2 đáp án đúng)",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 36,
-        "body_index": 837
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Giảm vai trò kinh tế trong xã hội"
-      },
-      {
-        "text": "B. Tạo sự đồng thuận giữa các lực lượng"
-      },
-      {
-        "text": "C. Tăng vai trò tôn giáo đối với các giai cấp, tầng lớp"
-      },
-      {
-        "text": "D. Phát huy tinh thần đoàn kết"
-      }
-    ],
-    "type": "multiple_choice",
-    "options": [
-      "A. Giảm vai trò kinh tế trong xã hội",
-      "B. Tạo sự đồng thuận giữa các lực lượng",
-      "C. Tăng vai trò tôn giáo đối với các giai cấp, tầng lớp",
-      "D. Phát huy tinh thần đoàn kết"
-    ],
-    "correct_answers": [
-      1,
-      3
-    ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bài 4",
-    "q_num": 36,
-    "body_index": 837,
-    "id": "word-c41143f3c5139fa3-p837"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 37: Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội - giai cấp biến đổi trong mối quan hệ nào?",
-    "source_q_num": 37,
-    "source_title": "Câu 37 : Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội - giai cấp biến đổi trong mối quan hệ nào?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 37,
-        "body_index": 842
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Vừa liên minh, cấu kết các giai cấp, tầng lớp quy mô để đàn áp các lớn giai cấp, tầng lớp quy mô nhỏ"
-      },
-      {
-        "text": "B. Vừa đấu tranh, vừa bài xích lẫn nhau"
-      },
-      {
-        "text": "C. Vừa đấu tranh, vừa liên minh, từng bước xóa bỏ bất bình đẳng xã hội dẫn đến sự xích lại gần nhau"
-      },
-      {
-        "text": "D. Vừa thống nhất, vừa bình đẳng với nhau"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Vừa liên minh, cấu kết các giai cấp, tầng lớp quy mô để đàn áp các lớn giai cấp, tầng lớp quy mô nhỏ",
-      "B. Vừa đấu tranh, vừa bài xích lẫn nhau",
-      "C. Vừa đấu tranh, vừa liên minh, từng bước xóa bỏ bất bình đẳng xã hội dẫn đến sự xích lại gần nhau",
-      "D. Vừa thống nhất, vừa bình đẳng với nhau"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 4",
-    "q_num": 37,
-    "body_index": 842,
-    "id": "word-c41143f3c5139fa3-p842"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 38: Trong cách mạng xã hội chủ nghĩa, dưới sự lãnh đạo của Đảng Cộng sản, giai cấp công nhân phải liên minh với giai cấp, tầng lớp nào?",
-    "source_q_num": 38,
-    "source_title": "Câu 38 : Trong cách mạng xã hội chủ nghĩa, dưới sự lãnh đạo của Đảng Cộng sản, giai cấp công nhân phải liên minh với giai cấp, tầng lớp nào?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 38,
-        "body_index": 847
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Giai cấp vô sản đại công nghiệp"
-      },
-      {
-        "text": "B. Giai cấp nông dân và các tầng lớp nhân dân lao động"
-      },
-      {
-        "text": "C. Giai cấp tư sản"
-      },
-      {
-        "text": "D. Giai cấp vô sản"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Giai cấp vô sản đại công nghiệp",
-      "B. Giai cấp nông dân và các tầng lớp nhân dân lao động",
-      "C. Giai cấp tư sản",
-      "D. Giai cấp vô sản"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 4",
-    "q_num": 38,
-    "body_index": 847,
-    "id": "word-c41143f3c5139fa3-p847"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 39: Kéo thả các đáp án đúng ứng với từng phát biểu sau đây về vị trí, vai trò của các giai cấp, tầng lớp trong cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội:",
-    "source_q_num": 39,
-    "source_title": "Câu 39 : Kéo thả các đáp án đúng ứng với từng phát biểu sau đây về vị trí, vai trò của các giai cấp, tầng lớp trong cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 39,
-        "body_index": 852
-      }
-    ],
-    "source_content": [
-      {
-        "table": [
-          [
-            "Đội ngũ trí thức là lực lượng______",
-            "sáng tạo đặc biệt"
-          ],
-          [
-            "Giai cấp công nhân Việt Nam có vai trò______",
-            "đặc biệt quan trọng"
-          ],
-          [
-            "Giai cấp nông dân cùng với nông nghiệp, nông thôn có vị trí______",
-            "chiến lược quan trọng"
-          ],
-          [
-            "Đội ngũ doanh nhân được Đảng ta chủ trương xây dựng thành một______",
-            "đội ngũ vững mạnh"
-          ]
-        ]
-      }
-    ],
-    "type": "drag_drop_match",
-    "pairs": [
-      {
-        "left": "Đội ngũ trí thức là lực lượng______",
-        "right": "sáng tạo đặc biệt"
-      },
-      {
-        "left": "Giai cấp công nhân Việt Nam có vai trò______",
-        "right": "đặc biệt quan trọng"
-      },
-      {
-        "left": "Giai cấp nông dân cùng với nông nghiệp, nông thôn có vị trí______",
-        "right": "chiến lược quan trọng"
-      },
-      {
-        "left": "Đội ngũ doanh nhân được Đảng ta chủ trương xây dựng thành một______",
-        "right": "đội ngũ vững mạnh"
-      }
-    ],
-    "options_pool": [
-      "sáng tạo đặc biệt",
-      "đặc biệt quan trọng",
-      "chiến lược quan trọng",
-      "đội ngũ vững mạnh"
-    ],
-    "instruction": "Kéo hoặc chọn đáp án đúng ghép vào vế tương ứng",
-    "lesson": "Bài 4",
-    "q_num": 39,
-    "body_index": 852,
-    "id": "word-c41143f3c5139fa3-p852"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 40: Kéo thả các yếu tố liên quan đến liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội vào các cột tương ứng.",
-    "source_q_num": 40,
-    "source_title": "Câu 40 : Kéo thả các yếu tố liên quan đến liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội vào các cột tương ứng.",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 40,
-        "body_index": 855
-      }
-    ],
-    "source_content": [
-      {
-        "text": "Tầng lớp phụ nữ"
-      },
-      {
-        "table": [
-          [
-            "1) Thành phần/yếu tố của liên minh",
-            "2) Nội dung/phương hướng của liên minh"
-          ],
-          [
-            "Giai cấp công nhân",
-            "Nội dung kinh tế"
-          ],
-          [
-            "Giai cấp nông dân",
-            "Nội dung chính trị"
-          ],
-          [
-            "Đảng Cộng sản",
-            "Xóa đói giảm nghèo"
-          ],
-          [
-            "",
-            "Tăng cường liên minh"
-          ]
-        ]
-      }
-    ],
-    "type": "drag_drop_categorize",
-    "categories": [
-      {
-        "title": "1) Thành phần/yếu tố của liên minh",
-        "items": [
-          "Giai cấp công nhân",
-          "Giai cấp nông dân",
-          "Tầng lớp phụ nữ",
-          "Đảng Cộng sản"
-        ]
-      },
-      {
-        "title": "2) Nội dung/phương hướng của liên minh",
-        "items": [
-          "Nội dung kinh tế",
-          "Nội dung chính trị",
-          "Xóa đói giảm nghèo",
-          "Tăng cường liên minh"
-        ]
-      }
-    ],
-    "instruction": "Kéo hoặc chọn từng mục vào đúng cột tương ứng",
-    "all_items": [
-      {
-        "text": "Giai cấp công nhân",
-        "category": "1) Thành phần/yếu tố của liên minh"
-      },
-      {
-        "text": "Giai cấp nông dân",
-        "category": "1) Thành phần/yếu tố của liên minh"
-      },
-      {
-        "text": "Tầng lớp phụ nữ",
-        "category": "1) Thành phần/yếu tố của liên minh"
-      },
-      {
-        "text": "Đảng Cộng sản",
-        "category": "1) Thành phần/yếu tố của liên minh"
-      },
-      {
-        "text": "Nội dung kinh tế",
-        "category": "2) Nội dung/phương hướng của liên minh"
-      },
-      {
-        "text": "Nội dung chính trị",
-        "category": "2) Nội dung/phương hướng của liên minh"
-      },
-      {
-        "text": "Xóa đói giảm nghèo",
-        "category": "2) Nội dung/phương hướng của liên minh"
-      },
-      {
-        "text": "Tăng cường liên minh",
-        "category": "2) Nội dung/phương hướng của liên minh"
-      }
-    ],
-    "lesson": "Bài 4",
-    "q_num": 40,
-    "body_index": 855,
-    "id": "word-c41143f3c5139fa3-p855",
-    "category_correction": {
-      "body_index": 855,
-      "source_title": "Câu 40 : Kéo thả các yếu tố liên quan đến liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội vào các cột tương ứng.",
-      "source_categories": [
-        {
-          "title": "1) Thành phần/yếu tố của liên minh",
-          "items": [
-            "Giai cấp công nhân",
-            "Giai cấp nông dân",
-            "Đảng Cộng sản"
-          ]
-        },
-        {
-          "title": "2) Nội dung/phương hướng của liên minh",
-          "items": [
-            "Nội dung kinh tế",
-            "Nội dung chính trị",
-            "Xóa đói giảm nghèo",
-            "Tăng cường liên minh"
-          ]
-        }
-      ],
-      "source_unassigned_items": [
-        "Tầng lớp phụ nữ"
-      ],
-      "approved_categories": [
-        {
-          "title": "1) Thành phần/yếu tố của liên minh",
-          "items": [
-            "Giai cấp công nhân",
-            "Giai cấp nông dân",
-            "Tầng lớp phụ nữ",
-            "Đảng Cộng sản"
-          ]
-        },
-        {
-          "title": "2) Nội dung/phương hướng của liên minh",
-          "items": [
-            "Nội dung kinh tế",
-            "Nội dung chính trị",
-            "Xóa đói giảm nghèo",
-            "Tăng cường liên minh"
-          ]
-        }
-      ],
-      "approved_by": "user",
-      "approved_on": "2026-10-20",
-      "evidence": "Ảnh bảng đáp án Câu 40 do người dùng cung cấp: Tầng lớp phụ nữ ở cột Thành phần/yếu tố của liên minh.",
-      "reason": "Bổ sung Tầng lớp phụ nữ vào cột 1 theo ảnh đối chiếu đã được người dùng duyệt; giữ đủ 4 mục mỗi cột."
-    }
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 41: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-    "source_q_num": 41,
-    "source_title": "Câu 41 : Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 41,
-        "body_index": 859
-      }
-    ],
-    "source_content": [
-      {
-        "text": "1) Giai cấp công nhân là trung tâm trong cơ cấu xã hội - giai cấp ở Việt Nam Đúng"
-      },
-      {
-        "text": "2) Tầng lớp phụ nữ không tham gia cơ cấu xã hội - giai cấp Sai"
-      },
-      {
-        "text": "3) Chính sách tôn giáo là chính sách chính hỗ trợ cơ cấu xã hội - giai cấp Sai"
-      },
-      {
-        "text": "4) Đội ngũ trí thức đóng vai trò quan trọng trong cơ cấu xã hội - giai cấp Đúng"
-      }
-    ],
-    "type": "true_false",
-    "items": [
-      {
-        "statement": "1) Giai cấp công nhân là trung tâm trong cơ cấu xã hội - giai cấp ở Việt Nam",
-        "correct": true
-      },
-      {
-        "statement": "2) Tầng lớp phụ nữ không tham gia cơ cấu xã hội - giai cấp",
-        "correct": false
-      },
-      {
-        "statement": "3) Chính sách tôn giáo là chính sách chính hỗ trợ cơ cấu xã hội - giai cấp",
-        "correct": false
-      },
-      {
-        "statement": "4) Đội ngũ trí thức đóng vai trò quan trọng trong cơ cấu xã hội - giai cấp",
-        "correct": true
-      }
-    ],
-    "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "lesson": "Bài 4",
-    "q_num": 41,
-    "body_index": 859,
-    "id": "word-c41143f3c5139fa3-p859"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 42: Trong cơ cấu xã hội của thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội nào giữ vị trí quan trọng hàng đầu, chi phối các loại hình cơ cấu xã hội khác?",
-    "source_q_num": 6,
-    "source_title": "Câu 6 (Bài 4): Trong cơ cấu xã hội của thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội nào giữ vị trí quan trọng hàng đầu, chi phối các loại hình cơ cấu xã hội khác?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 6,
-        "body_index": 1167
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Cơ cấu xã hội – giai cấp B. Cơ cấu xã hội - dân tộc C. Cơ cấu xã hội - nghề nghiệp D. Cơ cấu xã hội - tôn giáo"
-      },
-      {
-        "text": "Đáp án: A"
-      }
-    ],
-    "is_thuong_xuyen": true,
-    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 2",
-    "type": "single_choice",
-    "options": [
-      "A. Cơ cấu xã hội – giai cấp",
-      "B. Cơ cấu xã hội - dân tộc",
-      "C. Cơ cấu xã hội - nghề nghiệp",
-      "D. Cơ cấu xã hội - tôn giáo"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 4",
-    "q_num": 42,
-    "body_index": 1167,
-    "id": "word-c41143f3c5139fa3-p1167"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 43: Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội – giai cấp thường xuyên biến đổi theo mấy quy luật cơ bản?",
-    "source_q_num": 7,
-    "source_title": "Câu 7 (Bài 4): Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội – giai cấp thường xuyên biến đổi theo mấy quy luật cơ bản?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 7,
-        "body_index": 1170
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. 3 B. 4 C. 5 D. 2"
-      },
-      {
-        "text": "Đáp án: A (chưa kiểm chứng được, bạn nên kiểm lại với giáo trình)"
-      }
-    ],
-    "is_thuong_xuyen": true,
-    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 2",
-    "source_warning": "Tài liệu ghi: Đáp án: A (chưa kiểm chứng được, bạn nên kiểm lại với giáo trình)",
-    "type": "single_choice",
-    "options": [
-      "A. 3",
-      "B. 4",
-      "C. 5",
-      "D. 2"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 4",
-    "q_num": 43,
-    "body_index": 1170,
-    "id": "word-c41143f3c5139fa3-p1170"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 44: Kéo thả các yếu tố liên quan đến cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội vào các cột tương ứng:",
-    "source_q_num": 19,
-    "source_title": "Câu 19 (Bài 4 – Kéo thả): Kéo thả các yếu tố liên quan đến cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội vào các cột tương ứng:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 19,
-        "body_index": 1176
-      }
-    ],
-    "source_content": [
-      {
-        "text": "Giai cấp/tầng lớp trong cơ cấu xã hội"
-      },
-      {
-        "text": "Đội ngũ trí thức"
-      },
-      {
-        "text": "Giai cấp nông dân"
-      },
-      {
-        "text": "Giai cấp công nhân"
-      },
-      {
-        "text": "Chính sách hỗ trợ"
-      },
-      {
-        "text": "Bảo vệ quyền lợi"
-      },
-      {
-        "text": "Nâng cao dân trí"
-      },
-      {
-        "text": "Chính sách an sinh xã hội"
-      },
-      {
-        "text": "Phát triển nông thôn mới"
-      }
-    ],
-    "is_thuong_xuyen": true,
-    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 2",
-    "type": "drag_drop_categorize",
-    "categories": [
-      {
-        "title": "Giai cấp/tầng lớp trong cơ cấu xã hội",
-        "items": [
-          "Đội ngũ trí thức",
-          "Giai cấp nông dân",
-          "Giai cấp công nhân"
-        ]
-      },
-      {
-        "title": "Chính sách hỗ trợ",
-        "items": [
-          "Bảo vệ quyền lợi",
-          "Nâng cao dân trí",
-          "Chính sách an sinh xã hội",
-          "Phát triển nông thôn mới"
-        ]
-      }
-    ],
-    "instruction": "Kéo hoặc chọn từng mục vào đúng cột tương ứng",
-    "all_items": [
-      {
-        "text": "Đội ngũ trí thức",
-        "category": "Giai cấp/tầng lớp trong cơ cấu xã hội"
-      },
-      {
-        "text": "Giai cấp nông dân",
-        "category": "Giai cấp/tầng lớp trong cơ cấu xã hội"
-      },
-      {
-        "text": "Giai cấp công nhân",
-        "category": "Giai cấp/tầng lớp trong cơ cấu xã hội"
-      },
-      {
-        "text": "Bảo vệ quyền lợi",
-        "category": "Chính sách hỗ trợ"
-      },
-      {
-        "text": "Nâng cao dân trí",
-        "category": "Chính sách hỗ trợ"
-      },
-      {
-        "text": "Chính sách an sinh xã hội",
-        "category": "Chính sách hỗ trợ"
-      },
-      {
-        "text": "Phát triển nông thôn mới",
-        "category": "Chính sách hỗ trợ"
-      }
-    ],
-    "lesson": "Bài 4",
-    "q_num": 44,
-    "body_index": 1176,
-    "id": "word-c41143f3c5139fa3-p1176"
-  },
-  {
-    "lesson_num": 4,
-    "question": "Câu 45: Kéo thả các đáp án khớp với các phát biểu về liên minh giai cấp, giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội dưới đây:",
-    "source_q_num": 20,
-    "source_title": "Câu 20 (Bài 4 – Kéo thả): Kéo thả các đáp án khớp với các phát biểu về liên minh giai cấp, giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội dưới đây:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 20,
-        "body_index": 1186
-      }
-    ],
-    "source_content": [
-      {
-        "text": "Nội dung cơ bản quyết định của liên minh → Nội dung kinh tế"
-      },
-      {
-        "text": "Tầng lớp tham gia liên minh → Tầng lớp phụ nữ"
-      },
-      {
-        "text": "Yếu tố cốt lõi của liên minh giai cấp → Liên minh công - nông"
-      },
-      {
-        "text": "Phương hướng cơ bản để xây dựng liên minh giai cấp, tầng lớp → Hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa"
-      }
-    ],
-    "is_thuong_xuyen": true,
-    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 2",
-    "type": "drag_drop_match",
-    "pairs": [
-      {
-        "left": "Nội dung cơ bản quyết định của liên minh",
-        "right": "Nội dung kinh tế"
-      },
-      {
-        "left": "Tầng lớp tham gia liên minh",
-        "right": "Tầng lớp phụ nữ"
-      },
-      {
-        "left": "Yếu tố cốt lõi của liên minh giai cấp",
-        "right": "Liên minh công - nông"
-      },
-      {
-        "left": "Phương hướng cơ bản để xây dựng liên minh giai cấp, tầng lớp",
-        "right": "Hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa"
-      }
-    ],
-    "options_pool": [
-      "Nội dung kinh tế",
-      "Tầng lớp phụ nữ",
-      "Liên minh công - nông",
-      "Hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa"
-    ],
-    "instruction": "Kéo hoặc chọn đáp án đúng ghép vào vế tương ứng",
-    "lesson": "Bài 4",
-    "q_num": 45,
-    "body_index": 1186,
-    "id": "word-c41143f3c5139fa3-p1186"
-  },
-  {
-    "lesson_num": 5,
-    "question": "Câu 1: Dân tộc hiểu theo nghĩa hẹp là:",
-    "source_q_num": 1,
-    "source_title": "Câu 1: Dân tộc hiểu theo nghĩa hẹp là:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 1,
-        "body_index": 865
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Bộ tộc"
-      },
-      {
-        "text": "B. Tộc người"
-      },
-      {
-        "text": "C. Quốc gia dân tộc"
-      },
-      {
-        "text": "D. Bộ lạc"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Bộ tộc",
-      "B. Tộc người",
-      "C. Quốc gia dân tộc",
-      "D. Bộ lạc"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 5",
-    "q_num": 1,
-    "body_index": 865,
-    "id": "word-c41143f3c5139fa3-p865"
-  },
-  {
-    "lesson_num": 5,
-    "question": "Câu 2: Hiểu theo nghĩa rộng, dân tộc là:",
-    "source_q_num": 2,
-    "source_title": "Câu 2: Hiểu theo nghĩa rộng, dân tộc là:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 2,
-        "body_index": 870
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Thị tộc"
-      },
-      {
-        "text": "B. Tộc người"
-      },
-      {
-        "text": "C. Quốc gia"
-      },
-      {
-        "text": "D. Bộ tộc"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Thị tộc",
-      "B. Tộc người",
-      "C. Quốc gia",
-      "D. Bộ tộc"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 5",
-    "q_num": 2,
-    "body_index": 870,
-    "id": "word-c41143f3c5139fa3-p870"
-  },
-  {
-    "lesson_num": 5,
-    "question": "Câu 3: Thứ tự quá trình phát triển của dân tộc lần lượt trải qua các hình thức nào?",
-    "source_q_num": 3,
-    "source_title": "Câu 3: Thứ tự quá trình phát triển của dân tộc lần lượt trải qua các hình thức nào?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 3,
-        "body_index": 875
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Bộ lạc, bộ tộc, thị tộc, dân tộc"
-      },
-      {
-        "text": "B. Thị tộc, bộ lạc, bộ tộc, dân tộc"
-      },
-      {
-        "text": "C. Bộ tộc, thị tộc, bộ lạc, dân tộc"
-      },
-      {
-        "text": "D. Thị tộc, bộ tộc, bộ lạc, dân tộc"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Bộ lạc, bộ tộc, thị tộc, dân tộc",
-      "B. Thị tộc, bộ lạc, bộ tộc, dân tộc",
-      "C. Bộ tộc, thị tộc, bộ lạc, dân tộc",
-      "D. Thị tộc, bộ tộc, bộ lạc, dân tộc"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 5",
-    "q_num": 3,
-    "body_index": 875,
-    "id": "word-c41143f3c5139fa3-p875"
-  },
-  {
-    "lesson_num": 5,
-    "question": "Câu 4: Theo chủ nghĩa Mác – Lênin, nguyên nhân nào dẫn đến các cộng đồng dân cư muốn tách ra để hình thành cộng đồng dân tộc độc lập?",
-    "source_q_num": 4,
-    "source_title": "Câu 4: Theo chủ nghĩa Mác – Lênin, nguyên nhân nào dẫn đến các cộng đồng dân cư muốn tách ra để hình thành cộng đồng dân tộc độc lập?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 4,
-        "body_index": 880
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Do sự thức tỉnh, sự trưởng thành về ý thức dân tộc, ý thức về quyền sống của mình"
-      },
-      {
-        "text": "B. Do chủ nghĩa tư bản đã phát triển thành chủ nghĩa đế quốc"
-      },
-      {
-        "text": "C. Do các cộng đồng dân cư muốn độc lập để có thể đi xâm chiếm các dân tộc khác"
-      },
-      {
-        "text": "D. Do các cộng đồng dân cư muốn phân chia lại thị trường thế giới"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Do sự thức tỉnh, sự trưởng thành về ý thức dân tộc, ý thức về quyền sống của mình",
-      "B. Do chủ nghĩa tư bản đã phát triển thành chủ nghĩa đế quốc",
-      "C. Do các cộng đồng dân cư muốn độc lập để có thể đi xâm chiếm các dân tộc khác",
-      "D. Do các cộng đồng dân cư muốn phân chia lại thị trường thế giới"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 5",
-    "q_num": 4,
-    "body_index": 880,
-    "id": "word-c41143f3c5139fa3-p880"
-  },
-  {
-    "lesson_num": 5,
-    "question": "Câu 5: Tôn giáo là một phạm trù thuộc:",
-    "source_q_num": 5,
-    "source_title": "Câu 5: Tôn giáo là một phạm trù thuộc:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 5,
-        "body_index": 885
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Cơ sở hạ tầng"
-      },
-      {
-        "text": "B. Hình thái ý thức xã hội"
-      },
-      {
-        "text": "C. Tồn tại xã hội"
-      },
-      {
-        "text": "D. Kiến trúc thượng tầng"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Cơ sở hạ tầng",
-      "B. Hình thái ý thức xã hội",
-      "C. Tồn tại xã hội",
-      "D. Kiến trúc thượng tầng"
-    ],
-    "correct_answers": [
-      3
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 5",
-    "q_num": 5,
-    "body_index": 885,
-    "id": "word-c41143f3c5139fa3-p885"
-  },
-  {
-    "lesson_num": 5,
-    "question": "Câu 6: Tôn giáo là sản phẩm của ai?",
-    "source_q_num": 6,
-    "source_title": "Câu 6: Tôn giáo là sản phẩm của ai?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 6,
-        "body_index": 890
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Lực lượng siêu nhiên"
-      },
-      {
-        "text": "B. Thượng đế"
-      },
-      {
-        "text": "C. Con người"
-      },
-      {
-        "text": "D. Các thần linh"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Lực lượng siêu nhiên",
-      "B. Thượng đế",
-      "C. Con người",
-      "D. Các thần linh"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 5",
-    "q_num": 6,
-    "body_index": 890,
-    "id": "word-c41143f3c5139fa3-p890"
-  },
-  {
-    "lesson_num": 5,
-    "question": "Câu 7: Tôn giáo khác với tín ngưỡng ở điểm nào?",
-    "source_q_num": 7,
-    "source_title": "Câu 7: Tôn giáo khác với tín ngưỡng ở điểm nào?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 7,
-        "body_index": 895
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Tôn giáo có số lượng tín đồ đông."
-      },
-      {
-        "text": "B. Tôn giáo có hệ thống giáo lý, giáo luật, có tổ chức và các nghi lễ chặt chẽ"
-      },
-      {
-        "text": "C. Tôn giáo tồn tại ở tất cả các quốc gia trên thế giới."
-      },
-      {
-        "text": "D. Tôn giáo ra đời từ rất sớm."
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Tôn giáo có số lượng tín đồ đông.",
-      "B. Tôn giáo có hệ thống giáo lý, giáo luật, có tổ chức và các nghi lễ chặt chẽ",
-      "C. Tôn giáo tồn tại ở tất cả các quốc gia trên thế giới.",
-      "D. Tôn giáo ra đời từ rất sớm."
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 5",
-    "q_num": 7,
-    "body_index": 895,
-    "id": "word-c41143f3c5139fa3-p895"
-  },
-  {
-    "lesson_num": 5,
-    "question": "Câu 8: Về phương diện thế giới quan, tôn giáo mang bản chất:",
-    "source_q_num": 8,
-    "source_title": "Câu 8: Về phương diện thế giới quan, tôn giáo mang bản chất:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 8,
-        "body_index": 900
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Thế giới quan duy tâm"
-      },
-      {
-        "text": "B. Thế giới quan duy vật"
-      },
-      {
-        "text": "C. Thế giới quan biện chứng"
-      },
-      {
-        "text": "D. Thế giới quan siêu hình"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Thế giới quan duy tâm",
-      "B. Thế giới quan duy vật",
-      "C. Thế giới quan biện chứng",
-      "D. Thế giới quan siêu hình"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 5",
-    "q_num": 8,
-    "body_index": 900,
-    "id": "word-c41143f3c5139fa3-p900"
-  },
-  {
-    "lesson_num": 5,
-    "question": "Câu 9: Tìm đáp án sai về nguồn gốc hình thành của tôn giáo:",
-    "source_q_num": 9,
-    "source_title": "Câu 9: Tìm đáp án sai về nguồn gốc hình thành của tôn giáo:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 9,
-        "body_index": 905
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Nguồn gốc kinh tế - xã hội"
-      },
-      {
-        "text": "B. Nguồn gốc nhận thức"
-      },
-      {
-        "text": "C. Nguồn gốc tâm lý"
-      },
-      {
-        "text": "D. Nguồn gốc nhân tạo"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Nguồn gốc kinh tế - xã hội",
-      "B. Nguồn gốc nhận thức",
-      "C. Nguồn gốc tâm lý",
-      "D. Nguồn gốc nhân tạo"
-    ],
-    "correct_answers": [
-      3
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 5",
-    "q_num": 9,
-    "body_index": 905,
-    "id": "word-c41143f3c5139fa3-p905"
-  },
-  {
-    "lesson_num": 5,
-    "question": "Câu 10: Luận điểm nổi tiếng: \"Tôn giáo là tiếng thở dài của chúng sinh bị áp bức, là trái tim của thế giới không có trái tim... Tôn giáo là thuốc phiện của nhân dân\" là của ai?",
-    "source_q_num": 10,
-    "source_title": "Câu 10: Luận điểm nổi tiếng: \"Tôn giáo là tiếng thở dài của chúng sinh bị áp bức, là trái tim của thế giới không có trái tim... Tôn giáo là thuốc phiện của nhân dân\" là của ai?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 10,
-        "body_index": 910
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Ph. Ăngghen"
-      },
-      {
-        "text": "B. Hồ Chí Minh"
-      },
-      {
-        "text": "C. V.I. Lênin"
-      },
-      {
-        "text": "D. C. Mác"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Ph. Ăngghen",
-      "B. Hồ Chí Minh",
-      "C. V.I. Lênin",
-      "D. C. Mác"
-    ],
-    "correct_answers": [
-      3
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 5",
-    "q_num": 10,
-    "body_index": 910,
-    "id": "word-c41143f3c5139fa3-p910"
-  },
-  {
-    "lesson_num": 5,
-    "question": "Câu 11: Tại sao ngày nay khoa học đã phát triển rất mạnh mẽ mà tôn giáo vẫn có xu hướng phát triển? (Chọn nhiều đáp án) (Sinh viên chọn 2 phương án đúng nhất)",
-    "source_q_num": 11,
-    "source_title": "Câu 11: Tại sao ngày nay khoa học đã phát triển rất mạnh mẽ mà tôn giáo vẫn có xu hướng phát triển? (Chọn nhiều đáp án) (Sinh viên chọn 2 phương án đúng nhất)",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 11,
-        "body_index": 915
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Do xã hội có xu hướng phát triển ngày càng tụt lùi"
-      },
-      {
-        "text": "B. Do lực lượng siêu nhiên thúc đẩy"
-      },
-      {
-        "text": "C. Do nhận thức của con người về tự nhiên, về xã hội và về chính bản thân mình còn có giới hạn"
-      },
-      {
-        "text": "D. Do thế giới mà con người đang sống vẫn còn muôn vàn điều bí ẩn mà khoa học chưa hiểu rõ bản chất của nó"
-      }
-    ],
-    "type": "multiple_choice",
-    "options": [
-      "A. Do xã hội có xu hướng phát triển ngày càng tụt lùi",
-      "B. Do lực lượng siêu nhiên thúc đẩy",
-      "C. Do nhận thức của con người về tự nhiên, về xã hội và về chính bản thân mình còn có giới hạn",
-      "D. Do thế giới mà con người đang sống vẫn còn muôn vàn điều bí ẩn mà khoa học chưa hiểu rõ bản chất của nó"
-    ],
-    "correct_answers": [
-      2,
-      3
-    ],
-    "instruction": "Chọn 2 đáp án đúng",
     "lesson": "Bài 5",
     "q_num": 11,
-    "body_index": 915,
-    "id": "word-c41143f3c5139fa3-p915"
+    "body_index": 735,
+    "id": "word-1d55e841b9e15dba-p735"
   },
   {
     "lesson_num": 5,
-    "question": "Câu 12: Ở Việt Nam hiện nay có khoảng bao nhiêu dân tộc?",
+    "question": "Câu 12: Lãnh đạo muốn tổ chức cuộc họp tổng kết sau chuyến công tác. Thư ký nên làm gì?",
     "source_q_num": 12,
-    "source_title": "Câu 12: Ở Việt Nam hiện nay có khoảng bao nhiêu dân tộc?",
+    "source_title": "Câu 12: Lãnh đạo muốn tổ chức cuộc họp tổng kết sau chuyến công tác. Thư ký nên làm gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 12,
-        "body_index": 920
+        "body_index": 740
       }
     ],
     "source_content": [
       {
-        "text": "A. 45"
+        "text": "A. Sắp xếp thời gian, địa điểm và chuẩn bị tài liệu cho cuộc họp tổng kết"
       },
       {
-        "text": "B. 54"
+        "text": "B. Đợi lãnh đạo yêu cầu thêm thông tin về cuộc họp"
       },
       {
-        "text": "C. 50"
+        "text": "C. Để lãnh đạo tự lên kế hoạch cho cuộc họp"
       },
       {
-        "text": "D. 63"
+        "text": "D. Gửi email thông báo về cuộc họp mà không chuẩn bị trước"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. 45",
-      "B. 54",
-      "C. 50",
-      "D. 63"
+      "A. Sắp xếp thời gian, địa điểm và chuẩn bị tài liệu cho cuộc họp tổng kết",
+      "B. Đợi lãnh đạo yêu cầu thêm thông tin về cuộc họp",
+      "C. Để lãnh đạo tự lên kế hoạch cho cuộc họp",
+      "D. Gửi email thông báo về cuộc họp mà không chuẩn bị trước"
     ],
     "correct_answers": [
-      1
+      0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 5",
     "q_num": 12,
-    "body_index": 920,
-    "id": "word-c41143f3c5139fa3-p920"
+    "body_index": 740,
+    "id": "word-1d55e841b9e15dba-p740"
   },
   {
     "lesson_num": 5,
-    "question": "Câu 13: Tìm đáp án sai về đặc điểm dân tộc ở Việt Nam",
+    "question": "Câu 13: Trong thời gian lãnh đạo đi công tác, có một số vấn đề cần giải quyết. Thư ký sẽ làm gì khi lãnh đạo trở về?",
     "source_q_num": 13,
-    "source_title": "Câu 13: Tìm đáp án sai về đặc điểm dân tộc ở Việt Nam",
+    "source_title": "Câu 13: Trong thời gian lãnh đạo đi công tác, có một số vấn đề cần giải quyết. Thư ký sẽ làm gì khi lãnh đạo trở về?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 13,
-        "body_index": 925
+        "body_index": 745
       }
     ],
     "source_content": [
       {
-        "text": "A. Có sự chênh lệch về số dân giữa các tộc người"
+        "text": "A. Để lãnh đạo tự tìm hiểu các vấn đề đã phát sinh"
       },
       {
-        "text": "B. Các dân tộc cư trú tập trung tại các trung tâm lớn"
+        "text": "B. Cung cấp thông tin chi tiết về các vấn đề và cách giải quyết đã thực hiện"
       },
       {
-        "text": "C. Các dân tộc ở Việt Nam có trình độ phát triển không đều"
+        "text": "C. Xử lý các vấn đề còn lại mà không thông báo cho lãnh đạo"
       },
       {
-        "text": "D. Các dân tộc thiểu số ở Việt Nam phân bố chủ yếu ở địa bàn có vị trí chiến lược quan trọng"
+        "text": "D. Chỉ ghi chép các vấn đề và để lãnh đạo tự xử lý"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Có sự chênh lệch về số dân giữa các tộc người",
-      "B. Các dân tộc cư trú tập trung tại các trung tâm lớn",
-      "C. Các dân tộc ở Việt Nam có trình độ phát triển không đều",
-      "D. Các dân tộc thiểu số ở Việt Nam phân bố chủ yếu ở địa bàn có vị trí chiến lược quan trọng"
+      "A. Để lãnh đạo tự tìm hiểu các vấn đề đã phát sinh",
+      "B. Cung cấp thông tin chi tiết về các vấn đề và cách giải quyết đã thực hiện",
+      "C. Xử lý các vấn đề còn lại mà không thông báo cho lãnh đạo",
+      "D. Chỉ ghi chép các vấn đề và để lãnh đạo tự xử lý"
     ],
     "correct_answers": [
       1
@@ -8372,83 +5949,83 @@ window.QUIZ_QUESTIONS = [
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 5",
     "q_num": 13,
-    "body_index": 925,
-    "id": "word-c41143f3c5139fa3-p925"
+    "body_index": 745,
+    "id": "word-1d55e841b9e15dba-p745"
   },
   {
     "lesson_num": 5,
-    "question": "Câu 14: Vận dụng kiến thức về đặc điểm tôn giáo ở Việt Nam, hãy xác định số lượng tôn giáo đã được công nhận và cấp đăng ký hoạt động ở Việt Nam:",
+    "question": "Câu 14: Sau chuyến công tác, lãnh đạo yêu cầu đánh giá hiệu quả chuyến đi. Thư ký nên làm gì?",
     "source_q_num": 14,
-    "source_title": "Câu 14: Vận dụng kiến thức về đặc điểm tôn giáo ở Việt Nam, hãy xác định số lượng tôn giáo đã được công nhận và cấp đăng ký hoạt động ở Việt Nam:",
+    "source_title": "Câu 14: Sau chuyến công tác, lãnh đạo yêu cầu đánh giá hiệu quả chuyến đi. Thư ký nên làm gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 14,
-        "body_index": 930
+        "body_index": 750
       }
     ],
     "source_content": [
       {
-        "text": "A. 5"
+        "text": "A. Cung cấp một báo cáo chung về chuyến đi mà không có đánh giá chi tiết"
       },
       {
-        "text": "B. 43"
+        "text": "B. Thu thập ý kiến từ các bên liên quan và tổng hợp đánh giá hiệu quả chuyến công tác"
       },
       {
-        "text": "C. 16"
+        "text": "C. Chỉ ghi lại một số điểm chính về chuyến đi"
       },
       {
-        "text": "D. 13"
+        "text": "D. Đợi lãnh đạo tự đánh giá chuyến công tác"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. 5",
-      "B. 43",
-      "C. 16",
-      "D. 13"
+      "A. Cung cấp một báo cáo chung về chuyến đi mà không có đánh giá chi tiết",
+      "B. Thu thập ý kiến từ các bên liên quan và tổng hợp đánh giá hiệu quả chuyến công tác",
+      "C. Chỉ ghi lại một số điểm chính về chuyến đi",
+      "D. Đợi lãnh đạo tự đánh giá chuyến công tác"
     ],
     "correct_answers": [
-      2
+      1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 5",
     "q_num": 14,
-    "body_index": 930,
-    "id": "word-c41143f3c5139fa3-p930"
+    "body_index": 750,
+    "id": "word-1d55e841b9e15dba-p750"
   },
   {
     "lesson_num": 5,
-    "question": "Câu 15: Vận dụng kiến thức về vấn đề dân tộc, hãy chỉ ra điểm khác biệt cơ bản trong quá trình hình thành nên dân tộc Việt Nam so với các dân tộc khác là gì?",
+    "question": "Câu 15: Thư ký phát hiện rằng lãnh đạo có lịch trình công tác dày đặc và một số cuộc họp có thể trùng lặp. Thư ký sẽ làm gì để giải quyết vấn đề này?",
     "source_q_num": 15,
-    "source_title": "Câu 15: Vận dụng kiến thức về vấn đề dân tộc, hãy chỉ ra điểm khác biệt cơ bản trong quá trình hình thành nên dân tộc Việt Nam so với các dân tộc khác là gì?",
+    "source_title": "Câu 15: Thư ký phát hiện rằng lãnh đạo có lịch trình công tác dày đặc và một số cuộc họp có thể trùng lặp. Thư ký sẽ làm gì để giải quyết vấn đề này?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 15,
-        "body_index": 935
+        "body_index": 755
       }
     ],
     "source_content": [
       {
-        "text": "A. Do sự phát triển tiến bộ của các bộ lạc"
+        "text": "A. Thông báo cho lãnh đạo về sự cố và chờ chỉ thị"
       },
       {
-        "text": "B. Do dân tộc Việt Nam có diện tích nhỏ"
+        "text": "B. Đặt lại tất cả các cuộc hẹn cho thời gian khác"
       },
       {
-        "text": "C. Do quá trình đồng hóa của các bộ tộc phong kiến"
+        "text": "C. Hủy bỏ các cuộc họp không quan trọng"
       },
       {
-        "text": "D. Do yêu cầu đoàn kết của quá trình đấu tranh chống thiên tai và xâm lược"
+        "text": "D. Xem xét lại lịch trình và điều chỉnh các cuộc họp sao cho phù hợp"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Do sự phát triển tiến bộ của các bộ lạc",
-      "B. Do dân tộc Việt Nam có diện tích nhỏ",
-      "C. Do quá trình đồng hóa của các bộ tộc phong kiến",
-      "D. Do yêu cầu đoàn kết của quá trình đấu tranh chống thiên tai và xâm lược"
+      "A. Thông báo cho lãnh đạo về sự cố và chờ chỉ thị",
+      "B. Đặt lại tất cả các cuộc hẹn cho thời gian khác",
+      "C. Hủy bỏ các cuộc họp không quan trọng",
+      "D. Xem xét lại lịch trình và điều chỉnh các cuộc họp sao cho phù hợp"
     ],
     "correct_answers": [
       3
@@ -8456,132 +6033,167 @@ window.QUIZ_QUESTIONS = [
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 5",
     "q_num": 15,
-    "body_index": 935,
-    "id": "word-c41143f3c5139fa3-p935"
+    "body_index": 755,
+    "id": "word-1d55e841b9e15dba-p755"
   },
   {
     "lesson_num": 5,
-    "question": "Câu 16: Quan điểm: Không phân biệt dân tộc lớn hay nhỏ, ở trình độ phát triển cao hay thấp, các dân tộc đều có nghĩa vụ và quyền lợi ngang nhau trên tất cả các lĩnh vực của đời sống xã hội - thuộc nội dung nào trong Cương lĩnh dân tộc của V.I. Lênin?",
+    "question": "Câu 16: Người thư ký văn phòng cần cần lưu ý gì khi lập dự trù kinh phí cho chuyến công tác để đảm bảo tính chính xác?",
     "source_q_num": 16,
-    "source_title": "Câu 16: Quan điểm: Không phân biệt dân tộc lớn hay nhỏ, ở trình độ phát triển cao hay thấp, các dân tộc đều có nghĩa vụ và quyền lợi ngang nhau trên tất cả các lĩnh vực của đời sống xã hội - thuộc nội dung nào trong Cương lĩnh dân tộc của V.I. Lênin?",
+    "source_title": "Câu 16 : Người thư ký văn phòng cần cần lưu ý gì khi lập dự trù kinh phí cho chuyến công tác để đảm bảo tính chính xác?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 16,
-        "body_index": 940
+        "body_index": 760
       }
     ],
     "source_content": [
       {
-        "text": "A. Phải đấu tranh chống chủ nghĩa phân biệt chủng tộc, chủ nghĩa sô vanh B. Các dân tộc hoàn toàn bình đẳng C. Liên hiệp công nhân tất cả các dân tộc D. Đoàn kết các dân tộc"
+        "text": "A. Giảm thiểu các khoản chi phí không cần thiết"
+      },
+      {
+        "text": "B. Dự trù kinh phí dựa trên ước lượng của thành viên"
+      },
+      {
+        "text": "C. Chỉ bao gồm chi phí đi lại"
+      },
+      {
+        "text": "D. Bao gồm tất cả các khoản chi phí có thể phát sinh"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Phải đấu tranh chống chủ nghĩa phân biệt chủng tộc, chủ nghĩa sô vanh",
-      "B. Các dân tộc hoàn toàn bình đẳng",
-      "C. Liên hiệp công nhân tất cả các dân tộc",
-      "D. Đoàn kết các dân tộc"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 5",
-    "q_num": 16,
-    "body_index": 940,
-    "id": "word-c41143f3c5139fa3-p940"
-  },
-  {
-    "lesson_num": 5,
-    "question": "Câu 17: Theo quan điểm của chủ nghĩa Mác – Lênin, để thực hiện được bình đẳng dân tộc cần phải làm gì? (Chọn 2 đáp án)",
-    "source_q_num": 17,
-    "source_title": "Câu 17: Theo quan điểm của chủ nghĩa Mác – Lênin, để thực hiện được bình đẳng dân tộc cần phải làm gì? (Chọn 2 đáp án)",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 17,
-        "body_index": 942
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Phải đấu tranh chống chủ nghĩa phân biệt chủng tộc, chủ nghĩa sô vanh B. Thủ tiêu tình trạng áp bức giai cấp, trên cơ sở đó xoá bỏ tình trạng áp bức dân tộc C. Phải liên kết với các nước đế quốc lớn D. Phải duy trì chế độ tư hữu về tư liệu sản xuất"
-      }
-    ],
-    "type": "multiple_choice",
-    "options": [
-      "A. Phải đấu tranh chống chủ nghĩa phân biệt chủng tộc, chủ nghĩa sô vanh",
-      "B. Thủ tiêu tình trạng áp bức giai cấp, trên cơ sở đó xoá bỏ tình trạng áp bức dân tộc",
-      "C. Phải liên kết với các nước đế quốc lớn",
-      "D. Phải duy trì chế độ tư hữu về tư liệu sản xuất"
-    ],
-    "correct_answers": [
-      0,
-      1
-    ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bài 5",
-    "q_num": 17,
-    "body_index": 942,
-    "id": "word-c41143f3c5139fa3-p942"
-  },
-  {
-    "lesson_num": 5,
-    "question": "Câu 18: Trong những nội dung của quyền dân tộc tự quyết, nội dung nào được coi là cơ bản, trước hết?",
-    "source_q_num": 18,
-    "source_title": "Câu 18 : Trong những nội dung của quyền dân tộc tự quyết, nội dung nào được coi là cơ bản, trước hết?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 18,
-        "body_index": 944
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Quyền tự quyết về các mối quan hệ quốc tế B. Quyền tự quyết về văn hoá C. Quyền tự quyết về kinh tế D. Quyền tự quyết về chính trị"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Quyền tự quyết về các mối quan hệ quốc tế",
-      "B. Quyền tự quyết về văn hoá",
-      "C. Quyền tự quyết về kinh tế",
-      "D. Quyền tự quyết về chính trị"
+      "A. Giảm thiểu các khoản chi phí không cần thiết",
+      "B. Dự trù kinh phí dựa trên ước lượng của thành viên",
+      "C. Chỉ bao gồm chi phí đi lại",
+      "D. Bao gồm tất cả các khoản chi phí có thể phát sinh"
     ],
     "correct_answers": [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 5",
-    "q_num": 18,
-    "body_index": 944,
-    "id": "word-c41143f3c5139fa3-p944"
+    "q_num": 16,
+    "body_index": 760,
+    "id": "word-1d55e841b9e15dba-p760"
   },
   {
     "lesson_num": 5,
-    "question": "Câu 19: Đâu là đặc trưng quan trọng nhất, là cơ sở để liên kết các thành viên của dân tộc tạo thành nền tảng vững chắc của cộng đồng dân tộc?",
-    "source_q_num": 19,
-    "source_title": "Câu 19 : Đâu là đặc trưng quan trọng nhất, là cơ sở để liên kết các thành viên của dân tộc tạo thành nền tảng vững chắc của cộng đồng dân tộc?",
+    "question": "Câu 17: Khi đoàn công tác trở về, thư ký văn phòng cần làm gì để đảm bảo tính chính xác trong việc thanh toán và báo cáo?",
+    "source_q_num": 17,
+    "source_title": "Câu 17 : Khi đoàn công tác trở về, thư ký văn phòng cần làm gì để đảm bảo tính chính xác trong việc thanh toán và báo cáo?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 19,
-        "body_index": 946
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 17,
+        "body_index": 765
       }
     ],
     "source_content": [
       {
-        "text": "A. Có chung một phương thức sinh hoạt kinh tế B. Có ngôn ngữ riêng và có thể có chữ viết riêng làm công cụ giao tiếp C. Có thể cư trú tập trung trên một vùng lãnh thổ của một quốc gia, hoặc nơi cư trú đan xen với nhiều dân tộc anh em D. Có nét tâm lý riêng (nét tâm lý dân tộc) biểu hiện kết tinh trong nền văn hóa dân tộc và tạo bản sắc văn hóa của dân tộc."
+        "text": "A. Đánh giá hiệu quả chuyến công tác và chuẩn bị báo cáo chi tiết"
+      },
+      {
+        "text": "B. Thu thập các chứng từ và hoá đơn liên quan để thực hiện thủ tục quyết toán"
+      },
+      {
+        "text": "C. Gửi báo cáo cho các thành viên trong đoàn"
+      },
+      {
+        "text": "D. Lập danh sách các khoản chi phí và yêu cầu hoàn tiền từ bộ phận tài chính"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Có chung một phương thức sinh hoạt kinh tế",
-      "B. Có ngôn ngữ riêng và có thể có chữ viết riêng làm công cụ giao tiếp",
-      "C. Có thể cư trú tập trung trên một vùng lãnh thổ của một quốc gia, hoặc nơi cư trú đan xen với nhiều dân tộc anh em",
-      "D. Có nét tâm lý riêng (nét tâm lý dân tộc) biểu hiện kết tinh trong nền văn hóa dân tộc và tạo bản sắc văn hóa của dân tộc."
+      "A. Đánh giá hiệu quả chuyến công tác và chuẩn bị báo cáo chi tiết",
+      "B. Thu thập các chứng từ và hoá đơn liên quan để thực hiện thủ tục quyết toán",
+      "C. Gửi báo cáo cho các thành viên trong đoàn",
+      "D. Lập danh sách các khoản chi phí và yêu cầu hoàn tiền từ bộ phận tài chính"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 5",
+    "q_num": 17,
+    "body_index": 765,
+    "id": "word-1d55e841b9e15dba-p765"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 18: Trong thời gian lãnh đạo đi công tác, thư ký nhận được thông báo về một vấn đề quan trọng. Thư ký sẽ làm gì?",
+    "source_q_num": 18,
+    "source_title": "Câu 18 : Trong thời gian lãnh đạo đi công tác, thư ký nhận được thông báo về một vấn đề quan trọng. Thư ký sẽ làm gì?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 18,
+        "body_index": 770
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Giải quyết vấn đề theo ý kiến cá nhân"
+      },
+      {
+        "text": "B. Thông báo vấn đề cho lãnh đạo ngay lập tức qua điện thoại hoặc email"
+      },
+      {
+        "text": "C. Chỉ lưu trữ thông tin và không hành động"
+      },
+      {
+        "text": "D. Đợi lãnh đạo quay lại để giải quyết vấn đề"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Giải quyết vấn đề theo ý kiến cá nhân",
+      "B. Thông báo vấn đề cho lãnh đạo ngay lập tức qua điện thoại hoặc email",
+      "C. Chỉ lưu trữ thông tin và không hành động",
+      "D. Đợi lãnh đạo quay lại để giải quyết vấn đề"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 5",
+    "q_num": 18,
+    "body_index": 770,
+    "id": "word-1d55e841b9e15dba-p770"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 19: Lãnh đạo đã trở về từ chuyến công tác và yêu cầu thư ký tổng hợp báo cáo. Thư ký sẽ làm gì trước tiên?",
+    "source_q_num": 19,
+    "source_title": "Câu 19: Lãnh đạo đã trở về từ chuyến công tác và yêu cầu thư ký tổng hợp báo cáo. Thư ký sẽ làm gì trước tiên?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 19,
+        "body_index": 775
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Tập hợp tất cả các báo cáo liên quan và chuẩn bị bản tổng hợp"
+      },
+      {
+        "text": "B. Để lãnh đạo tự tổng hợp báo cáo từ các tài liệu"
+      },
+      {
+        "text": "C. Để báo cáo lại cho lãnh đạo khi có thời gian"
+      },
+      {
+        "text": "D. Yêu cầu các đồng nghiệp gửi báo cáo và chờ đến cuối tuần để tổng hợp"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Tập hợp tất cả các báo cáo liên quan và chuẩn bị bản tổng hợp",
+      "B. Để lãnh đạo tự tổng hợp báo cáo từ các tài liệu",
+      "C. Để báo cáo lại cho lãnh đạo khi có thời gian",
+      "D. Yêu cầu các đồng nghiệp gửi báo cáo và chờ đến cuối tuần để tổng hợp"
     ],
     "correct_answers": [
       0
@@ -8589,131 +6201,167 @@ window.QUIZ_QUESTIONS = [
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 5",
     "q_num": 19,
-    "body_index": 946,
-    "id": "word-c41143f3c5139fa3-p946"
+    "body_index": 775,
+    "id": "word-1d55e841b9e15dba-p775"
   },
   {
     "lesson_num": 5,
-    "question": "Câu 20: Đối với quốc gia và từng thành viên của dân tộc, yếu tố nào là thiêng liêng nhất mà nếu không có thì không có khái niệm Tổ quốc, quốc gia?",
+    "question": "Câu 20: Lãnh đạo của thư ký chuẩn bị cho một chuyến công tác quan trọng và yêu cầu thư ký chuẩn bị các tài liệu cần thiết. Thư ký sẽ làm gì đầu tiên?",
     "source_q_num": 20,
-    "source_title": "Câu 20. Đối với quốc gia và từng thành viên của dân tộc, yếu tố nào là thiêng liêng nhất mà nếu không có thì không có khái niệm Tổ quốc, quốc gia?",
+    "source_title": "Câu 20 : Lãnh đạo của thư ký chuẩn bị cho một chuyến công tác quan trọng và yêu cầu thư ký chuẩn bị các tài liệu cần thiết. Thư ký sẽ làm gì đầu tiên?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 20,
-        "body_index": 948
+        "body_index": 780
       }
     ],
     "source_content": [
       {
-        "text": "A. Lãnh thổ B. Kinh tế C. Ngôn ngữ D. Truyền thống văn hoá"
+        "text": "A. Liên hệ với các đối tác để xác nhận cuộc họp"
+      },
+      {
+        "text": "B. Lập danh sách các tài liệu cần chuẩn bị và kiểm tra lại chúng"
+      },
+      {
+        "text": "C. Đặt phòng khách sạn cho lãnh đạo"
+      },
+      {
+        "text": "D. Đặt vé máy bay cho lãnh đạo"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Lãnh thổ",
-      "B. Kinh tế",
-      "C. Ngôn ngữ",
-      "D. Truyền thống văn hoá"
+      "A. Liên hệ với các đối tác để xác nhận cuộc họp",
+      "B. Lập danh sách các tài liệu cần chuẩn bị và kiểm tra lại chúng",
+      "C. Đặt phòng khách sạn cho lãnh đạo",
+      "D. Đặt vé máy bay cho lãnh đạo"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 5",
+    "q_num": 20,
+    "body_index": 780,
+    "id": "word-1d55e841b9e15dba-p780"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 21: Tại sao thư ký văn phòng cần trao đổi với lãnh đạo để biết công việc thuộc thẩm quyền giải quyết của ai trong thời gian lãnh đạo đi công tác?",
+    "source_q_num": 21,
+    "source_title": "Câu 21: Tại sao thư ký văn phòng cần trao đổi với lãnh đạo để biết công việc thuộc thẩm quyền giải quyết của ai trong thời gian lãnh đạo đi công tác?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 21,
+        "body_index": 785
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Để đảm bảo công việc được xử lý đúng thẩm quyền và không bị bỏ sót"
+      },
+      {
+        "text": "B. Để phân công công việc cho các thành viên khác trong cơ quan"
+      },
+      {
+        "text": "C. Để chuẩn bị các tài liệu cần thiết cho công việc của lãnh đạo"
+      },
+      {
+        "text": "D. Để lên kế hoạch cho các cuộc họp tiếp theo"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Để đảm bảo công việc được xử lý đúng thẩm quyền và không bị bỏ sót",
+      "B. Để phân công công việc cho các thành viên khác trong cơ quan",
+      "C. Để chuẩn bị các tài liệu cần thiết cho công việc của lãnh đạo",
+      "D. Để lên kế hoạch cho các cuộc họp tiếp theo"
     ],
     "correct_answers": [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 5",
-    "q_num": 20,
-    "body_index": 948,
-    "id": "word-c41143f3c5139fa3-p948"
+    "q_num": 21,
+    "body_index": 785,
+    "id": "word-1d55e841b9e15dba-p785"
   },
   {
     "lesson_num": 5,
-    "question": "Câu 21: Niềm tin của con người vào các lực lượng siêu nhiên, thần thánh đến mức độ mê muội, cuồng tín, dẫn đến những hành vi cực đoan, sai lệch quá mức, trái với các giá trị văn hoá, đạo đức, pháp luật – gọi là:",
-    "source_q_num": 21,
-    "source_title": "Câu 21. Niềm tin của con người vào các lực lượng siêu nhiên, thần thánh đến mức độ mê muội, cuồng tín, dẫn đến những hành vi cực đoan, sai lệch quá mức, trái với các giá trị văn hoá, đạo đức, pháp luật – gọi là:",
+    "question": "Câu 22: Thư ký cần đảm bảo rằng lãnh đạo có thể liên lạc với văn phòng trong suốt chuyến công tác. Thư ký sẽ làm gì?",
+    "source_q_num": 22,
+    "source_title": "Câu 22: Thư ký cần đảm bảo rằng lãnh đạo có thể liên lạc với văn phòng trong suốt chuyến công tác. Thư ký sẽ làm gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 21,
-        "body_index": 950
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 22,
+        "body_index": 790
       }
     ],
     "source_content": [
       {
-        "text": "A. Ý thức thẩm mỹ B. Ý thức chính trị C. Mê tín dị đoan D. Thờ anh hùng dân tộc"
+        "text": "A. Chỉ kiểm tra hệ thống liên lạc sau khi lãnh đạo báo cáo sự cố"
+      },
+      {
+        "text": "B. Để lãnh đạo tự tìm cách liên lạc nếu có vấn đề"
+      },
+      {
+        "text": "C. Cung cấp thông tin liên lạc và hỗ trợ kỹ thuật nếu cần"
+      },
+      {
+        "text": "D. Bỏ qua việc chuẩn bị liên lạc vì lãnh đạo có thể tự xử lý"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Ý thức thẩm mỹ",
-      "B. Ý thức chính trị",
-      "C. Mê tín dị đoan",
-      "D. Thờ anh hùng dân tộc"
+      "A. Chỉ kiểm tra hệ thống liên lạc sau khi lãnh đạo báo cáo sự cố",
+      "B. Để lãnh đạo tự tìm cách liên lạc nếu có vấn đề",
+      "C. Cung cấp thông tin liên lạc và hỗ trợ kỹ thuật nếu cần",
+      "D. Bỏ qua việc chuẩn bị liên lạc vì lãnh đạo có thể tự xử lý"
     ],
     "correct_answers": [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 5",
-    "q_num": 21,
-    "body_index": 950,
-    "id": "word-c41143f3c5139fa3-p950"
-  },
-  {
-    "lesson_num": 5,
-    "question": "Câu 22: Sự sợ hãi trước những hiện tượng tự nhiên, xã hội, hay lúc ốm đau, những may rủi, bất ngờ, tâm lý muốn bình yên khi làm việc lớn… khiến con người dễ tìm đến với hình thái ý thức xã hội nào?",
-    "source_q_num": 22,
-    "source_title": "Câu 22 : Sự sợ hãi trước những hiện tượng tự nhiên, xã hội, hay lúc ốm đau, những may rủi, bất ngờ, tâm lý muốn bình yên khi làm việc lớn… khiến con người dễ tìm đến với hình thái ý thức xã hội nào?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 22,
-        "body_index": 952
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Ý thức thẩm mỹ B. Ý thức chính trị C. Ý thức pháp quyền D. Ý thức tôn giáo"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Ý thức thẩm mỹ",
-      "B. Ý thức chính trị",
-      "C. Ý thức pháp quyền",
-      "D. Ý thức tôn giáo"
-    ],
-    "correct_answers": [
-      3
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 5",
     "q_num": 22,
-    "body_index": 952,
-    "id": "word-c41143f3c5139fa3-p952"
+    "body_index": 790,
+    "id": "word-1d55e841b9e15dba-p790"
   },
   {
     "lesson_num": 5,
-    "question": "Câu 23: Vì sao Đảng, Nhà nước Việt Nam chủ trương luôn tôn trọng, bảo đảm quyền tự do tín ngưỡng tôn giáo và không tín ngưỡng tôn giáo của nhân dân?",
+    "question": "Câu 23: Sau khi lãnh đạo trở về, thư ký cần cập nhật lại lịch trình của họ. Thư ký sẽ làm gì?",
     "source_q_num": 23,
-    "source_title": "Câu 23: Vì sao Đảng, Nhà nước Việt Nam chủ trương luôn tôn trọng, bảo đảm quyền tự do tín ngưỡng tôn giáo và không tín ngưỡng tôn giáo của nhân dân?",
+    "source_title": "Câu 23: Sau khi lãnh đạo trở về, thư ký cần cập nhật lại lịch trình của họ. Thư ký sẽ làm gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 23,
-        "body_index": 954
+        "body_index": 795
       }
     ],
     "source_content": [
       {
-        "text": "A. Vì tín ngưỡng, tôn giáo có số lượng tín đồ đông B. Vì tín ngưỡng, tôn giáo là nhu cầu tinh thần của nhân dân C. Vì tín ngưỡng tôn giáo được du nhập từ nước ngoài vào D. Vì lực lượng chức sắc trong các tôn giáo có tiềm lực kinh tế lớn mạnh"
+        "text": "A. Để lãnh đạo tự cập nhật lịch trình của mình"
+      },
+      {
+        "text": "B. Cập nhật lịch trình và thông báo về các thay đổi cho các bên liên quan"
+      },
+      {
+        "text": "C. Chỉ ghi lại lịch trình mà không thông báo cho ai"
+      },
+      {
+        "text": "D. Đợi đến cuối tuần để cập nhật lịch trình"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Vì tín ngưỡng, tôn giáo có số lượng tín đồ đông",
-      "B. Vì tín ngưỡng, tôn giáo là nhu cầu tinh thần của nhân dân",
-      "C. Vì tín ngưỡng tôn giáo được du nhập từ nước ngoài vào",
-      "D. Vì lực lượng chức sắc trong các tôn giáo có tiềm lực kinh tế lớn mạnh"
+      "A. Để lãnh đạo tự cập nhật lịch trình của mình",
+      "B. Cập nhật lịch trình và thông báo về các thay đổi cho các bên liên quan",
+      "C. Chỉ ghi lại lịch trình mà không thông báo cho ai",
+      "D. Đợi đến cuối tuần để cập nhật lịch trình"
     ],
     "correct_answers": [
       1
@@ -8721,98 +6369,125 @@ window.QUIZ_QUESTIONS = [
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 5",
     "q_num": 23,
-    "body_index": 954,
-    "id": "word-c41143f3c5139fa3-p954"
+    "body_index": 795,
+    "id": "word-1d55e841b9e15dba-p795"
   },
   {
     "lesson_num": 5,
-    "question": "Câu 24: Theo chủ nghĩa Mác – Lênin, xét đến cùng nhân tố quyết định sự tồn tại và phát triển của các hình thái ý thức xã hội, trong đó có tôn giáo là gì?",
-    "source_q_num": 23,
-    "source_title": "Câu 23. Theo chủ nghĩa Mác – Lênin, xét đến cùng nhân tố quyết định sự tồn tại và phát triển của các hình thái ý thức xã hội, trong đó có tôn giáo là gì?",
+    "question": "Câu 24: Lãnh đạo cần di chuyển đến một thành phố khác và yêu cầu thư ký tìm khách sạn gần nơi họ sẽ họp. Thư ký sẽ làm gì để chọn khách sạn phù hợp?",
+    "source_q_num": 24,
+    "source_title": "Câu 24 : Lãnh đạo cần di chuyển đến một thành phố khác và yêu cầu thư ký tìm khách sạn gần nơi họ sẽ họp. Thư ký sẽ làm gì để chọn khách sạn phù hợp?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 23,
-        "body_index": 956
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 24,
+        "body_index": 800
       }
     ],
     "source_content": [
       {
-        "text": "A. Các hoạt động văn hoá B. Các hoạt động chính trị và quan hệ chính trị C. Sản xuất vật chất và các quan hệ kinh tế D. Các cuộc cách mạng"
+        "text": "A. Chọn khách sạn có nhiều tiện ích"
+      },
+      {
+        "text": "B. Chọn khách sạn có giá rẻ nhất"
+      },
+      {
+        "text": "C. Chọn khách sạn với phòng lớn nhất"
+      },
+      {
+        "text": "D. Tìm khách sạn có đánh giá cao và gần địa điểm họp"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Các hoạt động văn hoá",
-      "B. Các hoạt động chính trị và quan hệ chính trị",
-      "C. Sản xuất vật chất và các quan hệ kinh tế",
-      "D. Các cuộc cách mạng"
+      "A. Chọn khách sạn có nhiều tiện ích",
+      "B. Chọn khách sạn có giá rẻ nhất",
+      "C. Chọn khách sạn với phòng lớn nhất",
+      "D. Tìm khách sạn có đánh giá cao và gần địa điểm họp"
     ],
     "correct_answers": [
-      2
+      3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 5",
     "q_num": 24,
-    "body_index": 956,
-    "id": "word-c41143f3c5139fa3-p956"
+    "body_index": 800,
+    "id": "word-1d55e841b9e15dba-p800"
   },
   {
     "lesson_num": 5,
-    "question": "Câu 25: Tôn giáo ra đời từ những nguồn gốc cơ bản nào?",
-    "source_q_num": 24,
-    "source_title": "Câu 24. Tôn giáo ra đời từ những nguồn gốc cơ bản nào?",
+    "question": "Câu 25: Trước khi lãnh đạo đi công tác, thư ký văn phòng cần thực hiện việc gì?",
+    "source_q_num": 25,
+    "source_title": "Câu 25: Trước khi lãnh đạo đi công tác, thư ký văn phòng cần thực hiện việc gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 24,
-        "body_index": 958
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 25,
+        "body_index": 805
       }
     ],
     "source_content": [
       {
-        "text": "A. Có nguồn gốc tự nhiên, kinh tế - xã hội, tâm lý, nhận thức B. Có nguồn gốc do Thượng đế tạo ra C. Có nguồn gốc do lực lượng siêu nhiên tạo ra D. Có nguồn gốc do chủ nghĩa tư bản tạo ra"
+        "text": "A. Lên kế hoạch cho các cuộc họp trong thời gian lãnh đạo đi công tác"
+      },
+      {
+        "text": "B. Gửi tất cả các công văn và giấy tờ cần thiết cho lãnh đạo để giải quyết hoặc ký"
+      },
+      {
+        "text": "C. Chuẩn bị tài liệu chuyên môn cho chuyến công tác"
+      },
+      {
+        "text": "D. Đặt vé máy bay và khách sạn cho lãnh đạo"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Có nguồn gốc tự nhiên, kinh tế - xã hội, tâm lý, nhận thức",
-      "B. Có nguồn gốc do Thượng đế tạo ra",
-      "C. Có nguồn gốc do lực lượng siêu nhiên tạo ra",
-      "D. Có nguồn gốc do chủ nghĩa tư bản tạo ra"
+      "A. Lên kế hoạch cho các cuộc họp trong thời gian lãnh đạo đi công tác",
+      "B. Gửi tất cả các công văn và giấy tờ cần thiết cho lãnh đạo để giải quyết hoặc ký",
+      "C. Chuẩn bị tài liệu chuyên môn cho chuyến công tác",
+      "D. Đặt vé máy bay và khách sạn cho lãnh đạo"
     ],
     "correct_answers": [
-      0
+      1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 5",
     "q_num": 25,
-    "body_index": 958,
-    "id": "word-c41143f3c5139fa3-p958"
+    "body_index": 805,
+    "id": "word-1d55e841b9e15dba-p805"
   },
   {
     "lesson_num": 5,
-    "question": "Câu 26: Đâu là sự giống nhau giữa tôn giáo và tín ngưỡng?",
-    "source_q_num": 25,
-    "source_title": "Câu 25. Đâu là sự giống nhau giữa tôn giáo và tín ngưỡng?",
+    "question": "Câu 26: Trong khi lãnh đạo đang đi công tác, thư ký cần cập nhật lịch trình của họ. Thư ký nên làm gì?",
+    "source_q_num": 26,
+    "source_title": "Câu 26 :Trong khi lãnh đạo đang đi công tác, thư ký cần cập nhật lịch trình của họ. Thư ký nên làm gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 25,
-        "body_index": 960
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 26,
+        "body_index": 810
       }
     ],
     "source_content": [
       {
-        "text": "A. Đều có các giáo sĩ B. Đều có hệ thống kinh điển C. Đều có niềm tin vào đấng siêu nhiên D. Đều có giáo chủ"
+        "text": "A. Thay đổi lịch trình mà không thông báo cho lãnh đạo"
+      },
+      {
+        "text": "B. Chờ lãnh đạo quay lại để cập nhật lịch trình"
+      },
+      {
+        "text": "C. Gửi thông báo về lịch trình cập nhật cho tất cả các bên liên quan"
+      },
+      {
+        "text": "D. Ghi lại mọi thay đổi vào sổ tay cá nhân"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Đều có các giáo sĩ",
-      "B. Đều có hệ thống kinh điển",
-      "C. Đều có niềm tin vào đấng siêu nhiên",
-      "D. Đều có giáo chủ"
+      "A. Thay đổi lịch trình mà không thông báo cho lãnh đạo",
+      "B. Chờ lãnh đạo quay lại để cập nhật lịch trình",
+      "C. Gửi thông báo về lịch trình cập nhật cho tất cả các bên liên quan",
+      "D. Ghi lại mọi thay đổi vào sổ tay cá nhân"
     ],
     "correct_answers": [
       2
@@ -8820,2776 +6495,5122 @@ window.QUIZ_QUESTIONS = [
     "instruction": "Chọn 1 đáp án đúng nhất",
     "lesson": "Bài 5",
     "q_num": 26,
-    "body_index": 960,
-    "id": "word-c41143f3c5139fa3-p960"
+    "body_index": 810,
+    "id": "word-1d55e841b9e15dba-p810"
   },
   {
     "lesson_num": 5,
-    "question": "Câu 27: Tại sao các tôn giáo ở Việt Nam luôn đồng hành cùng dân tộc và có nhiều đóng góp quan trọng trong quá trình xây dựng và bảo vệ đất nước?",
-    "source_q_num": 26,
-    "source_title": "Câu 26. Tại sao các tôn giáo ở Việt Nam luôn đồng hành cùng dân tộc và có nhiều đóng góp quan trọng trong quá trình xây dựng và bảo vệ đất nước?",
+    "question": "Câu 27: Trong thời gian lãnh đạo đi công tác, thư ký cần theo dõi kết quả công việc và báo cáo. Công việc quan trọng nhất là gì?",
+    "source_q_num": 27,
+    "source_title": "Câu 27: Trong thời gian lãnh đạo đi công tác, thư ký cần theo dõi kết quả công việc và báo cáo. Công việc quan trọng nhất là gì?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 27,
+        "body_index": 815
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Thu thập và báo cáo kết quả công việc cho lãnh đạo theo định kỳ"
+      },
+      {
+        "text": "B. Để báo cáo lại cho lãnh đạo khi họ trở về"
+      },
+      {
+        "text": "C. Chỉ gửi báo cáo cuối cùng khi lãnh đạo yêu cầu"
+      },
+      {
+        "text": "D. Ghi chép kết quả công việc mà không cần báo cáo"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Thu thập và báo cáo kết quả công việc cho lãnh đạo theo định kỳ",
+      "B. Để báo cáo lại cho lãnh đạo khi họ trở về",
+      "C. Chỉ gửi báo cáo cuối cùng khi lãnh đạo yêu cầu",
+      "D. Ghi chép kết quả công việc mà không cần báo cáo"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 5",
+    "q_num": 27,
+    "body_index": 815,
+    "id": "word-1d55e841b9e15dba-p815"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 28: Lãnh đạo yêu cầu thư ký chuẩn bị tài liệu cho một cuộc họp quốc tế. Thư ký cần chuẩn bị những gì để đảm bảo tài liệu có thể được hiểu rõ?",
+    "source_q_num": 28,
+    "source_title": "Câu 28: Lãnh đạo yêu cầu thư ký chuẩn bị tài liệu cho một cuộc họp quốc tế. Thư ký cần chuẩn bị những gì để đảm bảo tài liệu có thể được hiểu rõ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 28,
+        "body_index": 820
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Cung cấp tài liệu bằng cách gửi bản in qua đường bưu điện"
+      },
+      {
+        "text": "B. Soạn một bản sao của tài liệu và gửi qua email"
+      },
+      {
+        "text": "C. Dịch tài liệu sang ngôn ngữ của các đối tác và kiểm tra tính chính xác"
+      },
+      {
+        "text": "D. Chỉ gửi tài liệu bằng tiếng Việt và yêu cầu đối tác tự dịch"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Cung cấp tài liệu bằng cách gửi bản in qua đường bưu điện",
+      "B. Soạn một bản sao của tài liệu và gửi qua email",
+      "C. Dịch tài liệu sang ngôn ngữ của các đối tác và kiểm tra tính chính xác",
+      "D. Chỉ gửi tài liệu bằng tiếng Việt và yêu cầu đối tác tự dịch"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 5",
+    "q_num": 28,
+    "body_index": 820,
+    "id": "word-1d55e841b9e15dba-p820"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 29: Tại sao việc chuẩn bị đầy đủ các giấy tờ hành chính là quan trọng trong việc tổ chức chuyến công tác?",
+    "source_q_num": 29,
+    "source_title": "Câu 29: Tại sao việc chuẩn bị đầy đủ các giấy tờ hành chính là quan trọng trong việc tổ chức chuyến công tác?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 29,
+        "body_index": 825
+      }
+    ],
+    "source_content": [
+      {
+        "text": "Để tiết kiệm thời gian trong việc xin visa"
+      },
+      {
+        "text": "Để giảm chi phí cho chuyến công tác"
+      },
+      {
+        "text": "Để đảm bảo các thành viên trong đoàn có đủ giấy tờ cần thiết khi cần thiết"
+      },
+      {
+        "text": "Để đảm bảo các chuyến đi công tác diễn ra đúng lịch trình và hợp pháp"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Để tiết kiệm thời gian trong việc xin visa",
+      "B. Để giảm chi phí cho chuyến công tác",
+      "C. Để đảm bảo các thành viên trong đoàn có đủ giấy tờ cần thiết khi cần thiết",
+      "D. Để đảm bảo các chuyến đi công tác diễn ra đúng lịch trình và hợp pháp"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 5",
+    "q_num": 29,
+    "body_index": 825,
+    "id": "word-1d55e841b9e15dba-p825"
+  },
+  {
+    "lesson_num": 5,
+    "question": "Câu 30: Tại sao thư ký văn phòng cần báo cáo với thủ trưởng về những vấn đề xảy ra trong thời gian thủ trưởng đi công tác?",
+    "source_q_num": 30,
+    "source_title": "Câu 30: Tại sao thư ký văn phòng cần báo cáo với thủ trưởng về những vấn đề xảy ra trong thời gian thủ trưởng đi công tác?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 30,
+        "body_index": 830
+      }
+    ],
+    "source_content": [
+      {
+        "text": "Để giải thích lý do các công việc chưa được hoàn thành"
+      },
+      {
+        "text": "Để phân tích hiệu quả của chuyến công tác"
+      },
+      {
+        "text": "Để đảm bảo rằng thủ trưởng nắm bắt được tất cả các thông tin quan trọng và có thể đưa ra quyết định kịp thời"
+      },
+      {
+        "text": "Để chuẩn bị cho các chuyến công tác tiếp theo"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Để giải thích lý do các công việc chưa được hoàn thành",
+      "B. Để phân tích hiệu quả của chuyến công tác",
+      "C. Để đảm bảo rằng thủ trưởng nắm bắt được tất cả các thông tin quan trọng và có thể đưa ra quyết định kịp thời",
+      "D. Để chuẩn bị cho các chuyến công tác tiếp theo"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 5",
+    "q_num": 30,
+    "body_index": 830,
+    "id": "word-1d55e841b9e15dba-p830"
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 1: Giao tiếp hành chính là gì?",
+    "source_q_num": 1,
+    "source_title": "Câu 1: Giao tiếp hành chính là gì?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 1,
+        "body_index": 836
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Là việc tổ chức các cuộc họp và sự kiện."
+      },
+      {
+        "text": "B. Là quá trình thực hiện các công việc hành chính."
+      },
+      {
+        "text": "C. Là quá trình trao đổi thông tin, ý kiến và quan điểm giữa các cá nhân trong tổ chức."
+      },
+      {
+        "text": "D. Là hoạt động tiếp khách và xử lý văn bản."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Là việc tổ chức các cuộc họp và sự kiện.",
+      "B. Là quá trình thực hiện các công việc hành chính.",
+      "C. Là quá trình trao đổi thông tin, ý kiến và quan điểm giữa các cá nhân trong tổ chức.",
+      "D. Là hoạt động tiếp khách và xử lý văn bản."
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 6",
+    "q_num": 1,
+    "body_index": 836,
+    "id": "word-1d55e841b9e15dba-p836"
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 2: Tại sao việc lắng nghe chủ động lại quan trọng trong giao tiếp hành chính?",
+    "source_q_num": 2,
+    "source_title": "Câu 2: Tại sao việc lắng nghe chủ động lại quan trọng trong giao tiếp hành chính?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 2,
+        "body_index": 841
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Giúp người nói cảm thấy được tôn trọng"
+      },
+      {
+        "text": "B. Giúp nắm bắt thông tin chính xác hơn"
+      },
+      {
+        "text": "C. Giúp đưa ra phản hồi phù hợp"
+      },
+      {
+        "text": "D. Tất cả các phương án trên"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Giúp người nói cảm thấy được tôn trọng",
+      "B. Giúp nắm bắt thông tin chính xác hơn",
+      "C. Giúp đưa ra phản hồi phù hợp",
+      "D. Tất cả các phương án trên"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 6",
+    "q_num": 2,
+    "body_index": 841,
+    "id": "word-1d55e841b9e15dba-p841"
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 3: Khi nào cần sử dụng kỹ năng giao tiếp phi ngôn ngữ?",
+    "source_q_num": 3,
+    "source_title": "Câu 3: Khi nào cần sử dụng kỹ năng giao tiếp phi ngôn ngữ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 3,
+        "body_index": 846
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Khi muốn truyền đạt thông điệp bản thân"
+      },
+      {
+        "text": "B. Khi cần thể hiện sự tôn trọng và quan tâm"
+      },
+      {
+        "text": "C. Cả hai phương án A và C"
+      },
+      {
+        "text": "D. Cả hai phương án A và B"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Khi muốn truyền đạt thông điệp bản thân",
+      "B. Khi cần thể hiện sự tôn trọng và quan tâm",
+      "C. Cả hai phương án A và C",
+      "D. Cả hai phương án A và B"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 6",
+    "q_num": 3,
+    "body_index": 846,
+    "id": "word-1d55e841b9e15dba-p846"
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 4: Vai trò của giao tiếp hành chính trong việc xây dựng mối quan hệ công việc là gì?",
+    "source_q_num": 4,
+    "source_title": "Câu 4: Vai trò của giao tiếp hành chính trong việc xây dựng mối quan hệ công việc là gì?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 4,
+        "body_index": 851
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Xây dựng lòng tin và sự hợp tác"
+      },
+      {
+        "text": "B. Giúp giải quyết mâu thuẫn"
+      },
+      {
+        "text": "C. Tăng cường sự hiểu biết lẫn nhau"
+      },
+      {
+        "text": "D. Tất cả các phương án trên"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Xây dựng lòng tin và sự hợp tác",
+      "B. Giúp giải quyết mâu thuẫn",
+      "C. Tăng cường sự hiểu biết lẫn nhau",
+      "D. Tất cả các phương án trên"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 6",
+    "q_num": 4,
+    "body_index": 851,
+    "id": "word-1d55e841b9e15dba-p851"
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 5: Kỹ năng nào là quan trọng khi thư ký văn phòng trình bày ý kiến trong cuộc họp để thông điệp được rõ ràng?",
+    "source_q_num": 5,
+    "source_title": "Câu 5: Kỹ năng nào là quan trọng khi thư ký văn phòng trình bày ý kiến trong cuộc họp để thông điệp được rõ ràng?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 5,
+        "body_index": 856
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Sự nhiệt tình tham gia"
+      },
+      {
+        "text": "B. Sự rõ ràng và ngắn gọn trong ngôn từ"
+      },
+      {
+        "text": "C. Kỹ năng soạn thảo văn bản"
+      },
+      {
+        "text": "D. Khả năng lắng nghe tích cực"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Sự nhiệt tình tham gia",
+      "B. Sự rõ ràng và ngắn gọn trong ngôn từ",
+      "C. Kỹ năng soạn thảo văn bản",
+      "D. Khả năng lắng nghe tích cực"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 6",
+    "q_num": 5,
+    "body_index": 856,
+    "id": "word-1d55e841b9e15dba-p856"
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 6: Khi viết báo cáo công việc, thư ký văn phòng nên chú trọng vào điều gì để báo cáo hiệu quả?",
+    "source_q_num": 6,
+    "source_title": "Câu 6: Khi viết báo cáo công việc, thư ký văn phòng nên chú trọng vào điều gì để báo cáo hiệu quả?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 6,
+        "body_index": 861
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Đưa ra nhận xét chủ quan về các vấn đề"
+      },
+      {
+        "text": "B. Sử dụng cấu trúc báo cáo rõ ràng và thông tin chính xác"
+      },
+      {
+        "text": "C. Chỉ đưa ra các số liệu mà không giải thích"
+      },
+      {
+        "text": "D. Trình bày báo cáo một cách chi tiết và dài dòng"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Đưa ra nhận xét chủ quan về các vấn đề",
+      "B. Sử dụng cấu trúc báo cáo rõ ràng và thông tin chính xác",
+      "C. Chỉ đưa ra các số liệu mà không giải thích",
+      "D. Trình bày báo cáo một cách chi tiết và dài dòng"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 6",
+    "q_num": 6,
+    "body_index": 861,
+    "id": "word-1d55e841b9e15dba-p861"
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 7: Khi thư ký nhận được yêu cầu từ một phòng ban trước và một yêu cầu tương tự từ một đối tác bên ngoài, thư ký nên:",
+    "source_q_num": 7,
+    "source_title": "Câu 7: Khi thư ký nhận được yêu cầu từ một phòng ban trước và một yêu cầu tương tự từ một đối tác bên ngoài, thư ký nên:",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 7,
+        "body_index": 866
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Thực hiện yêu cầu của phòng ban trước vì họ là nội bộ"
+      },
+      {
+        "text": "B. Xem xét mức độ ưu tiên và sự quan trọng của từng yêu cầu, sau đó đưa ra quyết định công bằng"
+      },
+      {
+        "text": "C. Thực hiện yêu cầu của đối tác trước vì họ là khách hàng"
+      },
+      {
+        "text": "D. Đẩy yêu cầu cho người khác mà không xem xét"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Thực hiện yêu cầu của phòng ban trước vì họ là nội bộ",
+      "B. Xem xét mức độ ưu tiên và sự quan trọng của từng yêu cầu, sau đó đưa ra quyết định công bằng",
+      "C. Thực hiện yêu cầu của đối tác trước vì họ là khách hàng",
+      "D. Đẩy yêu cầu cho người khác mà không xem xét"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 6",
+    "q_num": 7,
+    "body_index": 866,
+    "id": "word-1d55e841b9e15dba-p866"
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 8: Khi tiếp nhận một cuộc gọi từ đối tác, thư ký nên?",
+    "source_q_num": 8,
+    "source_title": "Câu 8: Khi tiếp nhận một cuộc gọi từ đối tác, thư ký nên?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 8,
+        "body_index": 871
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Chuyển máy ngay cho người phụ trách"
+      },
+      {
+        "text": "B. Trả lời ngay mà không cần ghi chép lại"
+      },
+      {
+        "text": "C. Ghi chép lại nội dung chính của cuộc gọi"
+      },
+      {
+        "text": "D. Chỉ ghi lại khi đối tác yêu cầu"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Chuyển máy ngay cho người phụ trách",
+      "B. Trả lời ngay mà không cần ghi chép lại",
+      "C. Ghi chép lại nội dung chính của cuộc gọi",
+      "D. Chỉ ghi lại khi đối tác yêu cầu"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 6",
+    "q_num": 8,
+    "body_index": 871,
+    "id": "word-1d55e841b9e15dba-p871"
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 9: Nguyên tắc nào dưới đây là cần thiết khi thư ký giao tiếp bằng email?",
+    "source_q_num": 9,
+    "source_title": "Câu 9: Nguyên tắc nào dưới đây là cần thiết khi thư ký giao tiếp bằng email?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 9,
+        "body_index": 876
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Sử dụng email cá nhân để gửi thư công việc"
+      },
+      {
+        "text": "B. Gửi email mà không cần chào hỏi"
+      },
+      {
+        "text": "C. Kiểm tra kỹ nội dung và hình thức trước khi gửi"
+      },
+      {
+        "text": "D. Gửi email ngay lập tức mà không kiểm tra lại"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Sử dụng email cá nhân để gửi thư công việc",
+      "B. Gửi email mà không cần chào hỏi",
+      "C. Kiểm tra kỹ nội dung và hình thức trước khi gửi",
+      "D. Gửi email ngay lập tức mà không kiểm tra lại"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 6",
+    "q_num": 9,
+    "body_index": 876,
+    "id": "word-1d55e841b9e15dba-p876"
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 10: Để duy trì sự chuyên nghiệp trong giao tiếp hành chính, thư ký nên?",
+    "source_q_num": 10,
+    "source_title": "Câu 10: Để duy trì sự chuyên nghiệp trong giao tiếp hành chính, thư ký nên?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 10,
+        "body_index": 881
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Chỉ trả lời những câu hỏi mà mình biết"
+      },
+      {
+        "text": "B. Từ chối trả lời nếu không chắc chắn"
+      },
+      {
+        "text": "C. Tìm hiểu và xác minh thông tin trước khi trả lời"
+      },
+      {
+        "text": "D. Trả lời ngay cả khi chưa hiểu rõ"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Chỉ trả lời những câu hỏi mà mình biết",
+      "B. Từ chối trả lời nếu không chắc chắn",
+      "C. Tìm hiểu và xác minh thông tin trước khi trả lời",
+      "D. Trả lời ngay cả khi chưa hiểu rõ"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 6",
+    "q_num": 10,
+    "body_index": 881,
+    "id": "word-1d55e841b9e15dba-p881"
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 11: Trong tình huống có nhiều người cùng nói trong một cuộc họp, thư ký nên?",
+    "source_q_num": 11,
+    "source_title": "Câu 11: Trong tình huống có nhiều người cùng nói trong một cuộc họp, thư ký nên?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 11,
+        "body_index": 886
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Lắng nghe tất cả các bên và ghi chú lại các ý kiến khác nhau"
+      },
+      {
+        "text": "B. Đợi một người kết thúc và hỏi lại tất cả các điểm từ người đó"
+      },
+      {
+        "text": "C. Chọn nghe một người duy nhất và bỏ qua những người khác"
+      },
+      {
+        "text": "D. Ngừng ghi chép và chỉ nghe một người nói"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Lắng nghe tất cả các bên và ghi chú lại các ý kiến khác nhau",
+      "B. Đợi một người kết thúc và hỏi lại tất cả các điểm từ người đó",
+      "C. Chọn nghe một người duy nhất và bỏ qua những người khác",
+      "D. Ngừng ghi chép và chỉ nghe một người nói"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 6",
+    "q_num": 11,
+    "body_index": 886,
+    "id": "word-1d55e841b9e15dba-p886"
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 12: Khi một người nói quá nhanh hoặc không rõ ràng, thư ký nên?",
+    "source_q_num": 12,
+    "source_title": "Câu 12: Khi một người nói quá nhanh hoặc không rõ ràng, thư ký nên?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 12,
+        "body_index": 891
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Yêu cầu người đó nói chậm lại hoặc làm rõ điểm không rõ"
+      },
+      {
+        "text": "B. Bỏ qua các phần không rõ và ghi chép những gì nghe được"
+      },
+      {
+        "text": "C. Đợi họ kết thúc rồi tự suy đoán ý nghĩa"
+      },
+      {
+        "text": "D. Ngắt lời để yêu cầu người đó cải thiện cách nói"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Yêu cầu người đó nói chậm lại hoặc làm rõ điểm không rõ",
+      "B. Bỏ qua các phần không rõ và ghi chép những gì nghe được",
+      "C. Đợi họ kết thúc rồi tự suy đoán ý nghĩa",
+      "D. Ngắt lời để yêu cầu người đó cải thiện cách nói"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 6",
+    "q_num": 12,
+    "body_index": 891,
+    "id": "word-1d55e841b9e15dba-p891"
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 13: Khi trình bày một báo cáo trong cuộc họp, thư ký nên?",
+    "source_q_num": 13,
+    "source_title": "Câu 13: Khi trình bày một báo cáo trong cuộc họp, thư ký nên?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 13,
+        "body_index": 896
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Nói rõ ràng và mạch lạc, sử dụng các điểm chính và dữ liệu hỗ trợ"
+      },
+      {
+        "text": "B. Chỉ đọc nguyên văn báo cáo mà không giải thích thêm"
+      },
+      {
+        "text": "C. Nói nhanh để tiết kiệm thời gian"
+      },
+      {
+        "text": "D. Dừng lại khi có người hỏi và không tiếp tục trình bày"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Nói rõ ràng và mạch lạc, sử dụng các điểm chính và dữ liệu hỗ trợ",
+      "B. Chỉ đọc nguyên văn báo cáo mà không giải thích thêm",
+      "C. Nói nhanh để tiết kiệm thời gian",
+      "D. Dừng lại khi có người hỏi và không tiếp tục trình bày"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 6",
+    "q_num": 13,
+    "body_index": 896,
+    "id": "word-1d55e841b9e15dba-p896"
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 14: Khi trả lời điện thoại cho sếp, thư ký nên?",
+    "source_q_num": 14,
+    "source_title": "Câu 14: Khi trả lời điện thoại cho sếp, thư ký nên?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 14,
+        "body_index": 901
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Trả lời ngay mà không cần kiểm tra thông tin"
+      },
+      {
+        "text": "B. Nói một cách rõ ràng, nhẹ nhàng và cung cấp thông tin đầy đủ"
+      },
+      {
+        "text": "C. Chỉ nói những gì sếp đã yêu cầu và không hỏi thêm"
+      },
+      {
+        "text": "D. Để sếp tự trả lời cuộc gọi"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Trả lời ngay mà không cần kiểm tra thông tin",
+      "B. Nói một cách rõ ràng, nhẹ nhàng và cung cấp thông tin đầy đủ",
+      "C. Chỉ nói những gì sếp đã yêu cầu và không hỏi thêm",
+      "D. Để sếp tự trả lời cuộc gọi"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 6",
+    "q_num": 14,
+    "body_index": 901,
+    "id": "word-1d55e841b9e15dba-p901"
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 15: Khi gặp một khách hàng khó tính, thư ký nên?",
+    "source_q_num": 15,
+    "source_title": "Câu 15: Khi gặp một khách hàng khó tính, thư ký nên?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 15,
+        "body_index": 906
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Đáp trả bằng cách cứng nhắc và giữ khoảng cách"
+      },
+      {
+        "text": "B. Đối thoại một cách kiên nhẫn và thể hiện sự đồng cảm, tìm giải pháp khả thi"
+      },
+      {
+        "text": "C. Lần lữa không trả lời và chờ khách hàng bỏ cuộc"
+      },
+      {
+        "text": "D. Tránh trao đổi và chuyển khách hàng sang người khác"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Đáp trả bằng cách cứng nhắc và giữ khoảng cách",
+      "B. Đối thoại một cách kiên nhẫn và thể hiện sự đồng cảm, tìm giải pháp khả thi",
+      "C. Lần lữa không trả lời và chờ khách hàng bỏ cuộc",
+      "D. Tránh trao đổi và chuyển khách hàng sang người khác"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 6",
+    "q_num": 15,
+    "body_index": 906,
+    "id": "word-1d55e841b9e15dba-p906"
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 16: Nguyên tắc giao tiếp hành chính nào sau đây đảm bảo thông tin được truyền đạt rõ ràng và chính xác?",
+    "source_q_num": 16,
+    "source_title": "Câu 16: Nguyên tắc giao tiếp hành chính nào sau đây đảm bảo thông tin được truyền đạt rõ ràng và chính xác?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 16,
+        "body_index": 911
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Nguyên tắc lịch sự"
+      },
+      {
+        "text": "B. Nguyên tắc trung thực"
+      },
+      {
+        "text": "C. Nguyên tắc chính xác"
+      },
+      {
+        "text": "D. Nguyên tắc thống nhất"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Nguyên tắc lịch sự",
+      "B. Nguyên tắc trung thực",
+      "C. Nguyên tắc chính xác",
+      "D. Nguyên tắc thống nhất"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 6",
+    "q_num": 16,
+    "body_index": 911,
+    "id": "word-1d55e841b9e15dba-p911"
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 17: Trong giao tiếp hành chính, điều gì giúp thư ký văn phòng duy trì mối quan hệ tốt với đồng nghiệp?",
+    "source_q_num": 17,
+    "source_title": "Câu 17:Trong giao tiếp hành chính, điều gì giúp thư ký văn phòng duy trì mối quan hệ tốt với đồng nghiệp?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 17,
+        "body_index": 916
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Cố gắng"
+      },
+      {
+        "text": "B. Luôn hoàn thành công việc của mình"
+      },
+      {
+        "text": "C. Chăm chỉ"
+      },
+      {
+        "text": "D. Sự tôn trọng lẫn nhau"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Cố gắng",
+      "B. Luôn hoàn thành công việc của mình",
+      "C. Chăm chỉ",
+      "D. Sự tôn trọng lẫn nhau"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 6",
+    "q_num": 17,
+    "body_index": 916,
+    "id": "word-1d55e841b9e15dba-p916"
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 18: Khi giải quyết xung đột trong môi trường làm việc, phương pháp nào là tốt nhất để đạt được kết quả tích cực?",
+    "source_q_num": 18,
+    "source_title": "Câu 18: Khi giải quyết xung đột trong môi trường làm việc, phương pháp nào là tốt nhất để đạt được kết quả tích cực?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 18,
+        "body_index": 921
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Chỉ tập trung vào lỗi của các bên liên quan"
+      },
+      {
+        "text": "B. Đưa ra quyết định một cách tự ý"
+      },
+      {
+        "text": "C. Đàm phán và tìm kiếm giải pháp cùng có lợi"
+      },
+      {
+        "text": "D. Tránh mặt hoặc lờ đi vấn đề"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Chỉ tập trung vào lỗi của các bên liên quan",
+      "B. Đưa ra quyết định một cách tự ý",
+      "C. Đàm phán và tìm kiếm giải pháp cùng có lợi",
+      "D. Tránh mặt hoặc lờ đi vấn đề"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 6",
+    "q_num": 18,
+    "body_index": 921,
+    "id": "word-1d55e841b9e15dba-p921"
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 19: Để giải quyết khiếu nại của khách hàng hiệu quả, thư ký văn phòng cần có kỹ năng nào?",
+    "source_q_num": 19,
+    "source_title": "Câu 19: Để giải quyết khiếu nại của khách hàng hiệu quả, thư ký văn phòng cần có kỹ năng nào?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 19,
+        "body_index": 926
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Kỹ năng giải quyết vấn đề"
+      },
+      {
+        "text": "B. Kỹ năng soạn thảo"
+      },
+      {
+        "text": "C. Kỹ năng tin học văn phòng"
+      },
+      {
+        "text": "D. Kỹ năng làm việc nhóm"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Kỹ năng giải quyết vấn đề",
+      "B. Kỹ năng soạn thảo",
+      "C. Kỹ năng tin học văn phòng",
+      "D. Kỹ năng làm việc nhóm"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 6",
+    "q_num": 19,
+    "body_index": 926,
+    "id": "word-1d55e841b9e15dba-p926"
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 20: Nếu có sự mâu thuẫn giữa yêu cầu của sếp và yêu cầu của một khách hàng quan trọng, thư ký nên:",
+    "source_q_num": 20,
+    "source_title": "Câu 20: Nếu có sự mâu thuẫn giữa yêu cầu của sếp và yêu cầu của một khách hàng quan trọng, thư ký nên:",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 20,
+        "body_index": 931
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Tuân theo yêu cầu của sếp vì đó là mệnh lệnh cao nhất"
+      },
+      {
+        "text": "B. Thay đổi yêu cầu của khách hàng để phù hợp với yêu cầu của sếp"
+      },
+      {
+        "text": "C. Đáp ứng yêu cầu của khách hàng để duy trì mối quan hệ"
+      },
+      {
+        "text": "D. Đưa ra một giải pháp phối hợp để đáp ứng cả hai yêu cầu nếu có thể và thông báo cho các bên về tình hình"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Tuân theo yêu cầu của sếp vì đó là mệnh lệnh cao nhất",
+      "B. Thay đổi yêu cầu của khách hàng để phù hợp với yêu cầu của sếp",
+      "C. Đáp ứng yêu cầu của khách hàng để duy trì mối quan hệ",
+      "D. Đưa ra một giải pháp phối hợp để đáp ứng cả hai yêu cầu nếu có thể và thông báo cho các bên về tình hình"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 6",
+    "q_num": 20,
+    "body_index": 931,
+    "id": "word-1d55e841b9e15dba-p931"
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 21: Khi gửi tài liệu qua email cho đối tác, thư ký cần phải?",
+    "source_q_num": 21,
+    "source_title": "Câu 21: Khi gửi tài liệu qua email cho đối tác, thư ký cần phải?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 21,
+        "body_index": 936
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Gửi ngay khi nhận được tài liệu mà không cần xem lại"
+      },
+      {
+        "text": "B. Kiểm tra nội dung tài liệu và đảm bảo đính kèm đúng file"
+      },
+      {
+        "text": "C. Chỉ gửi tài liệu khi đối tác yêu cầu"
+      },
+      {
+        "text": "D. Chỉ gửi nội dung chính mà không cần đính kèm file"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Gửi ngay khi nhận được tài liệu mà không cần xem lại",
+      "B. Kiểm tra nội dung tài liệu và đảm bảo đính kèm đúng file",
+      "C. Chỉ gửi tài liệu khi đối tác yêu cầu",
+      "D. Chỉ gửi nội dung chính mà không cần đính kèm file"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 6",
+    "q_num": 21,
+    "body_index": 936,
+    "id": "word-1d55e841b9e15dba-p936"
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 22: Trong một cuộc họp nhóm, nếu có một ý kiến trái ngược với quan điểm của bạn, thư ký nên?",
+    "source_q_num": 22,
+    "source_title": "Câu 22: Trong một cuộc họp nhóm, nếu có một ý kiến trái ngược với quan điểm của bạn, thư ký nên?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 22,
+        "body_index": 941
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Thay đổi ý kiến của mình mà không hiểu rõ lý do"
+      },
+      {
+        "text": "B. Bỏ qua ý kiến đó và tiếp tục với quan điểm của mình"
+      },
+      {
+        "text": "C. Đưa ra ý kiến phản bác ngay lập tức mà không cần lắng nghe"
+      },
+      {
+        "text": "D. Nghe và cân nhắc ý kiến đó trước khi đưa ra phản hồi hoặc quyết định"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Thay đổi ý kiến của mình mà không hiểu rõ lý do",
+      "B. Bỏ qua ý kiến đó và tiếp tục với quan điểm của mình",
+      "C. Đưa ra ý kiến phản bác ngay lập tức mà không cần lắng nghe",
+      "D. Nghe và cân nhắc ý kiến đó trước khi đưa ra phản hồi hoặc quyết định"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 6",
+    "q_num": 22,
+    "body_index": 941,
+    "id": "word-1d55e841b9e15dba-p941"
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 23: Khi giao tiếp với khách hàng qua điện thoại, điều gì quan trọng nhất để thư ký văn phòng tạo ấn tượng tốt?",
+    "source_q_num": 23,
+    "source_title": "Câu 23: Khi giao tiếp với khách hàng qua điện thoại, điều gì quan trọng nhất để thư ký văn phòng tạo ấn tượng tốt?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 23,
+        "body_index": 947
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Nói nhanh và cung cấp nhiều thông tin"
+      },
+      {
+        "text": "B. Đưa ra lời khuyên ngay lập tức"
+      },
+      {
+        "text": "C. Sử dụng giọng điệu thân thiện và lắng nghe khách hàng"
+      },
+      {
+        "text": "D. Chỉ tập trung vào việc hoàn thành cuộc gọi"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Nói nhanh và cung cấp nhiều thông tin",
+      "B. Đưa ra lời khuyên ngay lập tức",
+      "C. Sử dụng giọng điệu thân thiện và lắng nghe khách hàng",
+      "D. Chỉ tập trung vào việc hoàn thành cuộc gọi"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 6",
+    "q_num": 23,
+    "body_index": 947,
+    "id": "word-1d55e841b9e15dba-p947"
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 24: Khi thư ký nhận được yêu cầu từ một phòng ban và một yêu cầu tương tự từ một đối tác bên ngoài, thư ký nên:",
+    "source_q_num": 24,
+    "source_title": "Câu 24: Khi thư ký nhận được yêu cầu từ một phòng ban và một yêu cầu tương tự từ một đối tác bên ngoài, thư ký nên:",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 24,
+        "body_index": 952
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Xem xét mức độ ưu tiên và sự quan trọng của từng yêu cầu, sau đó đưa ra quyết định công bằng"
+      },
+      {
+        "text": "B. Thực hiện yêu cầu của phòng ban trước vì họ là nội bộ"
+      },
+      {
+        "text": "C. Thực hiện yêu cầu của đối tác trước vì họ là khách hàng"
+      },
+      {
+        "text": "D. Đẩy yêu cầu cho người khác mà không xem xét"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Xem xét mức độ ưu tiên và sự quan trọng của từng yêu cầu, sau đó đưa ra quyết định công bằng",
+      "B. Thực hiện yêu cầu của phòng ban trước vì họ là nội bộ",
+      "C. Thực hiện yêu cầu của đối tác trước vì họ là khách hàng",
+      "D. Đẩy yêu cầu cho người khác mà không xem xét"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 6",
+    "q_num": 24,
+    "body_index": 952,
+    "id": "word-1d55e841b9e15dba-p952"
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 25: Khi tổ chức một cuộc họp với nhiều bên tham gia, thư ký cần:",
+    "source_q_num": 25,
+    "source_title": "Câu 25: Khi tổ chức một cuộc họp với nhiều bên tham gia, thư ký cần:",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 25,
+        "body_index": 957
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Tổ chức cuộc họp theo ý kiến của cá nhân mình để đảm bảo sự hiệu quả"
+      },
+      {
+        "text": "B. Đảm bảo rằng ý kiến của mỗi bên đều được lắng nghe và cân nhắc"
+      },
+      {
+        "text": "C. Chỉ cần lắng nghe chỉ các bên có mối quan hệ lâu dài với công ty"
+      },
+      {
+        "text": "D. Chỉ tập trung vào ý kiến của bên có quyền lực cao hơn"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Tổ chức cuộc họp theo ý kiến của cá nhân mình để đảm bảo sự hiệu quả",
+      "B. Đảm bảo rằng ý kiến của mỗi bên đều được lắng nghe và cân nhắc",
+      "C. Chỉ cần lắng nghe chỉ các bên có mối quan hệ lâu dài với công ty",
+      "D. Chỉ tập trung vào ý kiến của bên có quyền lực cao hơn"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 6",
+    "q_num": 25,
+    "body_index": 957,
+    "id": "word-1d55e841b9e15dba-p957"
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 26: Một thư ký cần phải làm gì để đảm bảo thông tin giao tiếp là chính xác?",
+    "source_q_num": 26,
+    "source_title": "Câu 26: Một thư ký cần phải làm gì để đảm bảo thông tin giao tiếp là chính xác?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 26,
         "body_index": 962
       }
     ],
     "source_content": [
       {
-        "text": "A. Vì các tôn giáo có vai trò quyết định đến những vấn đề quan trọng của xã hội B. Vì các tôn giáo có quan hệ với các tổ chức nước ngoài C. Vì đa số các tín đồ là nhân dân lao động có lòng yêu nước, chống giặc ngoại xâm D. Vì các tôn giáo thường bị lợi dụng bởi các thế lực phản động"
+        "text": "A. Dùng các từ ngữ phức tạp"
+      },
+      {
+        "text": "B. Tự ý thay đổi thông tin nếu cần thiết"
+      },
+      {
+        "text": "C. Truyền đạt thông tin một cách đơn giản và rõ ràng"
+      },
+      {
+        "text": "D. Chỉ truyền đạt thông tin bằng văn bản"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Vì các tôn giáo có vai trò quyết định đến những vấn đề quan trọng của xã hội",
-      "B. Vì các tôn giáo có quan hệ với các tổ chức nước ngoài",
-      "C. Vì đa số các tín đồ là nhân dân lao động có lòng yêu nước, chống giặc ngoại xâm",
-      "D. Vì các tôn giáo thường bị lợi dụng bởi các thế lực phản động"
+      "A. Dùng các từ ngữ phức tạp",
+      "B. Tự ý thay đổi thông tin nếu cần thiết",
+      "C. Truyền đạt thông tin một cách đơn giản và rõ ràng",
+      "D. Chỉ truyền đạt thông tin bằng văn bản"
     ],
     "correct_answers": [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 5",
-    "q_num": 27,
+    "lesson": "Bài 6",
+    "q_num": 26,
     "body_index": 962,
-    "id": "word-c41143f3c5139fa3-p962"
+    "id": "word-1d55e841b9e15dba-p962"
   },
   {
-    "lesson_num": 5,
-    "question": "Câu 28: Nội dung nào vừa là nội dung chủ yếu vừa là giải pháp quan trọng để liên kết các nội dung của Cương lĩnh dân tộc thành một chỉnh thể?",
+    "lesson_num": 6,
+    "question": "Câu 27: Khi nhận được một cuộc gọi từ khách hàng, thư ký nên?",
     "source_q_num": 27,
-    "source_title": "Câu 27: Nội dung nào vừa là nội dung chủ yếu vừa là giải pháp quan trọng để liên kết các nội dung của Cương lĩnh dân tộc thành một chỉnh thể?",
+    "source_title": "Câu 27: Khi nhận được một cuộc gọi từ khách hàng, thư ký nên?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 27,
-        "body_index": 964
+        "body_index": 967
       }
     ],
     "source_content": [
       {
-        "text": "A. Các dân tộc có nền phát triển kinh tế ngang nhau"
+        "text": "A. Chỉ ghi lại nội dung cuộc gọi nếu khách hàng yêu cầu"
       },
       {
-        "text": "B. Các dân tộc được quyền tự quyết"
+        "text": "B. Nghe và trả lời ngay mà không cần xác nhận thông tin"
       },
       {
-        "text": "C. Các dân tộc hoàn toàn bình đẳng"
+        "text": "C. Ngắt lời khách hàng khi cảm thấy không cần thiết"
       },
       {
-        "text": "D. Liên hiệp công nhân tất cả các dân tộc"
+        "text": "D. Lắng nghe cẩn thận, ghi chép lại thông tin và xác nhận lại nếu cần"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Các dân tộc có nền phát triển kinh tế ngang nhau",
-      "B. Các dân tộc được quyền tự quyết",
-      "C. Các dân tộc hoàn toàn bình đẳng",
-      "D. Liên hiệp công nhân tất cả các dân tộc"
+      "A. Chỉ ghi lại nội dung cuộc gọi nếu khách hàng yêu cầu",
+      "B. Nghe và trả lời ngay mà không cần xác nhận thông tin",
+      "C. Ngắt lời khách hàng khi cảm thấy không cần thiết",
+      "D. Lắng nghe cẩn thận, ghi chép lại thông tin và xác nhận lại nếu cần"
     ],
     "correct_answers": [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 5",
-    "q_num": 28,
-    "body_index": 964,
-    "id": "word-c41143f3c5139fa3-p964"
+    "lesson": "Bài 6",
+    "q_num": 27,
+    "body_index": 967,
+    "id": "word-1d55e841b9e15dba-p967"
   },
   {
-    "lesson_num": 5,
-    "question": "Câu 29: Kéo thả các yếu tố liên quan vào các cột tương ứng:",
+    "lesson_num": 6,
+    "question": "Câu 28: Khi tham gia một cuộc họp nhóm, thư ký nên?",
     "source_q_num": 28,
-    "source_title": "Câu 28: Kéo thả các yếu tố liên quan vào các cột tương ứng:",
+    "source_title": "Câu 28: Khi tham gia một cuộc họp nhóm, thư ký nên?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 28,
-        "body_index": 969
-      }
-    ],
-    "source_content": [
-      {
-        "table": [
-          [
-            "1) Đặc trưng của dân tộc (quốc gia)",
-            "2) Đặc trưng của dân tộc (tộc người)"
-          ],
-          [
-            "Ngôn ngữ chung",
-            "Ý thức tự giác tộc người"
-          ],
-          [
-            "Lãnh thổ chung",
-            "Văn hóa đặc thù"
-          ],
-          [
-            "Tâm lý dân tộc",
-            "Ngôn ngữ tộc người"
-          ]
-        ]
-      }
-    ],
-    "type": "drag_drop_categorize",
-    "categories": [
-      {
-        "title": "1) Đặc trưng của dân tộc (quốc gia)",
-        "items": [
-          "Ngôn ngữ chung",
-          "Lãnh thổ chung",
-          "Tâm lý dân tộc"
-        ]
-      },
-      {
-        "title": "2) Đặc trưng của dân tộc (tộc người)",
-        "items": [
-          "Ý thức tự giác tộc người",
-          "Văn hóa đặc thù",
-          "Ngôn ngữ tộc người"
-        ]
-      }
-    ],
-    "instruction": "Kéo hoặc chọn từng mục vào đúng cột tương ứng",
-    "all_items": [
-      {
-        "text": "Ngôn ngữ chung",
-        "category": "1) Đặc trưng của dân tộc (quốc gia)"
-      },
-      {
-        "text": "Lãnh thổ chung",
-        "category": "1) Đặc trưng của dân tộc (quốc gia)"
-      },
-      {
-        "text": "Tâm lý dân tộc",
-        "category": "1) Đặc trưng của dân tộc (quốc gia)"
-      },
-      {
-        "text": "Ý thức tự giác tộc người",
-        "category": "2) Đặc trưng của dân tộc (tộc người)"
-      },
-      {
-        "text": "Văn hóa đặc thù",
-        "category": "2) Đặc trưng của dân tộc (tộc người)"
-      },
-      {
-        "text": "Ngôn ngữ tộc người",
-        "category": "2) Đặc trưng của dân tộc (tộc người)"
-      }
-    ],
-    "lesson": "Bài 5",
-    "q_num": 29,
-    "body_index": 969,
-    "id": "word-c41143f3c5139fa3-p969"
-  },
-  {
-    "lesson_num": 5,
-    "question": "Câu 30: Ai được coi là \"dân\" trong nền dân chủ chủ nô?",
-    "source_q_num": 29,
-    "source_title": "Câu 29: Ai được coi là \"dân\" trong nền dân chủ chủ nô?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 29,
         "body_index": 972
       }
     ],
     "source_content": [
       {
-        "text": "A. Giai cấp chủ nô và các công dân tự do"
+        "text": "A. Nói ít và chỉ khi được yêu cầu"
       },
       {
-        "text": "B. Không ai cả."
+        "text": "B. Cố gắng lắng nghe tất cả nhưng không tham gia vào cuộc thảo luận"
       },
       {
-        "text": "C. Giai cấp nông nô"
+        "text": "C. Đưa ra ý kiến mà không cần cân nhắc đến quan điểm của người khác"
+      },
+      {
+        "text": "D. Góp ý một cách xây dựng và đưa ra các ý kiến dựa trên thông tin và quan điểm hợp lý"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Giai cấp chủ nô và các công dân tự do",
-      "B. Không ai cả.",
-      "C. Giai cấp nông nô"
+      "A. Nói ít và chỉ khi được yêu cầu",
+      "B. Cố gắng lắng nghe tất cả nhưng không tham gia vào cuộc thảo luận",
+      "C. Đưa ra ý kiến mà không cần cân nhắc đến quan điểm của người khác",
+      "D. Góp ý một cách xây dựng và đưa ra các ý kiến dựa trên thông tin và quan điểm hợp lý"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 6",
+    "q_num": 28,
+    "body_index": 972,
+    "id": "word-1d55e841b9e15dba-p972"
+  },
+  {
+    "lesson_num": 6,
+    "question": "Câu 29: Trong quá trình giao tiếp hành chính, một thư ký văn phòng cần sử dụng ngôn ngữ như thế nào để đảm bảo tính chuyên nghiệp?",
+    "source_q_num": 29,
+    "source_title": "Câu 29 : Trong quá trình giao tiếp hành chính, một thư ký văn phòng cần sử dụng ngôn ngữ như thế nào để đảm bảo tính chuyên nghiệp?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 29,
+        "body_index": 977
+      }
+    ],
+    "source_content": [
+      {
+        "text": "Sử dụng ngôn ngữ lịch sự, trang trọng"
+      },
+      {
+        "text": "Sử dụng ngôn ngữ bình dân"
+      },
+      {
+        "text": "Sử dụng ngôn ngữ theo phong cách tự do"
+      },
+      {
+        "text": "Sử dụng ngôn ngữ theo sở thích cá nhân"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Sử dụng ngôn ngữ lịch sự, trang trọng",
+      "B. Sử dụng ngôn ngữ bình dân",
+      "C. Sử dụng ngôn ngữ theo phong cách tự do",
+      "D. Sử dụng ngôn ngữ theo sở thích cá nhân"
     ],
     "correct_answers": [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 5",
-    "q_num": 30,
-    "body_index": 972,
-    "id": "word-c41143f3c5139fa3-p972"
+    "lesson": "Bài 6",
+    "q_num": 29,
+    "body_index": 977,
+    "id": "word-1d55e841b9e15dba-p977"
   },
   {
-    "lesson_num": 5,
-    "question": "Câu 31: Kéo thả các yếu tố liên quan đến liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội vào các cột tương ứng.",
+    "lesson_num": 6,
+    "question": "Câu 30: Khi một đồng nghiệp đưa ra một vấn đề cần giải quyết, thư ký nên?",
     "source_q_num": 30,
-    "source_title": "Câu 30 : Kéo thả các yếu tố liên quan đến liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội vào các cột tương ứng.",
+    "source_title": "Câu 30 : Khi một đồng nghiệp đưa ra một vấn đề cần giải quyết, thư ký nên?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 30,
-        "body_index": 976
-      }
-    ],
-    "source_content": [
-      {
-        "table": [
-          [
-            "1) Nội dung/phương hướng của liên minh",
-            "2) Thành phần/yếu tố của liên minh"
-          ],
-          [
-            "Xóa đói giảm nghèo",
-            "Giai cấp nông dân"
-          ],
-          [
-            "Nội dung kinh tế",
-            "Giai cấp công nhân"
-          ],
-          [
-            "Tăng cường liên minh",
-            "Tầng lớp phụ nữ"
-          ],
-          [
-            "Nội dung chính trị",
-            "Đảng Cộng sản"
-          ]
-        ]
-      }
-    ],
-    "type": "drag_drop_categorize",
-    "categories": [
-      {
-        "title": "1) Nội dung/phương hướng của liên minh",
-        "items": [
-          "Xóa đói giảm nghèo",
-          "Nội dung kinh tế",
-          "Tăng cường liên minh",
-          "Nội dung chính trị"
-        ]
-      },
-      {
-        "title": "2) Thành phần/yếu tố của liên minh",
-        "items": [
-          "Giai cấp nông dân",
-          "Giai cấp công nhân",
-          "Tầng lớp phụ nữ",
-          "Đảng Cộng sản"
-        ]
-      }
-    ],
-    "instruction": "Kéo hoặc chọn từng mục vào đúng cột tương ứng",
-    "all_items": [
-      {
-        "text": "Xóa đói giảm nghèo",
-        "category": "1) Nội dung/phương hướng của liên minh"
-      },
-      {
-        "text": "Nội dung kinh tế",
-        "category": "1) Nội dung/phương hướng của liên minh"
-      },
-      {
-        "text": "Tăng cường liên minh",
-        "category": "1) Nội dung/phương hướng của liên minh"
-      },
-      {
-        "text": "Nội dung chính trị",
-        "category": "1) Nội dung/phương hướng của liên minh"
-      },
-      {
-        "text": "Giai cấp nông dân",
-        "category": "2) Thành phần/yếu tố của liên minh"
-      },
-      {
-        "text": "Giai cấp công nhân",
-        "category": "2) Thành phần/yếu tố của liên minh"
-      },
-      {
-        "text": "Tầng lớp phụ nữ",
-        "category": "2) Thành phần/yếu tố của liên minh"
-      },
-      {
-        "text": "Đảng Cộng sản",
-        "category": "2) Thành phần/yếu tố của liên minh"
-      }
-    ],
-    "lesson": "Bài 5",
-    "q_num": 31,
-    "body_index": 976,
-    "id": "word-c41143f3c5139fa3-p976"
-  },
-  {
-    "lesson_num": 5,
-    "question": "Câu 32: Kéo thả các đáp án đúng tương ứng với các phát biểu về nội dung Cương lĩnh dân tộc của Chủ nghĩa Mác - Lênin:",
-    "source_q_num": 31,
-    "source_title": "Câu 31: Kéo thả các đáp án đúng tương ứng với các phát biểu về nội dung Cương lĩnh dân tộc của Chủ nghĩa Mác - Lênin:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 31,
-        "body_index": 979
-      }
-    ],
-    "source_content": [
-      {
-        "table": [
-          [
-            "Đây là quyền thiêng liêng của các dân tộc, không phân biệt dân tộc lớn hay nhỏ",
-            "Quyền bình đẳng dân tộc"
-          ],
-          [
-            "Giải pháp quan trọng để liên kết các nội dung của Cương lĩnh dân tộc thành một chỉnh thể",
-            "Liên hiệp công nhân các dân tộc lại"
-          ],
-          [
-            "Yếu tố thúc đẩy bình đẳng dân tộc là gì?",
-            "Cơ sở pháp lý"
-          ],
-          [
-            "Thực hiện quyền tự quyết dân tộc phải đứng vững trên lập trường của giai cấp nào?",
-            "Giai cấp công nhân"
-          ]
-        ]
-      }
-    ],
-    "type": "drag_drop_match",
-    "pairs": [
-      {
-        "left": "Đây là quyền thiêng liêng của các dân tộc, không phân biệt dân tộc lớn hay nhỏ",
-        "right": "Quyền bình đẳng dân tộc"
-      },
-      {
-        "left": "Giải pháp quan trọng để liên kết các nội dung của Cương lĩnh dân tộc thành một chỉnh thể",
-        "right": "Liên hiệp công nhân các dân tộc lại"
-      },
-      {
-        "left": "Yếu tố thúc đẩy bình đẳng dân tộc là gì?",
-        "right": "Cơ sở pháp lý"
-      },
-      {
-        "left": "Thực hiện quyền tự quyết dân tộc phải đứng vững trên lập trường của giai cấp nào?",
-        "right": "Giai cấp công nhân"
-      }
-    ],
-    "options_pool": [
-      "Quyền bình đẳng dân tộc",
-      "Liên hiệp công nhân các dân tộc lại",
-      "Cơ sở pháp lý",
-      "Giai cấp công nhân"
-    ],
-    "instruction": "Kéo hoặc chọn đáp án đúng ghép vào vế tương ứng",
-    "lesson": "Bài 5",
-    "q_num": 32,
-    "body_index": 979,
-    "id": "word-c41143f3c5139fa3-p979"
-  },
-  {
-    "lesson_num": 5,
-    "question": "Câu 33: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-    "source_q_num": 32,
-    "source_title": "Câu 32: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 32,
         "body_index": 982
       }
     ],
     "source_content": [
       {
-        "text": "1. Cương lĩnh dân tộc của Chủ nghĩa Mác-Lênin không đề cập đến bình đẳng dân tộc"
+        "text": "Đợi cho đến khi đồng nghiệp kết thúc và sau đó quyết định không can thiệp"
       },
       {
-        "text": "Sai"
+        "text": "Nghe một cách cẩn thận và ghi chú lại các điểm quan trọng trước khi đưa ra ý kiến"
       },
       {
-        "text": "2. Lãnh thổ chung là đặc trưng của dân tộc quốc gia"
+        "text": "Cắt ngang để nhắc nhở đồng nghiệp về thời gian"
       },
       {
-        "text": "Đúng"
-      },
-      {
-        "text": "3. Quyền tự quyết dân tộc không bao gồm nội dung liên hiệp các dân tộc lại"
-      },
-      {
-        "text": "Sai"
-      },
-      {
-        "text": "4. Dân tộc (tộc người) có ngôn ngữ riêng"
-      },
-      {
-        "text": "Đúng"
+        "text": "Nghe một cách vội vã và đưa ra giải pháp ngay lập tức"
       }
     ],
-    "type": "true_false",
-    "items": [
-      {
-        "statement": "1. Cương lĩnh dân tộc của Chủ nghĩa Mác-Lênin không đề cập đến bình đẳng dân tộc",
-        "correct": false
-      },
-      {
-        "statement": "2. Lãnh thổ chung là đặc trưng của dân tộc quốc gia",
-        "correct": true
-      },
-      {
-        "statement": "3. Quyền tự quyết dân tộc không bao gồm nội dung liên hiệp các dân tộc lại",
-        "correct": false
-      },
-      {
-        "statement": "4. Dân tộc (tộc người) có ngôn ngữ riêng",
-        "correct": true
-      }
+    "type": "single_choice",
+    "options": [
+      "A. Đợi cho đến khi đồng nghiệp kết thúc và sau đó quyết định không can thiệp",
+      "B. Nghe một cách cẩn thận và ghi chú lại các điểm quan trọng trước khi đưa ra ý kiến",
+      "C. Cắt ngang để nhắc nhở đồng nghiệp về thời gian",
+      "D. Nghe một cách vội vã và đưa ra giải pháp ngay lập tức"
     ],
-    "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "lesson": "Bài 5",
-    "q_num": 33,
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 6",
+    "q_num": 30,
     "body_index": 982,
-    "id": "word-c41143f3c5139fa3-p982"
+    "id": "word-1d55e841b9e15dba-p982"
   },
   {
-    "lesson_num": 5,
-    "question": "Câu 34: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-    "source_q_num": 33,
-    "source_title": "Câu 33 : Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
+    "lesson_num": 7,
+    "question": "Câu 1: Thư ký cần thực hiện những nhiệm vụ gì sau khi giải quyết xong công việc?",
+    "source_q_num": 1,
+    "source_title": "Câu 1: Thư ký cần thực hiện những nhiệm vụ gì sau khi giải quyết xong công việc?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 33,
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 1,
         "body_index": 991
       }
     ],
     "source_content": [
       {
-        "text": "1) Dân tộc (tộc người) có ý thức tự giác tộc người"
-      },
-      {
-        "text": "Đúng"
-      },
-      {
-        "text": "2) Đấu tranh chống chủ nghĩa Sô - vanh là giải pháp thực hiện bình đẳng dân tộc"
-      },
-      {
-        "text": "Đúng"
-      },
-      {
-        "text": "3) Tôn giáo là đặc trưng chính của dân tộc quốc gia"
-      },
-      {
-        "text": "Sai"
-      },
-      {
-        "text": "4) Tâm lý dân tộc tạo nên bản sắc văn hóa dân tộc"
-      },
-      {
-        "text": "Đúng"
+        "text": "A. Tổ chức khai thác tài liệu lưu trữ B. Đăng ký vào sổ theo dõi C. Lưu trữ hồ sơ vào kho D. Gửi thông báo cho các bộ phận"
       }
     ],
-    "type": "true_false",
-    "items": [
-      {
-        "statement": "1) Dân tộc (tộc người) có ý thức tự giác tộc người",
-        "correct": true
-      },
-      {
-        "statement": "2) Đấu tranh chống chủ nghĩa Sô - vanh là giải pháp thực hiện bình đẳng dân tộc",
-        "correct": true
-      },
-      {
-        "statement": "3) Tôn giáo là đặc trưng chính của dân tộc quốc gia",
-        "correct": false
-      },
-      {
-        "statement": "4) Tâm lý dân tộc tạo nên bản sắc văn hóa dân tộc",
-        "correct": true
-      }
+    "type": "single_choice",
+    "options": [
+      "A. Tổ chức khai thác tài liệu lưu trữ",
+      "B. Đăng ký vào sổ theo dõi",
+      "C. Lưu trữ hồ sơ vào kho",
+      "D. Gửi thông báo cho các bộ phận"
     ],
-    "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "lesson": "Bài 5",
-    "q_num": 34,
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 7",
+    "q_num": 1,
     "body_index": 991,
-    "id": "word-c41143f3c5139fa3-p991"
-  },
-  {
-    "lesson_num": 5,
-    "question": "Câu 35: Kéo thả các đáp án khớp với các phát biểu về tôn giáo, tín ngưỡng dưới đây:",
-    "source_q_num": 34,
-    "source_title": "Câu 34: Kéo thả các đáp án khớp với các phát biểu về tôn giáo, tín ngưỡng dưới đây:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 34,
-        "body_index": 1000
-      }
-    ],
-    "source_content": [
-      {
-        "table": [
-          [
-            "Chủ nghĩa Mác-Lênin coi tín ngưỡng, tôn giáo là một phạm trù thuộc lĩnh vực nào của xã hội?",
-            "Hình thái ý thức xã hội"
-          ],
-          [
-            "Quan điểm của chủ nghĩa Mác – Lênin về tôn giáo là gì?",
-            "Tôn trọng tự do tôn giáo"
-          ],
-          [
-            "Bản chất của tôn giáo theo chủ nghĩa Mác – Lênin là gì?",
-            "Phản ánh hư ảo hiện thực khách quan"
-          ],
-          [
-            "Niềm tin và sự ngưỡng mộ của con người vào một lực lượng siêu nhiên, thần bí được gọi là gì?",
-            "Tín ngưỡng"
-          ]
-        ]
-      }
-    ],
-    "type": "drag_drop_match",
-    "pairs": [
-      {
-        "left": "Chủ nghĩa Mác-Lênin coi tín ngưỡng, tôn giáo là một phạm trù thuộc lĩnh vực nào của xã hội?",
-        "right": "Hình thái ý thức xã hội"
-      },
-      {
-        "left": "Quan điểm của chủ nghĩa Mác – Lênin về tôn giáo là gì?",
-        "right": "Tôn trọng tự do tôn giáo"
-      },
-      {
-        "left": "Bản chất của tôn giáo theo chủ nghĩa Mác – Lênin là gì?",
-        "right": "Phản ánh hư ảo hiện thực khách quan"
-      },
-      {
-        "left": "Niềm tin và sự ngưỡng mộ của con người vào một lực lượng siêu nhiên, thần bí được gọi là gì?",
-        "right": "Tín ngưỡng"
-      }
-    ],
-    "options_pool": [
-      "Hình thái ý thức xã hội",
-      "Tôn trọng tự do tôn giáo",
-      "Phản ánh hư ảo hiện thực khách quan",
-      "Tín ngưỡng"
-    ],
-    "instruction": "Kéo hoặc chọn đáp án đúng ghép vào vế tương ứng",
-    "lesson": "Bài 5",
-    "q_num": 35,
-    "body_index": 1000,
-    "id": "word-c41143f3c5139fa3-p1000"
-  },
-  {
-    "lesson_num": 5,
-    "question": "Câu 36: Bản chất của dân chủ là gì? (Chọn 2 đáp án đúng)",
-    "source_q_num": 35,
-    "source_title": "Câu 35: Bản chất của dân chủ là gì? (Chọn 2 đáp án đúng)",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 35,
-        "body_index": 1004
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Quyền lực thuộc về một nhóm nhỏ trong xã hội"
-      },
-      {
-        "text": "B. Phân biệt rõ ràng các tầng lớp xã hội"
-      },
-      {
-        "text": "C. Tôn trọng và đảm bảo quyền con người"
-      },
-      {
-        "text": "D. Quyền lực thuộc về toàn thể nhân dân"
-      }
-    ],
-    "type": "multiple_choice",
-    "options": [
-      "A. Quyền lực thuộc về một nhóm nhỏ trong xã hội",
-      "B. Phân biệt rõ ràng các tầng lớp xã hội",
-      "C. Tôn trọng và đảm bảo quyền con người",
-      "D. Quyền lực thuộc về toàn thể nhân dân"
-    ],
-    "correct_answers": [
-      2,
-      3
-    ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bài 5",
-    "q_num": 36,
-    "body_index": 1004,
-    "id": "word-c41143f3c5139fa3-p1004"
-  },
-  {
-    "lesson_num": 5,
-    "question": "Câu 37: Dân tộc được hiểu theo mấy nghĩa?",
-    "source_q_num": 10,
-    "source_title": "Câu 10 (Bài 5): Dân tộc được hiểu theo mấy nghĩa?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 10,
-        "body_index": 1173
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. 1 B. 2 C. 3 D. 4"
-      },
-      {
-        "text": "Đáp án: B"
-      }
-    ],
-    "is_thuong_xuyen": true,
-    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 2",
-    "type": "single_choice",
-    "options": [
-      "A. 1",
-      "B. 2",
-      "C. 3",
-      "D. 4"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 5",
-    "q_num": 37,
-    "body_index": 1173,
-    "id": "word-c41143f3c5139fa3-p1173"
-  },
-  {
-    "lesson_num": 5,
-    "question": "Câu 38: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-    "source_q_num": 28,
-    "source_title": "Câu 28 (Bài 5 – Đúng/Sai): Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 28,
-        "body_index": 1191
-      }
-    ],
-    "source_content": [
-      {
-        "text": "Dân tộc (quốc gia) không cần lãnh thổ chung → Sai"
-      },
-      {
-        "text": "Bình đẳng dân tộc là nội dung cương lĩnh dân tộc của Mác-Lênin → Đúng"
-      },
-      {
-        "text": "Dân tộc là cộng đồng người có ngôn ngữ riêng và văn hóa đặc thù → Đúng"
-      },
-      {
-        "text": "Quyền tự quyết dân tộc bao gồm quyền phân lập thành quốc gia độc lập → Đúng"
-      }
-    ],
-    "is_thuong_xuyen": true,
-    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 2",
-    "type": "true_false",
-    "items": [
-      {
-        "statement": "Dân tộc (quốc gia) không cần lãnh thổ chung",
-        "correct": false
-      },
-      {
-        "statement": "Bình đẳng dân tộc là nội dung cương lĩnh dân tộc của Mác-Lênin",
-        "correct": true
-      },
-      {
-        "statement": "Dân tộc là cộng đồng người có ngôn ngữ riêng và văn hóa đặc thù",
-        "correct": true
-      },
-      {
-        "statement": "Quyền tự quyết dân tộc bao gồm quyền phân lập thành quốc gia độc lập",
-        "correct": true
-      }
-    ],
-    "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "lesson": "Bài 5",
-    "q_num": 38,
-    "body_index": 1191,
-    "id": "word-c41143f3c5139fa3-p1191"
-  },
-  {
-    "lesson_num": 5,
-    "question": "Câu 39: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-    "source_q_num": 30,
-    "source_title": "Câu 30 (Bài 5 – Đúng/Sai): Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 30,
-        "body_index": 1196
-      }
-    ],
-    "source_content": [
-      {
-        "text": "Tín ngưỡng có hệ thống giáo lý chặt chẽ → Sai"
-      },
-      {
-        "text": "Nguồn gốc kinh tế - xã hội dẫn đến sự ra đời của tôn giáo → Đúng"
-      },
-      {
-        "text": "Tôn giáo phản ánh hoang đường, hư ảo hiện thực khách quan → Đúng"
-      },
-      {
-        "text": "Mê tín dị đoan là niềm tin mù quáng cần loại bỏ → Đúng"
-      }
-    ],
-    "is_thuong_xuyen": true,
-    "test_group": "BÀI KIỂM TRA THƯỜNG XUYÊN 2",
-    "type": "true_false",
-    "items": [
-      {
-        "statement": "Tín ngưỡng có hệ thống giáo lý chặt chẽ",
-        "correct": false
-      },
-      {
-        "statement": "Nguồn gốc kinh tế - xã hội dẫn đến sự ra đời của tôn giáo",
-        "correct": true
-      },
-      {
-        "statement": "Tôn giáo phản ánh hoang đường, hư ảo hiện thực khách quan",
-        "correct": true
-      },
-      {
-        "statement": "Mê tín dị đoan là niềm tin mù quáng cần loại bỏ",
-        "correct": true
-      }
-    ],
-    "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "lesson": "Bài 5",
-    "q_num": 39,
-    "body_index": 1196,
-    "id": "word-c41143f3c5139fa3-p1196"
-  },
-  {
-    "source_q_num": 1,
-    "source_title": "Câu 1: Gia đình là:",
-    "source_content": [
-      {
-        "text": "Gia đình là:\nA.  Hình thức cộng đồng xã hội đặc biệt\nB.  Một tộc người\nC.  Tập đoàn xã hội ổn định\nD.  Một nhóm người"
-      }
-    ],
-    "answer_verification": {
-      "url": "https://hcmunre.edu.vn/upload/elfinder/Trang%20Khoa/Khoa%20Luat%20%26LLCT/Ph%E1%BA%A7n%202_GT%20h%E1%BB%8Dc%20ph%E1%BA%A7n%20Ch%E1%BB%A7%20ngh%C4%A9a%20x%C3%A3%20h%E1%BB%99i%20khoa%20h%E1%BB%8Dc%20%28K%29%20Tr%2067%20-Tr144.pdf",
-      "section": "Chương 7, mục 1.1: Khái niệm gia đình",
-      "checked_on": "2026-10-20",
-      "method": "Đối chiếu giáo trình; câu Đúng/Sai và bảng phân loại giữ đáp án người dùng cung cấp.",
-      "printed_pages": [
-        128
-      ]
-    },
-    "question": "Câu 1: Gia đình là:",
-    "type": "single_choice",
-    "options": [
-      "A. Hình thức cộng đồng xã hội đặc biệt",
-      "B. Một tộc người",
-      "C. Tập đoàn xã hội ổn định",
-      "D. Một nhóm người"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson_num": 6,
-    "lesson": "Bài 6",
-    "q_num": 1,
-    "id": "user-lesson6-d1a799a6171cecda-q1",
-    "sources": [
-      {
-        "file": "BAI_6_NGUOI_DUNG.txt",
-        "question_number": 1
-      }
-    ]
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 2: Hai mối quan hệ cơ bản hình thành nên gia đình là: (chọn 2 đáp án)",
-    "source_q_num": 30,
-    "source_title": "Câu 30: Hai mối quan hệ cơ bản hình thành nên gia đình là: (chọn 2 đáp án)",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 30,
-        "body_index": 1096
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Quan hệ quản trị trong một không gian sinh tồn B. Quan hệ huyết thống C. Quan hệ kinh tế D. Quan hệ hôn nhân"
-      },
-      {
-        "text": "Đáp án đúng: B, D"
-      }
-    ],
-    "type": "multiple_choice",
-    "options": [
-      "A. Quan hệ quản trị trong một không gian sinh tồn",
-      "B. Quan hệ huyết thống",
-      "C. Quan hệ kinh tế",
-      "D. Quan hệ hôn nhân"
-    ],
-    "correct_answers": [
-      1,
-      3
-    ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bài 6",
-    "q_num": 2,
-    "body_index": 1096,
-    "id": "word-c41143f3c5139fa3-p1096"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 3: Tình yêu giữa nam và nữ trở thành quan hệ hôn nhân được thể hiện bằng:",
-    "source_q_num": 32,
-    "source_title": "Câu 32: Tình yêu giữa nam và nữ trở thành quan hệ hôn nhân được thể hiện bằng:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 32,
-        "body_index": 1102
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Lễ cưới B. Thủ tục pháp lý C. Lời hứa giữa nam và nữ D. Lễ đính hôn"
-      },
-      {
-        "text": "Đáp án đúng: B"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Lễ cưới",
-      "B. Thủ tục pháp lý",
-      "C. Lời hứa giữa nam và nữ",
-      "D. Lễ đính hôn"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 6",
-    "q_num": 3,
-    "body_index": 1102,
-    "id": "word-c41143f3c5139fa3-p1102"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 4: “Hàng ngày tái tạo ra đời sống của bản thân mình, con người bắt đầu tạo ra những người khác, sinh sôi nảy nở - đó là quan hệ giữa chồng và vợ, cha mẹ và con cái...” Đây là quan hệ của:",
-    "source_q_num": 33,
-    "source_title": "Câu 33: “Hàng ngày tái tạo ra đời sống của bản thân mình, con người bắt đầu tạo ra những người khác, sinh sôi nảy nở - đó là quan hệ giữa chồng và vợ, cha mẹ và con cái...” Đây là quan hệ của:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 33,
-        "body_index": 1105
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Gia đình B. Làng xóm C. Xã hội D. Tập thể"
-      },
-      {
-        "text": "Đáp án đúng: A"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Gia đình",
-      "B. Làng xóm",
-      "C. Xã hội",
-      "D. Tập thể"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 6",
-    "q_num": 4,
-    "body_index": 1105,
-    "id": "word-c41143f3c5139fa3-p1105"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 5: Quan hệ nào được coi là cơ sở, nền tảng hình thành nên các mối quan hệ khác trong gia đình?",
-    "source_q_num": 34,
-    "source_title": "Câu 34: Quan hệ nào được coi là cơ sở, nền tảng hình thành nên các mối quan hệ khác trong gia đình?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 34,
-        "body_index": 1108
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Quan hệ hôn nhân và huyết thống B. Quan hệ nuôi dưỡng C. Quan hệ quản trị trong một không gian sinh tồn D. Quan hệ hôn nhân"
-      },
-      {
-        "text": "Đáp án đúng: A"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Quan hệ hôn nhân và huyết thống",
-      "B. Quan hệ nuôi dưỡng",
-      "C. Quan hệ quản trị trong một không gian sinh tồn",
-      "D. Quan hệ hôn nhân"
-    ],
-    "correct_answers": [
-      3
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 6",
-    "q_num": 5,
-    "body_index": 1108,
-    "id": "word-c41143f3c5139fa3-p1108",
-    "answer_correction": {
-      "body_index": 1108,
-      "source_title": "Câu 34: Quan hệ nào được coi là cơ sở, nền tảng hình thành nên các mối quan hệ khác trong gia đình?",
-      "options": [
-        "A. Quan hệ hôn nhân và huyết thống",
-        "B. Quan hệ nuôi dưỡng",
-        "C. Quan hệ quản trị trong một không gian sinh tồn",
-        "D. Quan hệ hôn nhân"
-      ],
-      "source_correct_answers": [
-        0
-      ],
-      "approved_correct_answers": [
-        3
-      ],
-      "approved_by": "user",
-      "approved_on": "2026-10-20",
-      "reason": "Người dùng yêu cầu sửa Bài 6 Câu 5 (gốc Câu 34) sang D. Quan hệ hôn nhân, theo ảnh và xác nhận trực tiếp. Quan hệ hôn nhân là cơ sở, nền tảng hình thành các mối quan hệ khác trong gia đình."
-    }
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 6: Chức năng của gia đình là:",
-    "source_q_num": 35,
-    "source_title": "Câu 35: Chức năng của gia đình là:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 35,
-        "body_index": 1111
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Chức năng làm các hoạt động từ thiện B. Chức năng lãnh đạo cách mạng C. Chức năng kinh tế và tổ chức tiêu dùng D. Chức năng tổ chức sự kiện"
-      },
-      {
-        "text": "Đáp án đúng: C"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Chức năng làm các hoạt động từ thiện",
-      "B. Chức năng lãnh đạo cách mạng",
-      "C. Chức năng kinh tế và tổ chức tiêu dùng",
-      "D. Chức năng tổ chức sự kiện"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 6",
-    "q_num": 6,
-    "body_index": 1111,
-    "id": "word-c41143f3c5139fa3-p1111"
-  },
-  {
-    "source_q_num": 7,
-    "source_title": "Câu 7: Gia đình phải thực hiện chức năng nào để đảm bảo nguồn sinh sống, đáp ứng nhu cầu vật chất, tinh thần của các thành viên trong gia đình?",
-    "source_content": [
-      {
-        "text": "Gia đình phải thực hiện chức năng nào để đảm bảo nguồn sinh sống, đáp ứng nhu cầu vật chất, tinh thần của các thành viên trong gia đình?\nA.Chức năng nuôi dưỡng, giáo dục\nB.Chức năng tái sản xuất ra con người\nC.Chức năng thoả mãn các nhu cầu tâm sinh lý, duy trì tình cảm\nD.Chức năng kinh tế, tổ chức tiêu dùng"
-      }
-    ],
-    "answer_verification": {
-      "url": "https://hcmunre.edu.vn/upload/elfinder/Trang%20Khoa/Khoa%20Luat%20%26LLCT/Ph%E1%BA%A7n%202_GT%20h%E1%BB%8Dc%20ph%E1%BA%A7n%20Ch%E1%BB%A7%20ngh%C4%A9a%20x%C3%A3%20h%E1%BB%99i%20khoa%20h%E1%BB%8Dc%20%28K%29%20Tr%2067%20-Tr144.pdf",
-      "section": "Chương 7, mục 1.3: Chức năng kinh tế và tổ chức tiêu dùng",
-      "checked_on": "2026-10-20",
-      "method": "Đối chiếu giáo trình; câu Đúng/Sai và bảng phân loại giữ đáp án người dùng cung cấp.",
-      "printed_pages": [
-        132
-      ]
-    },
-    "question": "Câu 7: Gia đình phải thực hiện chức năng nào để đảm bảo nguồn sinh sống, đáp ứng nhu cầu vật chất, tinh thần của các thành viên trong gia đình?",
-    "type": "single_choice",
-    "options": [
-      "A. Chức năng nuôi dưỡng, giáo dục",
-      "B. Chức năng tái sản xuất ra con người",
-      "C. Chức năng thoả mãn các nhu cầu tâm sinh lý, duy trì tình cảm",
-      "D. Chức năng kinh tế, tổ chức tiêu dùng"
-    ],
-    "correct_answers": [
-      3
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson_num": 6,
-    "lesson": "Bài 6",
-    "q_num": 7,
-    "id": "user-lesson6-d1a799a6171cecda-q7",
-    "sources": [
-      {
-        "file": "BAI_6_NGUOI_DUNG.txt",
-        "question_number": 7
-      }
-    ]
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 8: Chức năng đảm bảo tái sản xuất nguồn lao động và sức lao động cho xã hội của gia đình là:",
-    "source_q_num": 36,
-    "source_title": "Câu 36: Chức năng đảm bảo tái sản xuất nguồn lao động và sức lao động cho xã hội của gia đình là:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 36,
-        "body_index": 1114
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Chức năng kinh tế B. Chức năng nuôi dưỡng, giáo dục C. Chức năng thỏa mãn các nhu cầu tâm sinh lý, duy trì tình cảm D. Chức năng tái sản xuất ra con người"
-      },
-      {
-        "text": "Đáp án đúng: D"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Chức năng kinh tế",
-      "B. Chức năng nuôi dưỡng, giáo dục",
-      "C. Chức năng thỏa mãn các nhu cầu tâm sinh lý, duy trì tình cảm",
-      "D. Chức năng tái sản xuất ra con người"
-    ],
-    "correct_answers": [
-      3
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 6",
-    "q_num": 8,
-    "body_index": 1114,
-    "id": "word-c41143f3c5139fa3-p1114"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 9: Với chức năng chính trị, gia đình là:",
-    "source_q_num": 38,
-    "source_title": "Câu 38: Với chức năng chính trị, gia đình là:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 38,
-        "body_index": 1120
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Là cầu nối của mối quan hệ giữa nhà nước với công dân B. Là nơi đáp ứng nhu cầu tâm, sinh lý tự nhiên của con người, đáp ứng nhu cầu duy trì nòi giống C. Nơi lưu giữ truyền thống văn hóa của dân tộc cũng như tóc người D. Có trách nhiệm nuôi dưỡng, dạy dỗ con cái trở thành người có ích cho gia đình, cộng đồng và xã hội"
-      },
-      {
-        "text": "Đáp án đúng: A"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Là cầu nối của mối quan hệ giữa nhà nước với công dân",
-      "B. Là nơi đáp ứng nhu cầu tâm, sinh lý tự nhiên của con người, đáp ứng nhu cầu duy trì nòi giống",
-      "C. Nơi lưu giữ truyền thống văn hóa của dân tộc cũng như tóc người",
-      "D. Có trách nhiệm nuôi dưỡng, dạy dỗ con cái trở thành người có ích cho gia đình, cộng đồng và xã hội"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 6",
-    "q_num": 9,
-    "body_index": 1120,
-    "id": "word-c41143f3c5139fa3-p1120"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 10: Gia đình Việt Nam ngày nay có thể được coi là:",
-    "source_q_num": 39,
-    "source_title": "Câu 39: Gia đình Việt Nam ngày nay có thể được coi là:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 39,
-        "body_index": 1123
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Gia đình truyền thống B. Gia đình quá độ C. Gia đình hiện đại D. Gia đình lạc hậu"
-      },
-      {
-        "text": "Đáp án đúng: B"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Gia đình truyền thống",
-      "B. Gia đình quá độ",
-      "C. Gia đình hiện đại",
-      "D. Gia đình lạc hậu"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 6",
-    "q_num": 10,
-    "body_index": 1123,
-    "id": "word-c41143f3c5139fa3-p1123"
-  },
-  {
-    "source_q_num": 11,
-    "source_title": "Câu 11: Sự thay đổi quy mô của gia đình hiện nay ở Việt Nam có tác động như thế nào đối với xã hội?",
-    "source_content": [
-      {
-        "text": "Sự thay đổi quy mô của gia đình hiện nay ở Việt Nam có tác động như thế nào đối với xã hội? \nSinh viên chọn 2 phương án đúng nhất\nA.Không có tác động gì đối với sự phát triển của xã hội\nB.Sự bình đẳng nam nữ được đề cao hơn, cuộc sống riêng tư của con người được tôn trọng hơn\nC.Làm cho xã hội trở nên thích nghi và phù hợp hơn với tình hình mới, thời đại mới\nD.Làm cho kinh tế của đất nước chậm phát triển"
-      }
-    ],
-    "answer_verification": {
-      "url": "https://hcmunre.edu.vn/upload/elfinder/Trang%20Khoa/Khoa%20Luat%20%26LLCT/Ph%E1%BA%A7n%202_GT%20h%E1%BB%8Dc%20ph%E1%BA%A7n%20Ch%E1%BB%A7%20ngh%C4%A9a%20x%C3%A3%20h%E1%BB%99i%20khoa%20h%E1%BB%8Dc%20%28K%29%20Tr%2067%20-Tr144.pdf",
-      "section": "Chương 7, mục 3.1.1: Biến đổi quy mô, kết cấu gia đình",
-      "checked_on": "2026-10-20",
-      "method": "Đối chiếu giáo trình; câu Đúng/Sai và bảng phân loại giữ đáp án người dùng cung cấp.",
-      "printed_pages": [
-        137,
-        138
-      ]
-    },
-    "question": "Câu 11: Sự thay đổi quy mô của gia đình hiện nay ở Việt Nam có tác động như thế nào đối với xã hội? (Chọn 2 đáp án đúng)",
-    "type": "multiple_choice",
-    "options": [
-      "A. Không có tác động gì đối với sự phát triển của xã hội",
-      "B. Sự bình đẳng nam nữ được đề cao hơn, cuộc sống riêng tư của con người được tôn trọng hơn",
-      "C. Làm cho xã hội trở nên thích nghi và phù hợp hơn với tình hình mới, thời đại mới",
-      "D. Làm cho kinh tế của đất nước chậm phát triển"
-    ],
-    "correct_answers": [
-      1,
-      2
-    ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson_num": 6,
-    "lesson": "Bài 6",
-    "q_num": 11,
-    "id": "user-lesson6-d1a799a6171cecda-q11",
-    "sources": [
-      {
-        "file": "BAI_6_NGUOI_DUNG.txt",
-        "question_number": 11
-      }
-    ]
-  },
-  {
-    "source_q_num": 12,
-    "source_title": "Câu 12: Trong gia đình Việt Nam hiện đại ngày nay, nhu cầu về con cái đã có những thay đổi căn bản như thế nào?",
-    "source_content": [
-      {
-        "text": "Trong gia đình Việt Nam hiện đại ngày nay, nhu cầu về con cái đã có những thay đổi căn bản như thế nào?\nA.Các gia đình không muốn có con để không bị gánh nặng kinh tế\nB.Giảm mức sinh của phụ nữ, giảm số con mong muốn và giảm nhu cầu nhất thiết phải có con trai của các cặp vợ chồng\nC.Phải có con, càng đông con càng tốt và nhất thiết phải có con trai nối dõi\nD.Tỷ lệ sinh thấp, nhu cầu phải có con trai tăng"
-      }
-    ],
-    "answer_verification": {
-      "url": "https://hcmunre.edu.vn/upload/elfinder/Trang%20Khoa/Khoa%20Luat%20%26LLCT/Ph%E1%BA%A7n%202_GT%20h%E1%BB%8Dc%20ph%E1%BA%A7n%20Ch%E1%BB%A7%20ngh%C4%A9a%20x%C3%A3%20h%E1%BB%99i%20khoa%20h%E1%BB%8Dc%20%28K%29%20Tr%2067%20-Tr144.pdf",
-      "section": "Chương 7, mục 3.1.2: Biến đổi chức năng tái sản xuất ra con người",
-      "checked_on": "2026-10-20",
-      "method": "Đối chiếu giáo trình; câu Đúng/Sai và bảng phân loại giữ đáp án người dùng cung cấp.",
-      "printed_pages": [
-        138
-      ]
-    },
-    "question": "Câu 12: Trong gia đình Việt Nam hiện đại ngày nay, nhu cầu về con cái đã có những thay đổi căn bản như thế nào?",
-    "type": "single_choice",
-    "options": [
-      "A. Các gia đình không muốn có con để không bị gánh nặng kinh tế",
-      "B. Giảm mức sinh của phụ nữ, giảm số con mong muốn và giảm nhu cầu nhất thiết phải có con trai của các cặp vợ chồng",
-      "C. Phải có con, càng đông con càng tốt và nhất thiết phải có con trai nối dõi",
-      "D. Tỷ lệ sinh thấp, nhu cầu phải có con trai tăng"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson_num": 6,
-    "lesson": "Bài 6",
-    "q_num": 12,
-    "id": "user-lesson6-d1a799a6171cecda-q12",
-    "sources": [
-      {
-        "file": "BAI_6_NGUOI_DUNG.txt",
-        "question_number": 12
-      }
-    ]
-  },
-  {
-    "source_q_num": 13,
-    "source_title": "Câu 13: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-    "source_content": [
-      {
-        "text": "Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:\n1)Trong gia đình hiện đại, sự bền vững của hôn nhân không phụ thuộc vào các yếu tố tâm lý, tình cảm, kinh tế.\nSai \n2)Hiện nay việc sinh đẻ được các gia đình tiến hành một cách chủ động, tự giác.\nĐúng\n     3) Tăng số con mong muốn và tăng nhu cầu nhất thiết phải có con trai của các cặp vợ chồng.\nSai\n     4) Gia đình từ đơn vị kinh tế tự cung tự cấp sang đơn vị kinh tế hàng hoá.\n         Đúng"
-      }
-    ],
-    "answer_verification": {
-      "url": "https://hcmunre.edu.vn/upload/elfinder/Trang%20Khoa/Khoa%20Luat%20%26LLCT/Ph%E1%BA%A7n%202_GT%20h%E1%BB%8Dc%20ph%E1%BA%A7n%20Ch%E1%BB%A7%20ngh%C4%A9a%20x%C3%A3%20h%E1%BB%99i%20khoa%20h%E1%BB%8Dc%20%28K%29%20Tr%2067%20-Tr144.pdf",
-      "section": "Chương 7, mục 3.1.2–3.1.3: Biến đổi chức năng và quan hệ gia đình",
-      "checked_on": "2026-10-20",
-      "method": "Đối chiếu giáo trình; câu Đúng/Sai và bảng phân loại giữ đáp án người dùng cung cấp.",
-      "printed_pages": [
-        138,
-        139
-      ]
-    },
-    "question": "Câu 13: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-    "type": "true_false",
-    "items": [
-      {
-        "statement": "1)Trong gia đình hiện đại, sự bền vững của hôn nhân không phụ thuộc vào các yếu tố tâm lý, tình cảm, kinh tế.",
-        "correct": false
-      },
-      {
-        "statement": "2)Hiện nay việc sinh đẻ được các gia đình tiến hành một cách chủ động, tự giác.",
-        "correct": true
-      },
-      {
-        "statement": "3) Tăng số con mong muốn và tăng nhu cầu nhất thiết phải có con trai của các cặp vợ chồng.",
-        "correct": false
-      },
-      {
-        "statement": "4) Gia đình từ đơn vị kinh tế tự cung tự cấp sang đơn vị kinh tế hàng hoá.",
-        "correct": true
-      }
-    ],
-    "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "lesson_num": 6,
-    "lesson": "Bài 6",
-    "q_num": 13,
-    "id": "user-lesson6-d1a799a6171cecda-q13",
-    "sources": [
-      {
-        "file": "BAI_6_NGUOI_DUNG.txt",
-        "question_number": 13
-      }
-    ]
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 14: Chọn đáp án Đúng hoặc Sai với từng phát biểu:",
-    "source_q_num": 42,
-    "source_title": "Câu 42: Chọn đáp án Đúng hoặc Sai với từng phát biểu:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 42,
-        "body_index": 1138
-      }
-    ],
-    "source_content": [
-      {
-        "text": "1. Hiện nay, độ bền vững của gia đình không bị chi phối bởi các mối quan hệ hòa hợp tình cảm giữa chồng và vợ, cha mẹ và con cái. → Sai"
-      },
-      {
-        "text": "2. Hiện nay, kinh tế gia đình đang trở thành một bộ phận quan trọng trong nền kinh tế quốc dân. → Đúng"
-      },
-      {
-        "text": "3. Nội dung giáo dục trong gia đình hiện nay chỉ tập trung giáo dục đạo đức. → Sai"
-      },
-      {
-        "text": "4. Giáo dục gia đình tiếp tục nhấn mạnh sự hy sinh của cá nhân cho cộng đồng. → Đúng"
-      },
-      {
-        "text": "Đáp án: 1 – Sai; 2 – Đúng; 3 – Sai; 4 – Đúng"
-      }
-    ],
-    "type": "true_false",
-    "items": [
-      {
-        "statement": "1. Hiện nay, độ bền vững của gia đình không bị chi phối bởi các mối quan hệ hòa hợp tình cảm giữa chồng và vợ, cha mẹ và con cái.",
-        "correct": false
-      },
-      {
-        "statement": "2. Hiện nay, kinh tế gia đình đang trở thành một bộ phận quan trọng trong nền kinh tế quốc dân.",
-        "correct": true
-      },
-      {
-        "statement": "3. Nội dung giáo dục trong gia đình hiện nay chỉ tập trung giáo dục đạo đức.",
-        "correct": false
-      },
-      {
-        "statement": "4. Giáo dục gia đình tiếp tục nhấn mạnh sự hy sinh của cá nhân cho cộng đồng.",
-        "correct": true
-      }
-    ],
-    "instruction": "Chọn Đúng hoặc Sai cho mỗi phát biểu sau",
-    "lesson": "Bài 6",
-    "q_num": 14,
-    "body_index": 1138,
-    "id": "word-c41143f3c5139fa3-p1138"
-  },
-  {
-    "source_q_num": 15,
-    "source_title": "Câu 15: Chức năng tái sản xuất của gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội có những biến đổi như thế nào? (Chọn 2 đáp án đúng)",
-    "source_content": [
-      {
-        "text": "Chức năng tái sản xuất của gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội có những biến đổi như thế nào? (Chọn 2 đáp án đúng)\nA.Tăng nhu cầu có con trai\nB.Tăng sản xuất hàng hóa\nC.Giảm số con mong muốn\nD.Chủ động trong việc sinh con"
-      }
-    ],
-    "answer_verification": {
-      "url": "https://hcmunre.edu.vn/upload/elfinder/Trang%20Khoa/Khoa%20Luat%20%26LLCT/Ph%E1%BA%A7n%202_GT%20h%E1%BB%8Dc%20ph%E1%BA%A7n%20Ch%E1%BB%A7%20ngh%C4%A9a%20x%C3%A3%20h%E1%BB%99i%20khoa%20h%E1%BB%8Dc%20%28K%29%20Tr%2067%20-Tr144.pdf",
-      "section": "Chương 7, mục 3.1.2: Biến đổi chức năng tái sản xuất ra con người",
-      "checked_on": "2026-10-20",
-      "method": "Đối chiếu giáo trình; câu Đúng/Sai và bảng phân loại giữ đáp án người dùng cung cấp.",
-      "printed_pages": [
-        138
-      ]
-    },
-    "question": "Câu 15: Chức năng tái sản xuất của gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội có những biến đổi như thế nào? (Chọn 2 đáp án đúng)",
-    "type": "multiple_choice",
-    "options": [
-      "A. Tăng nhu cầu có con trai",
-      "B. Tăng sản xuất hàng hóa",
-      "C. Giảm số con mong muốn",
-      "D. Chủ động trong việc sinh con"
-    ],
-    "correct_answers": [
-      2,
-      3
-    ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson_num": 6,
-    "lesson": "Bài 6",
-    "q_num": 15,
-    "id": "user-lesson6-d1a799a6171cecda-q15",
-    "sources": [
-      {
-        "file": "BAI_6_NGUOI_DUNG.txt",
-        "question_number": 15
-      }
-    ]
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 16: Vị trí của gia đình trong xã hội là:",
-    "source_q_num": 31,
-    "source_title": "Câu 31: Vị trí của gia đình trong xã hội là:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 31,
-        "body_index": 1099
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Tế bào B. Bộ não C. Mạch máu D. Xương sống"
-      },
-      {
-        "text": "Đáp án đúng: A"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Tế bào",
-      "B. Bộ não",
-      "C. Mạch máu",
-      "D. Xương sống"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 6",
-    "q_num": 16,
-    "body_index": 1099,
-    "id": "word-c41143f3c5139fa3-p1099"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 17: Thực hiện chức năng nào của gia đình nhằm góp phần tạo lớn lao vào việc đào tạo thế hệ trẻ, thế hệ tương lai của xã hội?",
-    "source_q_num": 37,
-    "source_title": "Câu 37: Thực hiện chức năng nào của gia đình nhằm góp phần tạo lớn lao vào việc đào tạo thế hệ trẻ, thế hệ tương lai của xã hội?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 37,
-        "body_index": 1117
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Chức năng nuôi dưỡng, giáo dục B. Chức năng kinh tế và tổ chức tiêu dùng C. Chức năng thỏa mãn nhu cầu tâm sinh lý, duy trì tình cảm gia đình D. Chức năng tái sản xuất ra con người"
-      },
-      {
-        "text": "Đáp án đúng: A"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Chức năng nuôi dưỡng, giáo dục",
-      "B. Chức năng kinh tế và tổ chức tiêu dùng",
-      "C. Chức năng thỏa mãn nhu cầu tâm sinh lý, duy trì tình cảm gia đình",
-      "D. Chức năng tái sản xuất ra con người"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 6",
-    "q_num": 17,
-    "body_index": 1117,
-    "id": "word-c41143f3c5139fa3-p1117"
-  },
-  {
-    "source_q_num": 18,
-    "source_title": "Câu 18: Chọn đáp án sai về mô hình gia đình Việt Nam hiện đại ngày nay?",
-    "source_content": [
-      {
-        "text": "Chọn đáp án sai về mô hình gia đình Việt Nam hiện đại ngày nay?\nA. Cả hai vợ chồng cùng làm chủ gia đình\nB. Ông bà là người làm chủ gia đình \nC. Người đàn ông – người chồng làm chủ gia đình\nD. Người phụ nữ - người vợ làm chủ gia đình"
-      }
-    ],
-    "answer_verification": {
-      "url": "https://hcmunre.edu.vn/upload/elfinder/Trang%20Khoa/Khoa%20Luat%20%26LLCT/Ph%E1%BA%A7n%202_GT%20h%E1%BB%8Dc%20ph%E1%BA%A7n%20Ch%E1%BB%A7%20ngh%C4%A9a%20x%C3%A3%20h%E1%BB%99i%20khoa%20h%E1%BB%8Dc%20%28K%29%20Tr%2067%20-Tr144.pdf",
-      "section": "Chương 7, mục 3.1.3: Biến đổi quan hệ hôn nhân và vợ chồng",
-      "checked_on": "2026-10-20",
-      "method": "Đối chiếu giáo trình; câu Đúng/Sai và bảng phân loại giữ đáp án người dùng cung cấp.",
-      "printed_pages": [
-        141
-      ]
-    },
-    "question": "Câu 18: Chọn đáp án sai về mô hình gia đình Việt Nam hiện đại ngày nay?",
-    "type": "single_choice",
-    "options": [
-      "A. Cả hai vợ chồng cùng làm chủ gia đình",
-      "B. Ông bà là người làm chủ gia đình",
-      "C. Người đàn ông – người chồng làm chủ gia đình",
-      "D. Người phụ nữ - người vợ làm chủ gia đình"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson_num": 6,
-    "lesson": "Bài 6",
-    "q_num": 18,
-    "id": "user-lesson6-d1a799a6171cecda-q18",
-    "sources": [
-      {
-        "file": "BAI_6_NGUOI_DUNG.txt",
-        "question_number": 18
-      }
-    ]
-  },
-  {
-    "source_q_num": 19,
-    "source_title": "Câu 19: Sự biến đổi trong việc thực hiện chức năng giáo dục của gia đình Việt Nam hiện nay là gì?",
-    "source_content": [
-      {
-        "text": "Sự biến đổi trong việc thực hiện chức năng giáo dục của gia đình Việt Nam hiện nay là gì?\nA. Giảm chi tiêu cho giáo dục\nB. Chỉ giáo dục đạo đức mà không hướng tới giáo dục kiến thức khoa học hiện đại\nC. Sự đầu tư tài chính của gia đình cho giáo dục con cái tăng lên \nD. Không hướng tới giáo dục đạo đức, lối sống"
-      }
-    ],
-    "answer_verification": {
-      "url": "https://hcmunre.edu.vn/upload/elfinder/Trang%20Khoa/Khoa%20Luat%20%26LLCT/Ph%E1%BA%A7n%202_GT%20h%E1%BB%8Dc%20ph%E1%BA%A7n%20Ch%E1%BB%A7%20ngh%C4%A9a%20x%C3%A3%20h%E1%BB%99i%20khoa%20h%E1%BB%8Dc%20%28K%29%20Tr%2067%20-Tr144.pdf",
-      "section": "Chương 7, mục 3.1.2: Biến đổi chức năng giáo dục",
-      "checked_on": "2026-10-20",
-      "method": "Đối chiếu giáo trình; câu Đúng/Sai và bảng phân loại giữ đáp án người dùng cung cấp.",
-      "printed_pages": [
-        139
-      ]
-    },
-    "question": "Câu 19: Sự biến đổi trong việc thực hiện chức năng giáo dục của gia đình Việt Nam hiện nay là gì?",
-    "type": "single_choice",
-    "options": [
-      "A. Giảm chi tiêu cho giáo dục",
-      "B. Chỉ giáo dục đạo đức mà không hướng tới giáo dục kiến thức khoa học hiện đại",
-      "C. Sự đầu tư tài chính của gia đình cho giáo dục con cái tăng lên",
-      "D. Không hướng tới giáo dục đạo đức, lối sống"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson_num": 6,
-    "lesson": "Bài 6",
-    "q_num": 19,
-    "id": "user-lesson6-d1a799a6171cecda-q19",
-    "sources": [
-      {
-        "file": "BAI_6_NGUOI_DUNG.txt",
-        "question_number": 19
-      }
-    ]
-  },
-  {
-    "source_q_num": 20,
-    "source_title": "Câu 20: Kéo thả các yếu tố liên quan đến biến đổi gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội vào các cột tương ứng:",
-    "source_content": [
-      {
-        "text": "Kéo thả các yếu tố liên quan đến biến đổi gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội vào các cột tương ứng:\n1) Biến đổi về quy mô gia đình\t2) Biến đổi về chức năng gia đình\nGia đình đơn thân\tĐầu tư tài chính của gia đình cho giáo dục con cái tăng lên\nXu hướng thu nhỏ\tHướng đến giáo dục kiến thức khoa học hiện đại\nGia đình hạt nhân\tVai trò giáo dục của các chủ thể trong gia đình có xu hướng giảm"
-      }
-    ],
-    "answer_verification": {
-      "url": "https://hcmunre.edu.vn/upload/elfinder/Trang%20Khoa/Khoa%20Luat%20%26LLCT/Ph%E1%BA%A7n%202_GT%20h%E1%BB%8Dc%20ph%E1%BA%A7n%20Ch%E1%BB%A7%20ngh%C4%A9a%20x%C3%A3%20h%E1%BB%99i%20khoa%20h%E1%BB%8Dc%20%28K%29%20Tr%2067%20-Tr144.pdf",
-      "section": "Chương 7, mục 3.1.1–3.1.2: Quy mô và chức năng gia đình",
-      "checked_on": "2026-10-20",
-      "method": "Đối chiếu giáo trình; câu Đúng/Sai và bảng phân loại giữ đáp án người dùng cung cấp.",
-      "printed_pages": [
-        137,
-        139
-      ]
-    },
-    "question": "Câu 20: Kéo thả các yếu tố liên quan đến biến đổi gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội vào các cột tương ứng:",
-    "type": "drag_drop_categorize",
-    "categories": [
-      {
-        "title": "1) Biến đổi về quy mô gia đình",
-        "items": [
-          "Gia đình đơn thân",
-          "Xu hướng thu nhỏ",
-          "Gia đình hạt nhân"
-        ]
-      },
-      {
-        "title": "2) Biến đổi về chức năng gia đình",
-        "items": [
-          "Đầu tư tài chính của gia đình cho giáo dục con cái tăng lên",
-          "Hướng đến giáo dục kiến thức khoa học hiện đại",
-          "Vai trò giáo dục của các chủ thể trong gia đình có xu hướng giảm"
-        ]
-      }
-    ],
-    "all_items": [
-      {
-        "text": "Gia đình đơn thân",
-        "category": "1) Biến đổi về quy mô gia đình"
-      },
-      {
-        "text": "Xu hướng thu nhỏ",
-        "category": "1) Biến đổi về quy mô gia đình"
-      },
-      {
-        "text": "Gia đình hạt nhân",
-        "category": "1) Biến đổi về quy mô gia đình"
-      },
-      {
-        "text": "Đầu tư tài chính của gia đình cho giáo dục con cái tăng lên",
-        "category": "2) Biến đổi về chức năng gia đình"
-      },
-      {
-        "text": "Hướng đến giáo dục kiến thức khoa học hiện đại",
-        "category": "2) Biến đổi về chức năng gia đình"
-      },
-      {
-        "text": "Vai trò giáo dục của các chủ thể trong gia đình có xu hướng giảm",
-        "category": "2) Biến đổi về chức năng gia đình"
-      }
-    ],
-    "instruction": "Kéo hoặc chọn từng mục vào đúng cột tương ứng",
-    "lesson_num": 6,
-    "lesson": "Bài 6",
-    "q_num": 20,
-    "id": "user-lesson6-d1a799a6171cecda-q20",
-    "sources": [
-      {
-        "file": "BAI_6_NGUOI_DUNG.txt",
-        "question_number": 20
-      }
-    ]
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 21: So với các chế độ xã hội trước thì quan hệ gia đình trong thời kỳ quá độ lên chủ nghĩa xã hội có đặc điểm khác biệt về chất?",
-    "source_q_num": 40,
-    "source_title": "Câu 40: So với các chế độ xã hội trước thì quan hệ gia đình trong thời kỳ quá độ lên chủ nghĩa xã hội có đặc điểm khác biệt về chất?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 40,
-        "body_index": 1126
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Phụ nữ chỉ lo việc nội trợ B. Duy trì quan hệ gia trưởng, độc đoán C. Quan hệ bình đẳng trong gia đình, giải phóng phụ nữ D. Đàn ông là người quyết định mọi việc trong gia đình"
-      },
-      {
-        "text": "Đáp án đúng: C"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Phụ nữ chỉ lo việc nội trợ",
-      "B. Duy trì quan hệ gia trưởng, độc đoán",
-      "C. Quan hệ bình đẳng trong gia đình, giải phóng phụ nữ",
-      "D. Đàn ông là người quyết định mọi việc trong gia đình"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bài 6",
-    "q_num": 21,
-    "body_index": 1126,
-    "id": "word-c41143f3c5139fa3-p1126"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 22: Ghép các khái niệm với các phát biểu về biến đổi gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội:",
-    "source_q_num": 41,
-    "source_title": "Câu 41: Ghép các khái niệm với các phát biểu về biến đổi gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội:",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 41,
-        "body_index": 1129
-      }
-    ],
-    "source_content": [
-      {
-        "text": "1. Biến đổi về quy mô gia đình 2. Biến đổi về chức năng tái sản xuất 3. Biến đổi về quan hệ gia đình 4. Biến đổi về chức năng kinh tế"
-      },
-      {
-        "text": "Các đáp án:"
-      },
-      {
-        "text": "A. Gia đình hạt nhân B. Giảm số con C. Mâu thuẫn giữa các thế hệ D. Kinh tế hàng hóa"
-      },
-      {
-        "text": "Đáp án đúng:"
-      },
-      {
-        "text": "1 → A. Gia đình hạt nhân"
-      },
-      {
-        "text": "2 → B. Giảm số con"
-      },
-      {
-        "text": "3 → C. Mâu thuẫn giữa các thế hệ"
-      },
-      {
-        "text": "4 → D. Kinh tế hàng hóa"
-      }
-    ],
-    "type": "drag_drop_match",
-    "pairs": [
-      {
-        "left": "Biến đổi về quy mô gia đình",
-        "right": "A. Gia đình hạt nhân"
-      },
-      {
-        "left": "Biến đổi về chức năng tái sản xuất",
-        "right": "B. Giảm số con"
-      },
-      {
-        "left": "Biến đổi về quan hệ gia đình",
-        "right": "C. Mâu thuẫn giữa các thế hệ"
-      },
-      {
-        "left": "Biến đổi về chức năng kinh tế",
-        "right": "D. Kinh tế hàng hóa"
-      }
-    ],
-    "options_pool": [
-      "A. Gia đình hạt nhân",
-      "B. Giảm số con",
-      "C. Mâu thuẫn giữa các thế hệ",
-      "D. Kinh tế hàng hóa"
-    ],
-    "instruction": "Kéo hoặc chọn đáp án đúng ghép vào vế tương ứng",
-    "lesson": "Bài 6",
-    "q_num": 22,
-    "body_index": 1129,
-    "id": "word-c41143f3c5139fa3-p1129"
-  },
-  {
-    "lesson_num": 6,
-    "question": "Câu 23: Những vấn đề xã hội nào có dấu hiệu gia tăng đối với gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội? (Chọn 2 đáp án)",
-    "source_q_num": 43,
-    "source_title": "Câu 43: Những vấn đề xã hội nào có dấu hiệu gia tăng đối với gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội? (Chọn 2 đáp án)",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 43,
-        "body_index": 1144
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Sản xuất hàng hóa B. Giáo dục đạo đức C. Bạo lực gia đình D. Ly hôn"
-      },
-      {
-        "text": "Đáp án đúng: C, D"
-      }
-    ],
-    "type": "multiple_choice",
-    "options": [
-      "A. Sản xuất hàng hóa",
-      "B. Giáo dục đạo đức",
-      "C. Bạo lực gia đình",
-      "D. Ly hôn"
-    ],
-    "correct_answers": [
-      2,
-      3
-    ],
-    "instruction": "Chọn 2 đáp án đúng",
-    "lesson": "Bài 6",
-    "q_num": 23,
-    "body_index": 1144,
-    "id": "word-c41143f3c5139fa3-p1144"
+    "id": "word-1d55e841b9e15dba-p991"
   },
   {
     "lesson_num": 7,
-    "question": "Câu 1: Trong Cương lĩnh dân tộc của chủ nghĩa Mác – Lênin, nội dung nào về quyền dân tộc tự quyết được coi là cơ bản trước hết?",
-    "source_q_num": 1,
-    "source_title": "Câu 1: Trong Cương lĩnh dân tộc của chủ nghĩa Mác – Lênin, nội dung nào về quyền dân tộc tự quyết được coi là cơ bản trước hết?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 1,
-        "body_index": 1009
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Quyền tự quyết về chính trị B. Quyền tự quyết về các mối quan hệ quốc tế C. Quyền tự quyết về văn hóa D. Quyền tự quyết về kinh tế"
-      },
-      {
-        "text": "Đáp án đúng: A"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Quyền tự quyết về chính trị",
-      "B. Quyền tự quyết về các mối quan hệ quốc tế",
-      "C. Quyền tự quyết về văn hóa",
-      "D. Quyền tự quyết về kinh tế"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 1,
-    "body_index": 1009,
-    "id": "word-c41143f3c5139fa3-p1009"
-  },
-  {
-    "lesson_num": 7,
-    "question": "Câu 2: Theo quan điểm của chủ nghĩa Mác – Lênin, giải pháp căn bản để thực hiện bình đẳng dân tộc là gì?",
+    "question": "Câu 2: Để đảm bảo tính chính xác của văn bản, thư ký cần thực hiện các bước nào?",
     "source_q_num": 2,
-    "source_title": "Câu 2: Theo quan điểm của chủ nghĩa Mác – Lênin, giải pháp căn bản để thực hiện bình đẳng dân tộc là gì?",
+    "source_title": "Câu 2: Để đảm bảo tính chính xác của văn bản, thư ký cần thực hiện các bước nào?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 2,
-        "body_index": 1012
+        "body_index": 993
       }
     ],
     "source_content": [
       {
-        "text": "A. Phải duy trì chế độ tư hữu về tư liệu sản xuất B. Thủ tiêu ách áp bức giai cấp, trên cơ sở đó xóa bỏ áp bức dân tộc và đấu tranh chống chủ nghĩa phân biệt chủng tộc, chủ nghĩa sô-vanh C. Tách biệt cuộc đấu tranh dân tộc khỏi cuộc đấu tranh giai cấp của công nhân D. Liên kết thỏa hiệp với các nước đế quốc lớn"
+        "text": "A. Kiểm tra văn bản theo các quy định và yêu cầu cụ thể"
       },
       {
-        "text": "Đáp án đúng: B"
+        "text": "B. Tạo một bản sao cho mỗi người"
+      },
+      {
+        "text": "C. Sử dụng ngôn ngữ không chính thức"
+      },
+      {
+        "text": "D. Đổi nội dung văn bản theo ý kiến cá nhân"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Phải duy trì chế độ tư hữu về tư liệu sản xuất",
-      "B. Thủ tiêu ách áp bức giai cấp, trên cơ sở đó xóa bỏ áp bức dân tộc và đấu tranh chống chủ nghĩa phân biệt chủng tộc, chủ nghĩa sô-vanh",
-      "C. Tách biệt cuộc đấu tranh dân tộc khỏi cuộc đấu tranh giai cấp của công nhân",
-      "D. Liên kết thỏa hiệp với các nước đế quốc lớn"
+      "A. Kiểm tra văn bản theo các quy định và yêu cầu cụ thể",
+      "B. Tạo một bản sao cho mỗi người",
+      "C. Sử dụng ngôn ngữ không chính thức",
+      "D. Đổi nội dung văn bản theo ý kiến cá nhân"
     ],
     "correct_answers": [
-      1
+      0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
+    "lesson": "Bài 7",
     "q_num": 2,
-    "body_index": 1012,
-    "id": "word-c41143f3c5139fa3-p1012"
+    "body_index": 993,
+    "id": "word-1d55e841b9e15dba-p993"
   },
   {
     "lesson_num": 7,
-    "question": "Câu 3: Nội dung nào sau đây là nội dung chủ yếu và là giải pháp quan trọng để liên kết các nội dung của Cương lĩnh dân tộc thành một chỉnh thể?",
+    "question": "Câu 3: Thư ký văn phòng cần phải chú ý đến điều gì khi thực hiện công tác quản lý văn bản?",
     "source_q_num": 3,
-    "source_title": "Câu 3: Nội dung nào sau đây là nội dung chủ yếu và là giải pháp quan trọng để liên kết các nội dung của Cương lĩnh dân tộc thành một chỉnh thể?",
+    "source_title": "Câu 3: Thư ký văn phòng cần phải chú ý đến điều gì khi thực hiện công tác quản lý văn bản?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 3,
-        "body_index": 1015
+        "body_index": 998
       }
     ],
     "source_content": [
       {
-        "text": "A. Các dân tộc hoàn toàn bình đẳng B. Cắt đứt quan hệ giữa các quốc gia C. Liên hiệp công nhân tất cả các dân tộc D. Các dân tộc tự quyết quyền phát triển kinh tế"
+        "text": "A. Đảm bảo các tài liệu được phân loại và lưu trữ đúng cách"
       },
       {
-        "text": "Đáp án đúng: C"
+        "text": "B. Đảm bảo tất cả các tài liệu đều được xử lý ngay lập tức"
+      },
+      {
+        "text": "C. Đảm bảo các tài liệu được lưu trữ vào cùng một chỗ"
+      },
+      {
+        "text": "D. Đảm bảo không có tài liệu nào bị lưu trữ"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Các dân tộc hoàn toàn bình đẳng",
-      "B. Cắt đứt quan hệ giữa các quốc gia",
-      "C. Liên hiệp công nhân tất cả các dân tộc",
-      "D. Các dân tộc tự quyết quyền phát triển kinh tế"
+      "A. Đảm bảo các tài liệu được phân loại và lưu trữ đúng cách",
+      "B. Đảm bảo tất cả các tài liệu đều được xử lý ngay lập tức",
+      "C. Đảm bảo các tài liệu được lưu trữ vào cùng một chỗ",
+      "D. Đảm bảo không có tài liệu nào bị lưu trữ"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 7",
+    "q_num": 3,
+    "body_index": 998,
+    "id": "word-1d55e841b9e15dba-p998"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 4: Cách nào sau đây không phải là phương pháp sắp xếp hồ sơ?",
+    "source_q_num": 4,
+    "source_title": "Câu 4:Cách nào sau đây không phải là phương pháp sắp xếp hồ sơ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 4,
+        "body_index": 1003
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Sắp xếp theo khu vực địa lý"
+      },
+      {
+        "text": "B. Sắp xếp theo tác giả ban hành văn bản"
+      },
+      {
+        "text": "C. Sắp xếp theo vần chữ cái"
+      },
+      {
+        "text": "D. Sắp xếp theo giá trị tài sản"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Sắp xếp theo khu vực địa lý",
+      "B. Sắp xếp theo tác giả ban hành văn bản",
+      "C. Sắp xếp theo vần chữ cái",
+      "D. Sắp xếp theo giá trị tài sản"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 7",
+    "q_num": 4,
+    "body_index": 1003,
+    "id": "word-1d55e841b9e15dba-p1003"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 5: Khi thư ký cần sắp xếp hồ sơ theo vấn đề, lợi ích của việc này là gì?",
+    "source_q_num": 5,
+    "source_title": "Câu 5: Khi thư ký cần sắp xếp hồ sơ theo vấn đề, lợi ích của việc này là gì?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 5,
+        "body_index": 1008
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Tạo ra các tài liệu mới nhanh chóng"
+      },
+      {
+        "text": "B. Giúp giảm khối lượng công việc"
+      },
+      {
+        "text": "C. Giúp tổ chức và tra cứu tài liệu theo chủ đề dễ dàng hơn"
+      },
+      {
+        "text": "D. Tăng cường khả năng phân tích các tài liệu"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Tạo ra các tài liệu mới nhanh chóng",
+      "B. Giúp giảm khối lượng công việc",
+      "C. Giúp tổ chức và tra cứu tài liệu theo chủ đề dễ dàng hơn",
+      "D. Tăng cường khả năng phân tích các tài liệu"
     ],
     "correct_answers": [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 3,
-    "body_index": 1015,
-    "id": "word-c41143f3c5139fa3-p1015"
+    "lesson": "Bài 7",
+    "q_num": 5,
+    "body_index": 1008,
+    "id": "word-1d55e841b9e15dba-p1008"
   },
   {
     "lesson_num": 7,
-    "question": "Câu 4: Theo quan điểm duy vật lịch sử, tôn giáo là sản phẩm của yếu tố nào?",
-    "source_q_num": 4,
-    "source_title": "Câu 4: Theo quan điểm duy vật lịch sử, tôn giáo là sản phẩm của yếu tố nào?",
+    "question": "Câu 6: Hoạt động nào sau đây là cần thiết khi thư ký văn phòng lưu trữ hồ sơ?",
+    "source_q_num": 6,
+    "source_title": "Câu 6: Hoạt động nào sau đây là cần thiết khi thư ký văn phòng lưu trữ hồ sơ?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 4,
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 6,
+        "body_index": 1013
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Chỉ lưu trữ hồ sơ của năm hiện tại"
+      },
+      {
+        "text": "B. Kiểm tra và ghi biên bản giao nhận hồ sơ"
+      },
+      {
+        "text": "C. Xóa bỏ tất cả các hồ sơ cũ"
+      },
+      {
+        "text": "D. Sắp xếp hồ sơ theo thứ tự ngẫu nhiên"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Chỉ lưu trữ hồ sơ của năm hiện tại",
+      "B. Kiểm tra và ghi biên bản giao nhận hồ sơ",
+      "C. Xóa bỏ tất cả các hồ sơ cũ",
+      "D. Sắp xếp hồ sơ theo thứ tự ngẫu nhiên"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 7",
+    "q_num": 6,
+    "body_index": 1013,
+    "id": "word-1d55e841b9e15dba-p1013"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 7: Khi soạn thảo một thư mời, thư ký nên?",
+    "source_q_num": 7,
+    "source_title": "Câu 7: Khi soạn thảo một thư mời, thư ký nên?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 7,
         "body_index": 1018
       }
     ],
     "source_content": [
       {
-        "text": "A. Con người B. Thượng đế C. Lực lượng siêu nhiên D. Tự nhiên huyền bí"
+        "text": "A. Sử dụng ngôn ngữ không chính thức và thiếu trang trọng"
       },
       {
-        "text": "Đáp án đúng: A"
+        "text": "B. Chỉ cung cấp thông tin về thời gian và yêu cầu người liên hệ để biết thêm chi tiết"
+      },
+      {
+        "text": "C. Viết thư mời mà không nêu rõ thời gian, địa điểm và nội dung của sự kiện"
+      },
+      {
+        "text": "D. Soạn thảo thư mời rõ ràng, bao gồm đầy đủ thông tin về thời gian, địa điểm và mục đích của sự kiện"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Con người",
-      "B. Thượng đế",
-      "C. Lực lượng siêu nhiên",
-      "D. Tự nhiên huyền bí"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 4,
-    "body_index": 1018,
-    "id": "word-c41143f3c5139fa3-p1018"
-  },
-  {
-    "lesson_num": 7,
-    "question": "Câu 5: Đâu là điểm giống nhau căn bản giữa tôn giáo và tín ngưỡng?",
-    "source_q_num": 5,
-    "source_title": "Câu 5: Đâu là điểm giống nhau căn bản giữa tôn giáo và tín ngưỡng?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 5,
-        "body_index": 1021
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Đều có hệ thống giáo chủ chặt chẽ B. Đều có kinh sách và giáo luật hoàn chỉnh C. Đều có giáo hội quản lý cấp quốc gia D. Đều có niềm tin vào đấng siêu nhiên, thần linh"
-      },
-      {
-        "text": "Đáp án đúng: D"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Đều có hệ thống giáo chủ chặt chẽ",
-      "B. Đều có kinh sách và giáo luật hoàn chỉnh",
-      "C. Đều có giáo hội quản lý cấp quốc gia",
-      "D. Đều có niềm tin vào đấng siêu nhiên, thần linh"
+      "A. Sử dụng ngôn ngữ không chính thức và thiếu trang trọng",
+      "B. Chỉ cung cấp thông tin về thời gian và yêu cầu người liên hệ để biết thêm chi tiết",
+      "C. Viết thư mời mà không nêu rõ thời gian, địa điểm và nội dung của sự kiện",
+      "D. Soạn thảo thư mời rõ ràng, bao gồm đầy đủ thông tin về thời gian, địa điểm và mục đích của sự kiện"
     ],
     "correct_answers": [
       3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 5,
-    "body_index": 1021,
-    "id": "word-c41143f3c5139fa3-p1021"
+    "lesson": "Bài 7",
+    "q_num": 7,
+    "body_index": 1018,
+    "id": "word-1d55e841b9e15dba-p1018"
   },
   {
     "lesson_num": 7,
-    "question": "Câu 6: Niềm tin của con người vào các lực lượng siêu nhiên, thần thánh đến mức độ mê muội, cuồng tín, dẫn đến những hành vi cực đoan, sai lệch, trái với đạo đức và pháp luật gọi là gì?",
-    "source_q_num": 6,
-    "source_title": "Câu 6: Niềm tin của con người vào các lực lượng siêu nhiên, thần thánh đến mức độ mê muội, cuồng tín, dẫn đến những hành vi cực đoan, sai lệch, trái với đạo đức và pháp luật gọi là gì?",
+    "question": "Câu 8: Khi soạn thảo một thông cáo báo chí, thư ký nên?",
+    "source_q_num": 8,
+    "source_title": "Câu 8: Khi soạn thảo một thông cáo báo chí, thư ký nên?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 6,
-        "body_index": 1024
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 8,
+        "body_index": 1023
       }
     ],
     "source_content": [
       {
-        "text": "A. Thờ anh hùng dân tộc B. Tín ngưỡng thờ Mẫu C. Mê tín dị đoan D. Thờ cúng tổ tiên"
+        "text": "A. Đưa ra thông tin không chính xác và không kiểm chứng"
       },
       {
-        "text": "Đáp án đúng: C"
+        "text": "B. Cung cấp thông tin chính xác, rõ ràng, theo định dạng thông cáo báo chí chuẩn và kiểm chứng nguồn thông tin"
+      },
+      {
+        "text": "C. Viết thông cáo báo chí theo cách không phù hợp với định dạng chuẩn"
+      },
+      {
+        "text": "D. Để thông cáo báo chí thiếu phần tiêu đề và nội dung quan trọng"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Thờ anh hùng dân tộc",
-      "B. Tín ngưỡng thờ Mẫu",
-      "C. Mê tín dị đoan",
-      "D. Thờ cúng tổ tiên"
+      "A. Đưa ra thông tin không chính xác và không kiểm chứng",
+      "B. Cung cấp thông tin chính xác, rõ ràng, theo định dạng thông cáo báo chí chuẩn và kiểm chứng nguồn thông tin",
+      "C. Viết thông cáo báo chí theo cách không phù hợp với định dạng chuẩn",
+      "D. Để thông cáo báo chí thiếu phần tiêu đề và nội dung quan trọng"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 7",
+    "q_num": 8,
+    "body_index": 1023,
+    "id": "word-1d55e841b9e15dba-p1023"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 9: Khi biên tập một bản kế hoạch công việc, thư ký nên?",
+    "source_q_num": 9,
+    "source_title": "Câu 9: Khi biên tập một bản kế hoạch công việc, thư ký nên?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 9,
+        "body_index": 1028
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Viết kế hoạch chung chung và không đề cập đến mục tiêu cụ thể"
+      },
+      {
+        "text": "B. Để bản kế hoạch không có thời gian và trách nhiệm cụ thể"
+      },
+      {
+        "text": "C. Soạn thảo bản kế hoạch chi tiết, với mục tiêu rõ ràng, thời gian và các bước thực hiện cụ thể"
+      },
+      {
+        "text": "D. Thay đổi nội dung kế hoạch mà không thông báo cho các bên liên quan"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Viết kế hoạch chung chung và không đề cập đến mục tiêu cụ thể",
+      "B. Để bản kế hoạch không có thời gian và trách nhiệm cụ thể",
+      "C. Soạn thảo bản kế hoạch chi tiết, với mục tiêu rõ ràng, thời gian và các bước thực hiện cụ thể",
+      "D. Thay đổi nội dung kế hoạch mà không thông báo cho các bên liên quan"
     ],
     "correct_answers": [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 6,
-    "body_index": 1024,
-    "id": "word-c41143f3c5139fa3-p1024"
+    "lesson": "Bài 7",
+    "q_num": 9,
+    "body_index": 1028,
+    "id": "word-1d55e841b9e15dba-p1028"
   },
   {
     "lesson_num": 7,
-    "question": "Câu 7: Ở Việt Nam hiện nay có khoảng bao nhiêu dân tộc cùng sinh sống?",
-    "source_q_num": 7,
-    "source_title": "Câu 7: Ở Việt Nam hiện nay có khoảng bao nhiêu dân tộc cùng sinh sống?",
+    "question": "Câu 10: Khi soạn thảo một thông báo nội bộ, thư ký nên?",
+    "source_q_num": 10,
+    "source_title": "Câu 10: Khi soạn thảo một thông báo nội bộ, thư ký nên?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 7,
-        "body_index": 1027
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. 54 dân tộc B. 50 dân tộc C. 45 dân tộc D. 63 dân tộc"
-      },
-      {
-        "text": "Đáp án đúng: A"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. 54 dân tộc",
-      "B. 50 dân tộc",
-      "C. 45 dân tộc",
-      "D. 63 dân tộc"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 7,
-    "body_index": 1027,
-    "id": "word-c41143f3c5139fa3-p1027"
-  },
-  {
-    "lesson_num": 7,
-    "question": "Câu 8: Vì sao Đảng và Nhà nước Việt Nam chủ trương luôn tôn trọng, bảo đảm quyền tự do tín ngưỡng, tôn giáo và không tín ngưỡng tôn giáo của nhân dân?",
-    "source_q_num": 8,
-    "source_title": "Câu 8: Vì sao Đảng và Nhà nước Việt Nam chủ trương luôn tôn trọng, bảo đảm quyền tự do tín ngưỡng, tôn giáo và không tín ngưỡng tôn giáo của nhân dân?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 8,
-        "body_index": 1030
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Vì tín ngưỡng, tôn giáo được du nhập hoàn toàn từ nước ngoài vào B. Vì các tổ chức tôn giáo có tiềm lực kinh tế lớn mạnh C. Vì số lượng tín đồ chiếm đại đa số tuyệt đối dân số D. Vì tín ngưỡng, tôn giáo là nhu cầu tinh thần của một bộ phận nhân dân"
-      },
-      {
-        "text": "Đáp án đúng: D"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Vì tín ngưỡng, tôn giáo được du nhập hoàn toàn từ nước ngoài vào",
-      "B. Vì các tổ chức tôn giáo có tiềm lực kinh tế lớn mạnh",
-      "C. Vì số lượng tín đồ chiếm đại đa số tuyệt đối dân số",
-      "D. Vì tín ngưỡng, tôn giáo là nhu cầu tinh thần của một bộ phận nhân dân"
-    ],
-    "correct_answers": [
-      3
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 8,
-    "body_index": 1030,
-    "id": "word-c41143f3c5139fa3-p1030"
-  },
-  {
-    "lesson_num": 7,
-    "question": "Câu 9: Nhóm yếu tố nào sau đây phản ánh đầy đủ nguồn gốc hình thành và tồn tại của tôn giáo?",
-    "source_q_num": 9,
-    "source_title": "Câu 9: Nhóm yếu tố nào sau đây phản ánh đầy đủ nguồn gốc hình thành và tồn tại của tôn giáo?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 9,
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 10,
         "body_index": 1033
       }
     ],
     "source_content": [
       {
-        "text": "A. Hệ thống tín đồ, tổ chức giáo phẩm và nghi lễ B. Cơ sở thờ tự, kinh sách và giáo luật C. Nguồn gốc nhận thức, tâm lý và kinh tế - xã hội D. Sự can thiệp của các đấng sáng tạo siêu nhiên"
+        "text": "A. Viết thông báo mà không đề cập đến các chi tiết quan trọng như thời gian, địa điểm và nội dung"
       },
       {
-        "text": "Đáp án đúng: C"
+        "text": "B. Sử dụng ngôn ngữ không chính thức và thiếu cấu trúc"
+      },
+      {
+        "text": "C. Chỉ ghi lại thông tin chính mà không cung cấp hướng dẫn cụ thể"
+      },
+      {
+        "text": "D. Soạn thảo thông báo nội bộ rõ ràng, bao gồm đầy đủ thông tin cần thiết và dễ hiểu"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Hệ thống tín đồ, tổ chức giáo phẩm và nghi lễ",
-      "B. Cơ sở thờ tự, kinh sách và giáo luật",
-      "C. Nguồn gốc nhận thức, tâm lý và kinh tế - xã hội",
-      "D. Sự can thiệp của các đấng sáng tạo siêu nhiên"
+      "A. Viết thông báo mà không đề cập đến các chi tiết quan trọng như thời gian, địa điểm và nội dung",
+      "B. Sử dụng ngôn ngữ không chính thức và thiếu cấu trúc",
+      "C. Chỉ ghi lại thông tin chính mà không cung cấp hướng dẫn cụ thể",
+      "D. Soạn thảo thông báo nội bộ rõ ràng, bao gồm đầy đủ thông tin cần thiết và dễ hiểu"
     ],
     "correct_answers": [
-      2
+      3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 9,
+    "lesson": "Bài 7",
+    "q_num": 10,
     "body_index": 1033,
-    "id": "word-c41143f3c5139fa3-p1033"
+    "id": "word-1d55e841b9e15dba-p1033"
   },
   {
     "lesson_num": 7,
-    "question": "Câu 10: Khái niệm dân tộc theo nghĩa hẹp được dùng để chỉ khái niệm nào?",
-    "source_q_num": 10,
-    "source_title": "Câu 10: Khái niệm dân tộc theo nghĩa hẹp được dùng để chỉ khái niệm nào?",
+    "question": "Câu 11: Khi nhận được phản hồi về một tài liệu đã soạn thảo, thư ký nên?",
+    "source_q_num": 11,
+    "source_title": "Câu 11: Khi nhận được phản hồi về một tài liệu đã soạn thảo, thư ký nên?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 10,
-        "body_index": 1036
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 11,
+        "body_index": 1038
       }
     ],
     "source_content": [
       {
-        "text": "A. Dân tộc quốc gia B. Dân tộc tộc người C. Cộng đồng đa quốc gia D. Liên hiệp các quốc gia"
+        "text": "A. Phản hồi lại mà không thực hiện bất kỳ điều chỉnh nào"
       },
       {
-        "text": "Đáp án đúng: B"
+        "text": "B. Xem xét phản hồi một cách nghiêm túc, thực hiện các điều chỉnh cần thiết và cảm ơn người phản hồi"
+      },
+      {
+        "text": "C. Bỏ qua phản hồi và không thực hiện bất kỳ thay đổi nào"
+      },
+      {
+        "text": "D. Chỉ đọc phản hồi mà không áp dụng thay đổi cho tài liệu"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Dân tộc quốc gia",
-      "B. Dân tộc tộc người",
-      "C. Cộng đồng đa quốc gia",
-      "D. Liên hiệp các quốc gia"
+      "A. Phản hồi lại mà không thực hiện bất kỳ điều chỉnh nào",
+      "B. Xem xét phản hồi một cách nghiêm túc, thực hiện các điều chỉnh cần thiết và cảm ơn người phản hồi",
+      "C. Bỏ qua phản hồi và không thực hiện bất kỳ thay đổi nào",
+      "D. Chỉ đọc phản hồi mà không áp dụng thay đổi cho tài liệu"
     ],
     "correct_answers": [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 10,
-    "body_index": 1036,
-    "id": "word-c41143f3c5139fa3-p1036"
+    "lesson": "Bài 7",
+    "q_num": 11,
+    "body_index": 1038,
+    "id": "word-1d55e841b9e15dba-p1038"
   },
   {
     "lesson_num": 7,
-    "question": "Câu 11: Tiêu chí nào mang tính thiêng liêng nhất đối với một dân tộc quốc gia và mỗi thành viên dân tộc?",
-    "source_q_num": 11,
-    "source_title": "Câu 11: Tiêu chí nào mang tính thiêng liêng nhất đối với một dân tộc quốc gia và mỗi thành viên dân tộc?",
+    "question": "Câu 12: Khi tổ chức tài liệu để chuẩn bị cho một cuộc kiểm tra nội bộ, thư ký nên?",
+    "source_q_num": 12,
+    "source_title": "Câu 12: Khi tổ chức tài liệu để chuẩn bị cho một cuộc kiểm tra nội bộ, thư ký nên?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 11,
-        "body_index": 1039
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 12,
+        "body_index": 1043
       }
     ],
     "source_content": [
       {
-        "text": "A. Lãnh thổ B. Thị trường nội địa C. Mức sống thu nhập D. Ý thức cá nhân"
+        "text": "A. Sắp xếp tài liệu theo đúng hệ thống phân loại và định dạng để dễ dàng kiểm tra và tìm kiếm"
       },
       {
-        "text": "Đáp án đúng: A"
+        "text": "B. Không chuẩn bị gì và để kiểm tra diễn ra theo cách tự nhiên"
+      },
+      {
+        "text": "C. Để tài liệu theo cách ngẫu nhiên và không có hệ thống"
+      },
+      {
+        "text": "D. Chỉ giữ lại tài liệu quan trọng và bỏ qua các tài liệu khác"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Lãnh thổ",
-      "B. Thị trường nội địa",
-      "C. Mức sống thu nhập",
-      "D. Ý thức cá nhân"
+      "A. Sắp xếp tài liệu theo đúng hệ thống phân loại và định dạng để dễ dàng kiểm tra và tìm kiếm",
+      "B. Không chuẩn bị gì và để kiểm tra diễn ra theo cách tự nhiên",
+      "C. Để tài liệu theo cách ngẫu nhiên và không có hệ thống",
+      "D. Chỉ giữ lại tài liệu quan trọng và bỏ qua các tài liệu khác"
     ],
     "correct_answers": [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 11,
-    "body_index": 1039,
-    "id": "word-c41143f3c5139fa3-p1039"
-  },
-  {
-    "lesson_num": 7,
-    "question": "Câu 12: Nhận định nào sau đây là SAI khi nói về quyền tự quyết dân tộc trong Cương lĩnh dân tộc Mác – Lênin?",
-    "source_q_num": 12,
-    "source_title": "Câu 12: Nhận định nào sau đây là SAI khi nói về quyền tự quyết dân tộc trong Cương lĩnh dân tộc Mác – Lênin?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 12,
-        "body_index": 1042
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Quyền tự quyết bao gồm quyền tự do tách ra thành quốc gia độc lập B. Quyền tự quyết dân tộc không bao gồm nội dung tự nguyện liên hiệp các dân tộc lại C. Dân tộc tộc người có đặc trưng về ngôn ngữ riêng D. Cương lĩnh dân tộc khẳng định nguyên tắc bình đẳng giữa các dân tộc"
-      },
-      {
-        "text": "Đáp án đúng: B"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Quyền tự quyết bao gồm quyền tự do tách ra thành quốc gia độc lập",
-      "B. Quyền tự quyết dân tộc không bao gồm nội dung tự nguyện liên hiệp các dân tộc lại",
-      "C. Dân tộc tộc người có đặc trưng về ngôn ngữ riêng",
-      "D. Cương lĩnh dân tộc khẳng định nguyên tắc bình đẳng giữa các dân tộc"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
+    "lesson": "Bài 7",
     "q_num": 12,
-    "body_index": 1042,
-    "id": "word-c41143f3c5139fa3-p1042"
+    "body_index": 1043,
+    "id": "word-1d55e841b9e15dba-p1043"
   },
   {
     "lesson_num": 7,
-    "question": "Câu 13: Hình thái ý thức xã hội phản ánh một cách hoang đường, hư ảo hiện thực khách quan là khái niệm của hiện tượng nào?",
+    "question": "Câu 13: Khi lưu trữ hồ sơ giấy, thư ký nên?",
     "source_q_num": 13,
-    "source_title": "Câu 13: Hình thái ý thức xã hội phản ánh một cách hoang đường, hư ảo hiện thực khách quan là khái niệm của hiện tượng nào?",
+    "source_title": "Câu 13: Khi lưu trữ hồ sơ giấy, thư ký nên?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
         "question_number": 13,
-        "body_index": 1045
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Nghệ thuật dân gian B. Tôn giáo C. Đạo đức xã hội D. Triết học khoa học"
-      },
-      {
-        "text": "Đáp án đúng: B"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Nghệ thuật dân gian",
-      "B. Tôn giáo",
-      "C. Đạo đức xã hội",
-      "D. Triết học khoa học"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 13,
-    "body_index": 1045,
-    "id": "word-c41143f3c5139fa3-p1045"
-  },
-  {
-    "lesson_num": 7,
-    "question": "Câu 14: Phát biểu nào sau đây là SAI về sự khác biệt giữa tín ngưỡng và tôn giáo?",
-    "source_q_num": 14,
-    "source_title": "Câu 14: Phát biểu nào sau đây là SAI về sự khác biệt giữa tín ngưỡng và tôn giáo?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 14,
         "body_index": 1048
       }
     ],
     "source_content": [
       {
-        "text": "A. Tín ngưỡng có hệ thống giáo lý, giáo luật và tổ chức chặt chẽ như tôn giáo B. Nguồn gốc kinh tế - xã hội dẫn đến sự ra đời của tôn giáo C. Mê tín dị đoan là niềm tin mù quáng gây hậu quả xấu cần loại bỏ D. Tôn giáo phản ánh hiện thực một cách hoang đường, hư ảo"
+        "text": "A. Để hồ sơ lộn xộn trong các hộp không được phân loại"
       },
       {
-        "text": "Đáp án đúng: A"
+        "text": "B. Để hồ sơ ở bất kỳ đâu trong văn phòng để tiết kiệm thời gian"
+      },
+      {
+        "text": "C. Phân loại hồ sơ theo hệ thống phân loại đã quy định và lưu trữ chúng trong các tủ hồ sơ hoặc hộp đựng đúng cách"
+      },
+      {
+        "text": "D. Chỉ lưu trữ hồ sơ quan trọng và bỏ qua các hồ sơ khác"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Tín ngưỡng có hệ thống giáo lý, giáo luật và tổ chức chặt chẽ như tôn giáo",
-      "B. Nguồn gốc kinh tế - xã hội dẫn đến sự ra đời của tôn giáo",
-      "C. Mê tín dị đoan là niềm tin mù quáng gây hậu quả xấu cần loại bỏ",
-      "D. Tôn giáo phản ánh hiện thực một cách hoang đường, hư ảo"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 14,
-    "body_index": 1048,
-    "id": "word-c41143f3c5139fa3-p1048"
-  },
-  {
-    "lesson_num": 7,
-    "question": "Câu 15: Vì sao các tôn giáo ở Việt Nam luôn đồng hành cùng dân tộc và đóng góp tích cực cho sự nghiệp xây dựng, bảo vệ Tổ quốc?",
-    "source_q_num": 15,
-    "source_title": "Câu 15: Vì sao các tôn giáo ở Việt Nam luôn đồng hành cùng dân tộc và đóng góp tích cực cho sự nghiệp xây dựng, bảo vệ Tổ quốc?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 15,
-        "body_index": 1051
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Vì đa số tín đồ là nhân dân lao động có tinh thần yêu nước, chống giặc ngoại xâm B. Vì các tôn giáo nắm vai trò lãnh đạo cơ quan quyền lực nhà nước C. Vì các tổ chức tôn giáo có quân đội riêng bảo vệ biên giới D. Vì các tôn giáo được chi phối bởi các tổ chức quốc tế"
-      },
-      {
-        "text": "Đáp án đúng: A"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Vì đa số tín đồ là nhân dân lao động có tinh thần yêu nước, chống giặc ngoại xâm",
-      "B. Vì các tôn giáo nắm vai trò lãnh đạo cơ quan quyền lực nhà nước",
-      "C. Vì các tổ chức tôn giáo có quân đội riêng bảo vệ biên giới",
-      "D. Vì các tôn giáo được chi phối bởi các tổ chức quốc tế"
-    ],
-    "correct_answers": [
-      0
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 15,
-    "body_index": 1051,
-    "id": "word-c41143f3c5139fa3-p1051"
-  },
-  {
-    "lesson_num": 7,
-    "question": "Câu 16: Đâu là các đặc trưng cơ bản thuộc về dân tộc tộc người?",
-    "source_q_num": 16,
-    "source_title": "Câu 16: Đâu là các đặc trưng cơ bản thuộc về dân tộc tộc người?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 16,
-        "body_index": 1054
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Lãnh thổ quốc gia, nền kinh tế chung, nhà nước chung B. Ngôn ngữ tộc người, văn hóa đặc thù và ý thức tự giác tộc người C. Quân đội riêng, hiến pháp riêng, tài chính độc lập D. Hệ thống chính trị riêng biệt và tiền tệ riêng"
-      },
-      {
-        "text": "Đáp án đúng: B"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Lãnh thổ quốc gia, nền kinh tế chung, nhà nước chung",
-      "B. Ngôn ngữ tộc người, văn hóa đặc thù và ý thức tự giác tộc người",
-      "C. Quân đội riêng, hiến pháp riêng, tài chính độc lập",
-      "D. Hệ thống chính trị riêng biệt và tiền tệ riêng"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 16,
-    "body_index": 1054,
-    "id": "word-c41143f3c5139fa3-p1054"
-  },
-  {
-    "lesson_num": 7,
-    "question": "Câu 17: Hai nguyên nhân chủ yếu khiến tôn giáo vẫn tiếp tục tồn tại lâu dài trong thời kỳ quá độ là gì?",
-    "source_q_num": 17,
-    "source_title": "Câu 17: Hai nguyên nhân chủ yếu khiến tôn giáo vẫn tiếp tục tồn tại lâu dài trong thời kỳ quá độ là gì?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 17,
-        "body_index": 1057
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Do quy định bắt buộc của nhà nước và do các giáo hội nước ngoài thúc đẩy B. Do khoa học chưa giải thích hết mọi hiện tượng và xã hội vẫn còn phân hóa, áp bức C. Do các thế lực siêu nhiên thực sự tồn tại can thiệp vào đời sống D. Do sự phát triển của công nghệ truyền thông"
-      },
-      {
-        "text": "Đáp án đúng: B"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Do quy định bắt buộc của nhà nước và do các giáo hội nước ngoài thúc đẩy",
-      "B. Do khoa học chưa giải thích hết mọi hiện tượng và xã hội vẫn còn phân hóa, áp bức",
-      "C. Do các thế lực siêu nhiên thực sự tồn tại can thiệp vào đời sống",
-      "D. Do sự phát triển của công nghệ truyền thông"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 17,
-    "body_index": 1057,
-    "id": "word-c41143f3c5139fa3-p1057"
-  },
-  {
-    "lesson_num": 7,
-    "question": "Câu 18: Điểm khác biệt căn bản trong quá trình hình thành dân tộc Việt Nam so với các dân tộc phương Tây là gì?",
-    "source_q_num": 18,
-    "source_title": "Câu 18: Điểm khác biệt căn bản trong quá trình hình thành dân tộc Việt Nam so với các dân tộc phương Tây là gì?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 18,
-        "body_index": 1060
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Hình thành gắn liền với sự phát triển mạnh mẽ của phương thức tư bản chủ nghĩa B. Hình thành do quá trình đồng hóa cưỡng bức của các triều đại phong kiến C. Hình thành sớm do đòi hỏi khách quan của công cuộc trị thủy, làm thủy lợi và đoàn kết chống giặc ngoại xâm D. Hình thành do dân tộc có quy mô diện tích lãnh thổ nhỏ hẹp"
-      },
-      {
-        "text": "Đáp án đúng: C"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Hình thành gắn liền với sự phát triển mạnh mẽ của phương thức tư bản chủ nghĩa",
-      "B. Hình thành do quá trình đồng hóa cưỡng bức của các triều đại phong kiến",
-      "C. Hình thành sớm do đòi hỏi khách quan của công cuộc trị thủy, làm thủy lợi và đoàn kết chống giặc ngoại xâm",
-      "D. Hình thành do dân tộc có quy mô diện tích lãnh thổ nhỏ hẹp"
+      "A. Để hồ sơ lộn xộn trong các hộp không được phân loại",
+      "B. Để hồ sơ ở bất kỳ đâu trong văn phòng để tiết kiệm thời gian",
+      "C. Phân loại hồ sơ theo hệ thống phân loại đã quy định và lưu trữ chúng trong các tủ hồ sơ hoặc hộp đựng đúng cách",
+      "D. Chỉ lưu trữ hồ sơ quan trọng và bỏ qua các hồ sơ khác"
     ],
     "correct_answers": [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 18,
-    "body_index": 1060,
-    "id": "word-c41143f3c5139fa3-p1060"
+    "lesson": "Bài 7",
+    "q_num": 13,
+    "body_index": 1048,
+    "id": "word-1d55e841b9e15dba-p1048"
   },
   {
     "lesson_num": 7,
-    "question": "Câu 19: Tính nhất nguyên về mặt chính trị của nền dân chủ xã hội chủ nghĩa được thể hiện như thế nào?",
-    "source_q_num": 19,
-    "source_title": "Câu 19: Tính nhất nguyên về mặt chính trị của nền dân chủ xã hội chủ nghĩa được thể hiện như thế nào?",
+    "question": "Câu 14: Khi tạo một hệ thống lưu trữ tài liệu mới, thư ký nên?",
+    "source_q_num": 14,
+    "source_title": "Câu 14: Khi tạo một hệ thống lưu trữ tài liệu mới, thư ký nên?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 19,
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 14,
+        "body_index": 1053
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Bỏ qua việc tham khảo ý kiến của các bộ phận khác để tiết kiệm thời gian"
+      },
+      {
+        "text": "B. Tạo hệ thống theo cách riêng mà không tham khảo ý kiến của các đồng nghiệp"
+      },
+      {
+        "text": "C. Sử dụng hệ thống lưu trữ cũ mà không cập nhật hoặc thay đổi"
+      },
+      {
+        "text": "D. Phối hợp với các bộ phận khác để thiết lập hệ thống lưu trữ phù hợp với nhu cầu và quy trình công việc"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Bỏ qua việc tham khảo ý kiến của các bộ phận khác để tiết kiệm thời gian",
+      "B. Tạo hệ thống theo cách riêng mà không tham khảo ý kiến của các đồng nghiệp",
+      "C. Sử dụng hệ thống lưu trữ cũ mà không cập nhật hoặc thay đổi",
+      "D. Phối hợp với các bộ phận khác để thiết lập hệ thống lưu trữ phù hợp với nhu cầu và quy trình công việc"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 7",
+    "q_num": 14,
+    "body_index": 1053,
+    "id": "word-1d55e841b9e15dba-p1053"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 15: Khi sử dụng hệ thống lưu trữ điện tử, thư ký nên?",
+    "source_q_num": 15,
+    "source_title": "Câu 15: Khi sử dụng hệ thống lưu trữ điện tử, thư ký nên?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 15,
+        "body_index": 1058
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Chỉ lưu trữ tài liệu dưới dạng giấy và không sử dụng hệ thống điện tử"
+      },
+      {
+        "text": "B. Lưu trữ tài liệu mà không kiểm tra tính bảo mật của hệ thống"
+      },
+      {
+        "text": "C. Lưu trữ tài liệu trên hệ thống lưu trữ điện tử và thực hiện sao lưu định kỳ để đảm bảo an toàn"
+      },
+      {
+        "text": "D. Lưu trữ tài liệu trên máy tính cá nhân mà không sao lưu"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Chỉ lưu trữ tài liệu dưới dạng giấy và không sử dụng hệ thống điện tử",
+      "B. Lưu trữ tài liệu mà không kiểm tra tính bảo mật của hệ thống",
+      "C. Lưu trữ tài liệu trên hệ thống lưu trữ điện tử và thực hiện sao lưu định kỳ để đảm bảo an toàn",
+      "D. Lưu trữ tài liệu trên máy tính cá nhân mà không sao lưu"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 7",
+    "q_num": 15,
+    "body_index": 1058,
+    "id": "word-1d55e841b9e15dba-p1058"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 16: Tại sao thư ký cần phải nắm vững các quy định về soạn thảo văn bản?",
+    "source_q_num": 16,
+    "source_title": "Câu 16: Tại sao thư ký cần phải nắm vững các quy định về soạn thảo văn bản?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 16,
         "body_index": 1063
       }
     ],
     "source_content": [
       {
-        "text": "A. Nền dân chủ chấp nhận cơ chế đa đảng cạnh tranh quyền lực B. Nền dân chủ do tầng lớp trí thức nắm quyền chuyên chính C. Nền dân chủ đặt dưới sự lãnh đạo duy nhất của Đảng Cộng sản – đại biểu cho trí tuệ, lợi ích của công nhân, nhân dân lao động và toàn dân tộc D. Nền dân chủ chỉ phục vụ quyền lợi của riêng giai cấp nông dân"
+        "text": "A. Để đảm bảo văn bản hợp lệ và chính xác"
       },
       {
-        "text": "Đáp án đúng: C"
+        "text": "B. Để tổ chức cuộc họp hiệu quả hơn"
+      },
+      {
+        "text": "C. Để phân tích các văn bản của đối tác"
+      },
+      {
+        "text": "D. Để tạo ra các văn bản phong phú"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Nền dân chủ chấp nhận cơ chế đa đảng cạnh tranh quyền lực",
-      "B. Nền dân chủ do tầng lớp trí thức nắm quyền chuyên chính",
-      "C. Nền dân chủ đặt dưới sự lãnh đạo duy nhất của Đảng Cộng sản – đại biểu cho trí tuệ, lợi ích của công nhân, nhân dân lao động và toàn dân tộc",
-      "D. Nền dân chủ chỉ phục vụ quyền lợi của riêng giai cấp nông dân"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 19,
-    "body_index": 1063,
-    "id": "word-c41143f3c5139fa3-p1063"
-  },
-  {
-    "lesson_num": 7,
-    "question": "Câu 20: Luận điểm nào sau đây KHÔNG đúng khi so sánh nền dân chủ xã hội chủ nghĩa với nền dân chủ tư sản?",
-    "source_q_num": 20,
-    "source_title": "Câu 20: Luận điểm nào sau đây KHÔNG đúng khi so sánh nền dân chủ xã hội chủ nghĩa với nền dân chủ tư sản?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 20,
-        "body_index": 1066
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Dựa trên chế độ công hữu về các tư liệu sản xuất chủ yếu của xã hội B. Mang tính nhất nguyên về chính trị dưới sự lãnh đạo của Đảng Cộng sản C. Là nền dân chủ thuần túy, hoàn toàn không mang tính giai cấp D. Được thực hiện chủ yếu bằng công cụ Nhà nước pháp quyền xã hội chủ nghĩa"
-      },
-      {
-        "text": "Đáp án đúng: C"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Dựa trên chế độ công hữu về các tư liệu sản xuất chủ yếu của xã hội",
-      "B. Mang tính nhất nguyên về chính trị dưới sự lãnh đạo của Đảng Cộng sản",
-      "C. Là nền dân chủ thuần túy, hoàn toàn không mang tính giai cấp",
-      "D. Được thực hiện chủ yếu bằng công cụ Nhà nước pháp quyền xã hội chủ nghĩa"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 20,
-    "body_index": 1066,
-    "id": "word-c41143f3c5139fa3-p1066"
-  },
-  {
-    "lesson_num": 7,
-    "question": "Câu 21: So với các nền dân chủ trước đây trong lịch sử, dân chủ xã hội chủ nghĩa có điểm khác biệt căn bản nào?",
-    "source_q_num": 21,
-    "source_title": "Câu 21: So với các nền dân chủ trước đây trong lịch sử, dân chủ xã hội chủ nghĩa có điểm khác biệt căn bản nào?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 21,
-        "body_index": 1069
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Là nền dân chủ rộng rãi cho giai cấp công nhân và nhân dân lao động B. Là nền dân chủ phi lịch sử, tồn tại vĩnh viễn ngoài nhà nước C. Là nền dân chủ thuần túy, không có giới hạn pháp lý D. Không còn mang tính giai cấp"
-      },
-      {
-        "text": "Đáp án đúng: A"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Là nền dân chủ rộng rãi cho giai cấp công nhân và nhân dân lao động",
-      "B. Là nền dân chủ phi lịch sử, tồn tại vĩnh viễn ngoài nhà nước",
-      "C. Là nền dân chủ thuần túy, không có giới hạn pháp lý",
-      "D. Không còn mang tính giai cấp"
+      "A. Để đảm bảo văn bản hợp lệ và chính xác",
+      "B. Để tổ chức cuộc họp hiệu quả hơn",
+      "C. Để phân tích các văn bản của đối tác",
+      "D. Để tạo ra các văn bản phong phú"
     ],
     "correct_answers": [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 21,
-    "body_index": 1069,
-    "id": "word-c41143f3c5139fa3-p1069"
+    "lesson": "Bài 7",
+    "q_num": 16,
+    "body_index": 1063,
+    "id": "word-1d55e841b9e15dba-p1063"
   },
   {
     "lesson_num": 7,
-    "question": "Câu 22: Việc thực hiện chế độ công hữu về tư liệu sản xuất chủ yếu và phân phối lợi ích theo kết quả lao động là bản chất kinh tế của nền dân chủ nào?",
-    "source_q_num": 22,
-    "source_title": "Câu 22: Việc thực hiện chế độ công hữu về tư liệu sản xuất chủ yếu và phân phối lợi ích theo kết quả lao động là bản chất kinh tế của nền dân chủ nào?",
+    "question": "Câu 17: Khi biên tập một báo cáo, thư ký nên?",
+    "source_q_num": 17,
+    "source_title": "Câu 17: Khi biên tập một báo cáo, thư ký nên?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 22,
-        "body_index": 1072
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 17,
+        "body_index": 1068
       }
     ],
     "source_content": [
       {
-        "text": "A. Nền dân chủ tư sản B. Nền dân chủ chủ nô C. Nền dân chủ xã hội chủ nghĩa D. Nền dân chủ nguyên thủy"
+        "text": "A. Kiểm tra kỹ lưỡng lỗi chính tả, ngữ pháp và đảm bảo thông tin chính xác, rõ ràng"
       },
       {
-        "text": "Đáp án đúng: C"
+        "text": "B. Thay đổi nội dung theo ý của mình mà không thông báo cho tác giả"
+      },
+      {
+        "text": "C. Chỉ tập trung vào định dạng văn bản mà không chú ý đến nội dung"
+      },
+      {
+        "text": "D. Bỏ qua lỗi chính tả và ngữ pháp để tiết kiệm thời gian"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Nền dân chủ tư sản",
-      "B. Nền dân chủ chủ nô",
-      "C. Nền dân chủ xã hội chủ nghĩa",
-      "D. Nền dân chủ nguyên thủy"
+      "A. Kiểm tra kỹ lưỡng lỗi chính tả, ngữ pháp và đảm bảo thông tin chính xác, rõ ràng",
+      "B. Thay đổi nội dung theo ý của mình mà không thông báo cho tác giả",
+      "C. Chỉ tập trung vào định dạng văn bản mà không chú ý đến nội dung",
+      "D. Bỏ qua lỗi chính tả và ngữ pháp để tiết kiệm thời gian"
     ],
     "correct_answers": [
-      2
+      0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 22,
-    "body_index": 1072,
-    "id": "word-c41143f3c5139fa3-p1072"
+    "lesson": "Bài 7",
+    "q_num": 17,
+    "body_index": 1068,
+    "id": "word-1d55e841b9e15dba-p1068"
   },
   {
     "lesson_num": 7,
-    "question": "Câu 23: Nhà nước pháp quyền xã hội chủ nghĩa quản lý mọi mặt của đời sống xã hội chủ yếu bằng công cụ nào?",
-    "source_q_num": 23,
-    "source_title": "Câu 23: Nhà nước pháp quyền xã hội chủ nghĩa quản lý mọi mặt của đời sống xã hội chủ yếu bằng công cụ nào?",
+    "question": "Câu 18: Khi soạn thảo một bản hợp đồng, thư ký nên?",
+    "source_q_num": 18,
+    "source_title": "Câu 18: Khi soạn thảo một bản hợp đồng, thư ký nên?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 23,
-        "body_index": 1075
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 18,
+        "body_index": 1073
       }
     ],
     "source_content": [
       {
-        "text": "A. Tuyên truyền, vận động quần chúng B. Hiến pháp và pháp luật C. Đường lối, chủ trương chưa thể chế hóa D. Các biện pháp hành chính mệnh lệnh"
+        "text": "A. Thay đổi các điều khoản hợp đồng mà không có sự đồng ý của các bên liên quan"
       },
       {
-        "text": "Đáp án đúng: B"
+        "text": "B. Đảm bảo các điều khoản hợp đồng được viết rõ ràng, chính xác và đầy đủ, theo đúng quy định pháp lý"
+      },
+      {
+        "text": "C. Sử dụng ngôn ngữ mơ hồ và không rõ ràng về các điều khoản"
+      },
+      {
+        "text": "D. Bỏ qua các điều khoản quan trọng để làm hợp đồng ngắn gọn hơn"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Tuyên truyền, vận động quần chúng",
-      "B. Hiến pháp và pháp luật",
-      "C. Đường lối, chủ trương chưa thể chế hóa",
-      "D. Các biện pháp hành chính mệnh lệnh"
+      "A. Thay đổi các điều khoản hợp đồng mà không có sự đồng ý của các bên liên quan",
+      "B. Đảm bảo các điều khoản hợp đồng được viết rõ ràng, chính xác và đầy đủ, theo đúng quy định pháp lý",
+      "C. Sử dụng ngôn ngữ mơ hồ và không rõ ràng về các điều khoản",
+      "D. Bỏ qua các điều khoản quan trọng để làm hợp đồng ngắn gọn hơn"
     ],
     "correct_answers": [
       1
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 23,
-    "body_index": 1075,
-    "id": "word-c41143f3c5139fa3-p1075"
+    "lesson": "Bài 7",
+    "q_num": 18,
+    "body_index": 1073,
+    "id": "word-1d55e841b9e15dba-p1073"
   },
   {
     "lesson_num": 7,
-    "question": "Câu 24: Khác biệt căn bản về chất của Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam so với các nhà nước bóc lột trong lịch sử là gì?",
-    "source_q_num": 24,
-    "source_title": "Câu 24: Khác biệt căn bản về chất của Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam so với các nhà nước bóc lột trong lịch sử là gì?",
+    "question": "Câu 19: Khi nhận tài liệu mới từ một phòng ban khác, thư ký nên?",
+    "source_q_num": 19,
+    "source_title": "Câu 19: Khi nhận tài liệu mới từ một phòng ban khác, thư ký nên?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 24,
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 19,
         "body_index": 1078
       }
     ],
     "source_content": [
       {
-        "text": "A. Chỉ đại diện duy nhất cho bộ phận giai cấp công nhân B. Là nhà nước phi giai cấp, phi chính trị C. Mang bản chất của giai cấp công nhân, tính nhân dân sâu sắc và tính dân tộc rộng rãi D. Chỉ tập trung thực hiện chức năng trấn áp quân sự"
+        "text": "A. Để tài liệu trên bàn làm việc cho đến khi có thời gian sắp xếp"
       },
       {
-        "text": "Đáp án đúng: C"
+        "text": "B. Bỏ qua việc phân loại và lưu trữ tài liệu để tiết kiệm thời gian"
+      },
+      {
+        "text": "C. Để tài liệu vào bất kỳ vị trí nào trên bàn làm việc của mình"
+      },
+      {
+        "text": "D. Ghi nhận và phân loại tài liệu theo hệ thống lưu trữ đã quy định, sau đó lưu trữ đúng vị trí"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Chỉ đại diện duy nhất cho bộ phận giai cấp công nhân",
-      "B. Là nhà nước phi giai cấp, phi chính trị",
-      "C. Mang bản chất của giai cấp công nhân, tính nhân dân sâu sắc và tính dân tộc rộng rãi",
-      "D. Chỉ tập trung thực hiện chức năng trấn áp quân sự"
+      "A. Để tài liệu trên bàn làm việc cho đến khi có thời gian sắp xếp",
+      "B. Bỏ qua việc phân loại và lưu trữ tài liệu để tiết kiệm thời gian",
+      "C. Để tài liệu vào bất kỳ vị trí nào trên bàn làm việc của mình",
+      "D. Ghi nhận và phân loại tài liệu theo hệ thống lưu trữ đã quy định, sau đó lưu trữ đúng vị trí"
     ],
     "correct_answers": [
-      2
+      3
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 24,
+    "lesson": "Bài 7",
+    "q_num": 19,
     "body_index": 1078,
-    "id": "word-c41143f3c5139fa3-p1078"
+    "id": "word-1d55e841b9e15dba-p1078"
   },
   {
     "lesson_num": 7,
-    "question": "Câu 25: Hình thức dân chủ nào là hình thức mà nhân dân trực tiếp bày tỏ ý chí, trực tiếp tham gia quản lý nhà nước và xã hội?",
-    "source_q_num": 25,
-    "source_title": "Câu 25: Hình thức dân chủ nào là hình thức mà nhân dân trực tiếp bày tỏ ý chí, trực tiếp tham gia quản lý nhà nước và xã hội?",
+    "question": "Câu 20: Khi soạn thảo một bảng báo cáo hàng tháng, thư ký nên?",
+    "source_q_num": 20,
+    "source_title": "Câu 20: Khi soạn thảo một bảng báo cáo hàng tháng, thư ký nên?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 25,
-        "body_index": 1081
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 20,
+        "body_index": 1083
       }
     ],
     "source_content": [
       {
-        "text": "A. Dân chủ gián tiếp B. Dân chủ đại diện C. Dân chủ trực tiếp D. Dân chủ ủy quyền"
+        "text": "A. Lưu trữ bản báo cáo trên nhiều phương tiện khác nhau (máy tính, ổ cứng, đám mây) để đảm bảo an toàn"
       },
       {
-        "text": "Đáp án đúng: C"
+        "text": "B. Bỏ qua việc sao lưu để tiết kiệm thời gian"
+      },
+      {
+        "text": "C. Chỉ lưu bản báo cáo trên máy tính mà không sao lưu vào các thiết bị lưu trữ khác"
+      },
+      {
+        "text": "D. Chỉ lưu bản báo cáo dưới dạng giấy và không lưu trữ số liệu điện tử"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Dân chủ gián tiếp",
-      "B. Dân chủ đại diện",
-      "C. Dân chủ trực tiếp",
-      "D. Dân chủ ủy quyền"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 25,
-    "body_index": 1081,
-    "id": "word-c41143f3c5139fa3-p1081"
-  },
-  {
-    "lesson_num": 7,
-    "question": "Câu 26: Khẳng định nào sau đây về tổ chức quyền lực nhà nước ở Việt Nam là SAI?",
-    "source_q_num": 26,
-    "source_title": "Câu 26: Khẳng định nào sau đây về tổ chức quyền lực nhà nước ở Việt Nam là SAI?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 26,
-        "body_index": 1084
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Bản chất dân chủ XHCN được thực hiện qua hình thức trực tiếp và gián tiếp B. Quốc hội là cơ quan quyền lực nhà nước cao nhất hoạt động theo nhiệm kỳ 3 năm C. Nhà nước Việt Nam là nhà nước của nhân dân, do nhân dân, vì nhân dân làm chủ D. Trong hoạt động nhà nước có sự phân công, phối hợp và kiểm soát giữa các cơ quan quyền lực"
-      },
-      {
-        "text": "Đáp án đúng: B"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Bản chất dân chủ XHCN được thực hiện qua hình thức trực tiếp và gián tiếp",
-      "B. Quốc hội là cơ quan quyền lực nhà nước cao nhất hoạt động theo nhiệm kỳ 3 năm",
-      "C. Nhà nước Việt Nam là nhà nước của nhân dân, do nhân dân, vì nhân dân làm chủ",
-      "D. Trong hoạt động nhà nước có sự phân công, phối hợp và kiểm soát giữa các cơ quan quyền lực"
-    ],
-    "correct_answers": [
-      1
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 26,
-    "body_index": 1084,
-    "id": "word-c41143f3c5139fa3-p1084"
-  },
-  {
-    "lesson_num": 7,
-    "question": "Câu 27: Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội – giai cấp biến đổi theo quy luật vận động nào?",
-    "source_q_num": 27,
-    "source_title": "Câu 27: Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội – giai cấp biến đổi theo quy luật vận động nào?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 27,
-        "body_index": 1087
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Tách biệt đối lập hoàn toàn, không liên minh gắn kết B. Vừa đấu tranh, vừa bài xích triệt tiêu lẫn nhau C. Vừa đấu tranh, vừa liên minh, từng bước xóa bỏ bất bình đẳng xã hội dẫn đến sự xích lại gần nhau D. Các giai cấp lớn liên minh đàn áp các giai cấp nhỏ"
-      },
-      {
-        "text": "Đáp án đúng: C"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Tách biệt đối lập hoàn toàn, không liên minh gắn kết",
-      "B. Vừa đấu tranh, vừa bài xích triệt tiêu lẫn nhau",
-      "C. Vừa đấu tranh, vừa liên minh, từng bước xóa bỏ bất bình đẳng xã hội dẫn đến sự xích lại gần nhau",
-      "D. Các giai cấp lớn liên minh đàn áp các giai cấp nhỏ"
-    ],
-    "correct_answers": [
-      2
-    ],
-    "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 27,
-    "body_index": 1087,
-    "id": "word-c41143f3c5139fa3-p1087"
-  },
-  {
-    "lesson_num": 7,
-    "question": "Câu 28: Trong cơ cấu xã hội – giai cấp ở Việt Nam thời kỳ quá độ, đội ngũ trí thức giữ vai trò là lực lượng gì?",
-    "source_q_num": 28,
-    "source_title": "Câu 28: Trong cơ cấu xã hội – giai cấp ở Việt Nam thời kỳ quá độ, đội ngũ trí thức giữ vai trò là lực lượng gì?",
-    "sources": [
-      {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 28,
-        "body_index": 1090
-      }
-    ],
-    "source_content": [
-      {
-        "text": "A. Lực lượng sáng tạo đặc biệt B. Lực lượng lãnh đạo sự nghiệp cách mạng C. Lực lượng sản xuất nông nghiệp nòng cốt D. Đội ngũ quản lý doanh nghiệp độc lập"
-      },
-      {
-        "text": "Đáp án đúng: A"
-      }
-    ],
-    "type": "single_choice",
-    "options": [
-      "A. Lực lượng sáng tạo đặc biệt",
-      "B. Lực lượng lãnh đạo sự nghiệp cách mạng",
-      "C. Lực lượng sản xuất nông nghiệp nòng cốt",
-      "D. Đội ngũ quản lý doanh nghiệp độc lập"
+      "A. Lưu trữ bản báo cáo trên nhiều phương tiện khác nhau (máy tính, ổ cứng, đám mây) để đảm bảo an toàn",
+      "B. Bỏ qua việc sao lưu để tiết kiệm thời gian",
+      "C. Chỉ lưu bản báo cáo trên máy tính mà không sao lưu vào các thiết bị lưu trữ khác",
+      "D. Chỉ lưu bản báo cáo dưới dạng giấy và không lưu trữ số liệu điện tử"
     ],
     "correct_answers": [
       0
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 28,
-    "body_index": 1090,
-    "id": "word-c41143f3c5139fa3-p1090"
+    "lesson": "Bài 7",
+    "q_num": 20,
+    "body_index": 1083,
+    "id": "word-1d55e841b9e15dba-p1083"
   },
   {
     "lesson_num": 7,
-    "question": "Câu 29: Phát biểu nào sau đây về khối liên minh giai cấp, tầng lớp ở Việt Nam là ĐÚNG?",
-    "source_q_num": 29,
-    "source_title": "Câu 29: Phát biểu nào sau đây về khối liên minh giai cấp, tầng lớp ở Việt Nam là ĐÚNG?",
+    "question": "Câu 21: Khi một tài liệu cần được lưu trữ lâu dài, thư ký nên?",
+    "source_q_num": 21,
+    "source_title": "Câu 21: Khi một tài liệu cần được lưu trữ lâu dài, thư ký nên?",
     "sources": [
       {
-        "file": "CHỦ NGHĨA XH-KH (2).docx",
-        "question_number": 29,
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 21,
+        "body_index": 1088
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Lưu trữ tài liệu theo cách tạm thời và không chú ý đến điều kiện bảo quản"
+      },
+      {
+        "text": "B. Chỉ lưu trữ tài liệu trong một định dạng mà không xem xét tính bền vững lâu dài"
+      },
+      {
+        "text": "C. Để tài liệu ở nơi không an toàn và không bảo quản định kỳ"
+      },
+      {
+        "text": "D. Sử dụng các phương pháp bảo quản thích hợp như lưu trữ trên giấy chất lượng cao hoặc đám mây với sao lưu định kỳ"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Lưu trữ tài liệu theo cách tạm thời và không chú ý đến điều kiện bảo quản",
+      "B. Chỉ lưu trữ tài liệu trong một định dạng mà không xem xét tính bền vững lâu dài",
+      "C. Để tài liệu ở nơi không an toàn và không bảo quản định kỳ",
+      "D. Sử dụng các phương pháp bảo quản thích hợp như lưu trữ trên giấy chất lượng cao hoặc đám mây với sao lưu định kỳ"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 7",
+    "q_num": 21,
+    "body_index": 1088,
+    "id": "word-1d55e841b9e15dba-p1088"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 22: Để biên tập văn bản, thư ký cần nắm vững điều gì để soạn thảo văn bản?",
+    "source_q_num": 22,
+    "source_title": "Câu 22:Để biên tập văn bản, thư ký cần nắm vững điều gì để soạn thảo văn bản?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 22,
         "body_index": 1093
       }
     ],
     "source_content": [
       {
-        "text": "A. Nội dung tôn giáo là nội dung nòng cốt của liên minh B. Xây dựng Nhà nước pháp quyền là nội dung văn hóa của liên minh C. Đồng thuận xã hội là một mục tiêu quan trọng của liên minh giai cấp, tầng lớp D. Đội ngũ doanh nhân bị loại trừ, không tham gia khối liên minh"
+        "text": "A. Kỹ năng lập kế hoạch sự kiện"
       },
       {
-        "text": "Đáp án đúng: C"
+        "text": "B. Quy định về bảo mật thông tin"
+      },
+      {
+        "text": "C. Quy định về soạn thảo văn bản"
+      },
+      {
+        "text": "D. Kế hoạch hoạt động của cơ quan"
       }
     ],
     "type": "single_choice",
     "options": [
-      "A. Nội dung tôn giáo là nội dung nòng cốt của liên minh",
-      "B. Xây dựng Nhà nước pháp quyền là nội dung văn hóa của liên minh",
-      "C. Đồng thuận xã hội là một mục tiêu quan trọng của liên minh giai cấp, tầng lớp",
-      "D. Đội ngũ doanh nhân bị loại trừ, không tham gia khối liên minh"
+      "A. Kỹ năng lập kế hoạch sự kiện",
+      "B. Quy định về bảo mật thông tin",
+      "C. Quy định về soạn thảo văn bản",
+      "D. Kế hoạch hoạt động của cơ quan"
     ],
     "correct_answers": [
       2
     ],
     "instruction": "Chọn 1 đáp án đúng nhất",
-    "lesson": "Bổ sung",
-    "q_num": 29,
+    "lesson": "Bài 7",
+    "q_num": 22,
     "body_index": 1093,
-    "id": "word-c41143f3c5139fa3-p1093"
+    "id": "word-1d55e841b9e15dba-p1093"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 23: Thư ký văn phòng cần làm gì để quản lý tài liệu theo địa dư?",
+    "source_q_num": 23,
+    "source_title": "Câu 23:Thư ký văn phòng cần làm gì để quản lý tài liệu theo địa dư?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 23,
+        "body_index": 1098
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Đặt tài liệu theo tên của người gửi"
+      },
+      {
+        "text": "B. Sắp xếp tài liệu theo khu vực địa lý liên quan"
+      },
+      {
+        "text": "C. Tổ chức tài liệu theo chủ đề chính"
+      },
+      {
+        "text": "D. Sắp xếp tài liệu theo số lượng"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Đặt tài liệu theo tên của người gửi",
+      "B. Sắp xếp tài liệu theo khu vực địa lý liên quan",
+      "C. Tổ chức tài liệu theo chủ đề chính",
+      "D. Sắp xếp tài liệu theo số lượng"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 7",
+    "q_num": 23,
+    "body_index": 1098,
+    "id": "word-1d55e841b9e15dba-p1098"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 24: Đâu là yêu cầu quan trọng trong việc lưu trữ tài liệu?",
+    "source_q_num": 24,
+    "source_title": "Câu 24:Đâu là yêu cầu quan trọng trong việc lưu trữ tài liệu?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 24,
+        "body_index": 1103
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Tự ý hủy tài liệu không cần thiết"
+      },
+      {
+        "text": "B. Chỉ lưu trữ tài liệu quan trọng"
+      },
+      {
+        "text": "C. Lưu giữ theo thời gian ban hành"
+      },
+      {
+        "text": "D. Thay đổi tên tài liệu"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Tự ý hủy tài liệu không cần thiết",
+      "B. Chỉ lưu trữ tài liệu quan trọng",
+      "C. Lưu giữ theo thời gian ban hành",
+      "D. Thay đổi tên tài liệu"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 7",
+    "q_num": 24,
+    "body_index": 1103,
+    "id": "word-1d55e841b9e15dba-p1103"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 25: Khi chỉnh sửa một biên bản cuộc họp, thư ký nên?",
+    "source_q_num": 25,
+    "source_title": "Câu 25:Khi chỉnh sửa một biên bản cuộc họp, thư ký nên?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 25,
+        "body_index": 1108
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Ghi chép lại các điểm chính mà không cần đảm bảo tính chính xác"
+      },
+      {
+        "text": "B. Thay đổi các quyết định đã được đưa ra trong cuộc họp"
+      },
+      {
+        "text": "C. Đảm bảo biên bản được ghi lại chính xác các điểm thảo luận và quyết định, sử dụng ngôn ngữ rõ ràng"
+      },
+      {
+        "text": "D. Bỏ qua các chi tiết nhỏ để tiết kiệm thời gian"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Ghi chép lại các điểm chính mà không cần đảm bảo tính chính xác",
+      "B. Thay đổi các quyết định đã được đưa ra trong cuộc họp",
+      "C. Đảm bảo biên bản được ghi lại chính xác các điểm thảo luận và quyết định, sử dụng ngôn ngữ rõ ràng",
+      "D. Bỏ qua các chi tiết nhỏ để tiết kiệm thời gian"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 7",
+    "q_num": 25,
+    "body_index": 1108,
+    "id": "word-1d55e841b9e15dba-p1108"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 26: Khi quản lý tài liệu, thư ký cần thực hiện các bước nào để đảm bảo chất lượng?",
+    "source_q_num": 26,
+    "source_title": "Câu 26: Khi quản lý tài liệu, thư ký cần thực hiện các bước nào để đảm bảo chất lượng?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 26,
+        "body_index": 1113
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Chỉ sắp xếp tài liệu mới nhận"
+      },
+      {
+        "text": "B. Đưa tài liệu vào kho lưu trữ mà không phân loại"
+      },
+      {
+        "text": "C. Để tài liệu rải rác trên bàn làm việc"
+      },
+      {
+        "text": "D. Phân loại tài liệu và sắp xếp theo hệ thống"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Chỉ sắp xếp tài liệu mới nhận",
+      "B. Đưa tài liệu vào kho lưu trữ mà không phân loại",
+      "C. Để tài liệu rải rác trên bàn làm việc",
+      "D. Phân loại tài liệu và sắp xếp theo hệ thống"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 7",
+    "q_num": 26,
+    "body_index": 1113,
+    "id": "word-1d55e841b9e15dba-p1113"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 27: Khi soạn thảo một kế hoạch dự án, thư ký nên?",
+    "source_q_num": 27,
+    "source_title": "Câu 27: Khi soạn thảo một kế hoạch dự án, thư ký nên?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 27,
+        "body_index": 1118
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Để kế hoạch dự án không có cấu trúc và chỉ liệt kê các nhiệm vụ chung chung"
+      },
+      {
+        "text": "B. Thay đổi các mục tiêu dự án mà không thông báo cho nhóm dự án"
+      },
+      {
+        "text": "C. Để kế hoạch dự án thiếu các mục tiêu cụ thể và không có kế hoạch chi tiết"
+      },
+      {
+        "text": "D. Soạn thảo kế hoạch dự án với các mục tiêu cụ thể, các bước thực hiện chi tiết và thời gian hoàn thành"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Để kế hoạch dự án không có cấu trúc và chỉ liệt kê các nhiệm vụ chung chung",
+      "B. Thay đổi các mục tiêu dự án mà không thông báo cho nhóm dự án",
+      "C. Để kế hoạch dự án thiếu các mục tiêu cụ thể và không có kế hoạch chi tiết",
+      "D. Soạn thảo kế hoạch dự án với các mục tiêu cụ thể, các bước thực hiện chi tiết và thời gian hoàn thành"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 7",
+    "q_num": 27,
+    "body_index": 1118,
+    "id": "word-1d55e841b9e15dba-p1118"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 28: Thư ký cần thực hiện những nhiệm vụ gì sau khi giải quyết xong công việc?",
+    "source_q_num": 28,
+    "source_title": "Câu 28 : Thư ký cần thực hiện những nhiệm vụ gì sau khi giải quyết xong công việc?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 28,
+        "body_index": 1123
+      }
+    ],
+    "source_content": [
+      {
+        "text": "Tổ chức khai thác tài liệu lưu trữ"
+      },
+      {
+        "text": "Gửi thông báo cho các bộ phận"
+      },
+      {
+        "text": "Lưu trữ hồ sơ vào kho"
+      },
+      {
+        "text": "Đăng ký vào sổ theo dõi"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Tổ chức khai thác tài liệu lưu trữ",
+      "B. Gửi thông báo cho các bộ phận",
+      "C. Lưu trữ hồ sơ vào kho",
+      "D. Đăng ký vào sổ theo dõi"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 7",
+    "q_num": 28,
+    "body_index": 1123,
+    "id": "word-1d55e841b9e15dba-p1123"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 29: Để đảm bảo tính chính xác của văn bản, thư ký cần thực hiện các bước nào?",
+    "source_q_num": 29,
+    "source_title": "Câu 29: Để đảm bảo tính chính xác của văn bản, thư ký cần thực hiện các bước nào?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 29,
+        "body_index": 1129
+      }
+    ],
+    "source_content": [
+      {
+        "text": "Kiểm tra văn bản theo các quy định và yêu cầu cụ thể"
+      },
+      {
+        "text": "Đổi nội dung văn bản theo ý kiến cá nhân"
+      },
+      {
+        "text": "Tạo một bản sao cho mỗi người"
+      },
+      {
+        "text": "Sử dụng ngôn ngữ không chính thức"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Kiểm tra văn bản theo các quy định và yêu cầu cụ thể",
+      "B. Đổi nội dung văn bản theo ý kiến cá nhân",
+      "C. Tạo một bản sao cho mỗi người",
+      "D. Sử dụng ngôn ngữ không chính thức"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 7",
+    "q_num": 29,
+    "body_index": 1129,
+    "id": "word-1d55e841b9e15dba-p1129"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 30: Các phương pháp nào giúp thư ký hiệu quả trong việc quản lý tài liệu?",
+    "source_q_num": 30,
+    "source_title": "Câu 30 : Các phương pháp nào giúp thư ký hiệu quả trong việc quản lý tài liệu?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 30,
+        "body_index": 1134
+      }
+    ],
+    "source_content": [
+      {
+        "text": "Đặt tài liệu không theo trình tự"
+      },
+      {
+        "text": "Lưu trữ tài liệu trên máy tính mà không sao lưu"
+      },
+      {
+        "text": "Sử dụng các công cụ phân loại và sắp xếp hợp lý"
+      },
+      {
+        "text": "Thay đổi phương pháp quản lý thường xuyên"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Đặt tài liệu không theo trình tự",
+      "B. Lưu trữ tài liệu trên máy tính mà không sao lưu",
+      "C. Sử dụng các công cụ phân loại và sắp xếp hợp lý",
+      "D. Thay đổi phương pháp quản lý thường xuyên"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 7",
+    "q_num": 30,
+    "body_index": 1134,
+    "id": "word-1d55e841b9e15dba-p1134"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 31: Hoạt động nào nào sau đây là cần thiết khi thư ký văn phòng lưu trữ hồ sơ?",
+    "source_q_num": 31,
+    "source_title": "Câu 31 : Hoạt động nào nào sau đây là cần thiết khi thư ký văn phòng lưu trữ hồ sơ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 31,
+        "body_index": 1139
+      }
+    ],
+    "source_content": [
+      {
+        "text": "Kiểm tra và ghi biên bản giao nhận hồ sơ"
+      },
+      {
+        "text": "Chỉ lưu trữ hồ sơ của năm hiện tại"
+      },
+      {
+        "text": "Xóa bỏ tất cả các hồ sơ cũ"
+      },
+      {
+        "text": "Sắp xếp hồ sơ theo thứ tự ngẫu nhiên"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Kiểm tra và ghi biên bản giao nhận hồ sơ",
+      "B. Chỉ lưu trữ hồ sơ của năm hiện tại",
+      "C. Xóa bỏ tất cả các hồ sơ cũ",
+      "D. Sắp xếp hồ sơ theo thứ tự ngẫu nhiên"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 7",
+    "q_num": 31,
+    "body_index": 1139,
+    "id": "word-1d55e841b9e15dba-p1139"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 32: Khi biên tập một bản kế hoạch công việc, thư ký nên?",
+    "source_q_num": 32,
+    "source_title": "Câu 32: Khi biên tập một bản kế hoạch công việc, thư ký nên?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 32,
+        "body_index": 1144
+      }
+    ],
+    "source_content": [
+      {
+        "text": "Để bản kế hoạch không có thời gian và trách nhiệm cụ thể"
+      },
+      {
+        "text": "Soạn thảo bản kế hoạch chi tiết, với mục tiêu rõ ràng, thời gian và các bước thực hiện cụ thể"
+      },
+      {
+        "text": "Thay đổi nội dung kế hoạch mà không thông báo cho các bên liên quan"
+      },
+      {
+        "text": "Viết kế hoạch chung chung và không đề cập đến mục tiêu cụ thể"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Để bản kế hoạch không có thời gian và trách nhiệm cụ thể",
+      "B. Soạn thảo bản kế hoạch chi tiết, với mục tiêu rõ ràng, thời gian và các bước thực hiện cụ thể",
+      "C. Thay đổi nội dung kế hoạch mà không thông báo cho các bên liên quan",
+      "D. Viết kế hoạch chung chung và không đề cập đến mục tiêu cụ thể"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 7",
+    "q_num": 32,
+    "body_index": 1144,
+    "id": "word-1d55e841b9e15dba-p1144"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 33: Khi biên tập một báo cáo, thư ký nên?",
+    "source_q_num": 33,
+    "source_title": "Câu 33: Khi biên tập một báo cáo, thư ký nên?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 33,
+        "body_index": 1149
+      }
+    ],
+    "source_content": [
+      {
+        "text": "Bỏ qua lỗi chính tả và ngữ pháp để tiết kiệm thời gian"
+      },
+      {
+        "text": "Chỉ tập trung vào định dạng văn bản mà không chú ý đến nội dung"
+      },
+      {
+        "text": "Kiểm tra kỹ lưỡng lỗi chính tả, ngữ pháp và đảm bảo thông tin chính xác, rõ ràng"
+      },
+      {
+        "text": "Thay đổi nội dung theo ý của mình mà không thông báo cho tác giả"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Bỏ qua lỗi chính tả và ngữ pháp để tiết kiệm thời gian",
+      "B. Chỉ tập trung vào định dạng văn bản mà không chú ý đến nội dung",
+      "C. Kiểm tra kỹ lưỡng lỗi chính tả, ngữ pháp và đảm bảo thông tin chính xác, rõ ràng",
+      "D. Thay đổi nội dung theo ý của mình mà không thông báo cho tác giả"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 7",
+    "q_num": 33,
+    "body_index": 1149,
+    "id": "word-1d55e841b9e15dba-p1149"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 34: Khi chỉnh sửa một tài liệu để xuất bản, thư ký nên?",
+    "source_q_num": 34,
+    "source_title": "Câu 34 : Khi chỉnh sửa một tài liệu để xuất bản, thư ký nên?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 34,
+        "body_index": 1154
+      }
+    ],
+    "source_content": [
+      {
+        "text": "Chỉ chú ý đến định dạng mà không kiểm tra nội dung"
+      },
+      {
+        "text": "Để tài liệu không có cấu trúc rõ ràng và lỗi chính tả không được sửa chữa"
+      },
+      {
+        "text": "Đảm bảo nội dung chính xác, thống nhất và định dạng văn bản đúng chuẩn xuất bản"
+      },
+      {
+        "text": "Thay đổi nội dung tài liệu mà không tham khảo ý kiến của tác giả"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Chỉ chú ý đến định dạng mà không kiểm tra nội dung",
+      "B. Để tài liệu không có cấu trúc rõ ràng và lỗi chính tả không được sửa chữa",
+      "C. Đảm bảo nội dung chính xác, thống nhất và định dạng văn bản đúng chuẩn xuất bản",
+      "D. Thay đổi nội dung tài liệu mà không tham khảo ý kiến của tác giả"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 7",
+    "q_num": 34,
+    "body_index": 1154,
+    "id": "word-1d55e841b9e15dba-p1154"
+  },
+  {
+    "lesson_num": 7,
+    "question": "Câu 35: Khi cần tìm một tài liệu cũ đã lưu trữ, thư ký nên?",
+    "source_q_num": 35,
+    "source_title": "Câu 35 : Khi cần tìm một tài liệu cũ đã lưu trữ, thư ký nên?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 35,
+        "body_index": 1159
+      }
+    ],
+    "source_content": [
+      {
+        "text": "Để tài liệu cũ và yêu cầu người khác tìm kiếm"
+      },
+      {
+        "text": "Liên hệ với đồng nghiệp để hỏi về vị trí của tài liệu mà không kiểm tra hệ thống lưu trữ"
+      },
+      {
+        "text": "Sử dụng hệ thống phân loại và chỉ dẫn lưu trữ để nhanh chóng xác định vị trí của tài liệu"
+      },
+      {
+        "text": "Tìm kiếm bằng cách lục lọi tất cả các ngăn kéo và tủ lưu trữ"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Để tài liệu cũ và yêu cầu người khác tìm kiếm",
+      "B. Liên hệ với đồng nghiệp để hỏi về vị trí của tài liệu mà không kiểm tra hệ thống lưu trữ",
+      "C. Sử dụng hệ thống phân loại và chỉ dẫn lưu trữ để nhanh chóng xác định vị trí của tài liệu",
+      "D. Tìm kiếm bằng cách lục lọi tất cả các ngăn kéo và tủ lưu trữ"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 7",
+    "q_num": 35,
+    "body_index": 1159,
+    "id": "word-1d55e841b9e15dba-p1159"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 1: Người thư ký văn phòng có vai trò gì trong giao tiếp hành chính với lãnh đạo?",
+    "source_q_num": 1,
+    "source_title": "Câu 1: Người thư ký văn phòng có vai trò gì trong giao tiếp hành chính với lãnh đạo?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 1,
+        "body_index": 1167
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Điều hành các cuộc họp"
+      },
+      {
+        "text": "B. Hỗ trợ lãnh đạo trong việc quản lý thông tin và tổ chức công việc"
+      },
+      {
+        "text": "C. Quyết định các chính sách công ty"
+      },
+      {
+        "text": "D. Đưa ra quyết định cuối cùng về dự án"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Điều hành các cuộc họp",
+      "B. Hỗ trợ lãnh đạo trong việc quản lý thông tin và tổ chức công việc",
+      "C. Quyết định các chính sách công ty",
+      "D. Đưa ra quyết định cuối cùng về dự án"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 1,
+    "body_index": 1167,
+    "id": "word-1d55e841b9e15dba-p1167"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 2: Làm thế nào thư ký có thể giúp lãnh đạo tập trung vào các công việc ưu tiên cao hơn?",
+    "source_q_num": 2,
+    "source_title": "Câu 2: Làm thế nào thư ký có thể giúp lãnh đạo tập trung vào các công việc ưu tiên cao hơn?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 2,
+        "body_index": 1172
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Gửi tất cả email đến các đối tác"
+      },
+      {
+        "text": "B. Lọc và sắp xếp các email, chỉ chuyển đến lãnh đạo những email quan trọng"
+      },
+      {
+        "text": "C. Xử lý tất cả các email mà không cần sự phân loại"
+      },
+      {
+        "text": "D. Chuyển tất cả các email cho lãnh đạo"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Gửi tất cả email đến các đối tác",
+      "B. Lọc và sắp xếp các email, chỉ chuyển đến lãnh đạo những email quan trọng",
+      "C. Xử lý tất cả các email mà không cần sự phân loại",
+      "D. Chuyển tất cả các email cho lãnh đạo"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 2,
+    "body_index": 1172,
+    "id": "word-1d55e841b9e15dba-p1172"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 3: Khi nào sự bảo mật trong giao tiếp hành chính trở nên cần thiết?",
+    "source_q_num": 3,
+    "source_title": "Câu 3: Khi nào sự bảo mật trong giao tiếp hành chính trở nên cần thiết?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 3,
+        "body_index": 1177
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Khi thông tin có thể công khai"
+      },
+      {
+        "text": "B. Khi thông tin không liên quan đến lãnh đạo"
+      },
+      {
+        "text": "C. Khi thông tin chứa dữ liệu cá nhân và tài liệu mật"
+      },
+      {
+        "text": "D. Khi thông tin không nhạy cảm"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Khi thông tin có thể công khai",
+      "B. Khi thông tin không liên quan đến lãnh đạo",
+      "C. Khi thông tin chứa dữ liệu cá nhân và tài liệu mật",
+      "D. Khi thông tin không nhạy cảm"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 3,
+    "body_index": 1177,
+    "id": "word-1d55e841b9e15dba-p1177"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 4: Đâu là ví dụ của giao tiếp trực tiếp trong công việc giữa thư ký và lãnh đạo?",
+    "source_q_num": 4,
+    "source_title": "Câu 4: Đâu là ví dụ của giao tiếp trực tiếp trong công việc giữa thư ký và lãnh đạo?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 4,
+        "body_index": 1182
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Thảo luận về công việc trong một cuộc họp trực tiếp"
+      },
+      {
+        "text": "B. Cập nhật lịch làm việc qua phần mềm"
+      },
+      {
+        "text": "C. Gửi email về lịch trình cuộc họp"
+      },
+      {
+        "text": "D. Soạn thảo báo cáo và gửi qua thư điện tử"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Thảo luận về công việc trong một cuộc họp trực tiếp",
+      "B. Cập nhật lịch làm việc qua phần mềm",
+      "C. Gửi email về lịch trình cuộc họp",
+      "D. Soạn thảo báo cáo và gửi qua thư điện tử"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 4,
+    "body_index": 1182,
+    "id": "word-1d55e841b9e15dba-p1182"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 5: Tại sao việc sử dụng công cụ kỹ thuật số lại có lợi trong giao tiếp hành chính?",
+    "source_q_num": 5,
+    "source_title": "Câu 5: Tại sao việc sử dụng công cụ kỹ thuật số lại có lợi trong giao tiếp hành chính?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 5,
+        "body_index": 1187
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Để tăng cường tính bảo mật"
+      },
+      {
+        "text": "B. Để giảm số lượng email cần gửi"
+      },
+      {
+        "text": "C. Để tiết kiệm chi phí"
+      },
+      {
+        "text": "D. Để tối ưu hóa quá trình làm việc và quản lý thời gian"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Để tăng cường tính bảo mật",
+      "B. Để giảm số lượng email cần gửi",
+      "C. Để tiết kiệm chi phí",
+      "D. Để tối ưu hóa quá trình làm việc và quản lý thời gian"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 5,
+    "body_index": 1187,
+    "id": "word-1d55e841b9e15dba-p1187"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 6: Làm thế nào để thư ký và lãnh đạo có thể duy trì giao tiếp hiệu quả qua văn bản?",
+    "source_q_num": 6,
+    "source_title": "Câu 6: Làm thế nào để thư ký và lãnh đạo có thể duy trì giao tiếp hiệu quả qua văn bản?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 6,
+        "body_index": 1192
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Gửi các tài liệu không liên quan đến công việc"
+      },
+      {
+        "text": "B. Soạn thảo các văn bản và báo cáo một cách chính xác và đầy đủ"
+      },
+      {
+        "text": "C. Gửi nhiều email không cần thiết"
+      },
+      {
+        "text": "D. Sử dụng ngôn ngữ không chính thức"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Gửi các tài liệu không liên quan đến công việc",
+      "B. Soạn thảo các văn bản và báo cáo một cách chính xác và đầy đủ",
+      "C. Gửi nhiều email không cần thiết",
+      "D. Sử dụng ngôn ngữ không chính thức"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 6,
+    "body_index": 1192,
+    "id": "word-1d55e841b9e15dba-p1192"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 7: Lãnh đạo yêu cầu hoàn thành một nhiệm vụ không thuộc chuyên môn của thư ký. Thư ký sẽ?",
+    "source_q_num": 7,
+    "source_title": "Câu 7: Lãnh đạo yêu cầu hoàn thành một nhiệm vụ không thuộc chuyên môn của thư ký. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 7,
+        "body_index": 1197
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Nhận nhiệm vụ và cố gắng hoàn thành tốt nhất có thể"
+      },
+      {
+        "text": "B. Đề nghị được hướng dẫn hoặc hỗ trợ"
+      },
+      {
+        "text": "C. Nhờ người khác làm giúp"
+      },
+      {
+        "text": "D. Từ chối vì đó không phải nhiệm vụ của thư ký"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Nhận nhiệm vụ và cố gắng hoàn thành tốt nhất có thể",
+      "B. Đề nghị được hướng dẫn hoặc hỗ trợ",
+      "C. Nhờ người khác làm giúp",
+      "D. Từ chối vì đó không phải nhiệm vụ của thư ký"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 7,
+    "body_index": 1197,
+    "id": "word-1d55e841b9e15dba-p1197"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 8: Lãnh đạo yêu cầu thư ký thực hiện một nhiệm vụ mà thư ký không đồng tình. Thư ký sẽ?",
+    "source_q_num": 8,
+    "source_title": "Câu 8: Lãnh đạo yêu cầu thư ký thực hiện một nhiệm vụ mà thư ký không đồng tình. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 8,
+        "body_index": 1202
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Thực hiện nhiệm vụ mà không thắc mắc"
+      },
+      {
+        "text": "B. Từ chối nhiệm vụ"
+      },
+      {
+        "text": "C. Làm nhiệm vụ nhưng thể hiện sự bất mãn"
+      },
+      {
+        "text": "D. Đưa ra ý kiến của mình một cách lịch sự và đề nghị xem xét lại"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Thực hiện nhiệm vụ mà không thắc mắc",
+      "B. Từ chối nhiệm vụ",
+      "C. Làm nhiệm vụ nhưng thể hiện sự bất mãn",
+      "D. Đưa ra ý kiến của mình một cách lịch sự và đề nghị xem xét lại"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 8,
+    "body_index": 1202,
+    "id": "word-1d55e841b9e15dba-p1202"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 9: Thư ký nhận được một email từ lãnh đạo yêu cầu hoàn thành công việc vào ngày nghỉ. Thư ký sẽ?",
+    "source_q_num": 9,
+    "source_title": "Câu 9: Thư ký nhận được một email từ lãnh đạo yêu cầu hoàn thành công việc vào ngày nghỉ. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 9,
+        "body_index": 1207
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Phản hồi rằng thư ký không thể làm việc vào ngày nghỉ"
+      },
+      {
+        "text": "B. Bỏ qua email và không phản hồi"
+      },
+      {
+        "text": "C. Hoàn thành công việc theo yêu cầu"
+      },
+      {
+        "text": "D. Đề nghị được gia hạn đến ngày làm việc tiếp theo"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Phản hồi rằng thư ký không thể làm việc vào ngày nghỉ",
+      "B. Bỏ qua email và không phản hồi",
+      "C. Hoàn thành công việc theo yêu cầu",
+      "D. Đề nghị được gia hạn đến ngày làm việc tiếp theo"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 9,
+    "body_index": 1207,
+    "id": "word-1d55e841b9e15dba-p1207"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 10: Lãnh đạo yêu cầu thư ký đưa ra ý kiến về một vấn đề quan trọng trong cuộc họp. Thư ký không chắc chắn về câu trả lời. Thư ký sẽ?",
+    "source_q_num": 10,
+    "source_title": "Câu 10: Lãnh đạo yêu cầu thư ký đưa ra ý kiến về một vấn đề quan trọng trong cuộc họp. Thư ký không chắc chắn về câu trả lời. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 10,
+        "body_index": 1212
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Từ chối đưa ra ý kiến"
+      },
+      {
+        "text": "B. Hỏi ý kiến của đồng nghiệp trước khi trả lời"
+      },
+      {
+        "text": "C. Đưa ra câu trả lời dựa trên cảm tính"
+      },
+      {
+        "text": "D. Thừa nhận thư ký không chắc chắn và yêu cầu thêm thời gian để nghiên cứu"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Từ chối đưa ra ý kiến",
+      "B. Hỏi ý kiến của đồng nghiệp trước khi trả lời",
+      "C. Đưa ra câu trả lời dựa trên cảm tính",
+      "D. Thừa nhận thư ký không chắc chắn và yêu cầu thêm thời gian để nghiên cứu"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 10,
+    "body_index": 1212,
+    "id": "word-1d55e841b9e15dba-p1212"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 11: Thư ký nhận được yêu cầu sắp xếp một cuộc họp vào thời điểm mà thư ký thấy không hợp lý. Thư ký sẽ?",
+    "source_q_num": 11,
+    "source_title": "Câu 11: Thư ký nhận được yêu cầu sắp xếp một cuộc họp vào thời điểm mà thư ký thấy không hợp lý. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 11,
+        "body_index": 1217
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Bỏ qua yêu cầu vì thời điểm không hợp lý"
+      },
+      {
+        "text": "B. Sắp xếp cuộc họp và thông báo về sự không hợp lý"
+      },
+      {
+        "text": "C. Đề nghị thay đổi thời gian họp"
+      },
+      {
+        "text": "D. Sắp xếp cuộc họp như yêu cầu"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Bỏ qua yêu cầu vì thời điểm không hợp lý",
+      "B. Sắp xếp cuộc họp và thông báo về sự không hợp lý",
+      "C. Đề nghị thay đổi thời gian họp",
+      "D. Sắp xếp cuộc họp như yêu cầu"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 11,
+    "body_index": 1217,
+    "id": "word-1d55e841b9e15dba-p1217"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 12: Lãnh đạo yêu cầu thư ký thực hiện một nhiệm vụ vượt quá khả năng của thư ký trong thời gian rất ngắn. Thư ký sẽ?",
+    "source_q_num": 12,
+    "source_title": "Câu 12: Lãnh đạo yêu cầu thư ký thực hiện một nhiệm vụ vượt quá khả năng của thư ký trong thời gian rất ngắn. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 12,
+        "body_index": 1222
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Nhờ đồng nghiệp làm giúp"
+      },
+      {
+        "text": "B. Hoàn thành nhiệm vụ dù biết có thể không đạt kết quả tốt"
+      },
+      {
+        "text": "C. Từ chối nhiệm vụ vì quá khó"
+      },
+      {
+        "text": "D. Yêu cầu thêm thời gian hoặc sự hỗ trợ"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Nhờ đồng nghiệp làm giúp",
+      "B. Hoàn thành nhiệm vụ dù biết có thể không đạt kết quả tốt",
+      "C. Từ chối nhiệm vụ vì quá khó",
+      "D. Yêu cầu thêm thời gian hoặc sự hỗ trợ"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 12,
+    "body_index": 1222,
+    "id": "word-1d55e841b9e15dba-p1222"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 13: Lãnh đạo yêu cầu thư ký thực hiện một công việc mà thư ký không có đủ kinh nghiệm để làm. Thư ký sẽ?",
+    "source_q_num": 13,
+    "source_title": "Câu 13: Lãnh đạo yêu cầu thư ký thực hiện một công việc mà thư ký không có đủ kinh nghiệm để làm. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 13,
+        "body_index": 1227
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Thực hiện công việc nhưng tìm cách làm theo ý mình"
+      },
+      {
+        "text": "B. Từ chối thực hiện công việc vì thiếu kinh nghiệm"
+      },
+      {
+        "text": "C. Yêu cầu được hướng dẫn thêm hoặc hỗ trợ từ người khác"
+      },
+      {
+        "text": "D. Thực hiện công việc theo yêu cầu mà không hỏi thêm"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Thực hiện công việc nhưng tìm cách làm theo ý mình",
+      "B. Từ chối thực hiện công việc vì thiếu kinh nghiệm",
+      "C. Yêu cầu được hướng dẫn thêm hoặc hỗ trợ từ người khác",
+      "D. Thực hiện công việc theo yêu cầu mà không hỏi thêm"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 13,
+    "body_index": 1227,
+    "id": "word-1d55e841b9e15dba-p1227"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 14: Thư ký nghe được tin đồn trong công ty rằng lãnh đạo của thư ký đã đưa ra một quyết định không hợp lý. Là thư ký, thư ký sẽ?",
+    "source_q_num": 14,
+    "source_title": "Câu 14: Thư ký nghe được tin đồn trong công ty rằng lãnh đạo của thư ký đã đưa ra một quyết định không hợp lý. Là thư ký, thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 14,
+        "body_index": 1232
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Lặng lẽ theo dõi và không làm gì cả"
+      },
+      {
+        "text": "B. Lan truyền tin đồn để mọi người biết sự thật"
+      },
+      {
+        "text": "C. Báo cáo với lãnh đạo về tin đồn và đề nghị xử lý"
+      },
+      {
+        "text": "D. Tìm hiểu thêm về tin đồn trước khi quyết định hành động"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Lặng lẽ theo dõi và không làm gì cả",
+      "B. Lan truyền tin đồn để mọi người biết sự thật",
+      "C. Báo cáo với lãnh đạo về tin đồn và đề nghị xử lý",
+      "D. Tìm hiểu thêm về tin đồn trước khi quyết định hành động"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 14,
+    "body_index": 1232,
+    "id": "word-1d55e841b9e15dba-p1232"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 15: Thư ký phát hiện ra một lỗi nhỏ trong một bài phát biểu quan trọng mà lãnh đạo sắp trình bày. Thư ký sẽ?",
+    "source_q_num": 15,
+    "source_title": "Câu 15: Thư ký phát hiện ra một lỗi nhỏ trong một bài phát biểu quan trọng mà lãnh đạo sắp trình bày. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 15,
+        "body_index": 1237
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Chỉnh sửa lỗi mà không báo trước với lãnh đạo."
+      },
+      {
+        "text": "B. Thông báo ngay với lãnh đạo về lỗi và đề nghị chỉnh sửa."
+      },
+      {
+        "text": "C. Không nói gì và để lãnh đạo tự phát hiện lỗi."
+      },
+      {
+        "text": "D. Để bài phát biểu như cũ và chuẩn bị lý do nếu có ai thắc mắc."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Chỉnh sửa lỗi mà không báo trước với lãnh đạo.",
+      "B. Thông báo ngay với lãnh đạo về lỗi và đề nghị chỉnh sửa.",
+      "C. Không nói gì và để lãnh đạo tự phát hiện lỗi.",
+      "D. Để bài phát biểu như cũ và chuẩn bị lý do nếu có ai thắc mắc."
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 15,
+    "body_index": 1237,
+    "id": "word-1d55e841b9e15dba-p1237"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 16: Tại sao việc tôn trọng lãnh đạo là nguyên tắc quan trọng trong giao tiếp hành chính?",
+    "source_q_num": 16,
+    "source_title": "Câu 16: Tại sao việc tôn trọng lãnh đạo là nguyên tắc quan trọng trong giao tiếp hành chính?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 16,
+        "body_index": 1242
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Để lãnh đạo có thể kiểm tra công việc của thư ký"
+      },
+      {
+        "text": "B. Để thư ký không cần phải làm việc quá chăm chỉ"
+      },
+      {
+        "text": "C. Để xây dựng mối quan hệ tích cực và hiểu rõ vai trò của lãnh đạo"
+      },
+      {
+        "text": "D. Để thư ký có thể yêu cầu nhiều quyền hạn hơn"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Để lãnh đạo có thể kiểm tra công việc của thư ký",
+      "B. Để thư ký không cần phải làm việc quá chăm chỉ",
+      "C. Để xây dựng mối quan hệ tích cực và hiểu rõ vai trò của lãnh đạo",
+      "D. Để thư ký có thể yêu cầu nhiều quyền hạn hơn"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 16,
+    "body_index": 1242,
+    "id": "word-1d55e841b9e15dba-p1242"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 17: Thư ký nhận thấy rằng lãnh đạo của mình có thông tin sai lệch trong một báo cáo mà ông/bà ấy đã phê duyệt. Thư ký sẽ?",
+    "source_q_num": 17,
+    "source_title": "Câu 17: Thư ký nhận thấy rằng lãnh đạo của mình có thông tin sai lệch trong một báo cáo mà ông/bà ấy đã phê duyệt. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 17,
+        "body_index": 1247
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Thông báo cho toàn bộ nhóm về sai sót của lãnh đạo."
+      },
+      {
+        "text": "B. Gửi thông tin đúng cho lãnh đạo một cách khéo léo và riêng tư."
+      },
+      {
+        "text": "C. Yêu cầu một đồng nghiệp sửa giúp."
+      },
+      {
+        "text": "D. Bỏ qua vì đó là quyết định của lãnh đạo."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Thông báo cho toàn bộ nhóm về sai sót của lãnh đạo.",
+      "B. Gửi thông tin đúng cho lãnh đạo một cách khéo léo và riêng tư.",
+      "C. Yêu cầu một đồng nghiệp sửa giúp.",
+      "D. Bỏ qua vì đó là quyết định của lãnh đạo."
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 17,
+    "body_index": 1247,
+    "id": "word-1d55e841b9e15dba-p1247"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 18: Thư ký nhận thấy một chỉ thị từ lãnh đạo có thể gây hại đến công ty. Thư ký sẽ?",
+    "source_q_num": 18,
+    "source_title": "Câu 18: Thư ký nhận thấy một chỉ thị từ lãnh đạo có thể gây hại đến công ty. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 18,
+        "body_index": 1252
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Bỏ qua chỉ thị vì lo ngại."
+      },
+      {
+        "text": "B. Tìm cách tránh thực hiện chỉ thị đó."
+      },
+      {
+        "text": "C. Đưa ra ý kiến riêng của mình một cách khéo léo."
+      },
+      {
+        "text": "D. Thực hiện chỉ thị như yêu cầu."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Bỏ qua chỉ thị vì lo ngại.",
+      "B. Tìm cách tránh thực hiện chỉ thị đó.",
+      "C. Đưa ra ý kiến riêng của mình một cách khéo léo.",
+      "D. Thực hiện chỉ thị như yêu cầu."
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 18,
+    "body_index": 1252,
+    "id": "word-1d55e841b9e15dba-p1252"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 19: Lãnh đạo yêu cầu thư ký chuẩn bị tài liệu cho một cuộc họp mà thư ký cảm thấy thông tin không đủ chính xác. Thư ký sẽ?",
+    "source_q_num": 19,
+    "source_title": "Câu 19: Lãnh đạo yêu cầu thư ký chuẩn bị tài liệu cho một cuộc họp mà thư ký cảm thấy thông tin không đủ chính xác. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 19,
+        "body_index": 1257
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Từ chối yêu cầu vì thông tin không đủ."
+      },
+      {
+        "text": "B. Chuẩn bị tài liệu và ghi chú về những điểm chưa chính xác."
+      },
+      {
+        "text": "C. Chuẩn bị tài liệu theo yêu cầu."
+      },
+      {
+        "text": "D. Đề nghị thêm thời gian để kiểm tra thông tin."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Từ chối yêu cầu vì thông tin không đủ.",
+      "B. Chuẩn bị tài liệu và ghi chú về những điểm chưa chính xác.",
+      "C. Chuẩn bị tài liệu theo yêu cầu.",
+      "D. Đề nghị thêm thời gian để kiểm tra thông tin."
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 19,
+    "body_index": 1257,
+    "id": "word-1d55e841b9e15dba-p1257"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 20: Trong một cuộc họp, lãnh đạo của thư ký bị chỉ trích gay gắt về một quyết định kinh doanh. Thư ký sẽ?",
+    "source_q_num": 20,
+    "source_title": "Câu 20: Trong một cuộc họp, lãnh đạo của thư ký bị chỉ trích gay gắt về một quyết định kinh doanh. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 20,
+        "body_index": 1262
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Trấn an nhóm rằng lãnh đạo sẽ cân nhắc lại quyết định."
+      },
+      {
+        "text": "B. Im lặng và để lãnh đạo tự bảo vệ mình."
+      },
+      {
+        "text": "C. Chuyển chủ đề cuộc họp để tránh chỉ trích."
+      },
+      {
+        "text": "D. Tham gia vào cuộc thảo luận để giải thích và bảo vệ quyết định."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Trấn an nhóm rằng lãnh đạo sẽ cân nhắc lại quyết định.",
+      "B. Im lặng và để lãnh đạo tự bảo vệ mình.",
+      "C. Chuyển chủ đề cuộc họp để tránh chỉ trích.",
+      "D. Tham gia vào cuộc thảo luận để giải thích và bảo vệ quyết định."
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 20,
+    "body_index": 1262,
+    "id": "word-1d55e841b9e15dba-p1262"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 21: Tại sao sự tin cậy lại quan trọng trong giao tiếp hành chính giữa thư ký và lãnh đạo?",
+    "source_q_num": 21,
+    "source_title": "Câu 21:Tại sao sự tin cậy lại quan trọng trong giao tiếp hành chính giữa thư ký và lãnh đạo?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 21,
+        "body_index": 1267
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Để đảm bảo các quyết định được đưa ra đúng cách"
+      },
+      {
+        "text": "B. Để tránh mất thời gian trong việc trao đổi"
+      },
+      {
+        "text": "C. Để thư ký có thể dự đoán nhu cầu của lãnh đạo"
+      },
+      {
+        "text": "D. Để lãnh đạo không cần quan tâm đến công việc của thư ký"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Để đảm bảo các quyết định được đưa ra đúng cách",
+      "B. Để tránh mất thời gian trong việc trao đổi",
+      "C. Để thư ký có thể dự đoán nhu cầu của lãnh đạo",
+      "D. Để lãnh đạo không cần quan tâm đến công việc của thư ký"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 21,
+    "body_index": 1267,
+    "id": "word-1d55e841b9e15dba-p1267"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 22: Thư ký cần làm gì khi nhận thông tin quan trọng từ lãnh đạo?",
+    "source_q_num": 22,
+    "source_title": "Câu 22: Thư ký cần làm gì khi nhận thông tin quan trọng từ lãnh đạo?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 22,
+        "body_index": 1272
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Chuyển thông tin ngay lập tức mà không kiểm tra"
+      },
+      {
+        "text": "B. Chia sẻ thông tin với tất cả các nhân viên"
+      },
+      {
+        "text": "C. Chỉ ghi chép thông tin mà không cần xử lý thêm"
+      },
+      {
+        "text": "D. Đảm bảo thông tin được truyền đạt rõ ràng và chính xác"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Chuyển thông tin ngay lập tức mà không kiểm tra",
+      "B. Chia sẻ thông tin với tất cả các nhân viên",
+      "C. Chỉ ghi chép thông tin mà không cần xử lý thêm",
+      "D. Đảm bảo thông tin được truyền đạt rõ ràng và chính xác"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 22,
+    "body_index": 1272,
+    "id": "word-1d55e841b9e15dba-p1272"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 23: Lãnh đạo yêu cầu thư ký tổ chức một cuộc họp gấp vào buổi chiều, nhưng thư ký đã có lịch hẹn khác. Thư ký sẽ?",
+    "source_q_num": 23,
+    "source_title": "Câu 23: Lãnh đạo yêu cầu thư ký tổ chức một cuộc họp gấp vào buổi chiều, nhưng thư ký đã có lịch hẹn khác. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 23,
+        "body_index": 1277
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Từ chối thẳng thừng."
+      },
+      {
+        "text": "B. Đề nghị dời cuộc họp sang thời gian khác."
+      },
+      {
+        "text": "C. Nhờ đồng nghiệp tổ chức cuộc họp thay thư ký."
+      },
+      {
+        "text": "D. Hủy cuộc hẹn cá nhân để tổ chức cuộc họp."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Từ chối thẳng thừng.",
+      "B. Đề nghị dời cuộc họp sang thời gian khác.",
+      "C. Nhờ đồng nghiệp tổ chức cuộc họp thay thư ký.",
+      "D. Hủy cuộc hẹn cá nhân để tổ chức cuộc họp."
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 23,
+    "body_index": 1277,
+    "id": "word-1d55e841b9e15dba-p1277"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 24: Lãnh đạo của thư ký đưa ra quyết định sử dụng một phần mềm mới mà thư ký cảm thấy không hiệu quả. Thư ký sẽ?",
+    "source_q_num": 24,
+    "source_title": "Câu 24: Lãnh đạo của thư ký đưa ra quyết định sử dụng một phần mềm mới mà thư ký cảm thấy không hiệu quả. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 24,
+        "body_index": 1282
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Đề nghị lãnh đạo cân nhắc lại."
+      },
+      {
+        "text": "B. Thực hiện theo quyết định của lãnh đạo và sử dụng phần mềm mới."
+      },
+      {
+        "text": "C. Tiếp tục sử dụng phần mềm cũ."
+      },
+      {
+        "text": "D. Từ chối sử dụng phần mềm mới."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Đề nghị lãnh đạo cân nhắc lại.",
+      "B. Thực hiện theo quyết định của lãnh đạo và sử dụng phần mềm mới.",
+      "C. Tiếp tục sử dụng phần mềm cũ.",
+      "D. Từ chối sử dụng phần mềm mới."
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 24,
+    "body_index": 1282,
+    "id": "word-1d55e841b9e15dba-p1282"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 25: Một trong các kênh giao tiếp hành chính giữa thư ký và lãnh đạo là gì?",
+    "source_q_num": 25,
+    "source_title": "Câu 25: Một trong các kênh giao tiếp hành chính giữa thư ký và lãnh đạo là gì?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 25,
+        "body_index": 1287
+      }
+    ],
+    "source_content": [
+      {
+        "text": "Đài phát thanh"
+      },
+      {
+        "text": "Mạng xã hội"
+      },
+      {
+        "text": "Giao tiếp qua văn bản"
+      },
+      {
+        "text": "Giao tiếp qua điện thoại"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Đài phát thanh",
+      "B. Mạng xã hội",
+      "C. Giao tiếp qua văn bản",
+      "D. Giao tiếp qua điện thoại"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 25,
+    "body_index": 1287,
+    "id": "word-1d55e841b9e15dba-p1287"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 26: Khi thư ký cần truyền đạt thông điệp của lãnh đạo, điều gì là quan trọng nhất?",
+    "source_q_num": 26,
+    "source_title": "Câu 26: Khi thư ký cần truyền đạt thông điệp của lãnh đạo, điều gì là quan trọng nhất?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 26,
+        "body_index": 1292
+      }
+    ],
+    "source_content": [
+      {
+        "text": "Sự sáng tạo trong cách diễn đạt"
+      },
+      {
+        "text": "Sự rõ ràng và chính xác trong thông tin"
+      },
+      {
+        "text": "Sự dễ hiểu của thông điệp"
+      },
+      {
+        "text": "Sự trang trọng trong văn bản"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Sự sáng tạo trong cách diễn đạt",
+      "B. Sự rõ ràng và chính xác trong thông tin",
+      "C. Sự dễ hiểu của thông điệp",
+      "D. Sự trang trọng trong văn bản"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 26,
+    "body_index": 1292,
+    "id": "word-1d55e841b9e15dba-p1292"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 27: Kênh giao tiếp nào giúp thư ký và lãnh đạo tối ưu hóa quản lý thời gian và công việc?",
+    "source_q_num": 27,
+    "source_title": "Câu 27: Kênh giao tiếp nào giúp thư ký và lãnh đạo tối ưu hóa quản lý thời gian và công việc?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 27,
+        "body_index": 1297
+      }
+    ],
+    "source_content": [
+      {
+        "text": "Giao tiếp qua văn bản"
+      },
+      {
+        "text": "Giao tiếp qua các công cụ kỹ thuật số"
+      },
+      {
+        "text": "Giao tiếp trực tiếp"
+      },
+      {
+        "text": "Giao tiếp qua điện thoại"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Giao tiếp qua văn bản",
+      "B. Giao tiếp qua các công cụ kỹ thuật số",
+      "C. Giao tiếp trực tiếp",
+      "D. Giao tiếp qua điện thoại"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 27,
+    "body_index": 1297,
+    "id": "word-1d55e841b9e15dba-p1297"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 28: Thư ký được yêu cầu sắp xếp một cuộc họp vào thời điểm mà thư ký thấy không hợp lý. Thư ký sẽ?",
+    "source_q_num": 28,
+    "source_title": "Câu 28: Thư ký được yêu cầu sắp xếp một cuộc họp vào thời điểm mà thư ký thấy không hợp lý. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 28,
+        "body_index": 1302
+      }
+    ],
+    "source_content": [
+      {
+        "text": "Bỏ qua yêu cầu vì thời điểm không hợp lý."
+      },
+      {
+        "text": "Sắp xếp cuộc họp như yêu cầu."
+      },
+      {
+        "text": "Đề nghị thay đổi thời gian họp."
+      },
+      {
+        "text": "Sắp xếp cuộc họp và thông báo về sự không hợp lý."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Bỏ qua yêu cầu vì thời điểm không hợp lý.",
+      "B. Sắp xếp cuộc họp như yêu cầu.",
+      "C. Đề nghị thay đổi thời gian họp.",
+      "D. Sắp xếp cuộc họp và thông báo về sự không hợp lý."
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 28,
+    "body_index": 1302,
+    "id": "word-1d55e841b9e15dba-p1302"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 29: Lãnh đạo yêu cầu thư ký tổ chức một cuộc họp gấp vào buổi chiều, nhưng thư ký đã có lịch hẹn khác. Thư ký sẽ?",
+    "source_q_num": 29,
+    "source_title": "Câu 29: Lãnh đạo yêu cầu thư ký tổ chức một cuộc họp gấp vào buổi chiều, nhưng thư ký đã có lịch hẹn khác. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 29,
+        "body_index": 1307
+      }
+    ],
+    "source_content": [
+      {
+        "text": "Nhờ đồng nghiệp tổ chức cuộc họp thay thư ký."
+      },
+      {
+        "text": "Đề nghị dời cuộc họp sang thời gian khác."
+      },
+      {
+        "text": "Hủy cuộc hẹn cá nhân để tổ chức cuộc họp."
+      },
+      {
+        "text": "Từ chối thẳng thừng."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Nhờ đồng nghiệp tổ chức cuộc họp thay thư ký.",
+      "B. Đề nghị dời cuộc họp sang thời gian khác.",
+      "C. Hủy cuộc hẹn cá nhân để tổ chức cuộc họp.",
+      "D. Từ chối thẳng thừng."
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 29,
+    "body_index": 1307,
+    "id": "word-1d55e841b9e15dba-p1307"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 30: Lãnh đạo yêu cầu thư ký làm thêm giờ để hoàn thành một dự án quan trọng. Thư ký đã có kế hoạch cá nhân vào buổi tối đó. Thư ký sẽ?",
+    "source_q_num": 30,
+    "source_title": "Câu 30: Lãnh đạo yêu cầu thư ký làm thêm giờ để hoàn thành một dự án quan trọng. Thư ký đã có kế hoạch cá nhân vào buổi tối đó. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 30,
+        "body_index": 1313
+      }
+    ],
+    "source_content": [
+      {
+        "text": "Nhờ đồng nghiệp làm giúp thư ký."
+      },
+      {
+        "text": "Từ chối làm thêm giờ vì có kế hoạch cá nhân."
+      },
+      {
+        "text": "Đề nghị được làm thêm giờ vào ngày hôm sau."
+      },
+      {
+        "text": "Chấp nhận làm thêm giờ theo yêu cầu."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Nhờ đồng nghiệp làm giúp thư ký.",
+      "B. Từ chối làm thêm giờ vì có kế hoạch cá nhân.",
+      "C. Đề nghị được làm thêm giờ vào ngày hôm sau.",
+      "D. Chấp nhận làm thêm giờ theo yêu cầu."
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 30,
+    "body_index": 1313,
+    "id": "word-1d55e841b9e15dba-p1313"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 31: Thư ký nhận được phản hồi tiêu cực từ một nhân viên về một chính sách mới mà lãnh đạo đưa ra. Thư ký sẽ?",
+    "source_q_num": 31,
+    "source_title": "Câu 31 : Thư ký nhận được phản hồi tiêu cực từ một nhân viên về một chính sách mới mà lãnh đạo đưa ra. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 31,
+        "body_index": 1318
+      }
+    ],
+    "source_content": [
+      {
+        "text": "Phản đối lại nhân viên và bảo vệ lãnh đạo một cách cứng rắn."
+      },
+      {
+        "text": "Đề nghị nhân viên giữ ý kiến riêng và không thảo luận."
+      },
+      {
+        "text": "Chuyển phản hồi cho lãnh đạo mà không bình luận gì."
+      },
+      {
+        "text": "Lắng nghe và giải thích lý do chính sách được đưa ra."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Phản đối lại nhân viên và bảo vệ lãnh đạo một cách cứng rắn.",
+      "B. Đề nghị nhân viên giữ ý kiến riêng và không thảo luận.",
+      "C. Chuyển phản hồi cho lãnh đạo mà không bình luận gì.",
+      "D. Lắng nghe và giải thích lý do chính sách được đưa ra."
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 31,
+    "body_index": 1318,
+    "id": "word-1d55e841b9e15dba-p1318"
+  },
+  {
+    "lesson_num": 8,
+    "question": "Câu 32: Lãnh đạo yêu cầu thư ký gửi một tài liệu với thông tin chưa được kiểm tra kỹ càng đến đối tác. Thư ký biết thông tin này có thể ảnh hưởng đến uy tín của lãnh đạo nếu có sai sót. Thư ký sẽ?",
+    "source_q_num": 32,
+    "source_title": "Câu 32: Lãnh đạo yêu cầu thư ký gửi một tài liệu với thông tin chưa được kiểm tra kỹ càng đến đối tác. Thư ký biết thông tin này có thể ảnh hưởng đến uy tín của lãnh đạo nếu có sai sót. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 32,
+        "body_index": 1323
+      }
+    ],
+    "source_content": [
+      {
+        "text": "Gửi tài liệu ngay theo yêu cầu."
+      },
+      {
+        "text": "Từ chối gửi tài liệu vì lo ngại về uy tín của lãnh đạo."
+      },
+      {
+        "text": "Đề nghị lãnh đạo kiểm tra lại thông tin trước khi gửi."
+      },
+      {
+        "text": "Gửi tài liệu và sau đó kiểm tra lại thông tin."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Gửi tài liệu ngay theo yêu cầu.",
+      "B. Từ chối gửi tài liệu vì lo ngại về uy tín của lãnh đạo.",
+      "C. Đề nghị lãnh đạo kiểm tra lại thông tin trước khi gửi.",
+      "D. Gửi tài liệu và sau đó kiểm tra lại thông tin."
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 8",
+    "q_num": 32,
+    "body_index": 1323,
+    "id": "word-1d55e841b9e15dba-p1323"
+  },
+  {
+    "lesson_num": 9,
+    "question": "Câu 1: Nguyên tắc nào không phải là nguyên tắc trong giao tiếp hành chính giữa thư ký và đồng nghiệp?",
+    "source_q_num": 1,
+    "source_title": "Câu 1: Nguyên tắc nào không phải là nguyên tắc trong giao tiếp hành chính giữa thư ký và đồng nghiệp?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 1,
+        "body_index": 1331
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Hiểu biết lẫn nhau"
+      },
+      {
+        "text": "B. Chân thành và trung thực"
+      },
+      {
+        "text": "C. Đoàn kết, tương trợ và hợp tác"
+      },
+      {
+        "text": "D. Sự thay đổi phong cách làm việc liên tục"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Hiểu biết lẫn nhau",
+      "B. Chân thành và trung thực",
+      "C. Đoàn kết, tương trợ và hợp tác",
+      "D. Sự thay đổi phong cách làm việc liên tục"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 9",
+    "q_num": 1,
+    "body_index": 1331,
+    "id": "word-1d55e841b9e15dba-p1331"
+  },
+  {
+    "lesson_num": 9,
+    "question": "Câu 2: Làm thế nào để một thư ký văn phòng tạo sự kết nối giữa các bộ phận trong tổ chức?",
+    "source_q_num": 2,
+    "source_title": "Câu 2: Làm thế nào để một thư ký văn phòng tạo sự kết nối giữa các bộ phận trong tổ chức?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 2,
+        "body_index": 1336
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Bằng cách tăng cường các quy trình hành chính"
+      },
+      {
+        "text": "B. Bằng cách làm cầu nối và phối hợp giữa các bộ phận"
+      },
+      {
+        "text": "C. Bằng cách chỉ định công việc cho từng bộ phận"
+      },
+      {
+        "text": "D. Bằng cách tổ chức các cuộc họp không liên quan"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Bằng cách tăng cường các quy trình hành chính",
+      "B. Bằng cách làm cầu nối và phối hợp giữa các bộ phận",
+      "C. Bằng cách chỉ định công việc cho từng bộ phận",
+      "D. Bằng cách tổ chức các cuộc họp không liên quan"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 9",
+    "q_num": 2,
+    "body_index": 1336,
+    "id": "word-1d55e841b9e15dba-p1336"
+  },
+  {
+    "lesson_num": 9,
+    "question": "Câu 3: Khi đối mặt với xung đột trong công việc với đồng nghiệp, thư ký văn phòng nên làm gì?",
+    "source_q_num": 3,
+    "source_title": "Câu 3: Khi đối mặt với xung đột trong công việc với đồng nghiệp, thư ký văn phòng nên làm gì?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 3,
+        "body_index": 1341
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Chuyển vấn đề cho lãnh đạo giải quyết"
+      },
+      {
+        "text": "B. Xử lý xung đột một cách chuyên nghiệp và tìm giải pháp hợp lý"
+      },
+      {
+        "text": "C. Để mặc xung đột tiếp tục diễn ra"
+      },
+      {
+        "text": "D. Tránh đối mặt với vấn đề"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Chuyển vấn đề cho lãnh đạo giải quyết",
+      "B. Xử lý xung đột một cách chuyên nghiệp và tìm giải pháp hợp lý",
+      "C. Để mặc xung đột tiếp tục diễn ra",
+      "D. Tránh đối mặt với vấn đề"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 9",
+    "q_num": 3,
+    "body_index": 1341,
+    "id": "word-1d55e841b9e15dba-p1341"
+  },
+  {
+    "lesson_num": 9,
+    "question": "Câu 4: Nguyên tắc nào là cơ sở để xây dựng mối quan hệ giao tiếp hành chính bền vững với đồng nghiệp?",
+    "source_q_num": 4,
+    "source_title": "Câu 4: Nguyên tắc nào là cơ sở để xây dựng mối quan hệ giao tiếp hành chính bền vững với đồng nghiệp?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 4,
+        "body_index": 1346
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Chân thành và trung thực"
+      },
+      {
+        "text": "B. Phê bình công khai"
+      },
+      {
+        "text": "C. Tăng cường sự cạnh tranh nội bộ"
+      },
+      {
+        "text": "D. Thay đổi liên tục quy trình làm việc"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Chân thành và trung thực",
+      "B. Phê bình công khai",
+      "C. Tăng cường sự cạnh tranh nội bộ",
+      "D. Thay đổi liên tục quy trình làm việc"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 9",
+    "q_num": 4,
+    "body_index": 1346,
+    "id": "word-1d55e841b9e15dba-p1346"
+  },
+  {
+    "lesson_num": 9,
+    "question": "Câu 5: Điều gì có thể gây khó khăn trong việc phối hợp giữa các đồng nghiệp?",
+    "source_q_num": 5,
+    "source_title": "Câu 5: Điều gì có thể gây khó khăn trong việc phối hợp giữa các đồng nghiệp?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 5,
+        "body_index": 1351
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Sự hỗ trợ từ các bộ phận khác"
+      },
+      {
+        "text": "B. Sự khác biệt về phong cách giao tiếp"
+      },
+      {
+        "text": "C. Sự rõ ràng trong quy trình công việc"
+      },
+      {
+        "text": "D. Sự đồng thuận về mục tiêu công việc"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Sự hỗ trợ từ các bộ phận khác",
+      "B. Sự khác biệt về phong cách giao tiếp",
+      "C. Sự rõ ràng trong quy trình công việc",
+      "D. Sự đồng thuận về mục tiêu công việc"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 9",
+    "q_num": 5,
+    "body_index": 1351,
+    "id": "word-1d55e841b9e15dba-p1351"
+  },
+  {
+    "lesson_num": 9,
+    "question": "Câu 6: Thư ký văn phòng cần làm gì khi có sự khác biệt trong quan điểm giữa hai đồng nghiệp?",
+    "source_q_num": 6,
+    "source_title": "Câu 6: Thư ký văn phòng cần làm gì khi có sự khác biệt trong quan điểm giữa hai đồng nghiệp?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 6,
+        "body_index": 1356
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Tổ chức cuộc họp để lắng nghe và điều chỉnh quan điểm"
+      },
+      {
+        "text": "B. Tránh tiếp xúc với hai đồng nghiệp"
+      },
+      {
+        "text": "C. Cố gắng thuyết phục đồng nghiệp theo ý mình"
+      },
+      {
+        "text": "D. Cung cấp tài liệu không liên quan đến vấn đề"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Tổ chức cuộc họp để lắng nghe và điều chỉnh quan điểm",
+      "B. Tránh tiếp xúc với hai đồng nghiệp",
+      "C. Cố gắng thuyết phục đồng nghiệp theo ý mình",
+      "D. Cung cấp tài liệu không liên quan đến vấn đề"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 9",
+    "q_num": 6,
+    "body_index": 1356,
+    "id": "word-1d55e841b9e15dba-p1356"
+  },
+  {
+    "lesson_num": 9,
+    "question": "Câu 7: Một đồng nghiệp mới đến và chưa quen với quy trình làm việc. Thư ký sẽ?",
+    "source_q_num": 7,
+    "source_title": "Câu 7: Một đồng nghiệp mới đến và chưa quen với quy trình làm việc. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 7,
+        "body_index": 1361
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Bỏ qua vì không liên quan đến công việc của mình"
+      },
+      {
+        "text": "B. Yêu cầu đồng nghiệp khác giúp đỡ"
+      },
+      {
+        "text": "C. Chỉ dẫn nhanh qua và để đồng nghiệp tự tìm hiểu thêm"
+      },
+      {
+        "text": "D. Dành thời gian hướng dẫn chi tiết và giải đáp thắc mắc của đồng nghiệp"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Bỏ qua vì không liên quan đến công việc của mình",
+      "B. Yêu cầu đồng nghiệp khác giúp đỡ",
+      "C. Chỉ dẫn nhanh qua và để đồng nghiệp tự tìm hiểu thêm",
+      "D. Dành thời gian hướng dẫn chi tiết và giải đáp thắc mắc của đồng nghiệp"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 9",
+    "q_num": 7,
+    "body_index": 1361,
+    "id": "word-1d55e841b9e15dba-p1361"
+  },
+  {
+    "lesson_num": 9,
+    "question": "Câu 8: Một dự án quan trọng đòi hỏi sự hợp tác chặt chẽ giữa các bộ phận, bao gồm cả thư ký văn phòng. Thư ký sẽ?",
+    "source_q_num": 8,
+    "source_title": "Câu 8: Một dự án quan trọng đòi hỏi sự hợp tác chặt chẽ giữa các bộ phận, bao gồm cả thư ký văn phòng. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 8,
+        "body_index": 1366
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Chỉ hợp tác khi được yêu cầu cụ thể"
+      },
+      {
+        "text": "B. Đề nghị lãnh đạo phân chia công việc rõ ràng để tránh nhầm lẫn"
+      },
+      {
+        "text": "C. Làm phần công việc của mình và không quan tâm đến các bộ phận khác"
+      },
+      {
+        "text": "D. Chủ động liên hệ với các đồng nghiệp để đảm bảo thông tin liên lạc thông suốt"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Chỉ hợp tác khi được yêu cầu cụ thể",
+      "B. Đề nghị lãnh đạo phân chia công việc rõ ràng để tránh nhầm lẫn",
+      "C. Làm phần công việc của mình và không quan tâm đến các bộ phận khác",
+      "D. Chủ động liên hệ với các đồng nghiệp để đảm bảo thông tin liên lạc thông suốt"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 9",
+    "q_num": 8,
+    "body_index": 1366,
+    "id": "word-1d55e841b9e15dba-p1366"
+  },
+  {
+    "lesson_num": 9,
+    "question": "Câu 9: Một đồng nghiệp cần hỗ trợ về kỹ thuật máy tính mà thư ký có thể giúp. Thư ký sẽ?",
+    "source_q_num": 9,
+    "source_title": "Câu 9: Một đồng nghiệp cần hỗ trợ về kỹ thuật máy tính mà thư ký có thể giúp. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 9,
+        "body_index": 1371
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Đến trực tiếp giúp đồng nghiệp xử lý vấn đề"
+      },
+      {
+        "text": "B. Chuyển yêu cầu của đồng nghiệp đến bộ phận kỹ thuật"
+      },
+      {
+        "text": "C. Từ chối vì thư ký không có nhiệm vụ hỗ trợ kỹ thuật"
+      },
+      {
+        "text": "D. Hướng dẫn đồng nghiệp qua điện thoại"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Đến trực tiếp giúp đồng nghiệp xử lý vấn đề",
+      "B. Chuyển yêu cầu của đồng nghiệp đến bộ phận kỹ thuật",
+      "C. Từ chối vì thư ký không có nhiệm vụ hỗ trợ kỹ thuật",
+      "D. Hướng dẫn đồng nghiệp qua điện thoại"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 9",
+    "q_num": 9,
+    "body_index": 1371,
+    "id": "word-1d55e841b9e15dba-p1371"
+  },
+  {
+    "lesson_num": 9,
+    "question": "Câu 10: Thư ký và đồng nghiệp đang chuẩn bị cho một sự kiện lớn. Đột nhiên, đồng nghiệp của thư ký bị ốm và không thể hoàn thành phần việc của mình. Thư ký sẽ?",
+    "source_q_num": 10,
+    "source_title": "Câu 10: Thư ký và đồng nghiệp đang chuẩn bị cho một sự kiện lớn. Đột nhiên, đồng nghiệp của thư ký bị ốm và không thể hoàn thành phần việc của mình. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 10,
+        "body_index": 1376
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Hoàn thành phần việc của mình và bỏ qua phần việc của đồng nghiệp"
+      },
+      {
+        "text": "B. Báo cáo với lãnh đạo về tình hình của đồng nghiệp"
+      },
+      {
+        "text": "C. Tình nguyện hỗ trợ hoàn thành phần việc của đồng nghiệp"
+      },
+      {
+        "text": "D. Chờ đồng nghiệp hồi phục và tự hoàn thành công việc"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Hoàn thành phần việc của mình và bỏ qua phần việc của đồng nghiệp",
+      "B. Báo cáo với lãnh đạo về tình hình của đồng nghiệp",
+      "C. Tình nguyện hỗ trợ hoàn thành phần việc của đồng nghiệp",
+      "D. Chờ đồng nghiệp hồi phục và tự hoàn thành công việc"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 9",
+    "q_num": 10,
+    "body_index": 1376,
+    "id": "word-1d55e841b9e15dba-p1376"
+  },
+  {
+    "lesson_num": 9,
+    "question": "Câu 11: Một đồng nghiệp gặp khó khăn trong việc sắp xếp lịch họp và đề nghị thư ký giúp đỡ. Thư ký sẽ?",
+    "source_q_num": 11,
+    "source_title": "Câu 11: Một đồng nghiệp gặp khó khăn trong việc sắp xếp lịch họp và đề nghị thư ký giúp đỡ. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 11,
+        "body_index": 1381
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Sắp xếp lịch họp cho họ mà không giải thích thêm"
+      },
+      {
+        "text": "B. Từ chối vì đây không phải công việc của thư ký"
+      },
+      {
+        "text": "C. Hướng dẫn họ cách sắp xếp lịch họp một cách hiệu quả"
+      },
+      {
+        "text": "D. Đề nghị họ học cách làm chủ động hơn"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Sắp xếp lịch họp cho họ mà không giải thích thêm",
+      "B. Từ chối vì đây không phải công việc của thư ký",
+      "C. Hướng dẫn họ cách sắp xếp lịch họp một cách hiệu quả",
+      "D. Đề nghị họ học cách làm chủ động hơn"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 9",
+    "q_num": 11,
+    "body_index": 1381,
+    "id": "word-1d55e841b9e15dba-p1381"
+  },
+  {
+    "lesson_num": 9,
+    "question": "Câu 12: Thư ký được yêu cầu tham gia vào một dự án mà thư ký thấy quá tải. Thư ký biết rằng một đồng nghiệp có khả năng hỗ trợ. Thư ký sẽ?",
+    "source_q_num": 12,
+    "source_title": "Câu 12: Thư ký được yêu cầu tham gia vào một dự án mà thư ký thấy quá tải. Thư ký biết rằng một đồng nghiệp có khả năng hỗ trợ. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 12,
+        "body_index": 1386
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Cố gắng tự làm hết mà không nhờ đến sự giúp đỡ"
+      },
+      {
+        "text": "B. Đề nghị đồng nghiệp hỗ trợ và chia sẻ công việc"
+      },
+      {
+        "text": "C. Từ chối tham gia dự án vì quá tải"
+      },
+      {
+        "text": "D. Hoàn thành phần việc của mình và để phần còn lại cho người khác"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Cố gắng tự làm hết mà không nhờ đến sự giúp đỡ",
+      "B. Đề nghị đồng nghiệp hỗ trợ và chia sẻ công việc",
+      "C. Từ chối tham gia dự án vì quá tải",
+      "D. Hoàn thành phần việc của mình và để phần còn lại cho người khác"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 9",
+    "q_num": 12,
+    "body_index": 1386,
+    "id": "word-1d55e841b9e15dba-p1386"
+  },
+  {
+    "lesson_num": 9,
+    "question": "Câu 13: Trong nhóm có một dự án cần phối hợp chặt chẽ, nhưng thư ký nhận thấy một đồng nghiệp không đóng góp nhiều. Thư ký sẽ?",
+    "source_q_num": 13,
+    "source_title": "Câu 13: Trong nhóm có một dự án cần phối hợp chặt chẽ, nhưng thư ký nhận thấy một đồng nghiệp không đóng góp nhiều. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 13,
+        "body_index": 1391
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Góp ý với đồng nghiệp đó về việc cần đóng góp nhiều hơn"
+      },
+      {
+        "text": "B. Đề nghị lãnh đạo can thiệp để đảm bảo sự hợp tác của mọi người"
+      },
+      {
+        "text": "C. Phàn nàn với các đồng nghiệp khác về sự thiếu hợp tác này"
+      },
+      {
+        "text": "D. Làm phần của mình và không quan tâm đến đồng nghiệp kia"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Góp ý với đồng nghiệp đó về việc cần đóng góp nhiều hơn",
+      "B. Đề nghị lãnh đạo can thiệp để đảm bảo sự hợp tác của mọi người",
+      "C. Phàn nàn với các đồng nghiệp khác về sự thiếu hợp tác này",
+      "D. Làm phần của mình và không quan tâm đến đồng nghiệp kia"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 9",
+    "q_num": 13,
+    "body_index": 1391,
+    "id": "word-1d55e841b9e15dba-p1391"
+  },
+  {
+    "lesson_num": 9,
+    "question": "Câu 14: Thư ký phát hiện rằng một đồng nghiệp đã làm sai một phần công việc trong dự án chung, nhưng dự án đã gần hoàn thành. Thư ký sẽ?",
+    "source_q_num": 14,
+    "source_title": "Câu 14: Thư ký phát hiện rằng một đồng nghiệp đã làm sai một phần công việc trong dự án chung, nhưng dự án đã gần hoàn thành. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 14,
+        "body_index": 1396
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Báo cáo với lãnh đạo về lỗi của đồng nghiệp"
+      },
+      {
+        "text": "B. Phớt lờ lỗi đó và tiếp tục hoàn thành dự án"
+      },
+      {
+        "text": "C. Nhắc nhở đồng nghiệp sửa lỗi ngay lập tức để tránh ảnh hưởng đến kết quả chung"
+      },
+      {
+        "text": "D. Sửa lỗi của đồng nghiệp mà không nói gì"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Báo cáo với lãnh đạo về lỗi của đồng nghiệp",
+      "B. Phớt lờ lỗi đó và tiếp tục hoàn thành dự án",
+      "C. Nhắc nhở đồng nghiệp sửa lỗi ngay lập tức để tránh ảnh hưởng đến kết quả chung",
+      "D. Sửa lỗi của đồng nghiệp mà không nói gì"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 9",
+    "q_num": 14,
+    "body_index": 1396,
+    "id": "word-1d55e841b9e15dba-p1396"
+  },
+  {
+    "lesson_num": 9,
+    "question": "Câu 15: Thư ký được giao nhiệm vụ làm việc nhóm với một đồng nghiệp mà thư ký không hòa hợp. Thư ký sẽ?",
+    "source_q_num": 15,
+    "source_title": "Câu 15: Thư ký được giao nhiệm vụ làm việc nhóm với một đồng nghiệp mà thư ký không hòa hợp. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 15,
+        "body_index": 1401
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Từ chối làm việc trong nhóm"
+      },
+      {
+        "text": "B. Cố gắng làm việc một cách chuyên nghiệp và hợp tác vì lợi ích chung"
+      },
+      {
+        "text": "C. Phớt lờ đồng nghiệp đó và chỉ làm phần việc của mình"
+      },
+      {
+        "text": "D. Yêu cầu lãnh đạo đổi người làm việc chung"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Từ chối làm việc trong nhóm",
+      "B. Cố gắng làm việc một cách chuyên nghiệp và hợp tác vì lợi ích chung",
+      "C. Phớt lờ đồng nghiệp đó và chỉ làm phần việc của mình",
+      "D. Yêu cầu lãnh đạo đổi người làm việc chung"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 9",
+    "q_num": 15,
+    "body_index": 1401,
+    "id": "word-1d55e841b9e15dba-p1401"
+  },
+  {
+    "lesson_num": 9,
+    "question": "Câu 16: Tại sao sự hiểu biết lẫn nhau là quan trọng trong mối quan hệ giữa thư ký và đồng nghiệp?",
+    "source_q_num": 16,
+    "source_title": "Câu 16: Tại sao sự hiểu biết lẫn nhau là quan trọng trong mối quan hệ giữa thư ký và đồng nghiệp?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 16,
+        "body_index": 1406
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Để tăng cường sự cạnh tranh"
+      },
+      {
+        "text": "B. Để tạo điều kiện cho sự phối hợp và hỗ trợ hiệu quả"
+      },
+      {
+        "text": "C. Để giảm khối lượng công việc"
+      },
+      {
+        "text": "D. Để cải thiện kỹ năng lãnh đạo"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Để tăng cường sự cạnh tranh",
+      "B. Để tạo điều kiện cho sự phối hợp và hỗ trợ hiệu quả",
+      "C. Để giảm khối lượng công việc",
+      "D. Để cải thiện kỹ năng lãnh đạo"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 9",
+    "q_num": 16,
+    "body_index": 1406,
+    "id": "word-1d55e841b9e15dba-p1406"
+  },
+  {
+    "lesson_num": 9,
+    "question": "Câu 17: Khi thư ký văn phòng giúp đỡ đồng nghiệp, họ nên lưu ý điều gì?",
+    "source_q_num": 17,
+    "source_title": "Câu 17: Khi thư ký văn phòng giúp đỡ đồng nghiệp, họ nên lưu ý điều gì?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 17,
+        "body_index": 1411
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Chỉ giúp đỡ đồng nghiệp khi có sự đồng ý của lãnh đạo"
+      },
+      {
+        "text": "B. Giúp đỡ một cách vô tư và không tính toán đến lợi ích cá nhân"
+      },
+      {
+        "text": "C. Đề xuất các thay đổi trong quy trình công việc"
+      },
+      {
+        "text": "D. Tạo điều kiện cho đồng nghiệp nhưng chỉ khi được yêu cầu"
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Chỉ giúp đỡ đồng nghiệp khi có sự đồng ý của lãnh đạo",
+      "B. Giúp đỡ một cách vô tư và không tính toán đến lợi ích cá nhân",
+      "C. Đề xuất các thay đổi trong quy trình công việc",
+      "D. Tạo điều kiện cho đồng nghiệp nhưng chỉ khi được yêu cầu"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 9",
+    "q_num": 17,
+    "body_index": 1411,
+    "id": "word-1d55e841b9e15dba-p1411"
+  },
+  {
+    "lesson_num": 9,
+    "question": "Câu 18: Thư ký nhận thấy một đồng nghiệp đang gặp khó khăn trong việc quản lý thời gian. Thư ký sẽ?",
+    "source_q_num": 18,
+    "source_title": "Câu 18: Thư ký nhận thấy một đồng nghiệp đang gặp khó khăn trong việc quản lý thời gian. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 18,
+        "body_index": 1416
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Báo cáo vấn đề này cho lãnh đạo."
+      },
+      {
+        "text": "B. Gợi ý một số mẹo quản lý thời gian mà thư ký thấy hữu ích."
+      },
+      {
+        "text": "C. Không can thiệp vì thư ký không muốn dính dáng đến công việc của họ."
+      },
+      {
+        "text": "D. Để họ tự học từ kinh nghiệm của mình."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Báo cáo vấn đề này cho lãnh đạo.",
+      "B. Gợi ý một số mẹo quản lý thời gian mà thư ký thấy hữu ích.",
+      "C. Không can thiệp vì thư ký không muốn dính dáng đến công việc của họ.",
+      "D. Để họ tự học từ kinh nghiệm của mình."
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 9",
+    "q_num": 18,
+    "body_index": 1416,
+    "id": "word-1d55e841b9e15dba-p1416"
+  },
+  {
+    "lesson_num": 9,
+    "question": "Câu 19: Một đồng nghiệp đề nghị thư ký giúp họ hoàn thành một báo cáo gấp. Thư ký sẽ?",
+    "source_q_num": 19,
+    "source_title": "Câu 19: Một đồng nghiệp đề nghị thư ký giúp họ hoàn thành một báo cáo gấp. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 19,
+        "body_index": 1421
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Hoàn thành công việc của mình trước, sau đó giúp đồng nghiệp."
+      },
+      {
+        "text": "B. Đề nghị giúp họ một phần, nhưng yêu cầu họ tự làm phần còn lại."
+      },
+      {
+        "text": "C. Từ chối vì thư ký đang có công việc khác quan trọng hơn."
+      },
+      {
+        "text": "D. Hoàn toàn giúp đỡ và bỏ qua công việc của mình."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Hoàn thành công việc của mình trước, sau đó giúp đồng nghiệp.",
+      "B. Đề nghị giúp họ một phần, nhưng yêu cầu họ tự làm phần còn lại.",
+      "C. Từ chối vì thư ký đang có công việc khác quan trọng hơn.",
+      "D. Hoàn toàn giúp đỡ và bỏ qua công việc của mình."
+    ],
+    "correct_answers": [
+      0
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 9",
+    "q_num": 19,
+    "body_index": 1421,
+    "id": "word-1d55e841b9e15dba-p1421"
+  },
+  {
+    "lesson_num": 9,
+    "question": "Câu 20: Một đồng nghiệp đã hoàn thành một dự án xuất sắc và thư ký thấy rằng công sức của họ xứng đáng được công nhận. Thư ký sẽ?",
+    "source_q_num": 20,
+    "source_title": "Câu 20: Một đồng nghiệp đã hoàn thành một dự án xuất sắc và thư ký thấy rằng công sức của họ xứng đáng được công nhận. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 20,
+        "body_index": 1426
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Nhờ một đồng nghiệp khác khen ngợi thay thư ký."
+      },
+      {
+        "text": "B. Chờ đến lúc lãnh đạo phát hiện và khen ngợi đồng nghiệp."
+      },
+      {
+        "text": "C. Khen ngợi đồng nghiệp trước mặt mọi người để họ được công nhận."
+      },
+      {
+        "text": "D. Giữ im lặng vì nghĩ rằng lãnh đạo sẽ tự nhận ra."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Nhờ một đồng nghiệp khác khen ngợi thay thư ký.",
+      "B. Chờ đến lúc lãnh đạo phát hiện và khen ngợi đồng nghiệp.",
+      "C. Khen ngợi đồng nghiệp trước mặt mọi người để họ được công nhận.",
+      "D. Giữ im lặng vì nghĩ rằng lãnh đạo sẽ tự nhận ra."
+    ],
+    "correct_answers": [
+      2
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 9",
+    "q_num": 20,
+    "body_index": 1426,
+    "id": "word-1d55e841b9e15dba-p1426"
+  },
+  {
+    "lesson_num": 9,
+    "question": "Câu 21: Thư ký nhận thấy một đồng nghiệp đang gặp khó khăn trong việc đạt được mục tiêu của họ. Thư ký sẽ?",
+    "source_q_num": 21,
+    "source_title": "Câu 21: Thư ký nhận thấy một đồng nghiệp đang gặp khó khăn trong việc đạt được mục tiêu của họ. Thư ký sẽ?",
+    "sources": [
+      {
+        "file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+        "question_number": 21,
+        "body_index": 1431
+      }
+    ],
+    "source_content": [
+      {
+        "text": "A. Cạnh tranh với họ để chứng tỏ mình giỏi hơn."
+      },
+      {
+        "text": "B. Chia sẻ một số chiến lược mà thư ký đã thành công trong việc đạt mục tiêu tương tự."
+      },
+      {
+        "text": "C. Phớt lờ vì đây không phải là vấn đề của thư ký."
+      },
+      {
+        "text": "D. Đợi đến khi họ yêu cầu sự giúp đỡ."
+      }
+    ],
+    "type": "single_choice",
+    "options": [
+      "A. Cạnh tranh với họ để chứng tỏ mình giỏi hơn.",
+      "B. Chia sẻ một số chiến lược mà thư ký đã thành công trong việc đạt mục tiêu tương tự.",
+      "C. Phớt lờ vì đây không phải là vấn đề của thư ký.",
+      "D. Đợi đến khi họ yêu cầu sự giúp đỡ."
+    ],
+    "correct_answers": [
+      1
+    ],
+    "instruction": "Chọn 1 đáp án đúng nhất",
+    "lesson": "Bài 9",
+    "q_num": 21,
+    "body_index": 1431,
+    "id": "word-1d55e841b9e15dba-p1431"
   }
 ];

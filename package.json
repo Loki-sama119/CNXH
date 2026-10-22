@@ -1,6 +1,6 @@
 {
-  "name": "cnxhkh",
-  "version": "8.0.0",
+  "name": "nghiep-vu-thu-ky",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "test": "node --test tests/*.test.cjs",

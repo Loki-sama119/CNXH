@@ -1,8 +1,8 @@
 @echo off
 chcp 65001 > nul
 echo ===================================================
-echo   HỆ THỐNG TRẮC NGHIỆM CHỦ NGHĨA XÃ HỘI KHOA HỌC
-echo   252 CÂU HỎI THEO TÀI LIỆU WORD MỚI
+echo   HỆ THỐNG TRẮC NGHIỆM NGHIỆP VỤ THƯ KÝ VĂN PHÒNG
+echo   276 CÂU HỎI THEO TÀI LIỆU WORD MỚI
 echo ===================================================
 echo Đang mở trang web trên trình duyệt...
 start "" "%~dp0index.html"

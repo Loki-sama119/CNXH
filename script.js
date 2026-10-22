@@ -1,5 +1,5 @@
 /**
- * CNXHKH QUIZIZZ - TRẮC NGHIỆM TƯƠNG TÁC PHẢN HỒI TỨC THÌ
+ * NGHIỆP VỤ THƯ KÝ - TRẮC NGHIỆM TƯƠNG TÁC PHẢN HỒI TỨC THÌ
  * Tự động nhận diện đáp án bôi đỏ từ file Word và trả kết quả ngay lập tức khi bấm chọn!
  */
 
@@ -16,7 +16,7 @@ let streak = 0;
 let maxStreak = 0;
 let soundEnabled = true;
 let isShuffled = false;
-let currentLesson = 'all'; // 'all', '1', '2', '3', '4', '5', '6'
+let currentLesson = 'all'; // 'all', '1'..'9'
 let currentType = 'all';
 let autoAdvanceEnabled = true;
 let hasSavedCurrentSessionHistory = false;
@@ -225,7 +225,7 @@ function resetPreviousBankStorage() {
 
 function restoreSavedPreferences() {
   const savedLesson = localStorage.getItem('cnx_current_lesson');
-  if (savedLesson && ['all', 'tx', '1', '2', '3', '4', '5', '6'].includes(savedLesson)) {
+  if (savedLesson && ['all', 'tx', '1', '2', '3', '4', '5', '6', '7', '8', '9'].includes(savedLesson)) {
     currentLesson = savedLesson;
     document.querySelectorAll('#lesson-tabs .tab-btn').forEach(btn => {
       btn.classList.toggle('active', btn.dataset.lesson === savedLesson);
@@ -1833,7 +1833,6 @@ const MAX_HISTORY_ITEMS = 50;
 function getLessonDisplayName(lessonKey) {
   if (lessonKey === 'all') return 'Tất cả bài học (Toàn bộ)';
   if (lessonKey === 'tx') return 'Bài Kiểm Tra Thường Xuyên';
-  if (String(lessonKey) === '7') return 'Bổ sung';
   return `Bài ${lessonKey}`;
 }
 

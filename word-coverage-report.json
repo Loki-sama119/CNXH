@@ -1,1623 +1,1676 @@
 {
-  "source_file": "CHỦ NGHĨA XH-KH (2).docx",
-  "source_sha256": "c41143f3c5139fa386f1d0fb63c3259f8b880565bd990fa75f13ca427970fea3",
-  "approved_answer_corrections": [
-    {
-      "body_index": 46,
-      "source_title": "Câu 10: Hạn chế cơ bản lớn nhất mà giai cấp công nhân Việt Nam hiện nay cần khắc phục là gì?",
-      "options": [
-        "A. Hiệu quả lao động thấp",
-        "B. Trình độ khoa học kỹ thuật chưa cao",
-        "C. Tâm lý tiểu nông",
-        "D. Số lượng còn ít"
-      ],
-      "source_correct_answers": [
-        2
-      ],
-      "approved_correct_answers": [
-        1
-      ],
-      "approved_by": "user",
-      "approved_on": "2026-10-20",
-      "reason": "Người dùng duyệt đổi đáp án Bài 1 Câu 10 từ C sang B. Đây là hiệu đính theo phê duyệt, không phải đáp án tô đỏ trong Word gốc."
-    },
-    {
-      "body_index": 1108,
-      "source_title": "Câu 34: Quan hệ nào được coi là cơ sở, nền tảng hình thành nên các mối quan hệ khác trong gia đình?",
-      "options": [
-        "A. Quan hệ hôn nhân và huyết thống",
-        "B. Quan hệ nuôi dưỡng",
-        "C. Quan hệ quản trị trong một không gian sinh tồn",
-        "D. Quan hệ hôn nhân"
-      ],
-      "source_correct_answers": [
-        0
-      ],
-      "approved_correct_answers": [
-        3
-      ],
-      "approved_by": "user",
-      "approved_on": "2026-10-20",
-      "reason": "Người dùng yêu cầu sửa Bài 6 Câu 5 (gốc Câu 34) sang D. Quan hệ hôn nhân, theo ảnh và xác nhận trực tiếp. Quan hệ hôn nhân là cơ sở, nền tảng hình thành các mối quan hệ khác trong gia đình."
-    }
-  ],
-  "approved_category_corrections": [
-    {
-      "body_index": 855,
-      "source_title": "Câu 40 : Kéo thả các yếu tố liên quan đến liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội vào các cột tương ứng.",
-      "source_categories": [
-        {
-          "title": "1) Thành phần/yếu tố của liên minh",
-          "items": [
-            "Giai cấp công nhân",
-            "Giai cấp nông dân",
-            "Đảng Cộng sản"
-          ]
-        },
-        {
-          "title": "2) Nội dung/phương hướng của liên minh",
-          "items": [
-            "Nội dung kinh tế",
-            "Nội dung chính trị",
-            "Xóa đói giảm nghèo",
-            "Tăng cường liên minh"
-          ]
-        }
-      ],
-      "source_unassigned_items": [
-        "Tầng lớp phụ nữ"
-      ],
-      "approved_categories": [
-        {
-          "title": "1) Thành phần/yếu tố của liên minh",
-          "items": [
-            "Giai cấp công nhân",
-            "Giai cấp nông dân",
-            "Tầng lớp phụ nữ",
-            "Đảng Cộng sản"
-          ]
-        },
-        {
-          "title": "2) Nội dung/phương hướng của liên minh",
-          "items": [
-            "Nội dung kinh tế",
-            "Nội dung chính trị",
-            "Xóa đói giảm nghèo",
-            "Tăng cường liên minh"
-          ]
-        }
-      ],
-      "approved_by": "user",
-      "approved_on": "2026-10-20",
-      "evidence": "Ảnh bảng đáp án Câu 40 do người dùng cung cấp: Tầng lớp phụ nữ ở cột Thành phần/yếu tố của liên minh.",
-      "reason": "Bổ sung Tầng lớp phụ nữ vào cột 1 theo ảnh đối chiếu đã được người dùng duyệt; giữ đủ 4 mục mỗi cột."
-    }
-  ],
-  "source_exercises": 252,
-  "matched_source_exercises": 252,
-  "source_tables": 15,
+  "source_file": "NGHIỆP VỤ THƯ KÝ VP.docx",
+  "source_sha256": "1d55e841b9e15dba1f696d33bb6012e968b404096627c1e3de2847e53d1e8f14",
+  "source_exercises": 276,
+  "matched_source_exercises": 276,
+  "source_tables": 0,
   "headings": [
     "BÀI 1",
     "BÀI 2",
     "BÀI 3",
     "BÀI 4",
     "BÀI 5",
-    "CÁC CÂU CÒN THIẾU",
-    "BÀI KIỂM TRA THƯỜNG XUYÊN 1",
-    "BÀI KIỂM TRA THƯỜNG XUYÊN 2"
+    "BÀI 6",
+    "Bài 7",
+    "BÀI 8",
+    "BÀI 9"
   ],
   "mapping": [
     {
       "body_index": 1,
-      "source_title": "Câu 1: Những nhà tư tưởng tiêu biểu của chủ nghĩa xã hội không tưởng phê phán đầu thế kỷ XIX là ai?",
-      "web_id": "word-c41143f3c5139fa3-p1",
+      "source_title": "Câu 1: Thư ký văn phòng được hiểu là gì?",
+      "web_id": "word-1d55e841b9e15dba-p1",
       "type": "single_choice"
     },
     {
       "body_index": 6,
-      "source_title": "Câu 2: Tác phẩm nào đánh dấu sự ra đời của chủ nghĩa xã hội khoa học?",
-      "web_id": "word-c41143f3c5139fa3-p6",
+      "source_title": "Câu 2: Phân biệt giữa thư ký văn phòng và thư ký riêng?",
+      "web_id": "word-1d55e841b9e15dba-p6",
       "type": "single_choice"
     },
     {
       "body_index": 11,
-      "source_title": "Câu 3: Phát kiến nào của C.Mác và Ph.Ăngghen chỉ ra sự diệt vong về kinh tế của chủ nghĩa tư bản?",
-      "web_id": "word-c41143f3c5139fa3-p11",
+      "source_title": "Câu 3: Một thư ký văn phòng cần có chuyên môn nào dưới đây để thực hiện công việc hiệu quả?",
+      "web_id": "word-1d55e841b9e15dba-p11",
       "type": "single_choice"
     },
     {
       "body_index": 16,
-      "source_title": "Câu 4: Phát kiến nào của C.Mác và Ph.Ăngghen chỉ ra những hạn chế có tính lịch sử của chủ nghĩa xã hội không tưởng?",
-      "web_id": "word-c41143f3c5139fa3-p16",
+      "source_title": "Câu 4: Thư ký văn phòng cần phải ghi biên bản những nội dung nào trong một cuộc họp?",
+      "web_id": "word-1d55e841b9e15dba-p16",
       "type": "single_choice"
     },
     {
       "body_index": 21,
-      "source_title": "Câu 5: Ph.Ăngghen đã đánh giá: \"Hai phát hiện vĩ đại này đã đưa chủ nghĩa xã hội trở thành một khoa học\". Hai phát kiến đó là gì?",
-      "web_id": "word-c41143f3c5139fa3-p21",
+      "source_title": "Câu 5: Khái niệm về thư ký văn phòng nào dưới đây là đúng?",
+      "web_id": "word-1d55e841b9e15dba-p21",
       "type": "single_choice"
     },
     {
       "body_index": 26,
-      "source_title": "Câu 6: Phạm trù nào được coi là cơ bản nhất và là xuất phát điểm của chủ nghĩa xã hội khoa học?",
-      "web_id": "word-c41143f3c5139fa3-p26",
+      "source_title": "Câu 6: Căn cứ nào để người thư ký văn phòng giải quyết các thủ tục hành chính về kinh phí và cơ sở vật chất cho hoạt động của cơ quan?",
+      "web_id": "word-1d55e841b9e15dba-p26",
       "type": "single_choice"
     },
     {
       "body_index": 31,
-      "source_title": "Câu 7: Xét về phương thức lao động, phương thức sản xuất, giai cấp công nhân mang thuộc tính cơ bản nào?",
-      "web_id": "word-c41143f3c5139fa3-p31",
+      "source_title": "Câu 7: Khi biên tập văn bản và tổ chức, sắp xếp, quản lý văn bản, hồ sơ thì thư ký văn phòng cần phải làm gì để đảm bảo tính khoa học và hệ thống?",
+      "web_id": "word-1d55e841b9e15dba-p31",
       "type": "single_choice"
     },
     {
       "body_index": 36,
-      "source_title": "Câu 8: Xét trong quan hệ sản xuất tư bản chủ nghĩa giai cấp công nhân là:",
-      "web_id": "word-c41143f3c5139fa3-p36",
+      "source_title": "Câu 8: Khi nhận được yêu cầu tìm kiếm văn bản từ lãnh đạo, thư ký văn phòng cần phải làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p36",
       "type": "single_choice"
     },
     {
       "body_index": 41,
-      "source_title": "Câu 9: Giai cấp công nhân Việt Nam ra đời vào thời gian nào?",
-      "web_id": "word-c41143f3c5139fa3-p41",
+      "source_title": "Câu 9: Trong quá trình thực hiện nhiệm vụ, thư ký văn phòng cần phải làm gì để đảm bảo công việc hiệu quả?",
+      "web_id": "word-1d55e841b9e15dba-p41",
       "type": "single_choice"
     },
     {
       "body_index": 46,
-      "source_title": "Câu 10: Hạn chế cơ bản lớn nhất mà giai cấp công nhân Việt Nam hiện nay cần khắc phục là gì?",
-      "web_id": "word-c41143f3c5139fa3-p46",
+      "source_title": "Câu 10: Khi tổ chức và điều hành các hoạt động của cơ quan, thư ký điều hành cần phải làm gì để đảm bảo công việc hiệu quả?",
+      "web_id": "word-1d55e841b9e15dba-p46",
       "type": "single_choice"
     },
     {
       "body_index": 51,
-      "source_title": "Câu 11: Trong các nội dung sau đây thì nội dung nào thuộc về giải pháp xây dựng giai cấp công nhân Việt Nam hiện nay?",
-      "web_id": "word-c41143f3c5139fa3-p51",
+      "source_title": "Câu 11: Để giúp cơ quan và lãnh đạo trong các hoạt động liên lạc và giao dịch, thư ký văn phòng cần phải làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p51",
       "type": "single_choice"
     },
     {
       "body_index": 56,
-      "source_title": "Câu 12: Theo Ph. Ăngghen: \"Thực hiện nhiệm vụ giải phóng thế giới ấy, đó là sứ mệnh lịch sử của.........\". Hãy chọn đáp án đúng điền vào chỗ trống?",
-      "web_id": "word-c41143f3c5139fa3-p56",
+      "source_title": "Câu 12: Để thực hiện tốt nhiệm vụ giao tiếp hành chính trong cơ quan, thư ký văn phòng cần phải làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p56",
       "type": "single_choice"
     },
     {
       "body_index": 61,
-      "source_title": "Câu 13: Đặc điểm nào sau đây thể hiện đúng bản chất của giai cấp công nhân? (Chọn 2 đáp án đúng)",
-      "web_id": "word-c41143f3c5139fa3-p61",
-      "type": "multiple_choice"
+      "source_title": "Câu 13: Khi nhận được văn bản từ cơ quan cấp trên, người thư ký văn phòng cần làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p61",
+      "type": "single_choice"
     },
     {
       "body_index": 66,
-      "source_title": "Câu 14: Giai cấp công nhân Việt Nam chủ yếu xuất thân từ tầng lớp nào? (Chọn 2 đáp án đúng)",
-      "web_id": "word-c41143f3c5139fa3-p66",
-      "type": "multiple_choice"
+      "source_title": "Câu 14: Để đảm nhận được các nhiệm vụ của mình, thư ký văn phòng cần phải làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p66",
+      "type": "single_choice"
     },
     {
       "body_index": 71,
-      "source_title": "Câu 15: Giai cấp công nhân Việt Nam có đặc điểm gì khác với giai cấp công nhân ở các nước tư bản? (Chọn 2 đáp án đúng)",
-      "web_id": "word-c41143f3c5139fa3-p71",
-      "type": "multiple_choice"
-    },
-    {
-      "body_index": 76,
-      "source_title": "Câu 16: Đối tượng nghiên cứu của chủ nghĩa xã hội khoa học là gì?",
-      "web_id": "word-c41143f3c5139fa3-p76",
+      "source_title": "Câu 15: Để tổ chức và điều hành các hoạt động của cơ quan, thư ký điều hành cần phải làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p71",
       "type": "single_choice"
     },
     {
-      "body_index": 81,
-      "source_title": "Câu 17: Đâu là nhân tố chủ quan quan trọng nhất để giai cấp công nhân thực hiện thắng lợi sứ mệnh lịch sử của mình?",
-      "web_id": "word-c41143f3c5139fa3-p81",
+      "body_index": 77,
+      "source_title": "Câu 16: Nhiệm vụ chính của một thư ký văn phòng là gì?",
+      "web_id": "word-1d55e841b9e15dba-p77",
       "type": "single_choice"
     },
     {
-      "body_index": 86,
-      "source_title": "Câu 18: Tìm ý đúng để hoàn thiện luận điểm sau: Cùng với sự phát triển của khoa học và công nghệ ngày càng hiện đại, giai cấp công nhân:",
-      "web_id": "word-c41143f3c5139fa3-p86",
+      "body_index": 82,
+      "source_title": "Câu 17: Trường hợp tổ chức có quy mô nhỏ thì cần bố trí số lượng thư ký văn phòng như thế nào để đảm bảo công việc hiệu quả?",
+      "web_id": "word-1d55e841b9e15dba-p82",
       "type": "single_choice"
     },
     {
-      "body_index": 91,
-      "source_title": "Câu 19: Điền từ còn thiếu vào chỗ trống: Giai cấp công nhân và nhân dân lao động là cơ sở..., cơ sở... của Đảng cộng sản, là nguồn bổ sung lực lượng phong phú cho Đảng.",
-      "web_id": "word-c41143f3c5139fa3-p91",
+      "body_index": 87,
+      "source_title": "Câu 18: Khi tổ chức sắp xếp các hoạt động của cơ quan, thư ký văn phòng cần phải làm gì để đảm bảo hoạt động diễn ra theo kế hoạch?",
+      "web_id": "word-1d55e841b9e15dba-p87",
       "type": "single_choice"
     },
     {
-      "body_index": 96,
-      "source_title": "Câu 20 : Điền từ còn thiếu vào chỗ trống \"Giai cấp công nhân Việt Nam thực hiện lãnh đạo cách mạng thông qua đội tiên phong của nó là (...)\"",
-      "web_id": "word-c41143f3c5139fa3-p96",
+      "body_index": 92,
+      "source_title": "Câu 19: Khi phối hợp với các bộ phận khác trong cơ quan, người thư ký văn phòng cần phải làm gì để hoàn thành tốt các công việc được giao?",
+      "web_id": "word-1d55e841b9e15dba-p92",
       "type": "single_choice"
     },
     {
-      "body_index": 101,
-      "source_title": "Câu 21: Điểm then chốt để giúp giai cấp công nhân Việt Nam hiện nay thực hiện thành công sứ mệnh lịch sử của mình là:",
-      "web_id": "word-c41143f3c5139fa3-p101",
+      "body_index": 97,
+      "source_title": "Câu 20 : Để thiết lập mối quan hệ với các đối tác bên ngoài, thư ký văn phòng cần phải làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p97",
       "type": "single_choice"
     },
     {
-      "body_index": 106,
-      "source_title": "Câu 22: Trong thời kỳ thuộc địa, giai cấp công nhân Việt Nam chủ yếu làm việc trong: (Chọn 2 đáp án đúng)",
-      "web_id": "word-c41143f3c5139fa3-p106",
-      "type": "multiple_choice"
+      "body_index": 102,
+      "source_title": "Câu 21: Một trong những nhiệm vụ quan trọng của thư ký điều hành là gì?",
+      "web_id": "word-1d55e841b9e15dba-p102",
+      "type": "single_choice"
     },
     {
-      "body_index": 111,
-      "source_title": "Câu 23 : Dấu hiệu đánh dấu sự trưởng thành vượt bậc của giai cấp công nhân với tư cách là giai cấp cách mạng là:",
-      "web_id": "word-c41143f3c5139fa3-p111",
+      "body_index": 107,
+      "source_title": "Câu 22: Khi có thay đổi về quy định, quy chế làm việc của cơ quan, thư ký văn phòng cần phải làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p107",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 112,
+      "source_title": "Câu 23: Giải thích tại sao thư ký văn phòng cần thực hiện nghiệp vụ: chuẩn bị và cung cấp thông tin?",
+      "web_id": "word-1d55e841b9e15dba-p112",
       "type": "single_choice"
     },
     {
       "body_index": 117,
-      "source_title": "Câu 24: Nội dung trực tiếp về văn hoá tư tưởng thể hiện sứ mệnh lịch sử của giai cấp công nhân Việt Nam là:",
-      "web_id": "word-c41143f3c5139fa3-p117",
+      "source_title": "Câu 24: Vai trò của thư ký văn phòng trong các tổ chức hiện nay là gì?",
+      "web_id": "word-1d55e841b9e15dba-p117",
       "type": "single_choice"
     },
     {
-      "body_index": 123,
-      "source_title": "Câu 25 : Theo C.Mác và Ph.Ăngghen thì đặc điểm nổi bật của giai cấp công nhân là: (Chọn 2 đáp án đúng)",
-      "web_id": "word-c41143f3c5139fa3-p123",
-      "type": "multiple_choice"
-    },
-    {
-      "body_index": 129,
-      "source_title": "Câu 26: Trong các nội dung sau đây thì nội dung nào thuộc về giải pháp xây dựng giai cấp công nhân Việt Nam hiện nay?",
-      "web_id": "word-c41143f3c5139fa3-p129",
+      "body_index": 122,
+      "source_title": "Câu 25: Thư ký văn phòng cần phải làm gì khi gặp vấn đề về tài liệu không rõ ràng?",
+      "web_id": "word-1d55e841b9e15dba-p122",
       "type": "single_choice"
     },
     {
-      "body_index": 134,
-      "source_title": "Câu 27: Điều kiện chủ quan để giai cấp công nhân thực hiện được sứ mệnh lịch sử của mình là: (Chọn 2 đáp án đúng)",
-      "web_id": "word-c41143f3c5139fa3-p134",
-      "type": "multiple_choice"
-    },
-    {
-      "body_index": 139,
-      "source_title": "Câu 28: Đặc điểm sứ mệnh lịch sử của giai cấp công nhân là:",
-      "web_id": "word-c41143f3c5139fa3-p139",
+      "body_index": 128,
+      "source_title": "Câu 26: Trong công tác lưu trữ tài liệu, thư ký văn phòng cần hướng dẫn cho nhân viên mới về những nội dung nào?",
+      "web_id": "word-1d55e841b9e15dba-p128",
       "type": "single_choice"
     },
     {
-      "body_index": 145,
-      "source_title": "Câu 29: Vấn đề nổi bật nhất đối với việc thực hiện sứ mệnh lịch sử của giai cấp công nhân Việt Nam hiện nay là gì?",
-      "web_id": "word-c41143f3c5139fa3-p145",
+      "body_index": 133,
+      "source_title": "Câu 27: Người thư ký văn phòng cần phải làm gì để đảm bảo thông tin chính xác và hữu ích?",
+      "web_id": "word-1d55e841b9e15dba-p133",
       "type": "single_choice"
     },
     {
-      "body_index": 150,
-      "source_title": "Câu 30: Chủ nghĩa xã hội khoa học ra đời dựa trên cơ sở của những tiền đề nào? (Chọn 2 đáp án đúng)",
-      "web_id": "word-c41143f3c5139fa3-p150",
-      "type": "multiple_choice"
+      "body_index": 138,
+      "source_title": "Câu 28 :Để đảm nhận được các nhiệm vụ, người thư ký văn phòng cần phải làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p138",
+      "type": "single_choice"
     },
     {
-      "body_index": 156,
-      "source_title": "Câu 31: Chọn đáp án đúng hoặc sai với từng phát biểu sau.",
-      "web_id": "word-c41143f3c5139fa3-p156",
-      "type": "true_false"
+      "body_index": 143,
+      "source_title": "Câu 29: Để đảm bảo cung cấp thông tin kịp thời và chính xác, thư ký văn phòng cần thực hiện nghiệp vụ nào?",
+      "web_id": "word-1d55e841b9e15dba-p143",
+      "type": "single_choice"
     },
     {
-      "body_index": 166,
-      "source_title": "Câu 32: Chọn đáp án đúng hoặc sai với từng phát biểu sau.",
-      "web_id": "word-c41143f3c5139fa3-p166",
-      "type": "true_false"
+      "body_index": 148,
+      "source_title": "Câu 30: Căn cứ vào trình độ chuyên môn, thư ký văn phòng được phân loại như thế nào?",
+      "web_id": "word-1d55e841b9e15dba-p148",
+      "type": "single_choice"
     },
     {
-      "body_index": 175,
-      "source_title": "Câu 33: Hãy kéo thả các yếu tố sau đây vào cột tương ứng.",
-      "web_id": "word-c41143f3c5139fa3-p175",
-      "type": "drag_drop_categorize"
+      "body_index": 153,
+      "source_title": "Câu 31: Để tổ chức, sắp xếp công việc của cơ quan một cách hiệu quả, thư ký văn phòng cần phải làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p153",
+      "type": "single_choice"
     },
     {
-      "body_index": 179,
-      "source_title": "Câu 34: Kéo thả các đáp án khớp với các phát biểu từ 1 - 3 vế trái dưới đây:",
-      "web_id": "word-c41143f3c5139fa3-p179",
-      "type": "drag_drop_match"
+      "body_index": 159,
+      "source_title": "Câu 1. Một trong những nghiệp vụ chính của thư ký văn phòng là gì?",
+      "web_id": "word-1d55e841b9e15dba-p159",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 164,
+      "source_title": "Câu 2. Sắp xếp các bước dưới đây trong quy trình cung cấp thông tin theo đúng trình tự?",
+      "web_id": "word-1d55e841b9e15dba-p164",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 174,
+      "source_title": "Câu 3. Thư ký văn phòng thu thập thông tin từ các văn bản nhằm mục đích gì?",
+      "web_id": "word-1d55e841b9e15dba-p174",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 180,
+      "source_title": "Câu 4. Thư ký văn phòng thu thập thông tin từ những nguồn nào?",
+      "web_id": "word-1d55e841b9e15dba-p180",
+      "type": "single_choice"
     },
     {
       "body_index": 185,
-      "source_title": "Câu 35: chọn đáp án ( đúng hoặc sai) với từng phát biểu sau",
-      "web_id": "word-c41143f3c5139fa3-p185",
-      "type": "true_false"
+      "source_title": "Câu 5. Loại báo cáo nào dưới đây mà thư ký văn phòng cần cung cấp định kỳ cho lãnh đạo?",
+      "web_id": "word-1d55e841b9e15dba-p185",
+      "type": "single_choice"
     },
     {
-      "body_index": 194,
-      "source_title": "Câu 36: Nội dung sứ mệnh lịch sử của giai cấp công nhân Việt Nam hiện nay bao gồm: (Chọn 3 đáp án đúng)",
-      "web_id": "word-c41143f3c5139fa3-p194",
-      "type": "multiple_choice"
+      "body_index": 190,
+      "source_title": "Câu 6. Thư ký văn phòng phải cung cấp thông tin đột xuất cho lãnh đạo khi nào?",
+      "web_id": "word-1d55e841b9e15dba-p190",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 195,
+      "source_title": "Câu 7. Là một thư ký, làm thế nào để lập kế hoạch chuẩn bị thông tin cho cuộc họp giao ban đầu tuần?",
+      "web_id": "word-1d55e841b9e15dba-p195",
+      "type": "single_choice"
     },
     {
       "body_index": 200,
-      "source_title": "Câu 37 : Xã hội xã hội chủ nghĩa ở Việt Nam là xã hội:",
-      "web_id": "word-c41143f3c5139fa3-p200",
+      "source_title": "Câu 8. Là một thư ký văn phòng, làm thế nào để thông tin được cung cấp cho lãnh đạo là chính xác và kịp thời?",
+      "web_id": "word-1d55e841b9e15dba-p200",
       "type": "single_choice"
     },
     {
       "body_index": 205,
-      "source_title": "Câu 38 : Vận dụng những kiến thức đã học, cho biết đâu là quan niệm đúng và đầy đủ về nhà nước xã hội chủ nghĩa ở Việt Nam?",
-      "web_id": "word-c41143f3c5139fa3-p205",
+      "source_title": "Câu 9. Khi nhận được yêu cầu gấp từ lãnh đạo, thư ký văn phòng cần xử lý như thế nào?",
+      "web_id": "word-1d55e841b9e15dba-p205",
       "type": "single_choice"
     },
     {
       "body_index": 210,
-      "source_title": "Câu 39 : Kéo thả các đáp án khớp với các phát biểu từ 1 – 3 về trái dưới đây:",
-      "web_id": "word-c41143f3c5139fa3-p210",
-      "type": "drag_drop_match"
-    },
-    {
-      "body_index": 217,
-      "source_title": "Câu 1 Theo C.Mác và Phh.Ăngghen thì giai đoạn đầu của hình thái kinh tế - xã hội cộng sản chủ nghĩa là gì?",
-      "web_id": "word-c41143f3c5139fa3-p217",
+      "source_title": "Câu 10. Giám đốc yêu cầu thư ký văn phòng chuẩn bị một bản tóm tắt về nội dung và quyết định của các cuộc họp diễn ra trong tuần trước, để ông có thể rà soát lại trước cuộc họp ban lãnh đạo vào chiều nay. Thư ký văn phòng sẽ làm gì để đáp ứng yêu cầu này một cách hiệu quả?",
+      "web_id": "word-1d55e841b9e15dba-p210",
       "type": "single_choice"
     },
     {
-      "body_index": 222,
-      "source_title": "Câu 2 Câu \"Cần phải có thời kỳ quá độ khá lâu dài từ chủ nghĩa tư bản lên chủ nghĩa xã hội\" là của ai?",
-      "web_id": "word-c41143f3c5139fa3-p222",
+      "body_index": 215,
+      "source_title": "Câu 11. Thư ký của Giám đốc tài chính nhận được một báo cáo tài chính từ bộ phận kế toán để gửi cho Giám đốc. Trong báo cáo, có một số số liệu quan trọng về doanh thu và chi phí, nhưng không có các chú giải chi tiết về nguồn gốc của các con số này. Thư ký sẽ làm gì để đảm bảo báo cáo chính xác trước khi gửi cho Giám đốc?",
+      "web_id": "word-1d55e841b9e15dba-p215",
       "type": "single_choice"
     },
     {
-      "body_index": 227,
-      "source_title": "Câu 3 Hình thái kinh tế - xã hội cộng sản chủ nghĩa bắt đầu và hoàn thiện khi nào?",
-      "web_id": "word-c41143f3c5139fa3-p227",
+      "body_index": 220,
+      "source_title": "Câu 12. Trong trường hợp lãnh đạo yêu cầu thông tin khẩn cấp về một vấn đề, thư ký văn phòng cần phải làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p220",
       "type": "single_choice"
     },
     {
-      "body_index": 232,
-      "source_title": "Câu 4 Đặc trưng về kinh tế của chủ nghĩa xã hội là gì?",
-      "web_id": "word-c41143f3c5139fa3-p232",
+      "body_index": 225,
+      "source_title": "Câu 13. Là thư ký văn phòng, cần phải làm gì để chuẩn bị một báo cáo tình hình tài chính của cơ quan?",
+      "web_id": "word-1d55e841b9e15dba-p225",
       "type": "single_choice"
     },
     {
-      "body_index": 237,
-      "source_title": "Câu 5 Nguyên nhân sâu xa dẫn đến sự thay thế hình thái kinh tế - xã hội tư bản chủ nghĩa bằng hình thái kinh tế - xã hội cộng sản chủ nghĩa là gì?",
-      "web_id": "word-c41143f3c5139fa3-p237",
+      "body_index": 230,
+      "source_title": "Câu 14. Thư ký của Giám đốc bán hàng cần gửi danh sách khách hàng tiềm năng cho Giám đốc trước cuộc họp quan trọng. Danh sách này bao gồm thông tin liên lạc và lịch sử giao dịch của các khách hàng, nhưng một số thông tin liên lạc có vẻ không đầy đủ hoặc lỗi thời. Thư ký sẽ xử lý tình huống này như thế nào để đảm bảo thông tin chính xác và đầy đủ?",
+      "web_id": "word-1d55e841b9e15dba-p230",
       "type": "single_choice"
     },
     {
-      "body_index": 242,
-      "source_title": "Câu 6 Theo quan điểm của chủ nghĩa Mác – Lênin mốc bắt đầu của thời kỳ quá độ lên chủ nghĩa xã hội từ khi nào?",
-      "web_id": "word-c41143f3c5139fa3-p242",
+      "body_index": 235,
+      "source_title": "Câu 15. Thư ký văn phòng cần gửi cho Giám đốc một lịch trình chi tiết của các cuộc họp và sự kiện trong tuần tới. Thư ký nhận thấy rằng một số cuộc họp không có thông tin về địa điểm cụ thể hoặc thời gian bắt đầu và kết thúc rõ ràng. Thư ký văn phòng sẽ làm gì để đảm bảo lịch trình được cung cấp chính xác và đầy đủ?",
+      "web_id": "word-1d55e841b9e15dba-p235",
       "type": "single_choice"
     },
     {
-      "body_index": 247,
-      "source_title": "Câu 7: Đặc điểm nổi bật của thời kỳ quá độ đó là:",
-      "web_id": "word-c41143f3c5139fa3-p247",
+      "body_index": 240,
+      "source_title": "Câu 16: Nghiệp vụ nào liên quan đến việc chuẩn bị và cung cấp thông tin cho hoạt động quản lý và lãnh đạo?",
+      "web_id": "word-1d55e841b9e15dba-p240",
       "type": "single_choice"
     },
     {
-      "body_index": 252,
-      "source_title": "Câu 8: Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa ở nước ta, được hiểu là:",
-      "web_id": "word-c41143f3c5139fa3-p252",
+      "body_index": 245,
+      "source_title": "Câu 17: Tại sao việc thư ký văn phòng cung cấp thông tin kịp thời lại quan trọng đối với lãnh đạo của cơ quan?",
+      "web_id": "word-1d55e841b9e15dba-p245",
       "type": "single_choice"
     },
     {
-      "body_index": 257,
-      "source_title": "Câu 9 :Chọn cụm từ còn thiếu điền vào dấu ...: \"Giữa xã hội tư bản chủ nghĩa và xã hội cộng sản chủ nghĩa là một thời kỳ....từ xã hội nọ sang xã hội kia\"(C.Mác)",
-      "web_id": "word-c41143f3c5139fa3-p257",
+      "body_index": 250,
+      "source_title": "Câu 18 : Để chuẩn bị thông tin, người thư ký cần nắm vững điều gì?",
+      "web_id": "word-1d55e841b9e15dba-p250",
       "type": "single_choice"
     },
     {
-      "body_index": 262,
-      "source_title": "Câu 10: Kiểu quá độ lên chủ nghĩa xã hội ở Việt Nam là kiểu quá độ nào?",
-      "web_id": "word-c41143f3c5139fa3-p262",
+      "body_index": 255,
+      "source_title": "Câu 19: Sắp xếp các bước dưới đây đúng theo quy trình chuẩn bị thông tin?",
+      "web_id": "word-1d55e841b9e15dba-p255",
       "type": "single_choice"
     },
     {
-      "body_index": 267,
-      "source_title": "Câu 11: Chọn từ đúng điền vào chỗ trống để hoàn thành mục tiêu của Đảng xác định trong thời kỳ quá độ lên chủ nghĩa xã hội ở nước ta: Độc lập dân tộc gắn liền với chủ nghĩa xã hội; dân giàu, nước mạnh, dân chủ, ...., văn minh",
-      "web_id": "word-c41143f3c5139fa3-p267",
+      "body_index": 260,
+      "source_title": "Câu 20 : Là một thư ký văn phòng, hãy chuẩn bị một báo cáo tổng hợp tình hình triển khai các quyết định quản lý trong thực tiễn?",
+      "web_id": "word-1d55e841b9e15dba-p260",
       "type": "single_choice"
     },
     {
-      "body_index": 272,
-      "source_title": "Câu 12: Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (Bổ sung và phát triển năm 2011) được Đảng ta thông qua ở đại hội lần thứ mấy?",
-      "web_id": "word-c41143f3c5139fa3-p272",
+      "body_index": 265,
+      "source_title": "Câu 21: Giám đốc yêu cầu thư ký văn phòng cung cấp một bản tổng hợp về tất cả các cuộc hẹn và sự kiện quan trọng trong tuần tới để lên kế hoạch cho các chuyến công tác. Thư ký văn phòng sẽ làm gì để đảm bảo thông tin được cung cấp đầy đủ và chính xác?",
+      "web_id": "word-1d55e841b9e15dba-p265",
       "type": "single_choice"
     },
     {
-      "body_index": 277,
-      "source_title": "Câu 13 :Thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là bước quá độ:",
-      "web_id": "word-c41143f3c5139fa3-p277",
+      "body_index": 270,
+      "source_title": "Câu 22: Khi nhận được yêu cầu gấp từ lãnh đạo, thư ký văn phòng cần xử lý như thế nào?",
+      "web_id": "word-1d55e841b9e15dba-p270",
       "type": "single_choice"
     },
     {
-      "body_index": 282,
-      "source_title": "Câu 14: Chọn phương án sai",
-      "web_id": "word-c41143f3c5139fa3-p282",
+      "body_index": 276,
+      "source_title": "Câu 23: Để cung cấp thông tin đầy đủ và chính xác, người thư ký văn phòng cần thực hiện nghiệp vụ gì?",
+      "web_id": "word-1d55e841b9e15dba-p276",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 281,
+      "source_title": "Câu 24: Là một thư ký văn phòng, làm thế nào để thu thập thông tin từ các văn bản chỉ đạo của cấp trên?",
+      "web_id": "word-1d55e841b9e15dba-p281",
       "type": "single_choice"
     },
     {
       "body_index": 287,
-      "source_title": "Câu 15: Kéo thả các đáp án khớp với các phát biểu từ 1 – 3:",
-      "web_id": "word-c41143f3c5139fa3-p287",
-      "type": "drag_drop_match"
-    },
-    {
-      "body_index": 291,
-      "source_title": "Câu 16: Chủ nghĩa xã hội có mấy đặc trưng cơ bản",
-      "web_id": "word-c41143f3c5139fa3-p291",
+      "source_title": "Câu 25 : Là một thư ký văn phòng, cần làm gì để chuẩn bị thông tin cho một hội nghị tổng kết cuối năm của cơ quan?",
+      "web_id": "word-1d55e841b9e15dba-p287",
       "type": "single_choice"
     },
     {
-      "body_index": 296,
-      "source_title": "Câu 17: Về nội dung, thời kỳ quá độ lên chủ nghĩa xã hội là thời kỳ cải tạo cách mạng sâu sắc, triệt để xã hội tư bản chủ nghĩa trên các lĩnh vực:",
-      "web_id": "word-c41143f3c5139fa3-p296",
+      "body_index": 293,
+      "source_title": "Câu 26 : Giám đốc tài chính yêu cầu thư ký cung cấp thông tin về tình hình tài chính của công ty trong quý vừa qua ngay lập tức. Thư ký có dữ liệu từ các báo cáo tài chính hàng tháng, nhưng chưa tổng hợp thành báo cáo tổng kết quý. Thư ký sẽ xử lý yêu cầu này như thế nào để đáp ứng kịp thời?",
+      "web_id": "word-1d55e841b9e15dba-p293",
       "type": "single_choice"
     },
     {
-      "body_index": 301,
-      "source_title": "Câu 18: Phát triển bỏ qua chế độ tư bản chủ nghĩa ở Việt Nam được hiểu như thế nào?",
-      "web_id": "word-c41143f3c5139fa3-p301",
+      "body_index": 298,
+      "source_title": "Câu 27 Kỹ năng nào giúp thư ký văn phòng quản lý tài liệu một cách hiệu quả?",
+      "web_id": "word-1d55e841b9e15dba-p298",
       "type": "single_choice"
     },
     {
-      "body_index": 306,
-      "source_title": "Câu 19: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-      "web_id": "word-c41143f3c5139fa3-p306",
-      "type": "true_false"
-    },
-    {
-      "body_index": 315,
-      "source_title": "Câu 20: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-      "web_id": "word-c41143f3c5139fa3-p315",
-      "type": "true_false"
-    },
-    {
-      "body_index": 324,
-      "source_title": "Câu 21 :Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-      "web_id": "word-c41143f3c5139fa3-p324",
-      "type": "true_false"
-    },
-    {
-      "body_index": 334,
-      "source_title": "Câu 22: Đặc điểm nổi bật của thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là gì? (Chọn 2 đáp án đúng)",
-      "web_id": "word-c41143f3c5139fa3-p334",
-      "type": "multiple_choice"
-    },
-    {
-      "body_index": 340,
-      "source_title": "Câu 23: Đặc điểm về chính trị trong thời kỳ quá độ được thể hiện ở điểm nào? (Chọn 2 đáp án đúng)",
-      "web_id": "word-c41143f3c5139fa3-p340",
-      "type": "multiple_choice"
-    },
-    {
-      "body_index": 346,
-      "source_title": "Câu 24: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-      "web_id": "word-c41143f3c5139fa3-p346",
-      "type": "true_false"
-    },
-    {
-      "body_index": 355,
-      "source_title": "Câu 25: Hãy chỉ ra luận điểm không chính xác:",
-      "web_id": "word-c41143f3c5139fa3-p355",
+      "body_index": 303,
+      "source_title": "Câu 28 Là một thư ký văn phòng, cần làm gì để chuẩn bị thông tin cho một hội nghị tổng kết cuối năm của cơ quan?",
+      "web_id": "word-1d55e841b9e15dba-p303",
       "type": "single_choice"
     },
     {
-      "body_index": 360,
-      "source_title": "Câu 26: Đặc điểm của thời kỳ quá độ lên chủ nghĩa xã hội trên lĩnh vực kinh tế là gì?",
-      "web_id": "word-c41143f3c5139fa3-p360",
+      "body_index": 308,
+      "source_title": "Câu 29 Giám đốc dự án yêu cầu thư ký văn phòng cung cấp thông tin chi tiết về tiến độ hiện tại của một dự án quan trọng, bao gồm các mốc thời gian, tình trạng hoàn thành và các vấn đề còn tồn tại. Thông tin này cần được trình bày trong một cuộc họp vào cuối ngày. Thư ký văn phòng sẽ xử lý yêu cầu này như thế nào?",
+      "web_id": "word-1d55e841b9e15dba-p308",
       "type": "single_choice"
     },
     {
-      "body_index": 365,
-      "source_title": "Câu 27: Tìm đáp án sai. Đặc trưng bản chất của chủ nghĩa xã hội Việt Nam theo tinh thần của Đại hội XI",
-      "web_id": "word-c41143f3c5139fa3-p365",
+      "body_index": 313,
+      "source_title": "Câu 30: Trong tình huống lãnh đạo yêu cầu tìm một văn bản của cấp trên vừa mới ban hành, thư ký văn phòng sẽ phải làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p313",
       "type": "single_choice"
     },
     {
-      "body_index": 370,
-      "source_title": "Câu 28:Trong cuốn sách \"Một số vấn đề lý luận và thực tiễn về chủ nghĩa xã hội và con đường đi lên chủ nghĩa xã hội ở Việt Nam\", Tổng Bí thư Nguyễn Phú Trọng khẳng định: đường lối cơ bản, xuyên suốt của cách mạng Việt Nam và cũng là điểm cốt yếu trong di sản tư tưởng của Chủ tịch Hồ Chí Minh là:",
-      "web_id": "word-c41143f3c5139fa3-p370",
+      "body_index": 318,
+      "source_title": "Câu 31: Là thư ký văn phòng, cần phải làm gì để chuẩn bị tài liệu cho một cuộc họp quốc tế?",
+      "web_id": "word-1d55e841b9e15dba-p318",
       "type": "single_choice"
     },
     {
-      "body_index": 375,
-      "source_title": "Câu 29: Tại sao cho rằng con đường cách mạng Việt Nam là quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa là một tất yếu?",
-      "web_id": "word-c41143f3c5139fa3-p375",
+      "body_index": 323,
+      "source_title": "Câu 32: Là thư ký văn phòng, cần làm gì để quản lý hiệu quả thông tin từ các văn bản?",
+      "web_id": "word-1d55e841b9e15dba-p323",
       "type": "single_choice"
     },
     {
-      "body_index": 380,
-      "source_title": "Câu 30 :Căn cứ vào giáo trình Chủ nghĩa xã hội khoa học, hãy xác định khái niệm dùng để chỉ một chế độ xã hội tốt đẹp, giai đoạn đầu của hình thái kinh tế - xã hội cộng sản chủ nghĩa",
-      "web_id": "word-c41143f3c5139fa3-p380",
+      "body_index": 328,
+      "source_title": "Câu 33: Việc thực hiện các hoạt động nghiệp vụ nào dưới đây KHÔNG thuộc nhiệm vụ thu thập, xử lý thông tin của thư ký văn phòng?",
+      "web_id": "word-1d55e841b9e15dba-p328",
       "type": "single_choice"
     },
     {
-      "body_index": 385,
-      "source_title": "Câu 31: Theo chủ nghĩa Mác – Lênin có mấy hình thức quá độ lên chủ nghĩa xã hội?",
-      "web_id": "word-c41143f3c5139fa3-p385",
+      "body_index": 333,
+      "source_title": "Câu 34: Hãy sắp xếp lại các bước theo đúng quy trình thu thập thông tin của người thư ký văn phòng?",
+      "web_id": "word-1d55e841b9e15dba-p333",
       "type": "single_choice"
     },
     {
-      "body_index": 390,
-      "source_title": "Câu 32: Đặc điểm về kinh tế của thời kỳ quá độ lên chủ nghĩa xã hội gồm: (Chọn 2 đáp án đúng)",
-      "web_id": "word-c41143f3c5139fa3-p390",
-      "type": "multiple_choice"
+      "body_index": 344,
+      "source_title": "Câu 1: Để xây dựng lịch làm việc, thư ký cần nắm vững nguyên tắc nào?",
+      "web_id": "word-1d55e841b9e15dba-p344",
+      "type": "single_choice"
     },
     {
-      "body_index": 395,
-      "source_title": "Câu 33: Việc \"bỏ qua chế độ tư bản chủ nghĩa\" ở Việt Nam có nghĩa là: (Chọn 2 đáp án đúng)",
-      "web_id": "word-c41143f3c5139fa3-p395",
-      "type": "multiple_choice"
+      "body_index": 350,
+      "source_title": "Câu 2: Tại sao việc xây dựng lịch làm việc hàng năm là quan trọng đối với các cơ quan?",
+      "web_id": "word-1d55e841b9e15dba-p350",
+      "type": "single_choice"
     },
     {
-      "body_index": 400,
-      "source_title": "Câu 34: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-      "web_id": "word-c41143f3c5139fa3-p400",
-      "type": "true_false"
+      "body_index": 357,
+      "source_title": "Câu 3: Vì sao nguyên tắc ưu tiên là quan trọng khi sắp xếp lịch làm việc?",
+      "web_id": "word-1d55e841b9e15dba-p357",
+      "type": "single_choice"
     },
     {
-      "body_index": 408,
-      "source_title": "Câu 35: Kéo thả các đáp án khớp với các phát biểu từ 1 - 3 vế trái dưới đây:",
-      "web_id": "word-c41143f3c5139fa3-p408",
-      "type": "drag_drop_match"
+      "body_index": 362,
+      "source_title": "Câu 4: Những yếu tố nào sau đây cần được xem xét khi xây dựng lịch làm việc?",
+      "web_id": "word-1d55e841b9e15dba-p362",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 369,
+      "source_title": "Câu 5: Giải thích tại sao cần có phương án dự phòng khi xây dựng lịch làm việc?",
+      "web_id": "word-1d55e841b9e15dba-p369",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 376,
+      "source_title": "Câu 6: Phân loại các yếu tố mà thư ký văn phòng cần xem xét khi lập lịch làm việc cho lãnh đạo?",
+      "web_id": "word-1d55e841b9e15dba-p376",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 382,
+      "source_title": "Câu 7: Thư ký văn phòng sẽ áp dụng nguyên tắc dự phòng nào để đảm bảo các nhiệm vụ được hoàn thành đúng hạn?",
+      "web_id": "word-1d55e841b9e15dba-p382",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 388,
+      "source_title": "Câu 8: Thư ký văn phòng sẽ áp dụng nguyên tắc không trùng lặp về địa điểm như thế nào để đảm bảo Giám đốc có đủ thời gian di chuyển giữa các cuộc họp?",
+      "web_id": "word-1d55e841b9e15dba-p388",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 393,
+      "source_title": "Câu 9: Thư ký văn phòng sẽ áp dụng nguyên tắc không trùng lặp về địa điểm như thế nào để đảm bảo lịch trình diễn ra suôn sẻ?",
+      "web_id": "word-1d55e841b9e15dba-p393",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 398,
+      "source_title": "Câu 10: Bạn sẽ điều chỉnh lịch họp như thế nào để đảm bảo không có sự trùng lặp về địa điểm và giám đốc có đủ thời gian di chuyển?",
+      "web_id": "word-1d55e841b9e15dba-p398",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 404,
+      "source_title": "Câu 11: Thư ký văn phòng sẽ lập lịch cho nhóm như thế nào để tránh sự trùng lặp và tối ưu hóa thời gian của các cuộc họp trực tuyến và trực tiếp?",
+      "web_id": "word-1d55e841b9e15dba-p404",
+      "type": "single_choice"
     },
     {
       "body_index": 411,
-      "source_title": "Câu 36 : Đặc điểm cơ bản của thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là gì? (Chọn 2 đáp án đúng)",
-      "web_id": "word-c41143f3c5139fa3-p411",
-      "type": "multiple_choice"
-    },
-    {
-      "body_index": 417,
-      "source_title": "Câu 37 : Việc \"bỏ qua chế độ tư bản chủ nghĩa\" ở Việt Nam có nghĩa là: (Chọn 2 đáp án đúng)",
-      "web_id": "word-c41143f3c5139fa3-p417",
-      "type": "multiple_choice"
-    },
-    {
-      "body_index": 423,
-      "source_title": "Câu 38: Thời kỳ quá độ lên chủ nghĩa xã hội có những mâu thuẫn nào cần giải quyết? (Chọn 2 đáp án đúng)",
-      "web_id": "word-c41143f3c5139fa3-p423",
-      "type": "multiple_choice"
-    },
-    {
-      "body_index": 428,
-      "source_title": "Câu 39 : Hai loại quá độ từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đó là: (Chọn 2 đáp án)",
-      "web_id": "word-c41143f3c5139fa3-p428",
-      "type": "multiple_choice"
-    },
-    {
-      "body_index": 433,
-      "source_title": "Câu 40 : Cuộc cách mạng của giai cấp công nhân và nhân dân lao động dưới sự lãnh đạo của Đảng cộng sản chống lại giai cấp tư sản, là cuộc cách mạng:",
-      "web_id": "word-c41143f3c5139fa3-p433",
+      "source_title": "Câu 12: Giám đốc phải tham dự buổi đào tạo nhân viên mới kéo dài từ 9 giờ sáng đến 11 giờ sáng, đồng thời cũng phải tham dự một cuộc họp với đối tác từ 10 giờ sáng đến 12 giờ trưa. Thư ký văn phòng cần lập kế hoạch như thế nào để không bị trùng lặp thời gian?",
+      "web_id": "word-1d55e841b9e15dba-p411",
       "type": "single_choice"
     },
     {
-      "body_index": 440,
-      "source_title": "Câu 41: Kéo thả các đáp án khớp với các phát biểu từ 1 - 3 vế trái dưới đây:",
-      "web_id": "word-c41143f3c5139fa3-p440",
-      "type": "drag_drop_match"
+      "body_index": 418,
+      "source_title": "Câu 13: Giám đốc yêu cầu lập kế hoạch cho một dự án mới, thư ký văn phòng sẽ phải làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p418",
+      "type": "single_choice"
     },
     {
-      "body_index": 443,
-      "source_title": "Câu 42 : Kéo thả các đáp án khớp với các phát biểu từ 1 – 3 về trái dưới đây:",
-      "web_id": "word-c41143f3c5139fa3-p443",
-      "type": "drag_drop_match"
+      "body_index": 423,
+      "source_title": "Câu 14: Khi có yêu cầu cần lập kế hoạch làm việc hàng ngày cho Giám đốc, thư ký văn phòng sẽ phải làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p423",
+      "type": "single_choice"
     },
     {
-      "body_index": 447,
-      "source_title": "Câu 43 : Kéo thả các đáp án khớp với các phát biểu từ 1 – 4 về trái dưới đây:",
-      "web_id": "word-c41143f3c5139fa3-p447",
-      "type": "drag_drop_match"
+      "body_index": 428,
+      "source_title": "Câu 15: Khi có yêu cầu xây dựng lịch làm việc hàng tuần cho toàn bộ cơ quan, thư ký văn phòng cần phải làm gì để đảm bảo lịch không bị trùng lặp?",
+      "web_id": "word-1d55e841b9e15dba-p428",
+      "type": "single_choice"
     },
     {
-      "body_index": 452,
-      "source_title": "Câu 1: Theo nguyên nghĩa tiếng Hy Lạp thì \"Dân chủ\" là gì?",
-      "web_id": "word-c41143f3c5139fa3-p452",
+      "body_index": 433,
+      "source_title": "Câu 16: Tại sao việc xây dựng kế hoạch hoạt động theo quý là cần thiết?",
+      "web_id": "word-1d55e841b9e15dba-p433",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 439,
+      "source_title": "Câu 17: Khi lập lịch làm việc, nguyên tắc nào giúp tránh xung đột về thời gian và địa điểm?",
+      "web_id": "word-1d55e841b9e15dba-p439",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 445,
+      "source_title": "Câu 18: Nhận diện yếu tố nào sau đây không thuộc nguyên tắc khi xây dựng lịch làm việc?",
+      "web_id": "word-1d55e841b9e15dba-p445",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 451,
+      "source_title": "Câu 19: Phân loại các hoạt động của cơ quan theo mức độ ưu tiên khi xây dựng lịch làm việc là nhiệm vụ của ai?",
+      "web_id": "word-1d55e841b9e15dba-p451",
       "type": "single_choice"
     },
     {
       "body_index": 457,
-      "source_title": "Câu 2: Dân chủ xã hội chủ nghĩa mang tính nhất nguyên về chính trị, được hiểu là:",
-      "web_id": "word-c41143f3c5139fa3-p457",
+      "source_title": "Câu 20: Thư ký văn phòng sẽ áp dụng nguyên tắc dự phòng nào để xử lý tình huống này một cách hiệu quả?",
+      "web_id": "word-1d55e841b9e15dba-p457",
       "type": "single_choice"
     },
     {
-      "body_index": 462,
-      "source_title": "Câu 3: Lịch sử loài người đã từng xuất hiện các nền dân chủ nào?",
-      "web_id": "word-c41143f3c5139fa3-p462",
+      "body_index": 463,
+      "source_title": "Câu 21: Khi có yêu cầu cần lập kế hoạch cho một dự án nghiên cứu thị trường mới, thư ký văn phòng sẽ phải làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p463",
       "type": "single_choice"
     },
     {
-      "body_index": 467,
-      "source_title": "Câu 4: Bản chất chính trị của nền dân chủ xã hội chủ nghĩa thể hiện như thế nào?",
-      "web_id": "word-c41143f3c5139fa3-p467",
+      "body_index": 469,
+      "source_title": "Câu 22: Giám đốc yêu cầu xây dựng lịch làm việc chi tiết cho tháng tới, thư ký văn phòng sẽ phải làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p469",
       "type": "single_choice"
     },
     {
-      "body_index": 472,
-      "source_title": "Câu 5: Bản chất tư tưởng - văn hoá - xã hội của nền dân chủ xã hội chủ nghĩa được thể hiện ở nội dung nào?",
-      "web_id": "word-c41143f3c5139fa3-p472",
+      "body_index": 474,
+      "source_title": "Câu 23: Giải thích tại sao cần có nguyên tắc không trùng lặp thời gian khi xây dựng lịch làm việc?",
+      "web_id": "word-1d55e841b9e15dba-p474",
       "type": "single_choice"
     },
     {
-      "body_index": 477,
-      "source_title": "Câu 6: Đặc điểm của nhà nước pháp quyền xã hội chủ nghĩa là gì?",
-      "web_id": "word-c41143f3c5139fa3-p477",
+      "body_index": 479,
+      "source_title": "Câu 24: Thư ký văn phòng phải áp dụng nguyên tắc ưu tiên nào khi lập lịch cho giám đốc?",
+      "web_id": "word-1d55e841b9e15dba-p479",
       "type": "single_choice"
     },
     {
-      "body_index": 482,
-      "source_title": "Câu 7: Kiểu nhà nước nào sau đây được V.I. Lênin gọi là nhà nước \"nửa nhà nước\"?",
-      "web_id": "word-c41143f3c5139fa3-p482",
+      "body_index": 484,
+      "source_title": "Câu 25: Thư ký văn phòng sẽ áp dụng nguyên tắc không trùng lặp về địa điểm như thế nào để tối ưu hóa thời gian di chuyển và đảm bảo các cuộc gặp diễn ra đúng giờ?",
+      "web_id": "word-1d55e841b9e15dba-p484",
       "type": "single_choice"
     },
     {
-      "body_index": 487,
-      "source_title": "Câu 8: Căn cứ vào phạm vi tác động của quyền lực nhà nước, chức năng của nhà nước được chia thành:",
-      "web_id": "word-c41143f3c5139fa3-p487",
+      "body_index": 489,
+      "source_title": "Câu 26 : Thư ký văn phòng sẽ lập lịch như thế nào để tránh việc Giám đốc phải di chuyển liên tục giữa hai địa điểm khác nhau?",
+      "web_id": "word-1d55e841b9e15dba-p489",
       "type": "single_choice"
     },
     {
-      "body_index": 492,
-      "source_title": "Câu 9: Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam ở Việt Nam được thực hiện thông qua:",
-      "web_id": "word-c41143f3c5139fa3-p492",
+      "body_index": 494,
+      "source_title": "Câu 27: Khi có yêu cầu cần lập kế hoạch làm việc hàng tháng cho toàn bộ cơ quan, thư ký văn phòng sẽ làm gì để đảm bảo tất cả các phòng ban phối hợp hiệu quả?",
+      "web_id": "word-1d55e841b9e15dba-p494",
       "type": "single_choice"
     },
     {
-      "body_index": 497,
-      "source_title": "Câu 10: So với các mô hình nhà nước khác trong lịch sử thì nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam có sự khác biệt về chất như thế nào?",
-      "web_id": "word-c41143f3c5139fa3-p497",
+      "body_index": 499,
+      "source_title": "Câu 28: Một trong những nhiệm vụ chính của thư ký văn phòng là gì?",
+      "web_id": "word-1d55e841b9e15dba-p499",
       "type": "single_choice"
     },
     {
-      "body_index": 502,
-      "source_title": "Câu 11: Nền dân chủ xã hội chủ nghĩa ở Việt Nam có điểm khác biệt cơ bản nào so với các nền dân chủ trước đây?",
-      "web_id": "word-c41143f3c5139fa3-p502",
+      "body_index": 504,
+      "source_title": "Câu 29: Thư ký văn phòng sẽ lập kế hoạch ưu tiên như thế nào để đảm bảo các dự án hoàn thành đúng hạn và chất lượng?",
+      "web_id": "word-1d55e841b9e15dba-p504",
       "type": "single_choice"
     },
     {
-      "body_index": 507,
-      "source_title": "Câu 12: Hãy xác định mục tiêu chính của việc xây dựng Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam.",
-      "web_id": "word-c41143f3c5139fa3-p507",
+      "body_index": 509,
+      "source_title": "Câu 30: Thư ký văn phòng sẽ sắp xếp lịch làm việc của mình như thế nào để đảm bảo hoàn thành tất cả các nhiệm vụ một cách hiệu quả?",
+      "web_id": "word-1d55e841b9e15dba-p509",
       "type": "single_choice"
     },
     {
-      "body_index": 512,
-      "source_title": "Câu 13: Bản chất của nền dân chủ xã hội chủ nghĩa là: (Chọn 2 đáp án đúng)",
-      "web_id": "word-c41143f3c5139fa3-p512",
-      "type": "multiple_choice"
-    },
-    {
-      "body_index": 517,
-      "source_title": "Câu 14: Đặc điểm nổi bật của nền dân chủ xã hội chủ nghĩa là gì? (Chọn 2 đáp án đúng)",
-      "web_id": "word-c41143f3c5139fa3-p517",
-      "type": "multiple_choice"
-    },
-    {
-      "body_index": 522,
-      "source_title": "Câu 15: Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam được xây dựng dựa trên những nguyên tắc nào sau đây? (Chọn 2 đáp án đúng)",
-      "web_id": "word-c41143f3c5139fa3-p522",
-      "type": "multiple_choice"
-    },
-    {
-      "body_index": 527,
-      "source_title": "Câu 16: Chế độ dân chủ nhân dân ở Việt Nam được xác lập từ khi nào?",
-      "web_id": "word-c41143f3c5139fa3-p527",
+      "body_index": 515,
+      "source_title": "Câu 1: Thư ký văn phòng cần kiểm tra những yếu tố nào trước giờ khai mạc cuộc họp?",
+      "web_id": "word-1d55e841b9e15dba-p515",
       "type": "single_choice"
     },
     {
-      "body_index": 532,
-      "source_title": "Câu 17 : Chọn ý không đúng về điểm khác biệt của nền dân chủ xã hội chủ nghĩa so với nền dân chủ tư sản:",
-      "web_id": "word-c41143f3c5139fa3-p532",
+      "body_index": 520,
+      "source_title": "Câu 2: Tại sao việc tìm hiểu mục đích của cuộc họp, hội nghị, lễ hội là quan trọng đối với một thư ký văn phòng?",
+      "web_id": "word-1d55e841b9e15dba-p520",
       "type": "single_choice"
     },
     {
-      "body_index": 537,
-      "source_title": "Câu 18: Sự ra đời của nhà nước xã hội chủ nghĩa gắn với sự kiện nào?",
-      "web_id": "word-c41143f3c5139fa3-p537",
+      "body_index": 525,
+      "source_title": "Câu 3: Trong quá trình chuẩn bị cho một cuộc họp quan trọng, một thư ký văn phòng nên làm gì để đảm bảo tất cả các hoạt động diễn ra suôn sẻ?",
+      "web_id": "word-1d55e841b9e15dba-p525",
       "type": "single_choice"
     },
     {
-      "body_index": 542,
-      "source_title": "Câu 19: Hãy xác định biện pháp để nâng cao hiệu quả hoạt động của Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam.",
-      "web_id": "word-c41143f3c5139fa3-p542",
+      "body_index": 530,
+      "source_title": "Câu 4: Khi điều hành chương trình cuộc họp, thư ký văn phòng cần làm gì để đảm bảo các đại biểu phát biểu không quá thời gian quy định của cuộc họp?",
+      "web_id": "word-1d55e841b9e15dba-p530",
       "type": "single_choice"
     },
     {
-      "body_index": 547,
-      "source_title": "Câu 20 : Bằng hiểu biết của bản thân, hãy cho biết đâu là hình thức dân chủ gián tiếp?",
-      "web_id": "word-c41143f3c5139fa3-p547",
+      "body_index": 535,
+      "source_title": "Câu 5: Thông tin nào là cần thiết nhất để thư ký văn phòng ghi vào biên bản cuộc họp nhằm đảm bảo tính đầy đủ và chính xác?",
+      "web_id": "word-1d55e841b9e15dba-p535",
       "type": "single_choice"
     },
     {
-      "body_index": 552,
-      "source_title": "Câu 21: So với các nền dân chủ trước đây, dân chủ xã hội chủ nghĩa có điểm khác biệt cơ bản nào?",
-      "web_id": "word-c41143f3c5139fa3-p552",
+      "body_index": 540,
+      "source_title": "Câu 6: Thư ký văn phòng cần làm gì khi thu thập hóa đơn và chứng từ liên quan đến chi phí của cuộc họp?",
+      "web_id": "word-1d55e841b9e15dba-p540",
       "type": "single_choice"
     },
     {
-      "body_index": 557,
-      "source_title": "Câu 22: Đâu là định nghĩa đúng và đầy đủ về dân chủ?",
-      "web_id": "word-c41143f3c5139fa3-p557",
+      "body_index": 545,
+      "source_title": "Câu 7: Thư ký văn phòng được giao nhiệm vụ chuẩn bị cuộc họp hàng tuần của phòng ban. Có một số người tham dự cuộc họp từ các phòng ban khác nhau. Thư ký văn phòng cần làm gì để đảm bảo rằng mọi người đều nắm rõ thời gian và địa điểm cuộc họp?",
+      "web_id": "word-1d55e841b9e15dba-p545",
       "type": "single_choice"
     },
     {
-      "body_index": 562,
-      "source_title": "Câu 23: Nhà nước pháp quyền XHCN quản lý mọi mặt của đời sống xã hội chủ yếu bằng gì?",
-      "web_id": "word-c41143f3c5139fa3-p562",
+      "body_index": 550,
+      "source_title": "Câu 8: Thư ký văn phòng cần chuẩn bị tài liệu cho cuộc họp quan trọng với đối tác. Các tài liệu này cần phải có sẵn trước cuộc họp ít nhất 2 ngày. Thư ký văn phòng nên làm gì để đảm bảo tài liệu được chuẩn bị đúng hạn?",
+      "web_id": "word-1d55e841b9e15dba-p550",
       "type": "single_choice"
     },
     {
-      "body_index": 567,
-      "source_title": "Câu 24: Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam có đặc điểm như thế nào?",
-      "web_id": "word-c41143f3c5139fa3-p567",
+      "body_index": 555,
+      "source_title": "Câu 9: Thư ký văn phòng phát hiện ra phòng họp dự kiến sử dụng bị đặt chồng chéo với một cuộc họp khác. Thư ký văn phòng cần làm gì để giải quyết vấn đề này?",
+      "web_id": "word-1d55e841b9e15dba-p555",
       "type": "single_choice"
     },
     {
-      "body_index": 572,
-      "source_title": "Câu 25: Dân chủ trong xã hội nguyên thủy được thể hiện như thế nào? (Chọn 2 đáp án đúng)",
-      "web_id": "word-c41143f3c5139fa3-p572",
-      "type": "multiple_choice"
-    },
-    {
-      "body_index": 577,
-      "source_title": "Câu 26: Dân chủ xã hội chủ nghĩa ở Việt Nam là: (Chọn 2 đáp án đúng)",
-      "web_id": "word-c41143f3c5139fa3-p577",
-      "type": "multiple_choice"
-    },
-    {
-      "body_index": 582,
-      "source_title": "Câu 27: Bản chất kinh tế của nền dân chủ xã hội chủ nghĩa là:",
-      "web_id": "word-c41143f3c5139fa3-p582",
+      "body_index": 560,
+      "source_title": "Câu 10: Trước cuộc họp, Thư ký văn phòng cần đảm bảo tất cả các thiết bị kỹ thuật (máy chiếu, micro, loa...) đều hoạt động bình thường. Thư ký văn phòng nên làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p560",
       "type": "single_choice"
     },
     {
-      "body_index": 587,
-      "source_title": "Câu 28 : Bản chất kinh tế của nền dân chủ xã hội chủ nghĩa là:",
-      "web_id": "word-c41143f3c5139fa3-p587",
+      "body_index": 565,
+      "source_title": "Câu 11: Thư ký văn phòng cần đảm bảo rằng mọi người tham gia cuộc họp đều được cung cấp thông tin chính xác về nội dung cuộc họp. Thư ký văn phòng nên làm gì để đảm bảo mọi người đều có cùng thông tin?",
+      "web_id": "word-1d55e841b9e15dba-p565",
       "type": "single_choice"
     },
     {
-      "body_index": 592,
-      "source_title": "Câu 29 : Tại sao quyền lực nhà nước ở Việt Nam được tổ chức theo nguyên tắc thống nhất?",
-      "web_id": "word-c41143f3c5139fa3-p592",
+      "body_index": 570,
+      "source_title": "Câu 12: Trong cuộc họp, một thành viên yêu cầu thư ký ghi lại chi tiết một quyết định quan trọng vừa được thông qua. Thư ký cần làm gì để đảm bảo ghi chép chính xác?",
+      "web_id": "word-1d55e841b9e15dba-p570",
       "type": "single_choice"
     },
     {
-      "body_index": 597,
-      "source_title": "Câu 30: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-      "web_id": "word-c41143f3c5139fa3-p597",
-      "type": "true_false"
+      "body_index": 575,
+      "source_title": "Câu 13: Trong cuộc họp, có một cuộc tranh luận nảy lửa về một vấn đề quan trọng. Thư ký nên làm gì để quản lý tình huống này?",
+      "web_id": "word-1d55e841b9e15dba-p575",
+      "type": "single_choice"
     },
     {
-      "body_index": 606,
-      "source_title": "Câu 31 :Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-      "web_id": "word-c41143f3c5139fa3-p606",
-      "type": "true_false"
+      "body_index": 580,
+      "source_title": "Câu 14: Một trong những nhiệm vụ sau cuộc họp là gửi thông tin nhắc nhở các thành viên về các công việc cần thực hiện. Thư ký nên làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p580",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 585,
+      "source_title": "Câu 15: Sau khi cuộc họp kết thúc, thư ký nhận được phản hồi về một số quyết định. Thư ký sẽ làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p585",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 590,
+      "source_title": "Câu 16 : Khi đón tiếp đại biểu tại một cuộc họp, thư ký văn phòng cần làm gì để đảm bảo hiệu quả?",
+      "web_id": "word-1d55e841b9e15dba-p590",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 595,
+      "source_title": "Câu 17: Trong cuộc họp, một quyết định cần được đưa ra nhưng có một thành viên quan trọng vắng mặt. Thư ký cần làm gì trong tình huống này?",
+      "web_id": "word-1d55e841b9e15dba-p595",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 600,
+      "source_title": "Câu 18: Sau khi cuộc họp kết thúc, thư ký cần tổng hợp lại nội dung chính để gửi cho cấp trên. Thư ký sẽ bắt đầu từ đâu?",
+      "web_id": "word-1d55e841b9e15dba-p600",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 605,
+      "source_title": "Câu 19: Thư ký đã hoàn tất biên bản cuộc họp. Việc tiếp theo cần làm là gì?",
+      "web_id": "word-1d55e841b9e15dba-p605",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 610,
+      "source_title": "Câu 20 : Thư ký văn phòng cần ghi những thông tin cơ bản nào vào biên bản cuộc họp?",
+      "web_id": "word-1d55e841b9e15dba-p610",
+      "type": "single_choice"
     },
     {
       "body_index": 615,
-      "source_title": "Câu 32: Căn cứ vào tính chất của quyền lực nhà nước, chức năng của nhà nước được chia thành:",
-      "web_id": "word-c41143f3c5139fa3-p615",
+      "source_title": "Câu 21 : Vì sao thư ký văn phòng cần chuẩn bị máy móc phục vụ phiên dịch khi có thành viên nước ngoài tham dự cuộc họp?",
+      "web_id": "word-1d55e841b9e15dba-p615",
       "type": "single_choice"
     },
     {
-      "body_index": 619,
-      "source_title": "Câu 33: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-      "web_id": "word-c41143f3c5139fa3-p619",
-      "type": "true_false"
-    },
-    {
-      "body_index": 628,
-      "source_title": "Câu 34 : Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-      "web_id": "word-c41143f3c5139fa3-p628",
-      "type": "true_false"
-    },
-    {
-      "body_index": 637,
-      "source_title": "Câu 35: Vận dụng những kiến thức đã học hãy chỉ ra luận điểm không chính xác:",
-      "web_id": "word-c41143f3c5139fa3-p637",
+      "body_index": 620,
+      "source_title": "Câu 22: Tại sao thư ký văn phòng cần phối hợp với bộ phận lễ tân để chuẩn bị đồ ăn và giải khát cho các cuộc họp quan trọng và kéo dài?",
+      "web_id": "word-1d55e841b9e15dba-p620",
       "type": "single_choice"
     },
     {
-      "body_index": 642,
-      "source_title": "Câu 36 : Những điều kiện khách quan quy định sứ mệnh lịch sử của giai cấp công nhân bao gồm: (Chọn 2 đáp án)",
-      "web_id": "word-c41143f3c5139fa3-p642",
-      "type": "multiple_choice"
-    },
-    {
-      "body_index": 647,
-      "source_title": "Câu 37 : So với các giai cấp khác thì sứ mệnh lịch sử của giai cấp công nhân có gì khác biệt?",
-      "web_id": "word-c41143f3c5139fa3-p647",
+      "body_index": 625,
+      "source_title": "Câu 23: Thư ký văn phòng cần thu thập những tài liệu nào sau cuộc họp để hoàn thành hồ sơ cuộc họp?",
+      "web_id": "word-1d55e841b9e15dba-p625",
       "type": "single_choice"
     },
     {
-      "body_index": 653,
-      "source_title": "Câu 38: Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam được thực hiện thông qua các hình thức dân chủ nào? (Chọn 2 đáp án đúng)",
-      "web_id": "word-c41143f3c5139fa3-p653",
-      "type": "multiple_choice"
-    },
-    {
-      "body_index": 659,
-      "source_title": "Câu 1: Trong cơ cấu xã hội – giai cấp của thời kỳ quá độ lên chủ nghĩa xã hội, lực lượng tiêu biểu cho phương thức sản xuất mới giữ vai trò chủ đạo, tiên phong trong quá trình công nghiệp hoá, hiện đại hoá đất nước là:",
-      "web_id": "word-c41143f3c5139fa3-p659",
+      "body_index": 630,
+      "source_title": "Câu 24: Một trong các diễn giả không thể tham dự cuộc họp vào phút chót. Thư ký văn phòng sẽ làm gì để đảm bảo cuộc họp diễn ra suôn sẻ?",
+      "web_id": "word-1d55e841b9e15dba-p630",
       "type": "single_choice"
     },
     {
-      "body_index": 664,
-      "source_title": "Câu 2: Xét về mặt kinh tế, trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội – giai cấp biến đổi phức tạp, đa dạng, làm xuất hiện các tầng lớp mới là do:",
-      "web_id": "word-c41143f3c5139fa3-p664",
+      "body_index": 635,
+      "source_title": "Câu 25: Trước cuộc họp, Thư ký văn phòng cần đảm bảo rằng tất cả thiết bị kỹ thuật (máy chiếu, micro, loa...) đều hoạt động bình thường. Thư ký văn phòng nên làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p635",
       "type": "single_choice"
     },
     {
-      "body_index": 669,
-      "source_title": "Câu 3: Vì sao cơ cấu xã hội giai cấp có vị trí quan trọng hàng đầu, chi phối các loại hình cơ cấu xã hội khác? (Chọn 2 đáp án)",
-      "web_id": "word-c41143f3c5139fa3-p669",
-      "type": "multiple_choice"
-    },
-    {
-      "body_index": 674,
-      "source_title": "Câu 4: Theo C.Mác và Ph.Ăngghen, nhiều cuộc đấu tranh của giai cấp công nhân ở châu Âu, nhất là ở nước Anh và Pháp từ giữa thế kỷ XIX thất bại là do:",
-      "web_id": "word-c41143f3c5139fa3-p674",
+      "body_index": 640,
+      "source_title": "Câu 26: Một người tham gia cuộc họp yêu cầu thư ký cung cấp thông tin về cuộc họp trước đó. Thư ký cần làm gì để đáp ứng yêu cầu này?",
+      "web_id": "word-1d55e841b9e15dba-p640",
       "type": "single_choice"
     },
     {
-      "body_index": 679,
-      "source_title": "Câu 5: Yếu tố quyết định sự liên minh giữa giai cấp công nhân, giai cấp nông dân và tầng lớp trí thức là:",
-      "web_id": "word-c41143f3c5139fa3-p679",
+      "body_index": 645,
+      "source_title": "Câu 27: Trong cuộc họp, có sự thay đổi đột ngột về chương trình nghị sự. Thư ký cần làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p645",
       "type": "single_choice"
     },
     {
-      "body_index": 684,
-      "source_title": "Câu 6: Theo quan điểm của chủ nghĩa Mác – Lênin, trong thời kỳ quá độ lên chủ nghĩa xã hội, giai cấp công nhân, giai cấp nông dân và tầng lớp lao động khác được coi là:",
-      "web_id": "word-c41143f3c5139fa3-p684",
+      "body_index": 650,
+      "source_title": "Câu 28 : Một số người tham gia cuộc họp không nghe rõ nội dung thảo luận do vấn đề âm thanh. Thư ký cần làm gì trong tình huống này?",
+      "web_id": "word-1d55e841b9e15dba-p650",
       "type": "single_choice"
     },
     {
-      "body_index": 689,
-      "source_title": "Câu 7: Chọn phương án trả lời đúng nhất để điền vào chỗ trống cho câu sau: \"Trước sự liên minh của các đại biểu khoa học, ..., giới kỹ thuật không một thế lực đen tối nào đứng vững được\"",
-      "web_id": "word-c41143f3c5139fa3-p689",
+      "body_index": 655,
+      "source_title": "Câu 29: Trong quá trình ghi chép, thư ký nhận thấy có một số ý kiến lặp lại nhưng được diễn đạt theo cách khác nhau. Thư ký nên làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p655",
       "type": "single_choice"
     },
     {
-      "body_index": 694,
-      "source_title": "Câu 8: Theo V.I. Lênin, đâu là vấn đề mang tính nguyên tắc để đảm bảo cho thắng lợi của cuộc cách mạng xã hội chủ nghĩa tháng Mười Nga năm 1917?",
-      "web_id": "word-c41143f3c5139fa3-p694",
+      "body_index": 661,
+      "source_title": "Câu 30 : Khi điều hành thảo luận trong cuộc họp, thư ký cần chú ý điều gì để đảm bảo sự đóng góp ý kiến từ tất cả đại biểu?",
+      "web_id": "word-1d55e841b9e15dba-p661",
       "type": "single_choice"
     },
     {
-      "body_index": 699,
-      "source_title": "Câu 9: Vì sao giai cấp công nhân, nông dân và đội ngũ trí thức cần liên minh với nhau trong thời kỳ quá độ lên chủ nghĩa xã hội? (Chọn 2 đáp án)",
-      "web_id": "word-c41143f3c5139fa3-p699",
-      "type": "multiple_choice"
-    },
-    {
-      "body_index": 704,
-      "source_title": "Câu 10: Hiện nay ở Việt Nam, lực lượng xã hội đặc biệt được Đảng ta chủ trương xây dựng thành một đội ngũ vững mạnh là:",
-      "web_id": "word-c41143f3c5139fa3-p704",
+      "body_index": 667,
+      "source_title": "Câu 31: có một số tài liệu quan trọng cần in và phân pháp cho tất cả người tham dự trước khi cuộc họp bắt đầu. Thư ký văn phòng cần lên kế hoạch như thế nào để hoàn thành việc in ấn và phân phát tài liệu?",
+      "web_id": "word-1d55e841b9e15dba-p667",
       "type": "single_choice"
     },
     {
-      "body_index": 709,
-      "source_title": "Câu 11: Lực lượng nào là lực lượng lao động sáng tạo đặc biệt quan trọng trong tiến trình đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước và hội nhập quốc tế, xây dựng kinh tế tri thức, phát triển nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc?",
-      "web_id": "word-c41143f3c5139fa3-p709",
+      "body_index": 672,
+      "source_title": "Câu 32: Khi điều hành chương trình cuộc họp, thư ký văn phòng cần làm gì để đảm bảo các đại biểu phát biểu bị quá thời gian quy định của cuộc họp?",
+      "web_id": "word-1d55e841b9e15dba-p672",
       "type": "single_choice"
     },
     {
-      "body_index": 714,
-      "source_title": "Câu 12: Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, giai cấp nào là lực lượng đi đầu thực hiện nhiệm vụ trung tâm phát triển kinh tế, tiến hành công nghiệp hoá, hiện đại hoá đất nước?",
-      "web_id": "word-c41143f3c5139fa3-p714",
+      "body_index": 677,
+      "source_title": "Câu 33 : Có một số tài liệu quan trọng cần in và phân phát cho tất cả người tham dự trước khi cuộc họp bắt đầu. Thư ký văn phòng cần lên kế hoạch như thế nào để hoàn thành việc in ấn và phân phát tài liệu?",
+      "web_id": "word-1d55e841b9e15dba-p677",
       "type": "single_choice"
     },
     {
-      "body_index": 719,
-      "source_title": "Câu 13: Nội dung cơ bản quyết định nhất, là cơ sở vật chất – kỹ thuật của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là nội dung nào?",
-      "web_id": "word-c41143f3c5139fa3-p719",
+      "body_index": 685,
+      "source_title": "Câu 1: Khi tổ chức các chuyến đi công tác, thư ký văn phòng xếp lịch dựa trên tiêu chí nào sau đây?",
+      "web_id": "word-1d55e841b9e15dba-p685",
       "type": "single_choice"
     },
     {
-      "body_index": 724,
-      "source_title": "Câu 14: Nội dung chính trị của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam thể hiện việc giữ vững lập trường chính trị - tư tưởng của giai cấp, tầng lớp nào?",
-      "web_id": "word-c41143f3c5139fa3-p724",
+      "body_index": 690,
+      "source_title": "Câu 2: Tại sao các thông tin lịch trình và yêu cầu về phương tiện di chuyển lại quan trọng trong tổ chức chuyến đi công tác?",
+      "web_id": "word-1d55e841b9e15dba-p690",
       "type": "single_choice"
     },
     {
-      "body_index": 729,
-      "source_title": "Câu 15: Vận dụng kiến thức về vai trò của thế hệ trẻ, hãy xác định mục tiêu chính của việc giáo dục chính trị, tư tưởng cho thanh niên trong giai đoạn hiện nay ở Việt Nam là gì?",
-      "web_id": "word-c41143f3c5139fa3-p729",
+      "body_index": 695,
+      "source_title": "Câu 3: Nếu một chuyến đi công tác có nhiều mục đích khác nhau, thư ký văn phòng cần chú ý điều gì khi sắp xếp lịch trình?",
+      "web_id": "word-1d55e841b9e15dba-p695",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 700,
+      "source_title": "Câu 4: Thư ký văn phòng liên hệ với nơi đoàn đến để chuẩn bị điều kiện ăn nghỉ và làm việc có tác dụng gì?",
+      "web_id": "word-1d55e841b9e15dba-p700",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 705,
+      "source_title": "Câu 5: Để tránh chồng chéo khi tổ chức các chuyến đi công tác cho nhiều cán bộ, thư ký văn phòng phải lưu ý điều gì?",
+      "web_id": "word-1d55e841b9e15dba-p705",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 710,
+      "source_title": "Câu 6: Trong trường hợp thư ký văn phòng cùng đi với đoàn công tác, việc thu thập giấy tờ và lập hồ sơ sau khi trở về có ý nghĩa gì?",
+      "web_id": "word-1d55e841b9e15dba-p710",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 715,
+      "source_title": "Câu 7: Trong khi lãnh đạo đang đi công tác, thư ký cần quản lý các cuộc họp từ xa. Thư ký nên làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p715",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 720,
+      "source_title": "Câu 8: Trong khi lãnh đạo đi công tác, thư ký cần xử lý các tài liệu và báo cáo quan trọng. Công việc đầu tiên của thư ký là gì?",
+      "web_id": "word-1d55e841b9e15dba-p720",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 725,
+      "source_title": "Câu 9: Trong khi lãnh đạo đang đi công tác, thư ký cần cập nhật thông tin mới cho họ. Thư ký sẽ làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p725",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 730,
+      "source_title": "Câu 10: Sau khi lãnh đạo trở về, thư ký cần đối chiếu các cuộc họp đã diễn ra trong thời gian họ đi công tác. Thư ký nên làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p730",
       "type": "single_choice"
     },
     {
       "body_index": 735,
-      "source_title": "Câu 16: V.I. Lênin đã xem liên minh giữa giai cấp, tầng lớp nào là một hình thức \"liên minh đặc biệt\" trong giai đoạn giành chính quyền và xây dựng chủ nghĩa xã hội?",
-      "web_id": "word-c41143f3c5139fa3-p735",
+      "source_title": "Câu 11: Sau khi lãnh đạo trở về, thư ký cần cập nhật các thông tin và tài liệu mới. Công việc đầu tiên của thư ký là gì?",
+      "web_id": "word-1d55e841b9e15dba-p735",
       "type": "single_choice"
     },
     {
-      "body_index": 741,
-      "source_title": "Câu 17: Trong cách mạng xã hội chủ nghĩa, dưới sự lãnh đạo của Đảng Cộng sản, giai cấp công nhân phải liên minh với giai cấp, tầng lớp nào?",
-      "web_id": "word-c41143f3c5139fa3-p741",
+      "body_index": 740,
+      "source_title": "Câu 12: Lãnh đạo muốn tổ chức cuộc họp tổng kết sau chuyến công tác. Thư ký nên làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p740",
       "type": "single_choice"
     },
     {
-      "body_index": 747,
-      "source_title": "Câu 18: Xét dưới góc độ chính trị, trong cuộc đấu tranh giai cấp của các giai cấp có lợi ích đối lập nhau đặt ra nhu cầu tất yếu khách quan mỗi giai cấp đứng ở vị trí trung tâm đều phải:",
-      "web_id": "word-c41143f3c5139fa3-p747",
+      "body_index": 745,
+      "source_title": "Câu 13: Trong thời gian lãnh đạo đi công tác, có một số vấn đề cần giải quyết. Thư ký sẽ làm gì khi lãnh đạo trở về?",
+      "web_id": "word-1d55e841b9e15dba-p745",
       "type": "single_choice"
     },
     {
-      "body_index": 753,
-      "source_title": "Câu 19: Cơ cấu xã hội – giai cấp ở Việt Nam thời kỳ quá độ lên chủ nghĩa xã hội bao gồm mấy giai cấp, tầng lớp?",
-      "web_id": "word-c41143f3c5139fa3-p753",
+      "body_index": 750,
+      "source_title": "Câu 14: Sau chuyến công tác, lãnh đạo yêu cầu đánh giá hiệu quả chuyến đi. Thư ký nên làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p750",
       "type": "single_choice"
     },
     {
-      "body_index": 759,
-      "source_title": "Câu 20: Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, sự biến đổi của cơ cấu xã hội – giai cấp bị chi phối bởi biến đổi của cơ cấu nào",
-      "web_id": "word-c41143f3c5139fa3-p759",
+      "body_index": 755,
+      "source_title": "Câu 15: Thư ký phát hiện rằng lãnh đạo có lịch trình công tác dày đặc và một số cuộc họp có thể trùng lặp. Thư ký sẽ làm gì để giải quyết vấn đề này?",
+      "web_id": "word-1d55e841b9e15dba-p755",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 760,
+      "source_title": "Câu 16 : Người thư ký văn phòng cần cần lưu ý gì khi lập dự trù kinh phí cho chuyến công tác để đảm bảo tính chính xác?",
+      "web_id": "word-1d55e841b9e15dba-p760",
       "type": "single_choice"
     },
     {
       "body_index": 765,
-      "source_title": "Câu 21: Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội – giai cấp gồm mấy giai cấp, tầng lớp cơ bản?",
-      "web_id": "word-c41143f3c5139fa3-p765",
+      "source_title": "Câu 17 : Khi đoàn công tác trở về, thư ký văn phòng cần làm gì để đảm bảo tính chính xác trong việc thanh toán và báo cáo?",
+      "web_id": "word-1d55e841b9e15dba-p765",
       "type": "single_choice"
     },
     {
       "body_index": 770,
-      "source_title": "Câu 22 :Dưới góc độ chính trị - xã hội, môn Chủ nghĩa xã hội khoa học tập trung nghiên cứu cơ cấu xã hội nào?",
-      "web_id": "word-c41143f3c5139fa3-p770",
+      "source_title": "Câu 18 : Trong thời gian lãnh đạo đi công tác, thư ký nhận được thông báo về một vấn đề quan trọng. Thư ký sẽ làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p770",
       "type": "single_choice"
     },
     {
       "body_index": 775,
-      "source_title": "Câu 23: Theo C. Mác – Ph. Ăngghen, \"người bạn đồng minh tự nhiên\" của giai cấp công nhân là ai?",
-      "web_id": "word-c41143f3c5139fa3-p775",
+      "source_title": "Câu 19: Lãnh đạo đã trở về từ chuyến công tác và yêu cầu thư ký tổng hợp báo cáo. Thư ký sẽ làm gì trước tiên?",
+      "web_id": "word-1d55e841b9e15dba-p775",
       "type": "single_choice"
     },
     {
       "body_index": 780,
-      "source_title": "Câu 24 : Nội dung kinh tế của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là gì?",
-      "web_id": "word-c41143f3c5139fa3-p780",
+      "source_title": "Câu 20 : Lãnh đạo của thư ký chuẩn bị cho một chuyến công tác quan trọng và yêu cầu thư ký chuẩn bị các tài liệu cần thiết. Thư ký sẽ làm gì đầu tiên?",
+      "web_id": "word-1d55e841b9e15dba-p780",
       "type": "single_choice"
     },
     {
       "body_index": 785,
-      "source_title": "Câu 25 : Chọn ý sai về nội dung kinh tế của liên minh giữa giai cấp công nhân với giai cấp nông dân và các tầng lớp lao động khác trong cách mạng xã hội chủ nghĩa:",
-      "web_id": "word-c41143f3c5139fa3-p785",
+      "source_title": "Câu 21: Tại sao thư ký văn phòng cần trao đổi với lãnh đạo để biết công việc thuộc thẩm quyền giải quyết của ai trong thời gian lãnh đạo đi công tác?",
+      "web_id": "word-1d55e841b9e15dba-p785",
       "type": "single_choice"
     },
     {
       "body_index": 790,
-      "source_title": "Câu 26: Chọn cụm từ thích hợp điền vào chỗ trống của câu: “Cơ cấu xã hội là những... cùng toàn bộ những mối quan hệ xã hội do sự tác động lẫn nhau của các cộng đồng ấy tạo nên”.",
-      "web_id": "word-c41143f3c5139fa3-p790",
+      "source_title": "Câu 22: Thư ký cần đảm bảo rằng lãnh đạo có thể liên lạc với văn phòng trong suốt chuyến công tác. Thư ký sẽ làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p790",
       "type": "single_choice"
     },
     {
       "body_index": 795,
-      "source_title": "Câu 27: Chọn đáp án đúng điền vào chỗ trống cho câu sau: \"Cơ cấu xã hội – giai cấp là hệ thống các ......... tồn tại khách quan trong một chế độ xã hội nhất định,...\"",
-      "web_id": "word-c41143f3c5139fa3-p795",
+      "source_title": "Câu 23: Sau khi lãnh đạo trở về, thư ký cần cập nhật lại lịch trình của họ. Thư ký sẽ làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p795",
       "type": "single_choice"
     },
     {
       "body_index": 800,
-      "source_title": "Câu 28: Vận dụng kiến thức về vai trò của thế hệ trẻ, hãy xác định mục tiêu chính của việc giáo dục chính trị, tư tưởng cho thanh niên trong giai đoạn hiện nay ở Việt Nam là gì?",
-      "web_id": "word-c41143f3c5139fa3-p800",
+      "source_title": "Câu 24 : Lãnh đạo cần di chuyển đến một thành phố khác và yêu cầu thư ký tìm khách sạn gần nơi họ sẽ họp. Thư ký sẽ làm gì để chọn khách sạn phù hợp?",
+      "web_id": "word-1d55e841b9e15dba-p800",
       "type": "single_choice"
     },
     {
-      "body_index": 806,
-      "source_title": "Câu 29: Kéo thả các đáp án khớp với các phát biểu từ 1 - 3 về trái dưới đây:",
-      "web_id": "word-c41143f3c5139fa3-p806",
-      "type": "drag_drop_match"
-    },
-    {
-      "body_index": 809,
-      "source_title": "Câu 30: Kéo thả các đáp án khớp với các phát biểu từ 1 - 4 về trái dưới đây:",
-      "web_id": "word-c41143f3c5139fa3-p809",
-      "type": "drag_drop_match"
-    },
-    {
-      "body_index": 813,
-      "source_title": "Câu 31 : Kéo thả các khái niệm khớp với các phát biểu về cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội dưới đây:",
-      "web_id": "word-c41143f3c5139fa3-p813",
-      "type": "drag_drop_match"
-    },
-    {
-      "body_index": 816,
-      "source_title": "Câu 32 : Những lực lượng nào sau đây là trung tâm trong cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội?",
-      "web_id": "word-c41143f3c5139fa3-p816",
-      "type": "multiple_choice"
-    },
-    {
-      "body_index": 822,
-      "source_title": "Câu 33 : Những tầng lớp nào sau đây tham gia cơ cấu xã hội - giai cấp ở Việt Nam? (Chọn 2 đáp án đúng)",
-      "web_id": "word-c41143f3c5139fa3-p822",
-      "type": "multiple_choice"
-    },
-    {
-      "body_index": 827,
-      "source_title": "Câu 34 : Những phương hướng nào sau đây nhằm phát triển cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội? (Chọn 2 đáp án đúng)",
-      "web_id": "word-c41143f3c5139fa3-p827",
-      "type": "multiple_choice"
-    },
-    {
-      "body_index": 832,
-      "source_title": "Câu 35 : Những phương hướng nào sau đây củng cố liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội? (Chọn 2 đáp án đúng)",
-      "web_id": "word-c41143f3c5139fa3-p832",
-      "type": "multiple_choice"
-    },
-    {
-      "body_index": 837,
-      "source_title": "Câu 36 : Những phương hướng nào sau đây củng cố liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội? (Chọn 2 đáp án đúng)",
-      "web_id": "word-c41143f3c5139fa3-p837",
-      "type": "multiple_choice"
-    },
-    {
-      "body_index": 842,
-      "source_title": "Câu 37 : Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội - giai cấp biến đổi trong mối quan hệ nào?",
-      "web_id": "word-c41143f3c5139fa3-p842",
+      "body_index": 805,
+      "source_title": "Câu 25: Trước khi lãnh đạo đi công tác, thư ký văn phòng cần thực hiện việc gì?",
+      "web_id": "word-1d55e841b9e15dba-p805",
       "type": "single_choice"
     },
     {
-      "body_index": 847,
-      "source_title": "Câu 38 : Trong cách mạng xã hội chủ nghĩa, dưới sự lãnh đạo của Đảng Cộng sản, giai cấp công nhân phải liên minh với giai cấp, tầng lớp nào?",
-      "web_id": "word-c41143f3c5139fa3-p847",
+      "body_index": 810,
+      "source_title": "Câu 26 :Trong khi lãnh đạo đang đi công tác, thư ký cần cập nhật lịch trình của họ. Thư ký nên làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p810",
       "type": "single_choice"
     },
     {
-      "body_index": 852,
-      "source_title": "Câu 39 : Kéo thả các đáp án đúng ứng với từng phát biểu sau đây về vị trí, vai trò của các giai cấp, tầng lớp trong cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội:",
-      "web_id": "word-c41143f3c5139fa3-p852",
-      "type": "drag_drop_match"
-    },
-    {
-      "body_index": 855,
-      "source_title": "Câu 40 : Kéo thả các yếu tố liên quan đến liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội vào các cột tương ứng.",
-      "web_id": "word-c41143f3c5139fa3-p855",
-      "type": "drag_drop_categorize"
-    },
-    {
-      "body_index": 859,
-      "source_title": "Câu 41 : Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-      "web_id": "word-c41143f3c5139fa3-p859",
-      "type": "true_false"
-    },
-    {
-      "body_index": 865,
-      "source_title": "Câu 1: Dân tộc hiểu theo nghĩa hẹp là:",
-      "web_id": "word-c41143f3c5139fa3-p865",
+      "body_index": 815,
+      "source_title": "Câu 27: Trong thời gian lãnh đạo đi công tác, thư ký cần theo dõi kết quả công việc và báo cáo. Công việc quan trọng nhất là gì?",
+      "web_id": "word-1d55e841b9e15dba-p815",
       "type": "single_choice"
     },
     {
-      "body_index": 870,
-      "source_title": "Câu 2: Hiểu theo nghĩa rộng, dân tộc là:",
-      "web_id": "word-c41143f3c5139fa3-p870",
+      "body_index": 820,
+      "source_title": "Câu 28: Lãnh đạo yêu cầu thư ký chuẩn bị tài liệu cho một cuộc họp quốc tế. Thư ký cần chuẩn bị những gì để đảm bảo tài liệu có thể được hiểu rõ?",
+      "web_id": "word-1d55e841b9e15dba-p820",
       "type": "single_choice"
     },
     {
-      "body_index": 875,
-      "source_title": "Câu 3: Thứ tự quá trình phát triển của dân tộc lần lượt trải qua các hình thức nào?",
-      "web_id": "word-c41143f3c5139fa3-p875",
+      "body_index": 825,
+      "source_title": "Câu 29: Tại sao việc chuẩn bị đầy đủ các giấy tờ hành chính là quan trọng trong việc tổ chức chuyến công tác?",
+      "web_id": "word-1d55e841b9e15dba-p825",
       "type": "single_choice"
     },
     {
-      "body_index": 880,
-      "source_title": "Câu 4: Theo chủ nghĩa Mác – Lênin, nguyên nhân nào dẫn đến các cộng đồng dân cư muốn tách ra để hình thành cộng đồng dân tộc độc lập?",
-      "web_id": "word-c41143f3c5139fa3-p880",
+      "body_index": 830,
+      "source_title": "Câu 30: Tại sao thư ký văn phòng cần báo cáo với thủ trưởng về những vấn đề xảy ra trong thời gian thủ trưởng đi công tác?",
+      "web_id": "word-1d55e841b9e15dba-p830",
       "type": "single_choice"
     },
     {
-      "body_index": 885,
-      "source_title": "Câu 5: Tôn giáo là một phạm trù thuộc:",
-      "web_id": "word-c41143f3c5139fa3-p885",
+      "body_index": 836,
+      "source_title": "Câu 1: Giao tiếp hành chính là gì?",
+      "web_id": "word-1d55e841b9e15dba-p836",
       "type": "single_choice"
     },
     {
-      "body_index": 890,
-      "source_title": "Câu 6: Tôn giáo là sản phẩm của ai?",
-      "web_id": "word-c41143f3c5139fa3-p890",
+      "body_index": 841,
+      "source_title": "Câu 2: Tại sao việc lắng nghe chủ động lại quan trọng trong giao tiếp hành chính?",
+      "web_id": "word-1d55e841b9e15dba-p841",
       "type": "single_choice"
     },
     {
-      "body_index": 895,
-      "source_title": "Câu 7: Tôn giáo khác với tín ngưỡng ở điểm nào?",
-      "web_id": "word-c41143f3c5139fa3-p895",
+      "body_index": 846,
+      "source_title": "Câu 3: Khi nào cần sử dụng kỹ năng giao tiếp phi ngôn ngữ?",
+      "web_id": "word-1d55e841b9e15dba-p846",
       "type": "single_choice"
     },
     {
-      "body_index": 900,
-      "source_title": "Câu 8: Về phương diện thế giới quan, tôn giáo mang bản chất:",
-      "web_id": "word-c41143f3c5139fa3-p900",
+      "body_index": 851,
+      "source_title": "Câu 4: Vai trò của giao tiếp hành chính trong việc xây dựng mối quan hệ công việc là gì?",
+      "web_id": "word-1d55e841b9e15dba-p851",
       "type": "single_choice"
     },
     {
-      "body_index": 905,
-      "source_title": "Câu 9: Tìm đáp án sai về nguồn gốc hình thành của tôn giáo:",
-      "web_id": "word-c41143f3c5139fa3-p905",
+      "body_index": 856,
+      "source_title": "Câu 5: Kỹ năng nào là quan trọng khi thư ký văn phòng trình bày ý kiến trong cuộc họp để thông điệp được rõ ràng?",
+      "web_id": "word-1d55e841b9e15dba-p856",
       "type": "single_choice"
     },
     {
-      "body_index": 910,
-      "source_title": "Câu 10: Luận điểm nổi tiếng: \"Tôn giáo là tiếng thở dài của chúng sinh bị áp bức, là trái tim của thế giới không có trái tim... Tôn giáo là thuốc phiện của nhân dân\" là của ai?",
-      "web_id": "word-c41143f3c5139fa3-p910",
+      "body_index": 861,
+      "source_title": "Câu 6: Khi viết báo cáo công việc, thư ký văn phòng nên chú trọng vào điều gì để báo cáo hiệu quả?",
+      "web_id": "word-1d55e841b9e15dba-p861",
       "type": "single_choice"
     },
     {
-      "body_index": 915,
-      "source_title": "Câu 11: Tại sao ngày nay khoa học đã phát triển rất mạnh mẽ mà tôn giáo vẫn có xu hướng phát triển? (Chọn nhiều đáp án) (Sinh viên chọn 2 phương án đúng nhất)",
-      "web_id": "word-c41143f3c5139fa3-p915",
-      "type": "multiple_choice"
-    },
-    {
-      "body_index": 920,
-      "source_title": "Câu 12: Ở Việt Nam hiện nay có khoảng bao nhiêu dân tộc?",
-      "web_id": "word-c41143f3c5139fa3-p920",
+      "body_index": 866,
+      "source_title": "Câu 7: Khi thư ký nhận được yêu cầu từ một phòng ban trước và một yêu cầu tương tự từ một đối tác bên ngoài, thư ký nên:",
+      "web_id": "word-1d55e841b9e15dba-p866",
       "type": "single_choice"
     },
     {
-      "body_index": 925,
-      "source_title": "Câu 13: Tìm đáp án sai về đặc điểm dân tộc ở Việt Nam",
-      "web_id": "word-c41143f3c5139fa3-p925",
+      "body_index": 871,
+      "source_title": "Câu 8: Khi tiếp nhận một cuộc gọi từ đối tác, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p871",
       "type": "single_choice"
     },
     {
-      "body_index": 930,
-      "source_title": "Câu 14: Vận dụng kiến thức về đặc điểm tôn giáo ở Việt Nam, hãy xác định số lượng tôn giáo đã được công nhận và cấp đăng ký hoạt động ở Việt Nam:",
-      "web_id": "word-c41143f3c5139fa3-p930",
+      "body_index": 876,
+      "source_title": "Câu 9: Nguyên tắc nào dưới đây là cần thiết khi thư ký giao tiếp bằng email?",
+      "web_id": "word-1d55e841b9e15dba-p876",
       "type": "single_choice"
     },
     {
-      "body_index": 935,
-      "source_title": "Câu 15: Vận dụng kiến thức về vấn đề dân tộc, hãy chỉ ra điểm khác biệt cơ bản trong quá trình hình thành nên dân tộc Việt Nam so với các dân tộc khác là gì?",
-      "web_id": "word-c41143f3c5139fa3-p935",
+      "body_index": 881,
+      "source_title": "Câu 10: Để duy trì sự chuyên nghiệp trong giao tiếp hành chính, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p881",
       "type": "single_choice"
     },
     {
-      "body_index": 940,
-      "source_title": "Câu 16: Quan điểm: Không phân biệt dân tộc lớn hay nhỏ, ở trình độ phát triển cao hay thấp, các dân tộc đều có nghĩa vụ và quyền lợi ngang nhau trên tất cả các lĩnh vực của đời sống xã hội - thuộc nội dung nào trong Cương lĩnh dân tộc của V.I. Lênin?",
-      "web_id": "word-c41143f3c5139fa3-p940",
+      "body_index": 886,
+      "source_title": "Câu 11: Trong tình huống có nhiều người cùng nói trong một cuộc họp, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p886",
       "type": "single_choice"
     },
     {
-      "body_index": 942,
-      "source_title": "Câu 17: Theo quan điểm của chủ nghĩa Mác – Lênin, để thực hiện được bình đẳng dân tộc cần phải làm gì? (Chọn 2 đáp án)",
-      "web_id": "word-c41143f3c5139fa3-p942",
-      "type": "multiple_choice"
-    },
-    {
-      "body_index": 944,
-      "source_title": "Câu 18 : Trong những nội dung của quyền dân tộc tự quyết, nội dung nào được coi là cơ bản, trước hết?",
-      "web_id": "word-c41143f3c5139fa3-p944",
+      "body_index": 891,
+      "source_title": "Câu 12: Khi một người nói quá nhanh hoặc không rõ ràng, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p891",
       "type": "single_choice"
     },
     {
-      "body_index": 946,
-      "source_title": "Câu 19 : Đâu là đặc trưng quan trọng nhất, là cơ sở để liên kết các thành viên của dân tộc tạo thành nền tảng vững chắc của cộng đồng dân tộc?",
-      "web_id": "word-c41143f3c5139fa3-p946",
+      "body_index": 896,
+      "source_title": "Câu 13: Khi trình bày một báo cáo trong cuộc họp, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p896",
       "type": "single_choice"
     },
     {
-      "body_index": 948,
-      "source_title": "Câu 20. Đối với quốc gia và từng thành viên của dân tộc, yếu tố nào là thiêng liêng nhất mà nếu không có thì không có khái niệm Tổ quốc, quốc gia?",
-      "web_id": "word-c41143f3c5139fa3-p948",
+      "body_index": 901,
+      "source_title": "Câu 14: Khi trả lời điện thoại cho sếp, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p901",
       "type": "single_choice"
     },
     {
-      "body_index": 950,
-      "source_title": "Câu 21. Niềm tin của con người vào các lực lượng siêu nhiên, thần thánh đến mức độ mê muội, cuồng tín, dẫn đến những hành vi cực đoan, sai lệch quá mức, trái với các giá trị văn hoá, đạo đức, pháp luật – gọi là:",
-      "web_id": "word-c41143f3c5139fa3-p950",
+      "body_index": 906,
+      "source_title": "Câu 15: Khi gặp một khách hàng khó tính, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p906",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 911,
+      "source_title": "Câu 16: Nguyên tắc giao tiếp hành chính nào sau đây đảm bảo thông tin được truyền đạt rõ ràng và chính xác?",
+      "web_id": "word-1d55e841b9e15dba-p911",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 916,
+      "source_title": "Câu 17:Trong giao tiếp hành chính, điều gì giúp thư ký văn phòng duy trì mối quan hệ tốt với đồng nghiệp?",
+      "web_id": "word-1d55e841b9e15dba-p916",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 921,
+      "source_title": "Câu 18: Khi giải quyết xung đột trong môi trường làm việc, phương pháp nào là tốt nhất để đạt được kết quả tích cực?",
+      "web_id": "word-1d55e841b9e15dba-p921",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 926,
+      "source_title": "Câu 19: Để giải quyết khiếu nại của khách hàng hiệu quả, thư ký văn phòng cần có kỹ năng nào?",
+      "web_id": "word-1d55e841b9e15dba-p926",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 931,
+      "source_title": "Câu 20: Nếu có sự mâu thuẫn giữa yêu cầu của sếp và yêu cầu của một khách hàng quan trọng, thư ký nên:",
+      "web_id": "word-1d55e841b9e15dba-p931",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 936,
+      "source_title": "Câu 21: Khi gửi tài liệu qua email cho đối tác, thư ký cần phải?",
+      "web_id": "word-1d55e841b9e15dba-p936",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 941,
+      "source_title": "Câu 22: Trong một cuộc họp nhóm, nếu có một ý kiến trái ngược với quan điểm của bạn, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p941",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 947,
+      "source_title": "Câu 23: Khi giao tiếp với khách hàng qua điện thoại, điều gì quan trọng nhất để thư ký văn phòng tạo ấn tượng tốt?",
+      "web_id": "word-1d55e841b9e15dba-p947",
       "type": "single_choice"
     },
     {
       "body_index": 952,
-      "source_title": "Câu 22 : Sự sợ hãi trước những hiện tượng tự nhiên, xã hội, hay lúc ốm đau, những may rủi, bất ngờ, tâm lý muốn bình yên khi làm việc lớn… khiến con người dễ tìm đến với hình thái ý thức xã hội nào?",
-      "web_id": "word-c41143f3c5139fa3-p952",
+      "source_title": "Câu 24: Khi thư ký nhận được yêu cầu từ một phòng ban và một yêu cầu tương tự từ một đối tác bên ngoài, thư ký nên:",
+      "web_id": "word-1d55e841b9e15dba-p952",
       "type": "single_choice"
     },
     {
-      "body_index": 954,
-      "source_title": "Câu 23: Vì sao Đảng, Nhà nước Việt Nam chủ trương luôn tôn trọng, bảo đảm quyền tự do tín ngưỡng tôn giáo và không tín ngưỡng tôn giáo của nhân dân?",
-      "web_id": "word-c41143f3c5139fa3-p954",
-      "type": "single_choice"
-    },
-    {
-      "body_index": 956,
-      "source_title": "Câu 23. Theo chủ nghĩa Mác – Lênin, xét đến cùng nhân tố quyết định sự tồn tại và phát triển của các hình thái ý thức xã hội, trong đó có tôn giáo là gì?",
-      "web_id": "word-c41143f3c5139fa3-p956",
-      "type": "single_choice"
-    },
-    {
-      "body_index": 958,
-      "source_title": "Câu 24. Tôn giáo ra đời từ những nguồn gốc cơ bản nào?",
-      "web_id": "word-c41143f3c5139fa3-p958",
-      "type": "single_choice"
-    },
-    {
-      "body_index": 960,
-      "source_title": "Câu 25. Đâu là sự giống nhau giữa tôn giáo và tín ngưỡng?",
-      "web_id": "word-c41143f3c5139fa3-p960",
+      "body_index": 957,
+      "source_title": "Câu 25: Khi tổ chức một cuộc họp với nhiều bên tham gia, thư ký cần:",
+      "web_id": "word-1d55e841b9e15dba-p957",
       "type": "single_choice"
     },
     {
       "body_index": 962,
-      "source_title": "Câu 26. Tại sao các tôn giáo ở Việt Nam luôn đồng hành cùng dân tộc và có nhiều đóng góp quan trọng trong quá trình xây dựng và bảo vệ đất nước?",
-      "web_id": "word-c41143f3c5139fa3-p962",
+      "source_title": "Câu 26: Một thư ký cần phải làm gì để đảm bảo thông tin giao tiếp là chính xác?",
+      "web_id": "word-1d55e841b9e15dba-p962",
       "type": "single_choice"
     },
     {
-      "body_index": 964,
-      "source_title": "Câu 27: Nội dung nào vừa là nội dung chủ yếu vừa là giải pháp quan trọng để liên kết các nội dung của Cương lĩnh dân tộc thành một chỉnh thể?",
-      "web_id": "word-c41143f3c5139fa3-p964",
+      "body_index": 967,
+      "source_title": "Câu 27: Khi nhận được một cuộc gọi từ khách hàng, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p967",
       "type": "single_choice"
-    },
-    {
-      "body_index": 969,
-      "source_title": "Câu 28: Kéo thả các yếu tố liên quan vào các cột tương ứng:",
-      "web_id": "word-c41143f3c5139fa3-p969",
-      "type": "drag_drop_categorize"
     },
     {
       "body_index": 972,
-      "source_title": "Câu 29: Ai được coi là \"dân\" trong nền dân chủ chủ nô?",
-      "web_id": "word-c41143f3c5139fa3-p972",
+      "source_title": "Câu 28: Khi tham gia một cuộc họp nhóm, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p972",
       "type": "single_choice"
     },
     {
-      "body_index": 976,
-      "source_title": "Câu 30 : Kéo thả các yếu tố liên quan đến liên minh giai cấp, tầng lớp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội vào các cột tương ứng.",
-      "web_id": "word-c41143f3c5139fa3-p976",
-      "type": "drag_drop_categorize"
-    },
-    {
-      "body_index": 979,
-      "source_title": "Câu 31: Kéo thả các đáp án đúng tương ứng với các phát biểu về nội dung Cương lĩnh dân tộc của Chủ nghĩa Mác - Lênin:",
-      "web_id": "word-c41143f3c5139fa3-p979",
-      "type": "drag_drop_match"
+      "body_index": 977,
+      "source_title": "Câu 29 : Trong quá trình giao tiếp hành chính, một thư ký văn phòng cần sử dụng ngôn ngữ như thế nào để đảm bảo tính chuyên nghiệp?",
+      "web_id": "word-1d55e841b9e15dba-p977",
+      "type": "single_choice"
     },
     {
       "body_index": 982,
-      "source_title": "Câu 32: Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-      "web_id": "word-c41143f3c5139fa3-p982",
-      "type": "true_false"
+      "source_title": "Câu 30 : Khi một đồng nghiệp đưa ra một vấn đề cần giải quyết, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p982",
+      "type": "single_choice"
     },
     {
       "body_index": 991,
-      "source_title": "Câu 33 : Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-      "web_id": "word-c41143f3c5139fa3-p991",
-      "type": "true_false"
-    },
-    {
-      "body_index": 1000,
-      "source_title": "Câu 34: Kéo thả các đáp án khớp với các phát biểu về tôn giáo, tín ngưỡng dưới đây:",
-      "web_id": "word-c41143f3c5139fa3-p1000",
-      "type": "drag_drop_match"
-    },
-    {
-      "body_index": 1004,
-      "source_title": "Câu 35: Bản chất của dân chủ là gì? (Chọn 2 đáp án đúng)",
-      "web_id": "word-c41143f3c5139fa3-p1004",
-      "type": "multiple_choice"
-    },
-    {
-      "body_index": 1009,
-      "source_title": "Câu 1: Trong Cương lĩnh dân tộc của chủ nghĩa Mác – Lênin, nội dung nào về quyền dân tộc tự quyết được coi là cơ bản trước hết?",
-      "web_id": "word-c41143f3c5139fa3-p1009",
+      "source_title": "Câu 1: Thư ký cần thực hiện những nhiệm vụ gì sau khi giải quyết xong công việc?",
+      "web_id": "word-1d55e841b9e15dba-p991",
       "type": "single_choice"
     },
     {
-      "body_index": 1012,
-      "source_title": "Câu 2: Theo quan điểm của chủ nghĩa Mác – Lênin, giải pháp căn bản để thực hiện bình đẳng dân tộc là gì?",
-      "web_id": "word-c41143f3c5139fa3-p1012",
+      "body_index": 993,
+      "source_title": "Câu 2: Để đảm bảo tính chính xác của văn bản, thư ký cần thực hiện các bước nào?",
+      "web_id": "word-1d55e841b9e15dba-p993",
       "type": "single_choice"
     },
     {
-      "body_index": 1015,
-      "source_title": "Câu 3: Nội dung nào sau đây là nội dung chủ yếu và là giải pháp quan trọng để liên kết các nội dung của Cương lĩnh dân tộc thành một chỉnh thể?",
-      "web_id": "word-c41143f3c5139fa3-p1015",
+      "body_index": 998,
+      "source_title": "Câu 3: Thư ký văn phòng cần phải chú ý đến điều gì khi thực hiện công tác quản lý văn bản?",
+      "web_id": "word-1d55e841b9e15dba-p998",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1003,
+      "source_title": "Câu 4:Cách nào sau đây không phải là phương pháp sắp xếp hồ sơ?",
+      "web_id": "word-1d55e841b9e15dba-p1003",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1008,
+      "source_title": "Câu 5: Khi thư ký cần sắp xếp hồ sơ theo vấn đề, lợi ích của việc này là gì?",
+      "web_id": "word-1d55e841b9e15dba-p1008",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1013,
+      "source_title": "Câu 6: Hoạt động nào sau đây là cần thiết khi thư ký văn phòng lưu trữ hồ sơ?",
+      "web_id": "word-1d55e841b9e15dba-p1013",
       "type": "single_choice"
     },
     {
       "body_index": 1018,
-      "source_title": "Câu 4: Theo quan điểm duy vật lịch sử, tôn giáo là sản phẩm của yếu tố nào?",
-      "web_id": "word-c41143f3c5139fa3-p1018",
+      "source_title": "Câu 7: Khi soạn thảo một thư mời, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p1018",
       "type": "single_choice"
     },
     {
-      "body_index": 1021,
-      "source_title": "Câu 5: Đâu là điểm giống nhau căn bản giữa tôn giáo và tín ngưỡng?",
-      "web_id": "word-c41143f3c5139fa3-p1021",
+      "body_index": 1023,
+      "source_title": "Câu 8: Khi soạn thảo một thông cáo báo chí, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p1023",
       "type": "single_choice"
     },
     {
-      "body_index": 1024,
-      "source_title": "Câu 6: Niềm tin của con người vào các lực lượng siêu nhiên, thần thánh đến mức độ mê muội, cuồng tín, dẫn đến những hành vi cực đoan, sai lệch, trái với đạo đức và pháp luật gọi là gì?",
-      "web_id": "word-c41143f3c5139fa3-p1024",
-      "type": "single_choice"
-    },
-    {
-      "body_index": 1027,
-      "source_title": "Câu 7: Ở Việt Nam hiện nay có khoảng bao nhiêu dân tộc cùng sinh sống?",
-      "web_id": "word-c41143f3c5139fa3-p1027",
-      "type": "single_choice"
-    },
-    {
-      "body_index": 1030,
-      "source_title": "Câu 8: Vì sao Đảng và Nhà nước Việt Nam chủ trương luôn tôn trọng, bảo đảm quyền tự do tín ngưỡng, tôn giáo và không tín ngưỡng tôn giáo của nhân dân?",
-      "web_id": "word-c41143f3c5139fa3-p1030",
+      "body_index": 1028,
+      "source_title": "Câu 9: Khi biên tập một bản kế hoạch công việc, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p1028",
       "type": "single_choice"
     },
     {
       "body_index": 1033,
-      "source_title": "Câu 9: Nhóm yếu tố nào sau đây phản ánh đầy đủ nguồn gốc hình thành và tồn tại của tôn giáo?",
-      "web_id": "word-c41143f3c5139fa3-p1033",
+      "source_title": "Câu 10: Khi soạn thảo một thông báo nội bộ, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p1033",
       "type": "single_choice"
     },
     {
-      "body_index": 1036,
-      "source_title": "Câu 10: Khái niệm dân tộc theo nghĩa hẹp được dùng để chỉ khái niệm nào?",
-      "web_id": "word-c41143f3c5139fa3-p1036",
+      "body_index": 1038,
+      "source_title": "Câu 11: Khi nhận được phản hồi về một tài liệu đã soạn thảo, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p1038",
       "type": "single_choice"
     },
     {
-      "body_index": 1039,
-      "source_title": "Câu 11: Tiêu chí nào mang tính thiêng liêng nhất đối với một dân tộc quốc gia và mỗi thành viên dân tộc?",
-      "web_id": "word-c41143f3c5139fa3-p1039",
-      "type": "single_choice"
-    },
-    {
-      "body_index": 1042,
-      "source_title": "Câu 12: Nhận định nào sau đây là SAI khi nói về quyền tự quyết dân tộc trong Cương lĩnh dân tộc Mác – Lênin?",
-      "web_id": "word-c41143f3c5139fa3-p1042",
-      "type": "single_choice"
-    },
-    {
-      "body_index": 1045,
-      "source_title": "Câu 13: Hình thái ý thức xã hội phản ánh một cách hoang đường, hư ảo hiện thực khách quan là khái niệm của hiện tượng nào?",
-      "web_id": "word-c41143f3c5139fa3-p1045",
+      "body_index": 1043,
+      "source_title": "Câu 12: Khi tổ chức tài liệu để chuẩn bị cho một cuộc kiểm tra nội bộ, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p1043",
       "type": "single_choice"
     },
     {
       "body_index": 1048,
-      "source_title": "Câu 14: Phát biểu nào sau đây là SAI về sự khác biệt giữa tín ngưỡng và tôn giáo?",
-      "web_id": "word-c41143f3c5139fa3-p1048",
+      "source_title": "Câu 13: Khi lưu trữ hồ sơ giấy, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p1048",
       "type": "single_choice"
     },
     {
-      "body_index": 1051,
-      "source_title": "Câu 15: Vì sao các tôn giáo ở Việt Nam luôn đồng hành cùng dân tộc và đóng góp tích cực cho sự nghiệp xây dựng, bảo vệ Tổ quốc?",
-      "web_id": "word-c41143f3c5139fa3-p1051",
+      "body_index": 1053,
+      "source_title": "Câu 14: Khi tạo một hệ thống lưu trữ tài liệu mới, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p1053",
       "type": "single_choice"
     },
     {
-      "body_index": 1054,
-      "source_title": "Câu 16: Đâu là các đặc trưng cơ bản thuộc về dân tộc tộc người?",
-      "web_id": "word-c41143f3c5139fa3-p1054",
-      "type": "single_choice"
-    },
-    {
-      "body_index": 1057,
-      "source_title": "Câu 17: Hai nguyên nhân chủ yếu khiến tôn giáo vẫn tiếp tục tồn tại lâu dài trong thời kỳ quá độ là gì?",
-      "web_id": "word-c41143f3c5139fa3-p1057",
-      "type": "single_choice"
-    },
-    {
-      "body_index": 1060,
-      "source_title": "Câu 18: Điểm khác biệt căn bản trong quá trình hình thành dân tộc Việt Nam so với các dân tộc phương Tây là gì?",
-      "web_id": "word-c41143f3c5139fa3-p1060",
+      "body_index": 1058,
+      "source_title": "Câu 15: Khi sử dụng hệ thống lưu trữ điện tử, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p1058",
       "type": "single_choice"
     },
     {
       "body_index": 1063,
-      "source_title": "Câu 19: Tính nhất nguyên về mặt chính trị của nền dân chủ xã hội chủ nghĩa được thể hiện như thế nào?",
-      "web_id": "word-c41143f3c5139fa3-p1063",
+      "source_title": "Câu 16: Tại sao thư ký cần phải nắm vững các quy định về soạn thảo văn bản?",
+      "web_id": "word-1d55e841b9e15dba-p1063",
       "type": "single_choice"
     },
     {
-      "body_index": 1066,
-      "source_title": "Câu 20: Luận điểm nào sau đây KHÔNG đúng khi so sánh nền dân chủ xã hội chủ nghĩa với nền dân chủ tư sản?",
-      "web_id": "word-c41143f3c5139fa3-p1066",
+      "body_index": 1068,
+      "source_title": "Câu 17: Khi biên tập một báo cáo, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p1068",
       "type": "single_choice"
     },
     {
-      "body_index": 1069,
-      "source_title": "Câu 21: So với các nền dân chủ trước đây trong lịch sử, dân chủ xã hội chủ nghĩa có điểm khác biệt căn bản nào?",
-      "web_id": "word-c41143f3c5139fa3-p1069",
-      "type": "single_choice"
-    },
-    {
-      "body_index": 1072,
-      "source_title": "Câu 22: Việc thực hiện chế độ công hữu về tư liệu sản xuất chủ yếu và phân phối lợi ích theo kết quả lao động là bản chất kinh tế của nền dân chủ nào?",
-      "web_id": "word-c41143f3c5139fa3-p1072",
-      "type": "single_choice"
-    },
-    {
-      "body_index": 1075,
-      "source_title": "Câu 23: Nhà nước pháp quyền xã hội chủ nghĩa quản lý mọi mặt của đời sống xã hội chủ yếu bằng công cụ nào?",
-      "web_id": "word-c41143f3c5139fa3-p1075",
+      "body_index": 1073,
+      "source_title": "Câu 18: Khi soạn thảo một bản hợp đồng, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p1073",
       "type": "single_choice"
     },
     {
       "body_index": 1078,
-      "source_title": "Câu 24: Khác biệt căn bản về chất của Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam so với các nhà nước bóc lột trong lịch sử là gì?",
-      "web_id": "word-c41143f3c5139fa3-p1078",
+      "source_title": "Câu 19: Khi nhận tài liệu mới từ một phòng ban khác, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p1078",
       "type": "single_choice"
     },
     {
-      "body_index": 1081,
-      "source_title": "Câu 25: Hình thức dân chủ nào là hình thức mà nhân dân trực tiếp bày tỏ ý chí, trực tiếp tham gia quản lý nhà nước và xã hội?",
-      "web_id": "word-c41143f3c5139fa3-p1081",
+      "body_index": 1083,
+      "source_title": "Câu 20: Khi soạn thảo một bảng báo cáo hàng tháng, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p1083",
       "type": "single_choice"
     },
     {
-      "body_index": 1084,
-      "source_title": "Câu 26: Khẳng định nào sau đây về tổ chức quyền lực nhà nước ở Việt Nam là SAI?",
-      "web_id": "word-c41143f3c5139fa3-p1084",
-      "type": "single_choice"
-    },
-    {
-      "body_index": 1087,
-      "source_title": "Câu 27: Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội – giai cấp biến đổi theo quy luật vận động nào?",
-      "web_id": "word-c41143f3c5139fa3-p1087",
-      "type": "single_choice"
-    },
-    {
-      "body_index": 1090,
-      "source_title": "Câu 28: Trong cơ cấu xã hội – giai cấp ở Việt Nam thời kỳ quá độ, đội ngũ trí thức giữ vai trò là lực lượng gì?",
-      "web_id": "word-c41143f3c5139fa3-p1090",
+      "body_index": 1088,
+      "source_title": "Câu 21: Khi một tài liệu cần được lưu trữ lâu dài, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p1088",
       "type": "single_choice"
     },
     {
       "body_index": 1093,
-      "source_title": "Câu 29: Phát biểu nào sau đây về khối liên minh giai cấp, tầng lớp ở Việt Nam là ĐÚNG?",
-      "web_id": "word-c41143f3c5139fa3-p1093",
+      "source_title": "Câu 22:Để biên tập văn bản, thư ký cần nắm vững điều gì để soạn thảo văn bản?",
+      "web_id": "word-1d55e841b9e15dba-p1093",
       "type": "single_choice"
     },
     {
-      "body_index": 1096,
-      "source_title": "Câu 30: Hai mối quan hệ cơ bản hình thành nên gia đình là: (chọn 2 đáp án)",
-      "web_id": "word-c41143f3c5139fa3-p1096",
-      "type": "multiple_choice"
-    },
-    {
-      "body_index": 1099,
-      "source_title": "Câu 31: Vị trí của gia đình trong xã hội là:",
-      "web_id": "word-c41143f3c5139fa3-p1099",
+      "body_index": 1098,
+      "source_title": "Câu 23:Thư ký văn phòng cần làm gì để quản lý tài liệu theo địa dư?",
+      "web_id": "word-1d55e841b9e15dba-p1098",
       "type": "single_choice"
     },
     {
-      "body_index": 1102,
-      "source_title": "Câu 32: Tình yêu giữa nam và nữ trở thành quan hệ hôn nhân được thể hiện bằng:",
-      "web_id": "word-c41143f3c5139fa3-p1102",
-      "type": "single_choice"
-    },
-    {
-      "body_index": 1105,
-      "source_title": "Câu 33: “Hàng ngày tái tạo ra đời sống của bản thân mình, con người bắt đầu tạo ra những người khác, sinh sôi nảy nở - đó là quan hệ giữa chồng và vợ, cha mẹ và con cái...” Đây là quan hệ của:",
-      "web_id": "word-c41143f3c5139fa3-p1105",
+      "body_index": 1103,
+      "source_title": "Câu 24:Đâu là yêu cầu quan trọng trong việc lưu trữ tài liệu?",
+      "web_id": "word-1d55e841b9e15dba-p1103",
       "type": "single_choice"
     },
     {
       "body_index": 1108,
-      "source_title": "Câu 34: Quan hệ nào được coi là cơ sở, nền tảng hình thành nên các mối quan hệ khác trong gia đình?",
-      "web_id": "word-c41143f3c5139fa3-p1108",
+      "source_title": "Câu 25:Khi chỉnh sửa một biên bản cuộc họp, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p1108",
       "type": "single_choice"
     },
     {
-      "body_index": 1111,
-      "source_title": "Câu 35: Chức năng của gia đình là:",
-      "web_id": "word-c41143f3c5139fa3-p1111",
+      "body_index": 1113,
+      "source_title": "Câu 26: Khi quản lý tài liệu, thư ký cần thực hiện các bước nào để đảm bảo chất lượng?",
+      "web_id": "word-1d55e841b9e15dba-p1113",
       "type": "single_choice"
     },
     {
-      "body_index": 1114,
-      "source_title": "Câu 36: Chức năng đảm bảo tái sản xuất nguồn lao động và sức lao động cho xã hội của gia đình là:",
-      "web_id": "word-c41143f3c5139fa3-p1114",
-      "type": "single_choice"
-    },
-    {
-      "body_index": 1117,
-      "source_title": "Câu 37: Thực hiện chức năng nào của gia đình nhằm góp phần tạo lớn lao vào việc đào tạo thế hệ trẻ, thế hệ tương lai của xã hội?",
-      "web_id": "word-c41143f3c5139fa3-p1117",
-      "type": "single_choice"
-    },
-    {
-      "body_index": 1120,
-      "source_title": "Câu 38: Với chức năng chính trị, gia đình là:",
-      "web_id": "word-c41143f3c5139fa3-p1120",
+      "body_index": 1118,
+      "source_title": "Câu 27: Khi soạn thảo một kế hoạch dự án, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p1118",
       "type": "single_choice"
     },
     {
       "body_index": 1123,
-      "source_title": "Câu 39: Gia đình Việt Nam ngày nay có thể được coi là:",
-      "web_id": "word-c41143f3c5139fa3-p1123",
-      "type": "single_choice"
-    },
-    {
-      "body_index": 1126,
-      "source_title": "Câu 40: So với các chế độ xã hội trước thì quan hệ gia đình trong thời kỳ quá độ lên chủ nghĩa xã hội có đặc điểm khác biệt về chất?",
-      "web_id": "word-c41143f3c5139fa3-p1126",
+      "source_title": "Câu 28 : Thư ký cần thực hiện những nhiệm vụ gì sau khi giải quyết xong công việc?",
+      "web_id": "word-1d55e841b9e15dba-p1123",
       "type": "single_choice"
     },
     {
       "body_index": 1129,
-      "source_title": "Câu 41: Ghép các khái niệm với các phát biểu về biến đổi gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội:",
-      "web_id": "word-c41143f3c5139fa3-p1129",
-      "type": "drag_drop_match"
+      "source_title": "Câu 29: Để đảm bảo tính chính xác của văn bản, thư ký cần thực hiện các bước nào?",
+      "web_id": "word-1d55e841b9e15dba-p1129",
+      "type": "single_choice"
     },
     {
-      "body_index": 1138,
-      "source_title": "Câu 42: Chọn đáp án Đúng hoặc Sai với từng phát biểu:",
-      "web_id": "word-c41143f3c5139fa3-p1138",
-      "type": "true_false"
+      "body_index": 1134,
+      "source_title": "Câu 30 : Các phương pháp nào giúp thư ký hiệu quả trong việc quản lý tài liệu?",
+      "web_id": "word-1d55e841b9e15dba-p1134",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1139,
+      "source_title": "Câu 31 : Hoạt động nào nào sau đây là cần thiết khi thư ký văn phòng lưu trữ hồ sơ?",
+      "web_id": "word-1d55e841b9e15dba-p1139",
+      "type": "single_choice"
     },
     {
       "body_index": 1144,
-      "source_title": "Câu 43: Những vấn đề xã hội nào có dấu hiệu gia tăng đối với gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội? (Chọn 2 đáp án)",
-      "web_id": "word-c41143f3c5139fa3-p1144",
-      "type": "multiple_choice"
+      "source_title": "Câu 32: Khi biên tập một bản kế hoạch công việc, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p1144",
+      "type": "single_choice"
     },
     {
       "body_index": 1149,
-      "source_title": "Câu 22 (Bài 1): Câu nói sau đây được viết trong tác phẩm nào: “Giai cấp tư sản, trong quá trình thống trị giai cấp chưa đầy một thế kỷ, đã tạo ra những lực lượng sản xuất nhiều hơn và đồ sộ hơn lực lượng sản xuất của tất cả các thế hệ trước gộp lại”",
-      "web_id": "word-c41143f3c5139fa3-p1149",
+      "source_title": "Câu 33: Khi biên tập một báo cáo, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p1149",
       "type": "single_choice"
     },
     {
-      "body_index": 1152,
-      "source_title": "Câu 23 (Bài 1 – Kéo thả): Kéo thả các đáp án khớp với các phát biểu từ 1 – 3 vế trái dưới đây:",
-      "web_id": "word-c41143f3c5139fa3-p1152",
-      "type": "drag_drop_match"
-    },
-    {
-      "body_index": 1156,
-      "source_title": "Câu 26 (Bài 2 – Chọn 2 đáp án đúng): Những đặc điểm nổi bật trong thời kỳ quá độ lên chủ nghĩa xã hội gồm:",
-      "web_id": "word-c41143f3c5139fa3-p1156",
-      "type": "multiple_choice"
+      "body_index": 1154,
+      "source_title": "Câu 34 : Khi chỉnh sửa một tài liệu để xuất bản, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p1154",
+      "type": "single_choice"
     },
     {
       "body_index": 1159,
-      "source_title": "Câu 27 (Bài 2): So sánh sự khác nhau giữa giai đoạn thấp và giai đoạn cao của hình thái kinh tế - xã hội cộng sản chủ nghĩa?",
-      "web_id": "word-c41143f3c5139fa3-p1159",
-      "type": "single_choice"
-    },
-    {
-      "body_index": 1162,
-      "source_title": "Câu 30 (Bài 3): Vận dụng những kiến thức đã học hãy chọn phương án đúng về mối quan hệ giữa dân chủ xã hội chủ nghĩa và nhà nước xã hội chủ nghĩa?",
-      "web_id": "word-c41143f3c5139fa3-p1162",
+      "source_title": "Câu 35 : Khi cần tìm một tài liệu cũ đã lưu trữ, thư ký nên?",
+      "web_id": "word-1d55e841b9e15dba-p1159",
       "type": "single_choice"
     },
     {
       "body_index": 1167,
-      "source_title": "Câu 6 (Bài 4): Trong cơ cấu xã hội của thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội nào giữ vị trí quan trọng hàng đầu, chi phối các loại hình cơ cấu xã hội khác?",
-      "web_id": "word-c41143f3c5139fa3-p1167",
+      "source_title": "Câu 1: Người thư ký văn phòng có vai trò gì trong giao tiếp hành chính với lãnh đạo?",
+      "web_id": "word-1d55e841b9e15dba-p1167",
       "type": "single_choice"
     },
     {
-      "body_index": 1170,
-      "source_title": "Câu 7 (Bài 4): Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội – giai cấp thường xuyên biến đổi theo mấy quy luật cơ bản?",
-      "web_id": "word-c41143f3c5139fa3-p1170",
+      "body_index": 1172,
+      "source_title": "Câu 2: Làm thế nào thư ký có thể giúp lãnh đạo tập trung vào các công việc ưu tiên cao hơn?",
+      "web_id": "word-1d55e841b9e15dba-p1172",
       "type": "single_choice"
     },
     {
-      "body_index": 1173,
-      "source_title": "Câu 10 (Bài 5): Dân tộc được hiểu theo mấy nghĩa?",
-      "web_id": "word-c41143f3c5139fa3-p1173",
+      "body_index": 1177,
+      "source_title": "Câu 3: Khi nào sự bảo mật trong giao tiếp hành chính trở nên cần thiết?",
+      "web_id": "word-1d55e841b9e15dba-p1177",
       "type": "single_choice"
     },
     {
-      "body_index": 1176,
-      "source_title": "Câu 19 (Bài 4 – Kéo thả): Kéo thả các yếu tố liên quan đến cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội vào các cột tương ứng:",
-      "web_id": "word-c41143f3c5139fa3-p1176",
-      "type": "drag_drop_categorize"
+      "body_index": 1182,
+      "source_title": "Câu 4: Đâu là ví dụ của giao tiếp trực tiếp trong công việc giữa thư ký và lãnh đạo?",
+      "web_id": "word-1d55e841b9e15dba-p1182",
+      "type": "single_choice"
     },
     {
-      "body_index": 1186,
-      "source_title": "Câu 20 (Bài 4 – Kéo thả): Kéo thả các đáp án khớp với các phát biểu về liên minh giai cấp, giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội dưới đây:",
-      "web_id": "word-c41143f3c5139fa3-p1186",
-      "type": "drag_drop_match"
+      "body_index": 1187,
+      "source_title": "Câu 5: Tại sao việc sử dụng công cụ kỹ thuật số lại có lợi trong giao tiếp hành chính?",
+      "web_id": "word-1d55e841b9e15dba-p1187",
+      "type": "single_choice"
     },
     {
-      "body_index": 1191,
-      "source_title": "Câu 28 (Bài 5 – Đúng/Sai): Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-      "web_id": "word-c41143f3c5139fa3-p1191",
-      "type": "true_false"
+      "body_index": 1192,
+      "source_title": "Câu 6: Làm thế nào để thư ký và lãnh đạo có thể duy trì giao tiếp hiệu quả qua văn bản?",
+      "web_id": "word-1d55e841b9e15dba-p1192",
+      "type": "single_choice"
     },
     {
-      "body_index": 1196,
-      "source_title": "Câu 30 (Bài 5 – Đúng/Sai): Chọn đáp án (Đúng hoặc Sai) với từng phát biểu sau:",
-      "web_id": "word-c41143f3c5139fa3-p1196",
-      "type": "true_false"
+      "body_index": 1197,
+      "source_title": "Câu 7: Lãnh đạo yêu cầu hoàn thành một nhiệm vụ không thuộc chuyên môn của thư ký. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1197",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1202,
+      "source_title": "Câu 8: Lãnh đạo yêu cầu thư ký thực hiện một nhiệm vụ mà thư ký không đồng tình. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1202",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1207,
+      "source_title": "Câu 9: Thư ký nhận được một email từ lãnh đạo yêu cầu hoàn thành công việc vào ngày nghỉ. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1207",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1212,
+      "source_title": "Câu 10: Lãnh đạo yêu cầu thư ký đưa ra ý kiến về một vấn đề quan trọng trong cuộc họp. Thư ký không chắc chắn về câu trả lời. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1212",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1217,
+      "source_title": "Câu 11: Thư ký nhận được yêu cầu sắp xếp một cuộc họp vào thời điểm mà thư ký thấy không hợp lý. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1217",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1222,
+      "source_title": "Câu 12: Lãnh đạo yêu cầu thư ký thực hiện một nhiệm vụ vượt quá khả năng của thư ký trong thời gian rất ngắn. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1222",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1227,
+      "source_title": "Câu 13: Lãnh đạo yêu cầu thư ký thực hiện một công việc mà thư ký không có đủ kinh nghiệm để làm. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1227",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1232,
+      "source_title": "Câu 14: Thư ký nghe được tin đồn trong công ty rằng lãnh đạo của thư ký đã đưa ra một quyết định không hợp lý. Là thư ký, thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1232",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1237,
+      "source_title": "Câu 15: Thư ký phát hiện ra một lỗi nhỏ trong một bài phát biểu quan trọng mà lãnh đạo sắp trình bày. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1237",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1242,
+      "source_title": "Câu 16: Tại sao việc tôn trọng lãnh đạo là nguyên tắc quan trọng trong giao tiếp hành chính?",
+      "web_id": "word-1d55e841b9e15dba-p1242",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1247,
+      "source_title": "Câu 17: Thư ký nhận thấy rằng lãnh đạo của mình có thông tin sai lệch trong một báo cáo mà ông/bà ấy đã phê duyệt. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1247",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1252,
+      "source_title": "Câu 18: Thư ký nhận thấy một chỉ thị từ lãnh đạo có thể gây hại đến công ty. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1252",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1257,
+      "source_title": "Câu 19: Lãnh đạo yêu cầu thư ký chuẩn bị tài liệu cho một cuộc họp mà thư ký cảm thấy thông tin không đủ chính xác. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1257",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1262,
+      "source_title": "Câu 20: Trong một cuộc họp, lãnh đạo của thư ký bị chỉ trích gay gắt về một quyết định kinh doanh. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1262",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1267,
+      "source_title": "Câu 21:Tại sao sự tin cậy lại quan trọng trong giao tiếp hành chính giữa thư ký và lãnh đạo?",
+      "web_id": "word-1d55e841b9e15dba-p1267",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1272,
+      "source_title": "Câu 22: Thư ký cần làm gì khi nhận thông tin quan trọng từ lãnh đạo?",
+      "web_id": "word-1d55e841b9e15dba-p1272",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1277,
+      "source_title": "Câu 23: Lãnh đạo yêu cầu thư ký tổ chức một cuộc họp gấp vào buổi chiều, nhưng thư ký đã có lịch hẹn khác. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1277",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1282,
+      "source_title": "Câu 24: Lãnh đạo của thư ký đưa ra quyết định sử dụng một phần mềm mới mà thư ký cảm thấy không hiệu quả. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1282",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1287,
+      "source_title": "Câu 25: Một trong các kênh giao tiếp hành chính giữa thư ký và lãnh đạo là gì?",
+      "web_id": "word-1d55e841b9e15dba-p1287",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1292,
+      "source_title": "Câu 26: Khi thư ký cần truyền đạt thông điệp của lãnh đạo, điều gì là quan trọng nhất?",
+      "web_id": "word-1d55e841b9e15dba-p1292",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1297,
+      "source_title": "Câu 27: Kênh giao tiếp nào giúp thư ký và lãnh đạo tối ưu hóa quản lý thời gian và công việc?",
+      "web_id": "word-1d55e841b9e15dba-p1297",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1302,
+      "source_title": "Câu 28: Thư ký được yêu cầu sắp xếp một cuộc họp vào thời điểm mà thư ký thấy không hợp lý. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1302",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1307,
+      "source_title": "Câu 29: Lãnh đạo yêu cầu thư ký tổ chức một cuộc họp gấp vào buổi chiều, nhưng thư ký đã có lịch hẹn khác. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1307",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1313,
+      "source_title": "Câu 30: Lãnh đạo yêu cầu thư ký làm thêm giờ để hoàn thành một dự án quan trọng. Thư ký đã có kế hoạch cá nhân vào buổi tối đó. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1313",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1318,
+      "source_title": "Câu 31 : Thư ký nhận được phản hồi tiêu cực từ một nhân viên về một chính sách mới mà lãnh đạo đưa ra. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1318",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1323,
+      "source_title": "Câu 32: Lãnh đạo yêu cầu thư ký gửi một tài liệu với thông tin chưa được kiểm tra kỹ càng đến đối tác. Thư ký biết thông tin này có thể ảnh hưởng đến uy tín của lãnh đạo nếu có sai sót. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1323",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1331,
+      "source_title": "Câu 1: Nguyên tắc nào không phải là nguyên tắc trong giao tiếp hành chính giữa thư ký và đồng nghiệp?",
+      "web_id": "word-1d55e841b9e15dba-p1331",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1336,
+      "source_title": "Câu 2: Làm thế nào để một thư ký văn phòng tạo sự kết nối giữa các bộ phận trong tổ chức?",
+      "web_id": "word-1d55e841b9e15dba-p1336",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1341,
+      "source_title": "Câu 3: Khi đối mặt với xung đột trong công việc với đồng nghiệp, thư ký văn phòng nên làm gì?",
+      "web_id": "word-1d55e841b9e15dba-p1341",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1346,
+      "source_title": "Câu 4: Nguyên tắc nào là cơ sở để xây dựng mối quan hệ giao tiếp hành chính bền vững với đồng nghiệp?",
+      "web_id": "word-1d55e841b9e15dba-p1346",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1351,
+      "source_title": "Câu 5: Điều gì có thể gây khó khăn trong việc phối hợp giữa các đồng nghiệp?",
+      "web_id": "word-1d55e841b9e15dba-p1351",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1356,
+      "source_title": "Câu 6: Thư ký văn phòng cần làm gì khi có sự khác biệt trong quan điểm giữa hai đồng nghiệp?",
+      "web_id": "word-1d55e841b9e15dba-p1356",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1361,
+      "source_title": "Câu 7: Một đồng nghiệp mới đến và chưa quen với quy trình làm việc. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1361",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1366,
+      "source_title": "Câu 8: Một dự án quan trọng đòi hỏi sự hợp tác chặt chẽ giữa các bộ phận, bao gồm cả thư ký văn phòng. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1366",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1371,
+      "source_title": "Câu 9: Một đồng nghiệp cần hỗ trợ về kỹ thuật máy tính mà thư ký có thể giúp. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1371",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1376,
+      "source_title": "Câu 10: Thư ký và đồng nghiệp đang chuẩn bị cho một sự kiện lớn. Đột nhiên, đồng nghiệp của thư ký bị ốm và không thể hoàn thành phần việc của mình. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1376",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1381,
+      "source_title": "Câu 11: Một đồng nghiệp gặp khó khăn trong việc sắp xếp lịch họp và đề nghị thư ký giúp đỡ. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1381",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1386,
+      "source_title": "Câu 12: Thư ký được yêu cầu tham gia vào một dự án mà thư ký thấy quá tải. Thư ký biết rằng một đồng nghiệp có khả năng hỗ trợ. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1386",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1391,
+      "source_title": "Câu 13: Trong nhóm có một dự án cần phối hợp chặt chẽ, nhưng thư ký nhận thấy một đồng nghiệp không đóng góp nhiều. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1391",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1396,
+      "source_title": "Câu 14: Thư ký phát hiện rằng một đồng nghiệp đã làm sai một phần công việc trong dự án chung, nhưng dự án đã gần hoàn thành. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1396",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1401,
+      "source_title": "Câu 15: Thư ký được giao nhiệm vụ làm việc nhóm với một đồng nghiệp mà thư ký không hòa hợp. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1401",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1406,
+      "source_title": "Câu 16: Tại sao sự hiểu biết lẫn nhau là quan trọng trong mối quan hệ giữa thư ký và đồng nghiệp?",
+      "web_id": "word-1d55e841b9e15dba-p1406",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1411,
+      "source_title": "Câu 17: Khi thư ký văn phòng giúp đỡ đồng nghiệp, họ nên lưu ý điều gì?",
+      "web_id": "word-1d55e841b9e15dba-p1411",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1416,
+      "source_title": "Câu 18: Thư ký nhận thấy một đồng nghiệp đang gặp khó khăn trong việc quản lý thời gian. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1416",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1421,
+      "source_title": "Câu 19: Một đồng nghiệp đề nghị thư ký giúp họ hoàn thành một báo cáo gấp. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1421",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1426,
+      "source_title": "Câu 20: Một đồng nghiệp đã hoàn thành một dự án xuất sắc và thư ký thấy rằng công sức của họ xứng đáng được công nhận. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1426",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1431,
+      "source_title": "Câu 21: Thư ký nhận thấy một đồng nghiệp đang gặp khó khăn trong việc đạt được mục tiêu của họ. Thư ký sẽ?",
+      "web_id": "word-1d55e841b9e15dba-p1431",
+      "type": "single_choice"
     }
   ],
   "errors": []
