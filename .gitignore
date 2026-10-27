@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+.idea/
+*.tmp
+Thumbs.db
+Desktop.ini
+node_modules/
+tests/results/
+playwright-report/
+.venv/

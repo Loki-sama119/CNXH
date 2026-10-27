@@ -1,0 +1,1677 @@
+{
+  "source_file": "NGHIỆP VỤ THƯ KÝ VP (1).docx",
+  "source_sha256": "b9315556d9585ef41efc442b6820eb0a9813462697e842dd80d4599a11beef67",
+  "source_exercises": 276,
+  "matched_source_exercises": 276,
+  "source_tables": 0,
+  "headings": [
+    "BÀI 1",
+    "BÀI 2",
+    "BÀI 3",
+    "BÀI 4",
+    "BÀI 5",
+    "BÀI 6",
+    "Bài 7",
+    "BÀI 8",
+    "BÀI 9"
+  ],
+  "mapping": [
+    {
+      "body_index": 1,
+      "source_title": "Câu 1: Thư ký văn phòng được hiểu là gì?",
+      "web_id": "word-b9315556d9585ef4-p1",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 6,
+      "source_title": "Câu 2: Phân biệt giữa thư ký văn phòng và thư ký riêng?",
+      "web_id": "word-b9315556d9585ef4-p6",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 11,
+      "source_title": "Câu 3: Một thư ký văn phòng cần có chuyên môn nào dưới đây để thực hiện công việc hiệu quả?",
+      "web_id": "word-b9315556d9585ef4-p11",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 16,
+      "source_title": "Câu 4: Thư ký văn phòng cần phải ghi biên bản những nội dung nào trong một cuộc họp?",
+      "web_id": "word-b9315556d9585ef4-p16",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 21,
+      "source_title": "Câu 5: Khái niệm về thư ký văn phòng nào dưới đây là đúng?",
+      "web_id": "word-b9315556d9585ef4-p21",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 26,
+      "source_title": "Câu 6: Căn cứ nào để người thư ký văn phòng giải quyết các thủ tục hành chính về kinh phí và cơ sở vật chất cho hoạt động của cơ quan?",
+      "web_id": "word-b9315556d9585ef4-p26",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 31,
+      "source_title": "Câu 7: Khi biên tập văn bản và tổ chức, sắp xếp, quản lý văn bản, hồ sơ thì thư ký văn phòng cần phải làm gì để đảm bảo tính khoa học và hệ thống?",
+      "web_id": "word-b9315556d9585ef4-p31",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 36,
+      "source_title": "Câu 8: Khi nhận được yêu cầu tìm kiếm văn bản từ lãnh đạo, thư ký văn phòng cần phải làm gì?",
+      "web_id": "word-b9315556d9585ef4-p36",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 41,
+      "source_title": "Câu 9: Trong quá trình thực hiện nhiệm vụ, thư ký văn phòng cần phải làm gì để đảm bảo công việc hiệu quả?",
+      "web_id": "word-b9315556d9585ef4-p41",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 46,
+      "source_title": "Câu 10: Khi tổ chức và điều hành các hoạt động của cơ quan, thư ký điều hành cần phải làm gì để đảm bảo công việc hiệu quả?",
+      "web_id": "word-b9315556d9585ef4-p46",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 51,
+      "source_title": "Câu 11: Để giúp cơ quan và lãnh đạo trong các hoạt động liên lạc và giao dịch, thư ký văn phòng cần phải làm gì?",
+      "web_id": "word-b9315556d9585ef4-p51",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 56,
+      "source_title": "Câu 12: Để thực hiện tốt nhiệm vụ giao tiếp hành chính trong cơ quan, thư ký văn phòng cần phải làm gì?",
+      "web_id": "word-b9315556d9585ef4-p56",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 61,
+      "source_title": "Câu 13: Khi nhận được văn bản từ cơ quan cấp trên, người thư ký văn phòng cần làm gì?",
+      "web_id": "word-b9315556d9585ef4-p61",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 66,
+      "source_title": "Câu 14: Để đảm nhận được các nhiệm vụ của mình, thư ký văn phòng cần phải làm gì?",
+      "web_id": "word-b9315556d9585ef4-p66",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 71,
+      "source_title": "Câu 15: Để tổ chức và điều hành các hoạt động của cơ quan, thư ký điều hành cần phải làm gì?",
+      "web_id": "word-b9315556d9585ef4-p71",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 77,
+      "source_title": "Câu 16: Nhiệm vụ chính của một thư ký văn phòng là gì?",
+      "web_id": "word-b9315556d9585ef4-p77",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 82,
+      "source_title": "Câu 17: Trường hợp tổ chức có quy mô nhỏ thì cần bố trí số lượng thư ký văn phòng như thế nào để đảm bảo công việc hiệu quả?",
+      "web_id": "word-b9315556d9585ef4-p82",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 87,
+      "source_title": "Câu 18: Khi tổ chức sắp xếp các hoạt động của cơ quan, thư ký văn phòng cần phải làm gì để đảm bảo hoạt động diễn ra theo kế hoạch?",
+      "web_id": "word-b9315556d9585ef4-p87",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 92,
+      "source_title": "Câu 19: Khi phối hợp với các bộ phận khác trong cơ quan, người thư ký văn phòng cần phải làm gì để hoàn thành tốt các công việc được giao?",
+      "web_id": "word-b9315556d9585ef4-p92",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 97,
+      "source_title": "Câu 20 : Để thiết lập mối quan hệ với các đối tác bên ngoài, thư ký văn phòng cần phải làm gì?",
+      "web_id": "word-b9315556d9585ef4-p97",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 102,
+      "source_title": "Câu 21: Một trong những nhiệm vụ quan trọng của thư ký điều hành là gì?",
+      "web_id": "word-b9315556d9585ef4-p102",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 107,
+      "source_title": "Câu 22: Khi có thay đổi về quy định, quy chế làm việc của cơ quan, thư ký văn phòng cần phải làm gì?",
+      "web_id": "word-b9315556d9585ef4-p107",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 112,
+      "source_title": "Câu 23: Giải thích tại sao thư ký văn phòng cần thực hiện nghiệp vụ: chuẩn bị và cung cấp thông tin?",
+      "web_id": "word-b9315556d9585ef4-p112",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 117,
+      "source_title": "Câu 24: Vai trò của thư ký văn phòng trong các tổ chức hiện nay là gì?",
+      "web_id": "word-b9315556d9585ef4-p117",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 122,
+      "source_title": "Câu 25: Thư ký văn phòng cần phải làm gì khi gặp vấn đề về tài liệu không rõ ràng?",
+      "web_id": "word-b9315556d9585ef4-p122",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 128,
+      "source_title": "Câu 26: Trong công tác lưu trữ tài liệu, thư ký văn phòng cần hướng dẫn cho nhân viên mới về những nội dung nào?",
+      "web_id": "word-b9315556d9585ef4-p128",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 133,
+      "source_title": "Câu 27: Người thư ký văn phòng cần phải làm gì để đảm bảo thông tin chính xác và hữu ích?",
+      "web_id": "word-b9315556d9585ef4-p133",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 138,
+      "source_title": "Câu 28 :Để đảm nhận được các nhiệm vụ, người thư ký văn phòng cần phải làm gì?",
+      "web_id": "word-b9315556d9585ef4-p138",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 143,
+      "source_title": "Câu 29: Để đảm bảo cung cấp thông tin kịp thời và chính xác, thư ký văn phòng cần thực hiện nghiệp vụ nào?",
+      "web_id": "word-b9315556d9585ef4-p143",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 148,
+      "source_title": "Câu 30: Căn cứ vào trình độ chuyên môn, thư ký văn phòng được phân loại như thế nào?",
+      "web_id": "word-b9315556d9585ef4-p148",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 153,
+      "source_title": "Câu 31: Để tổ chức, sắp xếp công việc của cơ quan một cách hiệu quả, thư ký văn phòng cần phải làm gì?",
+      "web_id": "word-b9315556d9585ef4-p153",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 159,
+      "source_title": "Câu 1. Một trong những nghiệp vụ chính của thư ký văn phòng là gì?",
+      "web_id": "word-b9315556d9585ef4-p159",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 164,
+      "source_title": "Câu 2. Sắp xếp các bước dưới đây trong quy trình cung cấp thông tin theo đúng trình tự?",
+      "web_id": "word-b9315556d9585ef4-p164",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 174,
+      "source_title": "Câu 3. Thư ký văn phòng thu thập thông tin từ các văn bản nhằm mục đích gì?",
+      "web_id": "word-b9315556d9585ef4-p174",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 180,
+      "source_title": "Câu 4. Thư ký văn phòng thu thập thông tin từ những nguồn nào?",
+      "web_id": "word-b9315556d9585ef4-p180",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 185,
+      "source_title": "Câu 5. Loại báo cáo nào dưới đây mà thư ký văn phòng cần cung cấp định kỳ cho lãnh đạo?",
+      "web_id": "word-b9315556d9585ef4-p185",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 190,
+      "source_title": "Câu 6. Thư ký văn phòng phải cung cấp thông tin đột xuất cho lãnh đạo khi nào?",
+      "web_id": "word-b9315556d9585ef4-p190",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 195,
+      "source_title": "Câu 7. Là một thư ký, làm thế nào để lập kế hoạch chuẩn bị thông tin cho cuộc họp giao ban đầu tuần?",
+      "web_id": "word-b9315556d9585ef4-p195",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 200,
+      "source_title": "Câu 8. Là một thư ký văn phòng, làm thế nào để thông tin được cung cấp cho lãnh đạo là chính xác và kịp thời?",
+      "web_id": "word-b9315556d9585ef4-p200",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 205,
+      "source_title": "Câu 9. Khi nhận được yêu cầu gấp từ lãnh đạo, thư ký văn phòng cần xử lý như thế nào?",
+      "web_id": "word-b9315556d9585ef4-p205",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 210,
+      "source_title": "Câu 10. Giám đốc yêu cầu thư ký văn phòng chuẩn bị một bản tóm tắt về nội dung và quyết định của các cuộc họp diễn ra trong tuần trước, để ông có thể rà soát lại trước cuộc họp ban lãnh đạo vào chiều nay. Thư ký văn phòng sẽ làm gì để đáp ứng yêu cầu này một cách hiệu quả?",
+      "web_id": "word-b9315556d9585ef4-p210",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 215,
+      "source_title": "Câu 11. Thư ký của Giám đốc tài chính nhận được một báo cáo tài chính từ bộ phận kế toán để gửi cho Giám đốc. Trong báo cáo, có một số số liệu quan trọng về doanh thu và chi phí, nhưng không có các chú giải chi tiết về nguồn gốc của các con số này. Thư ký sẽ làm gì để đảm bảo báo cáo chính xác trước khi gửi cho Giám đốc?",
+      "web_id": "word-b9315556d9585ef4-p215",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 220,
+      "source_title": "Câu 12. Trong trường hợp lãnh đạo yêu cầu thông tin khẩn cấp về một vấn đề, thư ký văn phòng cần phải làm gì?",
+      "web_id": "word-b9315556d9585ef4-p220",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 225,
+      "source_title": "Câu 13. Là thư ký văn phòng, cần phải làm gì để chuẩn bị một báo cáo tình hình tài chính của cơ quan?",
+      "web_id": "word-b9315556d9585ef4-p225",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 230,
+      "source_title": "Câu 14. Thư ký của Giám đốc bán hàng cần gửi danh sách khách hàng tiềm năng cho Giám đốc trước cuộc họp quan trọng. Danh sách này bao gồm thông tin liên lạc và lịch sử giao dịch của các khách hàng, nhưng một số thông tin liên lạc có vẻ không đầy đủ hoặc lỗi thời. Thư ký sẽ xử lý tình huống này như thế nào để đảm bảo thông tin chính xác và đầy đủ?",
+      "web_id": "word-b9315556d9585ef4-p230",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 235,
+      "source_title": "Câu 15. Thư ký văn phòng cần gửi cho Giám đốc một lịch trình chi tiết của các cuộc họp và sự kiện trong tuần tới. Thư ký nhận thấy rằng một số cuộc họp không có thông tin về địa điểm cụ thể hoặc thời gian bắt đầu và kết thúc rõ ràng. Thư ký văn phòng sẽ làm gì để đảm bảo lịch trình được cung cấp chính xác và đầy đủ?",
+      "web_id": "word-b9315556d9585ef4-p235",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 240,
+      "source_title": "Câu 16: Nghiệp vụ nào liên quan đến việc chuẩn bị và cung cấp thông tin cho hoạt động quản lý và lãnh đạo?",
+      "web_id": "word-b9315556d9585ef4-p240",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 245,
+      "source_title": "Câu 17: Tại sao việc thư ký văn phòng cung cấp thông tin kịp thời lại quan trọng đối với lãnh đạo của cơ quan?",
+      "web_id": "word-b9315556d9585ef4-p245",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 250,
+      "source_title": "Câu 18 : Để chuẩn bị thông tin, người thư ký cần nắm vững điều gì?",
+      "web_id": "word-b9315556d9585ef4-p250",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 255,
+      "source_title": "Câu 19: Sắp xếp các bước dưới đây đúng theo quy trình chuẩn bị thông tin?",
+      "web_id": "word-b9315556d9585ef4-p255",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 260,
+      "source_title": "Câu 20 : Là một thư ký văn phòng, hãy chuẩn bị một báo cáo tổng hợp tình hình triển khai các quyết định quản lý trong thực tiễn?",
+      "web_id": "word-b9315556d9585ef4-p260",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 265,
+      "source_title": "Câu 21: Giám đốc yêu cầu thư ký văn phòng cung cấp một bản tổng hợp về tất cả các cuộc hẹn và sự kiện quan trọng trong tuần tới để lên kế hoạch cho các chuyến công tác. Thư ký văn phòng sẽ làm gì để đảm bảo thông tin được cung cấp đầy đủ và chính xác?",
+      "web_id": "word-b9315556d9585ef4-p265",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 270,
+      "source_title": "Câu 22: Khi nhận được yêu cầu gấp từ lãnh đạo, thư ký văn phòng cần xử lý như thế nào?",
+      "web_id": "word-b9315556d9585ef4-p270",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 276,
+      "source_title": "Câu 23: Để cung cấp thông tin đầy đủ và chính xác, người thư ký văn phòng cần thực hiện nghiệp vụ gì?",
+      "web_id": "word-b9315556d9585ef4-p276",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 281,
+      "source_title": "Câu 24: Là một thư ký văn phòng, làm thế nào để thu thập thông tin từ các văn bản chỉ đạo của cấp trên?",
+      "web_id": "word-b9315556d9585ef4-p281",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 287,
+      "source_title": "Câu 25 : Là một thư ký văn phòng, cần làm gì để chuẩn bị thông tin cho một hội nghị tổng kết cuối năm của cơ quan?",
+      "web_id": "word-b9315556d9585ef4-p287",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 293,
+      "source_title": "Câu 26 : Giám đốc tài chính yêu cầu thư ký cung cấp thông tin về tình hình tài chính của công ty trong quý vừa qua ngay lập tức. Thư ký có dữ liệu từ các báo cáo tài chính hàng tháng, nhưng chưa tổng hợp thành báo cáo tổng kết quý. Thư ký sẽ xử lý yêu cầu này như thế nào để đáp ứng kịp thời?",
+      "web_id": "word-b9315556d9585ef4-p293",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 298,
+      "source_title": "Câu 27 Kỹ năng nào giúp thư ký văn phòng quản lý tài liệu một cách hiệu quả?",
+      "web_id": "word-b9315556d9585ef4-p298",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 303,
+      "source_title": "Câu 28 Là một thư ký văn phòng, cần làm gì để chuẩn bị thông tin cho một hội nghị tổng kết cuối năm của cơ quan?",
+      "web_id": "word-b9315556d9585ef4-p303",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 308,
+      "source_title": "Câu 29 Giám đốc dự án yêu cầu thư ký văn phòng cung cấp thông tin chi tiết về tiến độ hiện tại của một dự án quan trọng, bao gồm các mốc thời gian, tình trạng hoàn thành và các vấn đề còn tồn tại. Thông tin này cần được trình bày trong một cuộc họp vào cuối ngày. Thư ký văn phòng sẽ xử lý yêu cầu này như thế nào?",
+      "web_id": "word-b9315556d9585ef4-p308",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 313,
+      "source_title": "Câu 30: Trong tình huống lãnh đạo yêu cầu tìm một văn bản của cấp trên vừa mới ban hành, thư ký văn phòng sẽ phải làm gì?",
+      "web_id": "word-b9315556d9585ef4-p313",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 318,
+      "source_title": "Câu 31: Là thư ký văn phòng, cần phải làm gì để chuẩn bị tài liệu cho một cuộc họp quốc tế?",
+      "web_id": "word-b9315556d9585ef4-p318",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 323,
+      "source_title": "Câu 32: Là thư ký văn phòng, cần làm gì để quản lý hiệu quả thông tin từ các văn bản?",
+      "web_id": "word-b9315556d9585ef4-p323",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 328,
+      "source_title": "Câu 33: Việc thực hiện các hoạt động nghiệp vụ nào dưới đây KHÔNG thuộc nhiệm vụ thu thập, xử lý thông tin của thư ký văn phòng?",
+      "web_id": "word-b9315556d9585ef4-p328",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 333,
+      "source_title": "Câu 34: Hãy sắp xếp lại các bước theo đúng quy trình thu thập thông tin của người thư ký văn phòng?",
+      "web_id": "word-b9315556d9585ef4-p333",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 344,
+      "source_title": "Câu 1: Để xây dựng lịch làm việc, thư ký cần nắm vững nguyên tắc nào?",
+      "web_id": "word-b9315556d9585ef4-p344",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 350,
+      "source_title": "Câu 2: Tại sao việc xây dựng lịch làm việc hàng năm là quan trọng đối với các cơ quan?",
+      "web_id": "word-b9315556d9585ef4-p350",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 357,
+      "source_title": "Câu 3: Vì sao nguyên tắc ưu tiên là quan trọng khi sắp xếp lịch làm việc?",
+      "web_id": "word-b9315556d9585ef4-p357",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 362,
+      "source_title": "Câu 4: Những yếu tố nào sau đây cần được xem xét khi xây dựng lịch làm việc?",
+      "web_id": "word-b9315556d9585ef4-p362",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 369,
+      "source_title": "Câu 5: Giải thích tại sao cần có phương án dự phòng khi xây dựng lịch làm việc?",
+      "web_id": "word-b9315556d9585ef4-p369",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 376,
+      "source_title": "Câu 6: Phân loại các yếu tố mà thư ký văn phòng cần xem xét khi lập lịch làm việc cho lãnh đạo?",
+      "web_id": "word-b9315556d9585ef4-p376",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 382,
+      "source_title": "Câu 7: Thư ký văn phòng sẽ áp dụng nguyên tắc dự phòng nào để đảm bảo các nhiệm vụ được hoàn thành đúng hạn?",
+      "web_id": "word-b9315556d9585ef4-p382",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 388,
+      "source_title": "Câu 8: Thư ký văn phòng sẽ áp dụng nguyên tắc không trùng lặp về địa điểm như thế nào để đảm bảo Giám đốc có đủ thời gian di chuyển giữa các cuộc họp?",
+      "web_id": "word-b9315556d9585ef4-p388",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 393,
+      "source_title": "Câu 9: Thư ký văn phòng sẽ áp dụng nguyên tắc không trùng lặp về địa điểm như thế nào để đảm bảo lịch trình diễn ra suôn sẻ?",
+      "web_id": "word-b9315556d9585ef4-p393",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 398,
+      "source_title": "Câu 10: Bạn sẽ điều chỉnh lịch họp như thế nào để đảm bảo không có sự trùng lặp về địa điểm và giám đốc có đủ thời gian di chuyển?",
+      "web_id": "word-b9315556d9585ef4-p398",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 404,
+      "source_title": "Câu 11: Thư ký văn phòng sẽ lập lịch cho nhóm như thế nào để tránh sự trùng lặp và tối ưu hóa thời gian của các cuộc họp trực tuyến và trực tiếp?",
+      "web_id": "word-b9315556d9585ef4-p404",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 411,
+      "source_title": "Câu 12: Giám đốc phải tham dự buổi đào tạo nhân viên mới kéo dài từ 9 giờ sáng đến 11 giờ sáng, đồng thời cũng phải tham dự một cuộc họp với đối tác từ 10 giờ sáng đến 12 giờ trưa. Thư ký văn phòng cần lập kế hoạch như thế nào để không bị trùng lặp thời gian?",
+      "web_id": "word-b9315556d9585ef4-p411",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 418,
+      "source_title": "Câu 13: Giám đốc yêu cầu lập kế hoạch cho một dự án mới, thư ký văn phòng sẽ phải làm gì?",
+      "web_id": "word-b9315556d9585ef4-p418",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 423,
+      "source_title": "Câu 14: Khi có yêu cầu cần lập kế hoạch làm việc hàng ngày cho Giám đốc, thư ký văn phòng sẽ phải làm gì?",
+      "web_id": "word-b9315556d9585ef4-p423",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 428,
+      "source_title": "Câu 15: Khi có yêu cầu xây dựng lịch làm việc hàng tuần cho toàn bộ cơ quan, thư ký văn phòng cần phải làm gì để đảm bảo lịch không bị trùng lặp?",
+      "web_id": "word-b9315556d9585ef4-p428",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 433,
+      "source_title": "Câu 16: Tại sao việc xây dựng kế hoạch hoạt động theo quý là cần thiết?",
+      "web_id": "word-b9315556d9585ef4-p433",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 439,
+      "source_title": "Câu 17: Khi lập lịch làm việc, nguyên tắc nào giúp tránh xung đột về thời gian và địa điểm?",
+      "web_id": "word-b9315556d9585ef4-p439",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 445,
+      "source_title": "Câu 18: Nhận diện yếu tố nào sau đây không thuộc nguyên tắc khi xây dựng lịch làm việc?",
+      "web_id": "word-b9315556d9585ef4-p445",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 451,
+      "source_title": "Câu 19: Phân loại các hoạt động của cơ quan theo mức độ ưu tiên khi xây dựng lịch làm việc là nhiệm vụ của ai?",
+      "web_id": "word-b9315556d9585ef4-p451",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 457,
+      "source_title": "Câu 20: Thư ký văn phòng sẽ áp dụng nguyên tắc dự phòng nào để xử lý tình huống này một cách hiệu quả?",
+      "web_id": "word-b9315556d9585ef4-p457",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 463,
+      "source_title": "Câu 21: Khi có yêu cầu cần lập kế hoạch cho một dự án nghiên cứu thị trường mới, thư ký văn phòng sẽ phải làm gì?",
+      "web_id": "word-b9315556d9585ef4-p463",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 469,
+      "source_title": "Câu 22: Giám đốc yêu cầu xây dựng lịch làm việc chi tiết cho tháng tới, thư ký văn phòng sẽ phải làm gì?",
+      "web_id": "word-b9315556d9585ef4-p469",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 474,
+      "source_title": "Câu 23: Giải thích tại sao cần có nguyên tắc không trùng lặp thời gian khi xây dựng lịch làm việc?",
+      "web_id": "word-b9315556d9585ef4-p474",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 479,
+      "source_title": "Câu 24: Thư ký văn phòng phải áp dụng nguyên tắc ưu tiên nào khi lập lịch cho giám đốc?",
+      "web_id": "word-b9315556d9585ef4-p479",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 484,
+      "source_title": "Câu 25: Thư ký văn phòng sẽ áp dụng nguyên tắc không trùng lặp về địa điểm như thế nào để tối ưu hóa thời gian di chuyển và đảm bảo các cuộc gặp diễn ra đúng giờ?",
+      "web_id": "word-b9315556d9585ef4-p484",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 489,
+      "source_title": "Câu 26 : Thư ký văn phòng sẽ lập lịch như thế nào để tránh việc Giám đốc phải di chuyển liên tục giữa hai địa điểm khác nhau?",
+      "web_id": "word-b9315556d9585ef4-p489",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 494,
+      "source_title": "Câu 27: Khi có yêu cầu cần lập kế hoạch làm việc hàng tháng cho toàn bộ cơ quan, thư ký văn phòng sẽ làm gì để đảm bảo tất cả các phòng ban phối hợp hiệu quả?",
+      "web_id": "word-b9315556d9585ef4-p494",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 499,
+      "source_title": "Câu 28: Một trong những nhiệm vụ chính của thư ký văn phòng là gì?",
+      "web_id": "word-b9315556d9585ef4-p499",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 504,
+      "source_title": "Câu 29: Thư ký văn phòng sẽ lập kế hoạch ưu tiên như thế nào để đảm bảo các dự án hoàn thành đúng hạn và chất lượng?",
+      "web_id": "word-b9315556d9585ef4-p504",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 509,
+      "source_title": "Câu 30: Thư ký văn phòng sẽ sắp xếp lịch làm việc của mình như thế nào để đảm bảo hoàn thành tất cả các nhiệm vụ một cách hiệu quả?",
+      "web_id": "word-b9315556d9585ef4-p509",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 515,
+      "source_title": "Câu 1: Thư ký văn phòng cần kiểm tra những yếu tố nào trước giờ khai mạc cuộc họp?",
+      "web_id": "word-b9315556d9585ef4-p515",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 520,
+      "source_title": "Câu 2: Tại sao việc tìm hiểu mục đích của cuộc họp, hội nghị, lễ hội là quan trọng đối với một thư ký văn phòng?",
+      "web_id": "word-b9315556d9585ef4-p520",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 525,
+      "source_title": "Câu 3: Trong quá trình chuẩn bị cho một cuộc họp quan trọng, một thư ký văn phòng nên làm gì để đảm bảo tất cả các hoạt động diễn ra suôn sẻ?",
+      "web_id": "word-b9315556d9585ef4-p525",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 530,
+      "source_title": "Câu 4: Khi điều hành chương trình cuộc họp, thư ký văn phòng cần làm gì để đảm bảo các đại biểu phát biểu không quá thời gian quy định của cuộc họp?",
+      "web_id": "word-b9315556d9585ef4-p530",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 535,
+      "source_title": "Câu 5: Thông tin nào là cần thiết nhất để thư ký văn phòng ghi vào biên bản cuộc họp nhằm đảm bảo tính đầy đủ và chính xác?",
+      "web_id": "word-b9315556d9585ef4-p535",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 540,
+      "source_title": "Câu 6: Thư ký văn phòng cần làm gì khi thu thập hóa đơn và chứng từ liên quan đến chi phí của cuộc họp?",
+      "web_id": "word-b9315556d9585ef4-p540",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 545,
+      "source_title": "Câu 7: Thư ký văn phòng được giao nhiệm vụ chuẩn bị cuộc họp hàng tuần của phòng ban. Có một số người tham dự cuộc họp từ các phòng ban khác nhau. Thư ký văn phòng cần làm gì để đảm bảo rằng mọi người đều nắm rõ thời gian và địa điểm cuộc họp?",
+      "web_id": "word-b9315556d9585ef4-p545",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 550,
+      "source_title": "Câu 8: Thư ký văn phòng cần chuẩn bị tài liệu cho cuộc họp quan trọng với đối tác. Các tài liệu này cần phải có sẵn trước cuộc họp ít nhất 2 ngày. Thư ký văn phòng nên làm gì để đảm bảo tài liệu được chuẩn bị đúng hạn?",
+      "web_id": "word-b9315556d9585ef4-p550",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 555,
+      "source_title": "Câu 9: Thư ký văn phòng phát hiện ra phòng họp dự kiến sử dụng bị đặt chồng chéo với một cuộc họp khác. Thư ký văn phòng cần làm gì để giải quyết vấn đề này?",
+      "web_id": "word-b9315556d9585ef4-p555",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 560,
+      "source_title": "Câu 10: Trước cuộc họp, Thư ký văn phòng cần đảm bảo tất cả các thiết bị kỹ thuật (máy chiếu, micro, loa...) đều hoạt động bình thường. Thư ký văn phòng nên làm gì?",
+      "web_id": "word-b9315556d9585ef4-p560",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 565,
+      "source_title": "Câu 11: Thư ký văn phòng cần đảm bảo rằng mọi người tham gia cuộc họp đều được cung cấp thông tin chính xác về nội dung cuộc họp. Thư ký văn phòng nên làm gì để đảm bảo mọi người đều có cùng thông tin?",
+      "web_id": "word-b9315556d9585ef4-p565",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 570,
+      "source_title": "Câu 12: Trong cuộc họp, một thành viên yêu cầu thư ký ghi lại chi tiết một quyết định quan trọng vừa được thông qua. Thư ký cần làm gì để đảm bảo ghi chép chính xác?",
+      "web_id": "word-b9315556d9585ef4-p570",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 575,
+      "source_title": "Câu 13: Trong cuộc họp, có một cuộc tranh luận nảy lửa về một vấn đề quan trọng. Thư ký nên làm gì để quản lý tình huống này?",
+      "web_id": "word-b9315556d9585ef4-p575",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 580,
+      "source_title": "Câu 14: Một trong những nhiệm vụ sau cuộc họp là gửi thông tin nhắc nhở các thành viên về các công việc cần thực hiện. Thư ký nên làm gì?",
+      "web_id": "word-b9315556d9585ef4-p580",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 585,
+      "source_title": "Câu 15: Sau khi cuộc họp kết thúc, thư ký nhận được phản hồi về một số quyết định. Thư ký sẽ làm gì?",
+      "web_id": "word-b9315556d9585ef4-p585",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 590,
+      "source_title": "Câu 16 : Khi đón tiếp đại biểu tại một cuộc họp, thư ký văn phòng cần làm gì để đảm bảo hiệu quả?",
+      "web_id": "word-b9315556d9585ef4-p590",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 595,
+      "source_title": "Câu 17: Trong cuộc họp, một quyết định cần được đưa ra nhưng có một thành viên quan trọng vắng mặt. Thư ký cần làm gì trong tình huống này?",
+      "web_id": "word-b9315556d9585ef4-p595",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 600,
+      "source_title": "Câu 18: Sau khi cuộc họp kết thúc, thư ký cần tổng hợp lại nội dung chính để gửi cho cấp trên. Thư ký sẽ bắt đầu từ đâu?",
+      "web_id": "word-b9315556d9585ef4-p600",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 605,
+      "source_title": "Câu 19: Thư ký đã hoàn tất biên bản cuộc họp. Việc tiếp theo cần làm là gì?",
+      "web_id": "word-b9315556d9585ef4-p605",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 610,
+      "source_title": "Câu 20 : Thư ký văn phòng cần ghi những thông tin cơ bản nào vào biên bản cuộc họp?",
+      "web_id": "word-b9315556d9585ef4-p610",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 615,
+      "source_title": "Câu 21 : Vì sao thư ký văn phòng cần chuẩn bị máy móc phục vụ phiên dịch khi có thành viên nước ngoài tham dự cuộc họp?",
+      "web_id": "word-b9315556d9585ef4-p615",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 620,
+      "source_title": "Câu 22: Tại sao thư ký văn phòng cần phối hợp với bộ phận lễ tân để chuẩn bị đồ ăn và giải khát cho các cuộc họp quan trọng và kéo dài?",
+      "web_id": "word-b9315556d9585ef4-p620",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 625,
+      "source_title": "Câu 23: Thư ký văn phòng cần thu thập những tài liệu nào sau cuộc họp để hoàn thành hồ sơ cuộc họp?",
+      "web_id": "word-b9315556d9585ef4-p625",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 630,
+      "source_title": "Câu 24: Một trong các diễn giả không thể tham dự cuộc họp vào phút chót. Thư ký văn phòng sẽ làm gì để đảm bảo cuộc họp diễn ra suôn sẻ?",
+      "web_id": "word-b9315556d9585ef4-p630",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 635,
+      "source_title": "Câu 25: Trước cuộc họp, Thư ký văn phòng cần đảm bảo rằng tất cả thiết bị kỹ thuật (máy chiếu, micro, loa...) đều hoạt động bình thường. Thư ký văn phòng nên làm gì?",
+      "web_id": "word-b9315556d9585ef4-p635",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 640,
+      "source_title": "Câu 26: Một người tham gia cuộc họp yêu cầu thư ký cung cấp thông tin về cuộc họp trước đó. Thư ký cần làm gì để đáp ứng yêu cầu này?",
+      "web_id": "word-b9315556d9585ef4-p640",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 645,
+      "source_title": "Câu 27: Trong cuộc họp, có sự thay đổi đột ngột về chương trình nghị sự. Thư ký cần làm gì?",
+      "web_id": "word-b9315556d9585ef4-p645",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 650,
+      "source_title": "Câu 28 : Một số người tham gia cuộc họp không nghe rõ nội dung thảo luận do vấn đề âm thanh. Thư ký cần làm gì trong tình huống này?",
+      "web_id": "word-b9315556d9585ef4-p650",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 655,
+      "source_title": "Câu 29: Trong quá trình ghi chép, thư ký nhận thấy có một số ý kiến lặp lại nhưng được diễn đạt theo cách khác nhau. Thư ký nên làm gì?",
+      "web_id": "word-b9315556d9585ef4-p655",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 661,
+      "source_title": "Câu 30 : Khi điều hành thảo luận trong cuộc họp, thư ký cần chú ý điều gì để đảm bảo sự đóng góp ý kiến từ tất cả đại biểu?",
+      "web_id": "word-b9315556d9585ef4-p661",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 667,
+      "source_title": "Câu 31: có một số tài liệu quan trọng cần in và phân pháp cho tất cả người tham dự trước khi cuộc họp bắt đầu. Thư ký văn phòng cần lên kế hoạch như thế nào để hoàn thành việc in ấn và phân phát tài liệu?",
+      "web_id": "word-b9315556d9585ef4-p667",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 672,
+      "source_title": "Câu 32: Khi điều hành chương trình cuộc họp, thư ký văn phòng cần làm gì để đảm bảo các đại biểu phát biểu bị quá thời gian quy định của cuộc họp?",
+      "web_id": "word-b9315556d9585ef4-p672",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 677,
+      "source_title": "Câu 33 : Có một số tài liệu quan trọng cần in và phân phát cho tất cả người tham dự trước khi cuộc họp bắt đầu. Thư ký văn phòng cần lên kế hoạch như thế nào để hoàn thành việc in ấn và phân phát tài liệu?",
+      "web_id": "word-b9315556d9585ef4-p677",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 685,
+      "source_title": "Câu 1: Khi tổ chức các chuyến đi công tác, thư ký văn phòng xếp lịch dựa trên tiêu chí nào sau đây?",
+      "web_id": "word-b9315556d9585ef4-p685",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 690,
+      "source_title": "Câu 2: Tại sao các thông tin lịch trình và yêu cầu về phương tiện di chuyển lại quan trọng trong tổ chức chuyến đi công tác?",
+      "web_id": "word-b9315556d9585ef4-p690",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 695,
+      "source_title": "Câu 3: Nếu một chuyến đi công tác có nhiều mục đích khác nhau, thư ký văn phòng cần chú ý điều gì khi sắp xếp lịch trình?",
+      "web_id": "word-b9315556d9585ef4-p695",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 700,
+      "source_title": "Câu 4: Thư ký văn phòng liên hệ với nơi đoàn đến để chuẩn bị điều kiện ăn nghỉ và làm việc có tác dụng gì?",
+      "web_id": "word-b9315556d9585ef4-p700",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 705,
+      "source_title": "Câu 5: Để tránh chồng chéo khi tổ chức các chuyến đi công tác cho nhiều cán bộ, thư ký văn phòng phải lưu ý điều gì?",
+      "web_id": "word-b9315556d9585ef4-p705",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 710,
+      "source_title": "Câu 6: Trong trường hợp thư ký văn phòng cùng đi với đoàn công tác, việc thu thập giấy tờ và lập hồ sơ sau khi trở về có ý nghĩa gì?",
+      "web_id": "word-b9315556d9585ef4-p710",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 715,
+      "source_title": "Câu 7: Trong khi lãnh đạo đang đi công tác, thư ký cần quản lý các cuộc họp từ xa. Thư ký nên làm gì?",
+      "web_id": "word-b9315556d9585ef4-p715",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 720,
+      "source_title": "Câu 8: Trong khi lãnh đạo đi công tác, thư ký cần xử lý các tài liệu và báo cáo quan trọng. Công việc đầu tiên của thư ký là gì?",
+      "web_id": "word-b9315556d9585ef4-p720",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 725,
+      "source_title": "Câu 9: Trong khi lãnh đạo đang đi công tác, thư ký cần cập nhật thông tin mới cho họ. Thư ký sẽ làm gì?",
+      "web_id": "word-b9315556d9585ef4-p725",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 730,
+      "source_title": "Câu 10: Sau khi lãnh đạo trở về, thư ký cần đối chiếu các cuộc họp đã diễn ra trong thời gian họ đi công tác. Thư ký nên làm gì?",
+      "web_id": "word-b9315556d9585ef4-p730",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 735,
+      "source_title": "Câu 11: Sau khi lãnh đạo trở về, thư ký cần cập nhật các thông tin và tài liệu mới. Công việc đầu tiên của thư ký là gì?",
+      "web_id": "word-b9315556d9585ef4-p735",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 740,
+      "source_title": "Câu 12: Lãnh đạo muốn tổ chức cuộc họp tổng kết sau chuyến công tác. Thư ký nên làm gì?",
+      "web_id": "word-b9315556d9585ef4-p740",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 745,
+      "source_title": "Câu 13: Trong thời gian lãnh đạo đi công tác, có một số vấn đề cần giải quyết. Thư ký sẽ làm gì khi lãnh đạo trở về?",
+      "web_id": "word-b9315556d9585ef4-p745",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 750,
+      "source_title": "Câu 14: Sau chuyến công tác, lãnh đạo yêu cầu đánh giá hiệu quả chuyến đi. Thư ký nên làm gì?",
+      "web_id": "word-b9315556d9585ef4-p750",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 755,
+      "source_title": "Câu 15: Thư ký phát hiện rằng lãnh đạo có lịch trình công tác dày đặc và một số cuộc họp có thể trùng lặp. Thư ký sẽ làm gì để giải quyết vấn đề này?",
+      "web_id": "word-b9315556d9585ef4-p755",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 760,
+      "source_title": "Câu 16 : Người thư ký văn phòng cần cần lưu ý gì khi lập dự trù kinh phí cho chuyến công tác để đảm bảo tính chính xác?",
+      "web_id": "word-b9315556d9585ef4-p760",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 765,
+      "source_title": "Câu 17 : Khi đoàn công tác trở về, thư ký văn phòng cần làm gì để đảm bảo tính chính xác trong việc thanh toán và báo cáo?",
+      "web_id": "word-b9315556d9585ef4-p765",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 770,
+      "source_title": "Câu 18 : Trong thời gian lãnh đạo đi công tác, thư ký nhận được thông báo về một vấn đề quan trọng. Thư ký sẽ làm gì?",
+      "web_id": "word-b9315556d9585ef4-p770",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 775,
+      "source_title": "Câu 19: Lãnh đạo đã trở về từ chuyến công tác và yêu cầu thư ký tổng hợp báo cáo. Thư ký sẽ làm gì trước tiên?",
+      "web_id": "word-b9315556d9585ef4-p775",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 780,
+      "source_title": "Câu 20 : Lãnh đạo của thư ký chuẩn bị cho một chuyến công tác quan trọng và yêu cầu thư ký chuẩn bị các tài liệu cần thiết. Thư ký sẽ làm gì đầu tiên?",
+      "web_id": "word-b9315556d9585ef4-p780",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 785,
+      "source_title": "Câu 21: Tại sao thư ký văn phòng cần trao đổi với lãnh đạo để biết công việc thuộc thẩm quyền giải quyết của ai trong thời gian lãnh đạo đi công tác?",
+      "web_id": "word-b9315556d9585ef4-p785",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 790,
+      "source_title": "Câu 22: Thư ký cần đảm bảo rằng lãnh đạo có thể liên lạc với văn phòng trong suốt chuyến công tác. Thư ký sẽ làm gì?",
+      "web_id": "word-b9315556d9585ef4-p790",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 795,
+      "source_title": "Câu 23: Sau khi lãnh đạo trở về, thư ký cần cập nhật lại lịch trình của họ. Thư ký sẽ làm gì?",
+      "web_id": "word-b9315556d9585ef4-p795",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 800,
+      "source_title": "Câu 24 : Lãnh đạo cần di chuyển đến một thành phố khác và yêu cầu thư ký tìm khách sạn gần nơi họ sẽ họp. Thư ký sẽ làm gì để chọn khách sạn phù hợp?",
+      "web_id": "word-b9315556d9585ef4-p800",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 805,
+      "source_title": "Câu 25: Trước khi lãnh đạo đi công tác, thư ký văn phòng cần thực hiện việc gì?",
+      "web_id": "word-b9315556d9585ef4-p805",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 810,
+      "source_title": "Câu 26 :Trong khi lãnh đạo đang đi công tác, thư ký cần cập nhật lịch trình của họ. Thư ký nên làm gì?",
+      "web_id": "word-b9315556d9585ef4-p810",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 815,
+      "source_title": "Câu 27: Trong thời gian lãnh đạo đi công tác, thư ký cần theo dõi kết quả công việc và báo cáo. Công việc quan trọng nhất là gì?",
+      "web_id": "word-b9315556d9585ef4-p815",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 820,
+      "source_title": "Câu 28: Lãnh đạo yêu cầu thư ký chuẩn bị tài liệu cho một cuộc họp quốc tế. Thư ký cần chuẩn bị những gì để đảm bảo tài liệu có thể được hiểu rõ?",
+      "web_id": "word-b9315556d9585ef4-p820",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 825,
+      "source_title": "Câu 29: Tại sao việc chuẩn bị đầy đủ các giấy tờ hành chính là quan trọng trong việc tổ chức chuyến công tác?",
+      "web_id": "word-b9315556d9585ef4-p825",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 830,
+      "source_title": "Câu 30: Tại sao thư ký văn phòng cần báo cáo với thủ trưởng về những vấn đề xảy ra trong thời gian thủ trưởng đi công tác?",
+      "web_id": "word-b9315556d9585ef4-p830",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 836,
+      "source_title": "Câu 1: Giao tiếp hành chính là gì?",
+      "web_id": "word-b9315556d9585ef4-p836",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 841,
+      "source_title": "Câu 2: Tại sao việc lắng nghe chủ động lại quan trọng trong giao tiếp hành chính?",
+      "web_id": "word-b9315556d9585ef4-p841",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 846,
+      "source_title": "Câu 3: Khi nào cần sử dụng kỹ năng giao tiếp phi ngôn ngữ?",
+      "web_id": "word-b9315556d9585ef4-p846",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 851,
+      "source_title": "Câu 4: Vai trò của giao tiếp hành chính trong việc xây dựng mối quan hệ công việc là gì?",
+      "web_id": "word-b9315556d9585ef4-p851",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 856,
+      "source_title": "Câu 5: Kỹ năng nào là quan trọng khi thư ký văn phòng trình bày ý kiến trong cuộc họp để thông điệp được rõ ràng?",
+      "web_id": "word-b9315556d9585ef4-p856",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 861,
+      "source_title": "Câu 6: Khi viết báo cáo công việc, thư ký văn phòng nên chú trọng vào điều gì để báo cáo hiệu quả?",
+      "web_id": "word-b9315556d9585ef4-p861",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 866,
+      "source_title": "Câu 7: Khi thư ký nhận được yêu cầu từ một phòng ban trước và một yêu cầu tương tự từ một đối tác bên ngoài, thư ký nên:",
+      "web_id": "word-b9315556d9585ef4-p866",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 871,
+      "source_title": "Câu 8: Khi tiếp nhận một cuộc gọi từ đối tác, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p871",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 876,
+      "source_title": "Câu 9: Nguyên tắc nào dưới đây là cần thiết khi thư ký giao tiếp bằng email?",
+      "web_id": "word-b9315556d9585ef4-p876",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 881,
+      "source_title": "Câu 10: Để duy trì sự chuyên nghiệp trong giao tiếp hành chính, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p881",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 886,
+      "source_title": "Câu 11: Trong tình huống có nhiều người cùng nói trong một cuộc họp, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p886",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 891,
+      "source_title": "Câu 12: Khi một người nói quá nhanh hoặc không rõ ràng, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p891",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 896,
+      "source_title": "Câu 13: Khi trình bày một báo cáo trong cuộc họp, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p896",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 901,
+      "source_title": "Câu 14: Khi trả lời điện thoại cho sếp, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p901",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 906,
+      "source_title": "Câu 15: Khi gặp một khách hàng khó tính, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p906",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 911,
+      "source_title": "Câu 16: Nguyên tắc giao tiếp hành chính nào sau đây đảm bảo thông tin được truyền đạt rõ ràng và chính xác?",
+      "web_id": "word-b9315556d9585ef4-p911",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 916,
+      "source_title": "Câu 17:Trong giao tiếp hành chính, điều gì giúp thư ký văn phòng duy trì mối quan hệ tốt với đồng nghiệp?",
+      "web_id": "word-b9315556d9585ef4-p916",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 921,
+      "source_title": "Câu 18: Khi giải quyết xung đột trong môi trường làm việc, phương pháp nào là tốt nhất để đạt được kết quả tích cực?",
+      "web_id": "word-b9315556d9585ef4-p921",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 926,
+      "source_title": "Câu 19: Để giải quyết khiếu nại của khách hàng hiệu quả, thư ký văn phòng cần có kỹ năng nào?",
+      "web_id": "word-b9315556d9585ef4-p926",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 931,
+      "source_title": "Câu 20: Nếu có sự mâu thuẫn giữa yêu cầu của sếp và yêu cầu của một khách hàng quan trọng, thư ký nên:",
+      "web_id": "word-b9315556d9585ef4-p931",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 936,
+      "source_title": "Câu 21: Khi gửi tài liệu qua email cho đối tác, thư ký cần phải?",
+      "web_id": "word-b9315556d9585ef4-p936",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 941,
+      "source_title": "Câu 22: Trong một cuộc họp nhóm, nếu có một ý kiến trái ngược với quan điểm của bạn, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p941",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 947,
+      "source_title": "Câu 23: Khi giao tiếp với khách hàng qua điện thoại, điều gì quan trọng nhất để thư ký văn phòng tạo ấn tượng tốt?",
+      "web_id": "word-b9315556d9585ef4-p947",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 952,
+      "source_title": "Câu 24: Khi thư ký nhận được yêu cầu từ một phòng ban và một yêu cầu tương tự từ một đối tác bên ngoài, thư ký nên:",
+      "web_id": "word-b9315556d9585ef4-p952",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 957,
+      "source_title": "Câu 25: Khi tổ chức một cuộc họp với nhiều bên tham gia, thư ký cần:",
+      "web_id": "word-b9315556d9585ef4-p957",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 962,
+      "source_title": "Câu 26: Một thư ký cần phải làm gì để đảm bảo thông tin giao tiếp là chính xác?",
+      "web_id": "word-b9315556d9585ef4-p962",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 967,
+      "source_title": "Câu 27: Khi nhận được một cuộc gọi từ khách hàng, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p967",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 972,
+      "source_title": "Câu 28: Khi tham gia một cuộc họp nhóm, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p972",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 977,
+      "source_title": "Câu 29 : Trong quá trình giao tiếp hành chính, một thư ký văn phòng cần sử dụng ngôn ngữ như thế nào để đảm bảo tính chuyên nghiệp?",
+      "web_id": "word-b9315556d9585ef4-p977",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 982,
+      "source_title": "Câu 30 : Khi một đồng nghiệp đưa ra một vấn đề cần giải quyết, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p982",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 991,
+      "source_title": "Câu 1: Thư ký cần thực hiện những nhiệm vụ gì sau khi giải quyết xong công việc?",
+      "web_id": "word-b9315556d9585ef4-p991",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 993,
+      "source_title": "Câu 2: Để đảm bảo tính chính xác của văn bản, thư ký cần thực hiện các bước nào?",
+      "web_id": "word-b9315556d9585ef4-p993",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 998,
+      "source_title": "Câu 3: Thư ký văn phòng cần phải chú ý đến điều gì khi thực hiện công tác quản lý văn bản?",
+      "web_id": "word-b9315556d9585ef4-p998",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1003,
+      "source_title": "Câu 4:Cách nào sau đây không phải là phương pháp sắp xếp hồ sơ?",
+      "web_id": "word-b9315556d9585ef4-p1003",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1008,
+      "source_title": "Câu 5: Khi thư ký cần sắp xếp hồ sơ theo vấn đề, lợi ích của việc này là gì?",
+      "web_id": "word-b9315556d9585ef4-p1008",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1013,
+      "source_title": "Câu 6: Hoạt động nào sau đây là cần thiết khi thư ký văn phòng lưu trữ hồ sơ?",
+      "web_id": "word-b9315556d9585ef4-p1013",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1018,
+      "source_title": "Câu 7: Khi soạn thảo một thư mời, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p1018",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1023,
+      "source_title": "Câu 8: Khi soạn thảo một thông cáo báo chí, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p1023",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1028,
+      "source_title": "Câu 9: Khi biên tập một bản kế hoạch công việc, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p1028",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1033,
+      "source_title": "Câu 10: Khi soạn thảo một thông báo nội bộ, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p1033",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1038,
+      "source_title": "Câu 11: Khi nhận được phản hồi về một tài liệu đã soạn thảo, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p1038",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1043,
+      "source_title": "Câu 12: Khi tổ chức tài liệu để chuẩn bị cho một cuộc kiểm tra nội bộ, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p1043",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1048,
+      "source_title": "Câu 13: Khi lưu trữ hồ sơ giấy, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p1048",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1053,
+      "source_title": "Câu 14: Khi tạo một hệ thống lưu trữ tài liệu mới, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p1053",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1058,
+      "source_title": "Câu 15: Khi sử dụng hệ thống lưu trữ điện tử, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p1058",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1063,
+      "source_title": "Câu 16: Tại sao thư ký cần phải nắm vững các quy định về soạn thảo văn bản?",
+      "web_id": "word-b9315556d9585ef4-p1063",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1068,
+      "source_title": "Câu 17: Khi biên tập một báo cáo, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p1068",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1073,
+      "source_title": "Câu 18: Khi soạn thảo một bản hợp đồng, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p1073",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1078,
+      "source_title": "Câu 19: Khi nhận tài liệu mới từ một phòng ban khác, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p1078",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1083,
+      "source_title": "Câu 20: Khi soạn thảo một bảng báo cáo hàng tháng, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p1083",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1088,
+      "source_title": "Câu 21: Khi một tài liệu cần được lưu trữ lâu dài, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p1088",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1093,
+      "source_title": "Câu 22:Để biên tập văn bản, thư ký cần nắm vững điều gì để soạn thảo văn bản?",
+      "web_id": "word-b9315556d9585ef4-p1093",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1098,
+      "source_title": "Câu 23:Thư ký văn phòng cần làm gì để quản lý tài liệu theo địa dư?",
+      "web_id": "word-b9315556d9585ef4-p1098",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1103,
+      "source_title": "Câu 24:Đâu là yêu cầu quan trọng trong việc lưu trữ tài liệu?",
+      "web_id": "word-b9315556d9585ef4-p1103",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1108,
+      "source_title": "Câu 25:Khi chỉnh sửa một biên bản cuộc họp, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p1108",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1113,
+      "source_title": "Câu 26: Khi quản lý tài liệu, thư ký cần thực hiện các bước nào để đảm bảo chất lượng?",
+      "web_id": "word-b9315556d9585ef4-p1113",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1118,
+      "source_title": "Câu 27: Khi soạn thảo một kế hoạch dự án, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p1118",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1123,
+      "source_title": "Câu 28 : Thư ký cần thực hiện những nhiệm vụ gì sau khi giải quyết xong công việc?",
+      "web_id": "word-b9315556d9585ef4-p1123",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1129,
+      "source_title": "Câu 29: Để đảm bảo tính chính xác của văn bản, thư ký cần thực hiện các bước nào?",
+      "web_id": "word-b9315556d9585ef4-p1129",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1134,
+      "source_title": "Câu 30 : Các phương pháp nào giúp thư ký hiệu quả trong việc quản lý tài liệu?",
+      "web_id": "word-b9315556d9585ef4-p1134",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1139,
+      "source_title": "Câu 31 : Hoạt động nào nào sau đây là cần thiết khi thư ký văn phòng lưu trữ hồ sơ?",
+      "web_id": "word-b9315556d9585ef4-p1139",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1144,
+      "source_title": "Câu 32: Khi biên tập một bản kế hoạch công việc, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p1144",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1149,
+      "source_title": "Câu 33: Khi biên tập một báo cáo, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p1149",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1154,
+      "source_title": "Câu 34 : Khi chỉnh sửa một tài liệu để xuất bản, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p1154",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1159,
+      "source_title": "Câu 35 : Khi cần tìm một tài liệu cũ đã lưu trữ, thư ký nên?",
+      "web_id": "word-b9315556d9585ef4-p1159",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1167,
+      "source_title": "Câu 1: Người thư ký văn phòng có vai trò gì trong giao tiếp hành chính với lãnh đạo?",
+      "web_id": "word-b9315556d9585ef4-p1167",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1172,
+      "source_title": "Câu 2: Làm thế nào thư ký có thể giúp lãnh đạo tập trung vào các công việc ưu tiên cao hơn?",
+      "web_id": "word-b9315556d9585ef4-p1172",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1177,
+      "source_title": "Câu 3: Khi nào sự bảo mật trong giao tiếp hành chính trở nên cần thiết?",
+      "web_id": "word-b9315556d9585ef4-p1177",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1182,
+      "source_title": "Câu 4: Đâu là ví dụ của giao tiếp trực tiếp trong công việc giữa thư ký và lãnh đạo?",
+      "web_id": "word-b9315556d9585ef4-p1182",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1187,
+      "source_title": "Câu 5: Tại sao việc sử dụng công cụ kỹ thuật số lại có lợi trong giao tiếp hành chính?",
+      "web_id": "word-b9315556d9585ef4-p1187",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1192,
+      "source_title": "Câu 6: Làm thế nào để thư ký và lãnh đạo có thể duy trì giao tiếp hiệu quả qua văn bản?",
+      "web_id": "word-b9315556d9585ef4-p1192",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1197,
+      "source_title": "Câu 7: Lãnh đạo yêu cầu hoàn thành một nhiệm vụ không thuộc chuyên môn của thư ký. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1197",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1202,
+      "source_title": "Câu 8: Lãnh đạo yêu cầu thư ký thực hiện một nhiệm vụ mà thư ký không đồng tình. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1202",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1207,
+      "source_title": "Câu 9: Thư ký nhận được một email từ lãnh đạo yêu cầu hoàn thành công việc vào ngày nghỉ. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1207",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1212,
+      "source_title": "Câu 10: Lãnh đạo yêu cầu thư ký đưa ra ý kiến về một vấn đề quan trọng trong cuộc họp. Thư ký không chắc chắn về câu trả lời. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1212",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1217,
+      "source_title": "Câu 11: Thư ký nhận được yêu cầu sắp xếp một cuộc họp vào thời điểm mà thư ký thấy không hợp lý. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1217",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1222,
+      "source_title": "Câu 12: Lãnh đạo yêu cầu thư ký thực hiện một nhiệm vụ vượt quá khả năng của thư ký trong thời gian rất ngắn. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1222",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1227,
+      "source_title": "Câu 13: Lãnh đạo yêu cầu thư ký thực hiện một công việc mà thư ký không có đủ kinh nghiệm để làm. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1227",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1232,
+      "source_title": "Câu 14: Thư ký nghe được tin đồn trong công ty rằng lãnh đạo của thư ký đã đưa ra một quyết định không hợp lý. Là thư ký, thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1232",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1237,
+      "source_title": "Câu 15: Thư ký phát hiện ra một lỗi nhỏ trong một bài phát biểu quan trọng mà lãnh đạo sắp trình bày. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1237",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1242,
+      "source_title": "Câu 16: Tại sao việc tôn trọng lãnh đạo là nguyên tắc quan trọng trong giao tiếp hành chính?",
+      "web_id": "word-b9315556d9585ef4-p1242",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1247,
+      "source_title": "Câu 17: Thư ký nhận thấy rằng lãnh đạo của mình có thông tin sai lệch trong một báo cáo mà ông/bà ấy đã phê duyệt. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1247",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1252,
+      "source_title": "Câu 18: Thư ký nhận thấy một chỉ thị từ lãnh đạo có thể gây hại đến công ty. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1252",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1257,
+      "source_title": "Câu 19: Lãnh đạo yêu cầu thư ký chuẩn bị tài liệu cho một cuộc họp mà thư ký cảm thấy thông tin không đủ chính xác. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1257",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1262,
+      "source_title": "Câu 20: Trong một cuộc họp, lãnh đạo của thư ký bị chỉ trích gay gắt về một quyết định kinh doanh. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1262",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1267,
+      "source_title": "Câu 21:Tại sao sự tin cậy lại quan trọng trong giao tiếp hành chính giữa thư ký và lãnh đạo?",
+      "web_id": "word-b9315556d9585ef4-p1267",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1272,
+      "source_title": "Câu 22: Thư ký cần làm gì khi nhận thông tin quan trọng từ lãnh đạo?",
+      "web_id": "word-b9315556d9585ef4-p1272",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1277,
+      "source_title": "Câu 23: Lãnh đạo yêu cầu thư ký tổ chức một cuộc họp gấp vào buổi chiều, nhưng thư ký đã có lịch hẹn khác. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1277",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1282,
+      "source_title": "Câu 24: Lãnh đạo của thư ký đưa ra quyết định sử dụng một phần mềm mới mà thư ký cảm thấy không hiệu quả. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1282",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1287,
+      "source_title": "Câu 25: Một trong các kênh giao tiếp hành chính giữa thư ký và lãnh đạo là gì?",
+      "web_id": "word-b9315556d9585ef4-p1287",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1292,
+      "source_title": "Câu 26: Khi thư ký cần truyền đạt thông điệp của lãnh đạo, điều gì là quan trọng nhất?",
+      "web_id": "word-b9315556d9585ef4-p1292",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1297,
+      "source_title": "Câu 27: Kênh giao tiếp nào giúp thư ký và lãnh đạo tối ưu hóa quản lý thời gian và công việc?",
+      "web_id": "word-b9315556d9585ef4-p1297",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1302,
+      "source_title": "Câu 28: Thư ký được yêu cầu sắp xếp một cuộc họp vào thời điểm mà thư ký thấy không hợp lý. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1302",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1307,
+      "source_title": "Câu 29: Lãnh đạo yêu cầu thư ký tổ chức một cuộc họp gấp vào buổi chiều, nhưng thư ký đã có lịch hẹn khác. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1307",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1313,
+      "source_title": "Câu 30: Lãnh đạo yêu cầu thư ký làm thêm giờ để hoàn thành một dự án quan trọng. Thư ký đã có kế hoạch cá nhân vào buổi tối đó. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1313",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1318,
+      "source_title": "Câu 31 : Thư ký nhận được phản hồi tiêu cực từ một nhân viên về một chính sách mới mà lãnh đạo đưa ra. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1318",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1323,
+      "source_title": "Câu 32: Lãnh đạo yêu cầu thư ký gửi một tài liệu với thông tin chưa được kiểm tra kỹ càng đến đối tác. Thư ký biết thông tin này có thể ảnh hưởng đến uy tín của lãnh đạo nếu có sai sót. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1323",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1331,
+      "source_title": "Câu 1: Nguyên tắc nào không phải là nguyên tắc trong giao tiếp hành chính giữa thư ký và đồng nghiệp?",
+      "web_id": "word-b9315556d9585ef4-p1331",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1336,
+      "source_title": "Câu 2: Làm thế nào để một thư ký văn phòng tạo sự kết nối giữa các bộ phận trong tổ chức?",
+      "web_id": "word-b9315556d9585ef4-p1336",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1341,
+      "source_title": "Câu 3: Khi đối mặt với xung đột trong công việc với đồng nghiệp, thư ký văn phòng nên làm gì?",
+      "web_id": "word-b9315556d9585ef4-p1341",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1346,
+      "source_title": "Câu 4: Nguyên tắc nào là cơ sở để xây dựng mối quan hệ giao tiếp hành chính bền vững với đồng nghiệp?",
+      "web_id": "word-b9315556d9585ef4-p1346",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1351,
+      "source_title": "Câu 5: Điều gì có thể gây khó khăn trong việc phối hợp giữa các đồng nghiệp?",
+      "web_id": "word-b9315556d9585ef4-p1351",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1356,
+      "source_title": "Câu 6: Thư ký văn phòng cần làm gì khi có sự khác biệt trong quan điểm giữa hai đồng nghiệp?",
+      "web_id": "word-b9315556d9585ef4-p1356",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1361,
+      "source_title": "Câu 7: Một đồng nghiệp mới đến và chưa quen với quy trình làm việc. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1361",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1366,
+      "source_title": "Câu 8: Một dự án quan trọng đòi hỏi sự hợp tác chặt chẽ giữa các bộ phận, bao gồm cả thư ký văn phòng. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1366",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1371,
+      "source_title": "Câu 9: Một đồng nghiệp cần hỗ trợ về kỹ thuật máy tính mà thư ký có thể giúp. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1371",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1376,
+      "source_title": "Câu 10: Thư ký và đồng nghiệp đang chuẩn bị cho một sự kiện lớn. Đột nhiên, đồng nghiệp của thư ký bị ốm và không thể hoàn thành phần việc của mình. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1376",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1381,
+      "source_title": "Câu 11: Một đồng nghiệp gặp khó khăn trong việc sắp xếp lịch họp và đề nghị thư ký giúp đỡ. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1381",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1386,
+      "source_title": "Câu 12: Thư ký được yêu cầu tham gia vào một dự án mà thư ký thấy quá tải. Thư ký biết rằng một đồng nghiệp có khả năng hỗ trợ. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1386",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1391,
+      "source_title": "Câu 13: Trong nhóm có một dự án cần phối hợp chặt chẽ, nhưng thư ký nhận thấy một đồng nghiệp không đóng góp nhiều. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1391",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1396,
+      "source_title": "Câu 14: Thư ký phát hiện rằng một đồng nghiệp đã làm sai một phần công việc trong dự án chung, nhưng dự án đã gần hoàn thành. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1396",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1401,
+      "source_title": "Câu 15: Thư ký được giao nhiệm vụ làm việc nhóm với một đồng nghiệp mà thư ký không hòa hợp. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1401",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1406,
+      "source_title": "Câu 16: Tại sao sự hiểu biết lẫn nhau là quan trọng trong mối quan hệ giữa thư ký và đồng nghiệp?",
+      "web_id": "word-b9315556d9585ef4-p1406",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1411,
+      "source_title": "Câu 17: Khi thư ký văn phòng giúp đỡ đồng nghiệp, họ nên lưu ý điều gì?",
+      "web_id": "word-b9315556d9585ef4-p1411",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1416,
+      "source_title": "Câu 18: Thư ký nhận thấy một đồng nghiệp đang gặp khó khăn trong việc quản lý thời gian. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1416",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1421,
+      "source_title": "Câu 19: Một đồng nghiệp đề nghị thư ký giúp họ hoàn thành một báo cáo gấp. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1421",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1426,
+      "source_title": "Câu 20: Một đồng nghiệp đã hoàn thành một dự án xuất sắc và thư ký thấy rằng công sức của họ xứng đáng được công nhận. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1426",
+      "type": "single_choice"
+    },
+    {
+      "body_index": 1431,
+      "source_title": "Câu 21: Thư ký nhận thấy một đồng nghiệp đang gặp khó khăn trong việc đạt được mục tiêu của họ. Thư ký sẽ?",
+      "web_id": "word-b9315556d9585ef4-p1431",
+      "type": "single_choice"
+    }
+  ],
+  "errors": []
+}

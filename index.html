@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="vi" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover">
+  <title>Nghiệp Vụ Thư Ký Văn Phòng - Trắc Nghiệm Ôn Tập</title>
+  <meta name="description" content="Ôn luyện Nghiệp vụ thư ký văn phòng: 276 câu hỏi trắc nghiệm và đáp án theo tài liệu Word mới.">
+  <meta name="quiz-bank-version" content="word-b9315556d9585ef4">
+  <meta name="theme-color" content="#4f46e5" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0b0f19" media="(prefers-color-scheme: dark)">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <link rel="stylesheet" href="style.css?v=word-b9315556d9585ef4">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚡</text></svg>">
+</head>
+<body>
+  <!-- Canvas for Confetti effects -->
+  <canvas id="confetti-canvas"></canvas>
+
+  <!-- Background Glow -->
+  <div class="bg-decor"></div>
+
+  <!-- Header -->
+  <header class="app-header">
+    <div class="header-container">
+      <div class="header-top-row">
+        <div class="brand-section">
+          <div class="brand-logo">⚡</div>
+          <div class="brand-info">
+            <h1>
+              Nghiệp Vụ Thư Ký VP <span style="color:var(--primary);">Quizizz</span>
+              <span class="brand-badge" id="brand-total-badge" title="276 bài tập từ tài liệu Word mới">276 bài tập</span>
+            </h1>
+            <p class="brand-subtitle">Chọn đáp án là biết ngay Đúng / Sai • Đáp án theo tài liệu mới</p>
+          </div>
+        </div>
+
+        <!-- Gamified Header Stats -->
+        <div class="header-gamify">
+          <div class="stat-pill score-pill" title="Tổng điểm hiện tại">
+            <span>🏆</span>
+            <span id="score-counter">0</span>
+          </div>
+          <div class="stat-pill streak-pill" id="streak-pill" title="Chuỗi trả lời đúng liên tiếp">
+            <span>🔥</span>
+            <span id="streak-counter">0</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Action Buttons -->
+      <div class="header-actions">
+        <div class="header-actions-group">
+          <!-- Leaderboard Button -->
+          <button class="icon-btn" id="leaderboard-toggle-btn" title="Bảng xếp hạng điểm số (Top cao thủ)">
+            <span>🏆</span>
+          </button>
+
+          <!-- History Button -->
+          <button class="icon-btn" id="history-toggle-btn" title="Xem lịch sử làm bài">
+            <span>🕒</span>
+          </button>
+
+          <!-- Reload Quiz In-Place Button -->
+          <button class="icon-btn" id="reload-page-btn" title="Làm mới bài tập hiện tại (Tải lại tại chỗ)">
+            <span>🔄</span>
+          </button>
+
+          <!-- Sound Toggle -->
+          <button class="icon-btn" id="sound-toggle" title="Bật / Tắt âm thanh">
+            <span id="sound-icon">🔊</span>
+          </button>
+
+          <!-- Dark / Light Theme Toggle -->
+          <button class="icon-btn" id="theme-toggle" title="Chuyển chế độ Sáng / Tối">
+            <span id="theme-icon">🌙</span>
+          </button>
+        </div>
+
+        <!-- Question Drawer Navigator Button -->
+        <button class="mode-switch-btn" id="drawer-toggle-btn" title="Mở danh sách câu hỏi">
+          <span>📑</span>
+          <span id="header-progress-label">Câu 1 / 276</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Live Progress Bar -->
+  <div class="progress-strip-wrapper">
+    <div class="progress-strip-container">
+      <div class="progress-info-row">
+        <span class="progress-label">Tiến trình làm bài:</span>
+        <span class="progress-text" id="progress-text">0 / 276 (0%)</span>
+      </div>
+      <div class="progress-bar-bg">
+        <div class="progress-bar-fill" id="progress-bar-fill"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Main Container -->
+  <main class="app-container">
+    <!-- Toolbar: Lesson Tabs & Filters -->
+    <div class="control-toolbar">
+      <!-- Lesson Tabs -->
+      <div class="lesson-tabs" id="lesson-tabs">
+        <button class="tab-btn active" data-lesson="all">
+          Tất cả <span class="tab-count" id="count-all">276</span>
+        </button>
+        <button class="tab-btn" data-lesson="1">
+          Bài 1 <span class="tab-count" id="count-b1">31</span>
+        </button>
+        <button class="tab-btn" data-lesson="2">
+          Bài 2 <span class="tab-count" id="count-b2">34</span>
+        </button>
+        <button class="tab-btn" data-lesson="3">
+          Bài 3 <span class="tab-count" id="count-b3">30</span>
+        </button>
+        <button class="tab-btn" data-lesson="4">
+          Bài 4 <span class="tab-count" id="count-b4">33</span>
+        </button>
+        <button class="tab-btn" data-lesson="5">
+          Bài 5 <span class="tab-count" id="count-b5">30</span>
+        </button>
+        <button class="tab-btn" data-lesson="6">
+          Bài 6 <span class="tab-count" id="count-b6">30</span>
+        </button>
+        <button class="tab-btn" data-lesson="7">
+          Bài 7 <span class="tab-count" id="count-b7">35</span>
+        </button>
+        <button class="tab-btn" data-lesson="8">
+          Bài 8 <span class="tab-count" id="count-b8">32</span>
+        </button>
+        <button class="tab-btn" data-lesson="9">
+          Bài 9 <span class="tab-count" id="count-b9">21</span>
+        </button>
+      </div>
+
+      <!-- Filter Sub Row -->
+      <div class="toolbar-sub-row">
+        <div class="toolbar-filters">
+          <!-- Type Filter -->
+          <select class="custom-select" id="type-filter" title="Lọc theo dạng câu hỏi">
+            <option value="all">🔍 Tất cả dạng câu hỏi</option>
+            <option value="single_choice">🔘 Trắc nghiệm 1 đáp án</option>
+            <option value="multiple_choice">☑️ Trắc nghiệm nhiều đáp án</option>
+            <option value="true_false">⚖️ Đúng / Sai theo mệnh đề</option>
+            <option value="drag_drop">🧩 Kéo thả & Ghép cột</option>
+          </select>
+        </div>
+
+        <div class="toolbar-toggles">
+          <!-- Auto-advance Toggle -->
+          <label class="toggle-label" title="Tự động chuyển sang câu tiếp theo sau khi chọn đáp án">
+            <div class="toggle-switch">
+              <input type="checkbox" id="autoadvance-toggle" checked>
+              <span class="slider"></span>
+            </div>
+            <span>Tự chuyển câu</span>
+          </label>
+
+          <!-- Shuffle Toggle -->
+          <label class="toggle-label" title="Xáo trộn câu hỏi và các đáp án A B C D">
+            <div class="toggle-switch">
+              <input type="checkbox" id="shuffle-toggle">
+              <span class="slider"></span>
+            </div>
+            <span>Xáo trộn (Shuffle)</span>
+          </label>
+        </div>
+      </div>
+    </div>
+
+    <!-- Quizizz Question Arena -->
+    <div class="quizizz-arena" id="quizizz-arena">
+      <!-- Single Question Hero Card rendered dynamically -->
+      <div class="quiz-card-hero" id="question-hero-card">
+        <!-- Filled by script.js -->
+      </div>
+
+      <!-- Instant Feedback Banner -->
+      <div class="feedback-banner" id="feedback-banner">
+        <div class="feedback-content">
+          <div class="feedback-icon" id="feedback-icon">🎉</div>
+          <div>
+            <div class="feedback-title" id="feedback-title">Chính Xác!</div>
+            <div class="feedback-sub" id="feedback-sub">Bạn được cộng 100 điểm.</div>
+          </div>
+        </div>
+        <button class="btn-next-question" id="btn-next-question">
+          <span>Câu tiếp theo</span>
+          <span>➜</span>
+        </button>
+      </div>
+
+      <!-- Arena Navigation Controls -->
+      <div class="arena-nav-bar">
+        <button class="btn-arena-nav" id="btn-prev-q">
+          <span>⬅</span>
+          <span>Câu trước</span>
+        </button>
+        <button class="btn-arena-nav" id="btn-open-nav-drawer">
+          <span>📑</span>
+          <span id="arena-counter-text">Câu 1 / 276</span>
+        </button>
+        <button class="btn-arena-nav" id="btn-next-q">
+          <span>Câu sau</span>
+          <span>➜</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Summary / Completion Screen (hidden by default) -->
+    <div class="summary-screen" id="summary-screen" style="display: none;">
+      <div class="summary-trophy">🏆</div>
+      <h2 class="summary-title" id="summary-title">Hoàn Thành Bài Luyện Tập!</h2>
+      <p style="color:var(--text-secondary);" id="summary-desc">Bạn đã hoàn thành toàn bộ các câu hỏi.</p>
+
+      <div class="summary-stats-grid">
+        <div class="summary-stat-box primary">
+          <div class="num" id="final-score">0</div>
+          <div class="lbl">Tổng điểm</div>
+        </div>
+        <div class="summary-stat-box green">
+          <div class="num" id="final-correct">0</div>
+          <div class="lbl">Số câu đúng</div>
+        </div>
+        <div class="summary-stat-box red">
+          <div class="num" id="final-wrong">0</div>
+          <div class="lbl">Số câu sai</div>
+        </div>
+      </div>
+
+      <!-- Summary Rank Callout Banner -->
+      <div class="summary-rank-callout" id="summary-rank-callout" style="display: none;"></div>
+
+      <div class="summary-actions">
+        <button class="btn-restart" id="btn-restart-quiz">
+          🔄 Luyện tập lại từ đầu
+        </button>
+        <button class="btn-review-mistakes" id="btn-review-mistakes">
+          👁️ Ôn lại các câu làm sai
+        </button>
+        <button class="btn-view-history" id="btn-open-history-summary">
+          <span>🕒</span> <span>Lịch sử làm bài</span>
+        </button>
+        <button class="btn-view-leaderboard" id="btn-open-leaderboard-summary">
+          <span>🏆</span> <span>Bảng xếp hạng</span>
+        </button>
+      </div>
+
+      <!-- Detailed Review of Incorrect Questions -->
+      <div class="wrong-review-section" id="wrong-review-section" style="display: none;">
+        <div class="wrong-review-header">
+          <div class="wrong-review-title-group">
+            <span class="wrong-review-icon">📋</span>
+            <div>
+              <h3 class="wrong-review-title">Đáp Án Chi Tiết Các Câu Làm Sai</h3>
+              <p class="wrong-review-subtitle" id="wrong-review-subtitle">Đối chiếu lựa chọn của bạn với đáp án chuẩn bôi đỏ</p>
+            </div>
+          </div>
+          <span class="wrong-review-badge" id="wrong-review-badge">0 câu sai</span>
+        </div>
+        <div class="wrong-review-list" id="wrong-review-list">
+          <!-- Filled dynamically by script.js -->
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- Question Navigator Drawer -->
+  <div class="drawer-overlay" id="drawer-overlay"></div>
+  <aside class="drawer-panel" id="drawer-panel">
+    <div class="drawer-header">
+      <h2 class="drawer-title">Bảng Câu Hỏi</h2>
+      <button class="drawer-close-btn" id="drawer-close-btn">✕</button>
+    </div>
+
+    <div class="drawer-legend">
+      <span><i class="dot unanswered"></i> Chưa làm</span>
+      <span><i class="dot correct"></i> Đúng</span>
+      <span><i class="dot incorrect"></i> Sai</span>
+    </div>
+
+    <div class="drawer-grid-box">
+      <div class="drawer-grid" id="drawer-grid">
+        <!-- Rendered dynamically -->
+      </div>
+    </div>
+  </aside>
+
+  <!-- History Modal Overlay -->
+  <div class="modal-overlay" id="history-modal-overlay">
+    <div class="history-modal" id="history-modal">
+      <div class="modal-header">
+        <div class="modal-title-group">
+          <span class="modal-icon">📊</span>
+          <div>
+            <h2 class="modal-title">Lịch Sử Làm Bài</h2>
+            <p class="modal-subtitle">Theo dõi điểm số và sự tiến bộ qua các lần luyện tập</p>
+          </div>
+        </div>
+        <button class="modal-close-btn" id="history-modal-close" title="Đóng">✕</button>
+      </div>
+
+      <!-- History Statistics Overview -->
+      <div class="history-summary-stats" id="history-summary-stats">
+        <!-- Rendered dynamically -->
+      </div>
+
+      <!-- Scrollable History List -->
+      <div class="history-content-scroll">
+        <div class="history-list" id="history-list">
+          <!-- Rendered dynamically -->
+        </div>
+      </div>
+
+      <!-- Modal Footer -->
+      <div class="modal-footer">
+        <button class="btn-clear-history" id="btn-clear-history">
+          🗑️ Xóa toàn bộ lịch sử
+        </button>
+        <button class="btn-close-modal" id="btn-close-history-modal">
+          Đóng
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Leaderboard Modal Overlay -->
+  <div class="modal-overlay" id="leaderboard-modal-overlay">
+    <div class="leaderboard-modal" id="leaderboard-modal">
+      <div class="modal-header">
+        <div class="modal-title-group">
+          <span class="modal-icon">🏆</span>
+          <div>
+            <h2 class="modal-title">Bảng Xếp Hạng Điểm Số</h2>
+            <p class="modal-subtitle">Vinh danh thành tích cao nhất của các học viên</p>
+          </div>
+        </div>
+        <button class="modal-close-btn" id="leaderboard-modal-close" title="Đóng">✕</button>
+      </div>
+
+      <!-- Player Profile & Scope Filter Strip -->
+      <div class="player-profile-strip">
+        <div class="profile-input-group">
+          <span class="profile-label">👤 Tên của bạn:</span>
+          <input type="text" id="player-name-input" class="player-name-input" maxlength="25" placeholder="Nhập tên của bạn...">
+          <button id="btn-save-player-name" class="btn-save-name">Lưu tên</button>
+        </div>
+        <div class="leaderboard-scope-tabs" id="leaderboard-scope-tabs">
+          <button class="scope-tab active" data-scope="all">Tất cả bài</button>
+          <button class="scope-tab" data-scope="1">Bài 1</button>
+          <button class="scope-tab" data-scope="2">Bài 2</button>
+          <button class="scope-tab" data-scope="3">Bài 3</button>
+          <button class="scope-tab" data-scope="4">Bài 4</button>
+          <button class="scope-tab" data-scope="5">Bài 5</button>
+          <button class="scope-tab" data-scope="6">Bài 6</button>
+          <button class="scope-tab" data-scope="7">Bài 7</button>
+          <button class="scope-tab" data-scope="8">Bài 8</button>
+          <button class="scope-tab" data-scope="9">Bài 9</button>
+        </div>
+      </div>
+
+      <!-- Scrollable Leaderboard Area -->
+      <div class="leaderboard-content-scroll">
+        <!-- Top 3 Podium Cards -->
+        <div class="podium-container" id="leaderboard-podium">
+          <!-- Rendered dynamically -->
+        </div>
+
+        <!-- Ranked Table (Rank 4+) -->
+        <div class="ranking-table-wrapper" id="ranking-table-wrapper">
+          <table class="ranking-table" id="ranking-table">
+            <thead>
+              <tr>
+                <th style="width: 60px; text-align: center;">Hạng</th>
+                <th>Người chơi</th>
+                <th style="text-align: center;">Phạm vi</th>
+                <th style="text-align: right;">Điểm số</th>
+                <th style="text-align: center;">Độ chính xác</th>
+                <th style="text-align: center;">Chuỗi đúng</th>
+                <th style="text-align: right;">Thời gian</th>
+              </tr>
+            </thead>
+            <tbody id="ranking-table-body">
+              <!-- Rendered dynamically -->
+            </tbody>
+          </table>
+        </div>
+
+        <!-- Empty state container if no records -->
+        <div id="leaderboard-empty-state" style="display:none;"></div>
+      </div>
+
+      <!-- Modal Footer -->
+      <div class="modal-footer">
+        <button class="btn-clear-history" id="btn-reset-leaderboard">
+          🗑️ Xóa toàn bộ BXH
+        </button>
+        <button class="btn-close-modal" id="btn-close-leaderboard-modal">
+          Đóng
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Data file loaded first for local file:// compatibility -->
+  <script src="questions-data.js?v=word-b9315556d9585ef4"></script>
+  <!-- Application Logic -->
+  <script src="script.js?v=word-b9315556d9585ef4"></script>
+</body>
+</html>

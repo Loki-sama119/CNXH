@@ -1,0 +1,13 @@
+{
+  "name": "nghiep-vu-thu-ky-van-phong",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/*.test.cjs",
+    "validate": "python verify_questions.py",
+    "build:questions": "python import_questions.py"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}

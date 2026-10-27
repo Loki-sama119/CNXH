@@ -1,0 +1,20 @@
+{
+  "bank_version": "word-b9315556d9585ef4",
+  "data_version": "word-b9315556d9585ef4",
+  "source_sha256": "b9315556d9585ef41efc442b6820eb0a9813462697e842dd80d4599a11beef67",
+  "total_questions": 276,
+  "lesson_counts": {
+    "1": 31,
+    "2": 34,
+    "3": 30,
+    "4": 33,
+    "5": 30,
+    "6": 30,
+    "7": 35,
+    "8": 32,
+    "9": 21
+  },
+  "types": {
+    "single_choice": 276
+  }
+}
